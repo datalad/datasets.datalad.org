@@ -1,0 +1,3 @@
+[submodule "openfmri"]
+	path = openfmri
+	url = ./openfmri
