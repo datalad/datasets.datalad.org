@@ -1,3 +1,9 @@
 [submodule "openfmri"]
 	path = openfmri
 	url = ./openfmri
+[submodule "neurovault"]
+	path = neurovault
+	url = ./neurovault
+[submodule "crcns"]
+	path = crcns
+	url = ./crcns
