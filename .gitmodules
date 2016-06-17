@@ -7,3 +7,6 @@
 [submodule "crcns"]
 	path = crcns
 	url = ./crcns
+[submodule "labs"]
+	path = labs
+	url = ./labs
