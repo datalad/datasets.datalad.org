@@ -16,3 +16,6 @@
 [submodule "kaggle"]
 	path = kaggle
 	url = ./kaggle
+[submodule "nidm"]
+	path = nidm
+	url = ./nidm
