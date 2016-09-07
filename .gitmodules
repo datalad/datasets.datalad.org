@@ -13,3 +13,6 @@
 [submodule "indi"]
 	path = indi
 	url = ./indi
+[submodule "kaggle"]
+	path = kaggle
+	url = ./kaggle
