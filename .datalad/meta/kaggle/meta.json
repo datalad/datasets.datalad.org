@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@id": "f3fab990-7474-11e6-938a-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:hasPart": {
+      "@id": "08811364-7475-11e6-9b35-002590f97d84",
+      "location": "melbourne-university-seizure-prediction",
+      "type": "Dataset"
+    },
+    "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
+    "dcterms:modified": "2016-09-14T23:30:14-04:00",
+    "type": "Dataset",
+    "version": "d41e6435203e3de24ffa4ed2875745fcf8b87a72"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "08811364-7475-11e6-9b35-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "5a0ad013-4dce-41ed-81de-142e4ef6cc52",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "6998fb4e-cc34-4a65-ad19-dd1dfdab79af",
+        "description": "yoh@smaug:/mnt/datasets/datalad/crawl/kaggle/melbourne-university-seizure-prediction"
+      },
+      {
+        "@id": "a22879a1-fc30-4e42-aaf3-2ad639fbdd25",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "ea51c6c3-2faa-42a7-b34a-f42dc70d9bc1",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/kaggle/melbourne-university-seizure-prediction [datalad-public]"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "f3fab990-7474-11e6-938a-002590f97d84",
+    "dcterms:modified": "2016-09-07T08:24:48-04:00",
+    "type": "Dataset",
+    "version": "68aa8d2053d2129cdef5d88c37f4c3b25311e34a"
+  }
+]

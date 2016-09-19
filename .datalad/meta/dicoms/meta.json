@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@id": "5500090e-7aea-11e6-b268-002590f97d84",
+    "availableFrom": {
+      "@id": "29cf2d5d-4f64-42f1-bcf0-77dab37a7a07",
+      "description": "yoh@smaug:/mnt/datasets/datalad/datasets.datalad.org/dicoms"
+    },
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:hasPart": [
+      {
+        "@id": "85c4465e-7aea-11e6-a5d5-002590f97d84",
+        "location": "dartmouth-phantoms",
+        "type": "Dataset"
+      },
+      {
+        "@id": "9183b182-7aea-11e6-8706-002590f97d84",
+        "location": "rosetta",
+        "type": "Dataset"
+      }
+    ],
+    "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
+    "dcterms:modified": "2016-09-14T22:17:46-04:00",
+    "type": "Dataset",
+    "version": "150ede8bb07764eb13641a71f1f268503425bf3a"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "85c4465e-7aea-11e6-a5d5-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "5500090e-7aea-11e6-b268-002590f97d84",
+    "dcterms:modified": "2016-09-14T22:17:16-04:00",
+    "type": "Dataset",
+    "version": "3b1b9630d92c227a0933a2a05e8ff60186d79ffc"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "9183b182-7aea-11e6-8706-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "f2b42741-720e-4192-b1db-da941ea5dfd4",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "f898e958-3518-496f-8e66-8e3d094df6b2",
+        "description": "yoh@smaug:~/deb/perspect/rosetta"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "5500090e-7aea-11e6-b268-002590f97d84",
+    "dcterms:modified": "2016-09-14T22:17:38-04:00",
+    "type": "Dataset",
+    "version": "f24908fd2901572b3867e803ec16f8746d6a7b97"
+  }
+]

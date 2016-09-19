@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@id": "bdd69cf4-7af4-11e6-b580-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:hasPart": {
+      "@id": "bde4c95a-7af4-11e6-b580-002590f97d84",
+      "location": "snapshots",
+      "type": "Dataset"
+    },
+    "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
+    "dcterms:modified": "2016-09-14T23:31:02-04:00",
+    "type": "Dataset",
+    "version": "898a65c681784087dce97743dbf26209c3da8ba3"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "bde4c95a-7af4-11e6-b580-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "123c73e5-a8dc-4cff-8ffc-679c7ea67f94",
+        "description": "yoh@smaug:/mnt/datasets/datalad/crawl/neurovault"
+      },
+      {
+        "@id": "48c1556f-6241-45de-9497-338d437fcb62",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/neurovault/snapshots [datalad-public]"
+      },
+      {
+        "@id": "af2785da-2538-4346-a6f6-f2f30fc3f025",
+        "description": "[datalad-archives]"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "bdd69cf4-7af4-11e6-b580-002590f97d84",
+    "dcterms:modified": "2016-09-14T23:30:48-04:00",
+    "type": "Dataset",
+    "version": "c868e620e6159a446f4e97cf0a3f7c924d4649e8"
+  }
+]

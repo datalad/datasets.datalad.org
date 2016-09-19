@@ -1,0 +1,1687 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@id": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "4442e40e-20a7-446a-a10d-42b0d5b96820",
+        "description": "datalad-public"
+      },
+      {
+        "@id": "691d5059-360d-4dfb-a384-f0a2fa24851e",
+        "description": "yoh@smaug:/mnt/datasets/datalad/crawl/crcns"
+      },
+      {
+        "@id": "ef75d346-6ca6-45c0-abf6-208069ed390b",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:hasPart": [
+      {
+        "@id": "90b052f0-7ae6-11e6-a6c8-002590f97d84",
+        "location": "ret-1",
+        "type": "Dataset"
+      },
+      {
+        "@id": "7f36ee44-7ae6-11e6-a6c8-002590f97d84",
+        "location": "cai-2",
+        "type": "Dataset"
+      },
+      {
+        "@id": "7ea1e0b0-7ae6-11e6-a6c8-002590f97d84",
+        "location": "cai-1",
+        "type": "Dataset"
+      },
+      {
+        "@id": "7e59d0d6-7ae6-11e6-a6c8-002590f97d84",
+        "location": "bst-1",
+        "type": "Dataset"
+      },
+      {
+        "@id": "85ff61d4-7ae6-11e6-a6c8-002590f97d84",
+        "location": "lgn-1",
+        "type": "Dataset"
+      },
+      {
+        "@id": "6065deb0-7a7f-11e6-921b-002590f97d84",
+        "location": "ch-epfl-2009",
+        "type": "Dataset"
+      },
+      {
+        "@id": "907cb62a-7ae6-11e6-a6c8-002590f97d84",
+        "location": "pvc-9",
+        "type": "Dataset"
+      },
+      {
+        "@id": "9014dfdc-7ae6-11e6-a6c8-002590f97d84",
+        "location": "pvc-8",
+        "type": "Dataset"
+      },
+      {
+        "@id": "8fec0d78-7ae6-11e6-a6c8-002590f97d84",
+        "location": "pvc-7",
+        "type": "Dataset"
+      },
+      {
+        "@id": "862c0112-7ae6-11e6-a6c8-002590f97d84",
+        "location": "mt-1",
+        "type": "Dataset"
+      },
+      {
+        "@id": "8f750534-7ae6-11e6-a6c8-002590f97d84",
+        "location": "pvc-5",
+        "type": "Dataset"
+      },
+      {
+        "@id": "8edd84ca-7ae6-11e6-a6c8-002590f97d84",
+        "location": "pvc-4",
+        "type": "Dataset"
+      },
+      {
+        "@id": "8e9e2320-7ae6-11e6-a6c8-002590f97d84",
+        "location": "pvc-3",
+        "type": "Dataset"
+      },
+      {
+        "@id": "8e4b846c-7ae6-11e6-a6c8-002590f97d84",
+        "location": "pvc-2",
+        "type": "Dataset"
+      },
+      {
+        "@id": "88e85018-7ae6-11e6-a6c8-002590f97d84",
+        "location": "pvc-1",
+        "type": "Dataset"
+      },
+      {
+        "@id": "90e8cd42-7ae6-11e6-a6c8-002590f97d84",
+        "location": "sim-1",
+        "type": "Dataset"
+      },
+      {
+        "@id": "88804162-7ae6-11e6-a6c8-002590f97d84",
+        "location": "pfc-4",
+        "type": "Dataset"
+      },
+      {
+        "@id": "87dc9cd8-7ae6-11e6-a6c8-002590f97d84",
+        "location": "pfc-3",
+        "type": "Dataset"
+      },
+      {
+        "@id": "873a6eae-7ae6-11e6-a6c8-002590f97d84",
+        "location": "pfc-2",
+        "type": "Dataset"
+      },
+      {
+        "@id": "86e55342-7ae6-11e6-a6c8-002590f97d84",
+        "location": "pfc-1",
+        "type": "Dataset"
+      },
+      {
+        "@id": "8085c5c2-7ae6-11e6-a6c8-002590f97d84",
+        "location": "hc-1",
+        "type": "Dataset"
+      },
+      {
+        "@id": "80cf6df8-7ae6-11e6-a6c8-002590f97d84",
+        "location": "hc-2",
+        "type": "Dataset"
+      },
+      {
+        "@id": "8127a716-7ae6-11e6-a6c8-002590f97d84",
+        "location": "hc-3",
+        "type": "Dataset"
+      },
+      {
+        "@id": "8333c01c-7ae6-11e6-a6c8-002590f97d84",
+        "location": "hc-4",
+        "type": "Dataset"
+      },
+      {
+        "@id": "83df9ea0-7ae6-11e6-a6c8-002590f97d84",
+        "location": "hc-5",
+        "type": "Dataset"
+      },
+      {
+        "@id": "8461a1c0-7ae6-11e6-a6c8-002590f97d84",
+        "location": "hc-6",
+        "type": "Dataset"
+      },
+      {
+        "@id": "8dc0324a-7ae6-11e6-a6c8-002590f97d84",
+        "location": "pvc-10",
+        "type": "Dataset"
+      },
+      {
+        "@id": "85d8ffbc-7ae6-11e6-a6c8-002590f97d84",
+        "location": "infe-1",
+        "type": "Dataset"
+      },
+      {
+        "@id": "8fa20412-7ae6-11e6-a6c8-002590f97d84",
+        "location": "pvc-6",
+        "type": "Dataset"
+      },
+      {
+        "@id": "dbc7e258-7ae6-11e6-8994-002590f97d84",
+        "location": "zipser-1",
+        "type": "Dataset"
+      },
+      {
+        "@id": "866c51e0-7ae6-11e6-a6c8-002590f97d84",
+        "location": "ofc-1",
+        "type": "Dataset"
+      },
+      {
+        "@id": "869c7c12-7ae6-11e6-a6c8-002590f97d84",
+        "location": "ofc-2",
+        "type": "Dataset"
+      },
+      {
+        "@id": "9304647e-7ae6-11e6-a6c8-002590f97d84",
+        "location": "ssc-3",
+        "type": "Dataset"
+      },
+      {
+        "@id": "91ed10e0-7ae6-11e6-a6c8-002590f97d84",
+        "location": "ssc-2",
+        "type": "Dataset"
+      },
+      {
+        "@id": "91164eac-7ae6-11e6-a6c8-002590f97d84",
+        "location": "ssc-1",
+        "type": "Dataset"
+      },
+      {
+        "@id": "85621564-7ae6-11e6-a6c8-002590f97d84",
+        "location": "ia-1",
+        "type": "Dataset"
+      },
+      {
+        "@id": "7d2173f4-7ae6-11e6-a6c8-002590f97d84",
+        "location": "am-1",
+        "type": "Dataset"
+      },
+      {
+        "@id": "771a3e4c-7ae5-11e6-b936-002590f97d84",
+        "location": "fcx-1",
+        "type": "Dataset"
+      },
+      {
+        "@id": "9396d3e0-7ae6-11e6-a6c8-002590f97d84",
+        "location": "v2-1",
+        "type": "Dataset"
+      },
+      {
+        "@id": "7d87f660-7ae6-11e6-a6c8-002590f97d84",
+        "location": "am-2",
+        "type": "Dataset"
+      },
+      {
+        "@id": "9337143c-7ae6-11e6-a6c8-002590f97d84",
+        "location": "th-1",
+        "type": "Dataset"
+      },
+      {
+        "@id": "7f8f52e6-7ae6-11e6-a6c8-002590f97d84",
+        "location": "dream",
+        "type": "Dataset"
+      },
+      {
+        "@id": "948d3b0e-7ae6-11e6-a6c8-002590f97d84",
+        "location": "vim-2",
+        "type": "Dataset"
+      },
+      {
+        "@id": "95562fd2-7ae6-11e6-a6c8-002590f97d84",
+        "location": "vim-3",
+        "type": "Dataset"
+      },
+      {
+        "@id": "93ed7c22-7ae6-11e6-a6c8-002590f97d84",
+        "location": "vim-1",
+        "type": "Dataset"
+      },
+      {
+        "@id": "7c3b42c6-7ae6-11e6-a6c8-002590f97d84",
+        "location": "alm-2",
+        "type": "Dataset"
+      },
+      {
+        "@id": "79bda21e-7ae6-11e6-a6c8-002590f97d84",
+        "location": "ac-2",
+        "type": "Dataset"
+      },
+      {
+        "@id": "79683158-7ae6-11e6-a6c8-002590f97d84",
+        "location": "ac-1",
+        "type": "Dataset"
+      },
+      {
+        "@id": "7a010f40-7ae6-11e6-a6c8-002590f97d84",
+        "location": "alm-1",
+        "type": "Dataset"
+      },
+      {
+        "@id": "77271f9e-7ae6-11e6-a6c8-002590f97d84",
+        "location": "aa-1",
+        "type": "Dataset"
+      },
+      {
+        "@id": "779a6cd8-7ae6-11e6-a6c8-002590f97d84",
+        "location": "aa-2",
+        "type": "Dataset"
+      },
+      {
+        "@id": "7ffcf18e-7ae6-11e6-a6c8-002590f97d84",
+        "location": "eye-1",
+        "type": "Dataset"
+      }
+    ],
+    "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
+    "dcterms:modified": "2016-09-18T20:02:07-04:00",
+    "type": "Dataset",
+    "version": "bff4eab5e1f6b1e690fd1accef684ab5ce357585"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "77271f9e-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "1e41b9cf-4479-4ef1-8c66-e6cfbf861f2e",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "79080a38-0e94-4a0a-bd89-9022eada547b",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/aa-1"
+      },
+      {
+        "@id": "895b9a07-6613-4c8a-95ae-280d8119475c",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "fa2495e7-17ae-44de-9c6b-e737ee445d6e",
+        "description": "datalad-public"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:14-04:00",
+    "type": "Dataset",
+    "version": "b923800c386837c92bc3d440070ee219606c3ce8"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "779a6cd8-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "43c73899-037b-4cdb-8254-3ff14a20cf19",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "b9de6395-acf6-431b-9a11-066155ddf6cd",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "da0ab986-dc70-4190-95f0-407377c64430",
+        "description": "datalad-public"
+      },
+      {
+        "@id": "eda7ba26-724d-4b6d-924a-53217d74c890",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/aa-2"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:17-04:00",
+    "type": "Dataset",
+    "version": "c5cb53a860d638ca4ebdb2cffa1615551c6c1a5b"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "79683158-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "16279f5e-6da9-45c3-ae01-5d55170eef85",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/ac-1"
+      },
+      {
+        "@id": "5038ae69-8189-4137-a4b6-416ae2b73b34",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "b6b7fc4b-0b57-49df-ba5e-597344307d08",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "bf9e5945-2190-43bb-b1bc-47236ee928cf",
+        "description": "datalad-public"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:18-04:00",
+    "type": "Dataset",
+    "version": "006cb3fbd477f3e673afbbbf2953e5ee08608b01"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "79bda21e-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "4fc73f34-aef4-4eb5-b0d0-07ee7e6b2af1",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/ac-2"
+      },
+      {
+        "@id": "6c4a91f0-6286-4166-9eba-c51b0820ae4b",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "a5bccced-33e6-4e05-9093-712e8c9fbc95",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "e0cc8e80-a3f3-4d23-82e7-425f31f4ddce",
+        "description": "datalad-public"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:18-04:00",
+    "type": "Dataset",
+    "version": "4a67746bc52bfc04358195fa8024cf8cd6966479"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "7a010f40-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "45a1e137-f826-4869-a797-14df3a0bdb20",
+        "description": "datalad-public"
+      },
+      {
+        "@id": "5b7b1d5b-ebcb-49bc-96d0-277aac8eb860",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/alm-1"
+      },
+      {
+        "@id": "8b1ab82a-cf2c-457d-8e61-f48c95ca1cff",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "e38f593c-5a48-4b8b-902a-1787b1a42426",
+        "description": "[datalad]"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:22-04:00",
+    "type": "Dataset",
+    "version": "b6235f3c1ac300e3f9a659ae9b4ebe1da12e4057"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "7c3b42c6-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "04b173f0-d9c7-4c28-afa1-3df2434b4347",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/alm-2"
+      },
+      {
+        "@id": "880ce4b3-d543-4aea-b975-7392fa83a3dc",
+        "description": "datalad-public"
+      },
+      {
+        "@id": "8cf18186-d864-4104-ac3a-139a0e7b12a4",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "95a16956-effc-40d9-a297-03c4cbba89ec",
+        "description": "[datalad]"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:24-04:00",
+    "type": "Dataset",
+    "version": "2535683e62985d52dcef3751a07a99ed4d1014d0"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "7d2173f4-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "0892f3b3-532e-497e-b2a7-6364ca552089",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "0b6b9b94-115c-45dc-b820-434bc75d6980",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/am-1"
+      },
+      {
+        "@id": "289eba7a-7806-447e-818e-4d252feae243",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "e1415d02-36fc-4450-8865-5c3926a63527",
+        "description": "datalad-public"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:24-04:00",
+    "type": "Dataset",
+    "version": "e55ebf961be8e8dcc04a3d9cee01e2c54021007c"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "7d87f660-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "038fea28-55da-46c1-9592-afb0127d62a8",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/am-2"
+      },
+      {
+        "@id": "076d8c66-35e9-462c-b2e7-801c21e72fc2",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "1a7005cb-7641-461b-b2bd-0afd697c4624",
+        "description": "datalad-public"
+      },
+      {
+        "@id": "3500d22e-547f-4bb1-91f8-dfbca0cfed5f",
+        "description": "[datalad]"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:25-04:00",
+    "type": "Dataset",
+    "version": "8024c25d783cdda810cc31919f2925ee3cc5f348"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "7e59d0d6-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "539099f8-9516-40a8-b835-9d024beed8a7",
+        "description": "datalad-public"
+      },
+      {
+        "@id": "a48fc42b-f567-4efa-a8ae-09d4d94cc3dd",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "c1626a5d-e950-48da-9c16-62e90ec639a7",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "e2e124be-8a5e-4e64-8ee2-5aff01e759c0",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/bst-1"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:26-04:00",
+    "type": "Dataset",
+    "version": "fd55abc9586b32a3dbfa08d52d4b915004686888"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "7ea1e0b0-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "275ddcb7-8874-4d43-ac89-bbc06d109b6a",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "7b36de73-381a-4b6b-b5fc-88f5e22d5a8d",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/cai-1"
+      },
+      {
+        "@id": "d04838ea-97a5-49e9-b714-aacecfab7dd2",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "e7aa49da-3f5a-4544-a8a0-625833727042",
+        "description": "datalad-public"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:27-04:00",
+    "type": "Dataset",
+    "version": "1656be948b6d6046fa20a448a5f780ab70c535a0"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "7f36ee44-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "4480a8a5-91f9-419b-a604-6511631daf52",
+        "description": "datalad-public"
+      },
+      {
+        "@id": "5861da03-c4ad-4f33-a814-bbf83e3f206b",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "84b3654d-4ef1-43e0-bcaf-29128b6e8a92",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "e1c58baa-c323-4910-95c9-2527811f0227",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/cai-2"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:28-04:00",
+    "type": "Dataset",
+    "version": "2eb7b784c9009dfeec1e81c67c1c77fd7368f193"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "6065deb0-7a7f-11e6-921b-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "10685720-ea02-42cc-83bd-524d66f3b6ab",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "15351d5f-90bd-4355-9563-ea8dc27f00d0",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "1bf2bbde-0f36-451b-9d3f-0bbabc196736",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/ch-epfl-2009"
+      },
+      {
+        "@id": "9396d563-eeb3-4a11-ba01-7035506ec61d",
+        "description": "datalad-public"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T09:30:17-04:00",
+    "type": "Dataset",
+    "version": "d6ae2b29a513109c0f6e0ef9eeb961eac155eb18"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "7f8f52e6-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "61d6ca1e-567b-400c-93e5-baed1e2912d2",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "73eb3429-e996-4145-9813-8d45b64044e1",
+        "description": "datalad-public"
+      },
+      {
+        "@id": "b879f60e-9312-4437-b161-b0c5d806a8d0",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "d8f29373-73c8-49f0-9ae8-657c4955d7ae",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/dream"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:28-04:00",
+    "type": "Dataset",
+    "version": "2eaf47fd0361383424a50d8384cb8cc9c568f8ca"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "7ffcf18e-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "23ab019a-63eb-4e0f-9af9-040ca2a4037b",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "354d76e9-66bf-47cf-9da7-31568064772f",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/eye-1"
+      },
+      {
+        "@id": "3fa955f7-0010-4368-9a64-cfbb37fa24ee",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "89ff662d-4c69-4887-90a8-65bda42f6c95",
+        "description": "datalad-public"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:29-04:00",
+    "type": "Dataset",
+    "version": "f7ef2e1645d8b2f11b021d1ffab65d7562e2fbb1"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "771a3e4c-7ae5-11e6-b936-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "d9f61a86-5b5e-409d-92c6-deb5234cd739",
+        "description": "yoh@smaug:/mnt/datasets/datalad/crawl/crcns/fcx-1"
+      },
+      {
+        "@id": "e13f41d7-e0a8-41fe-99c2-35754eae55de",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "eeda1305-a573-4fe3-978e-43e0a0412cbc",
+        "description": "[datalad-archives]"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:41:04-04:00",
+    "type": "Dataset",
+    "version": "192d76ccb1067fb40af129210d7867ec9b4356a9"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "8085c5c2-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "261a9233-e7bc-4d14-bcca-1bd0613c53fd",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "80df71e1-4dc5-4a14-bf1b-9e9ce68cb6bd",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/hc-1"
+      },
+      {
+        "@id": "aaa0f577-c450-4841-9f65-c9d108875945",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "c8a314f3-83d5-4aa6-aa20-4502b35fd3da",
+        "description": "datalad-public"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:30-04:00",
+    "type": "Dataset",
+    "version": "eb329138e3bdca92e8eaa0db6aa93a02df0423a9"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "80cf6df8-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "4538f034-f283-4c1c-a3c2-35e828921ec7",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "a8e25cc4-6023-447f-9bcf-88c4d639e173",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/hc-2"
+      },
+      {
+        "@id": "cad137aa-af71-4917-a6b6-9cc893a89e78",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "e1294b49-d49b-4021-ae7e-85d4ee4c8fb4",
+        "description": "datalad-public"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:30-04:00",
+    "type": "Dataset",
+    "version": "fade9f8fb8cd28b9490e72de5c387ef5dea35ab7"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "8127a716-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "27640681-167b-430d-89ee-229d05fe92ae",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/hc-3"
+      },
+      {
+        "@id": "91dc9639-e58d-4f91-a9d4-989d0efa4833",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "ce1c75a6-3d5c-4017-b22c-9efb24322ccf",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "f2439564-1e6e-473c-b5cd-f8179fac3e36",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/crcns/hc-3 [datalad-public]"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:34-04:00",
+    "type": "Dataset",
+    "version": "eb82660266fe7d4b2640609b23dc664a75e3e88f"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "8333c01c-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "205e78d0-af8f-4099-ad1f-0536767714f5",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/hc-4"
+      },
+      {
+        "@id": "9c081706-d640-4ab8-b7f2-10be59d8a4e5",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "aeebfb78-34e8-4305-936a-28a467362465",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "bdd284a2-7253-4353-95ea-93f6b7128c31",
+        "description": "datalad-public"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:35-04:00",
+    "type": "Dataset",
+    "version": "9017b0ccd3e9a524ad4601779b0108850b511f35"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "83df9ea0-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "59078d27-39b0-4b3a-83b2-b2874fa3c47d",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "97f9287f-2cc4-420b-888b-5f7dce79e2a2",
+        "description": "datalad-public"
+      },
+      {
+        "@id": "b0645e44-6141-4628-8d66-1aa1651b2c9f",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "e44b08cd-4986-4165-87f1-603a2c719ced",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/hc-5"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:36-04:00",
+    "type": "Dataset",
+    "version": "65cc370f5c6a3c75e1c8fb090e6166abf7103848"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "8461a1c0-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "2c1dc1fe-63d3-4887-a554-a36d200dd384",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "363fe2d3-f08e-4d53-ac38-295ec5251aa8",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/hc-6"
+      },
+      {
+        "@id": "4acb5a2d-8a5e-4c5f-a3a4-ae2be3686c34",
+        "description": "datalad-public"
+      },
+      {
+        "@id": "a7b39f0d-cd96-4f8b-9492-ea6243f05c1e",
+        "description": "[datalad-archives]"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:37-04:00",
+    "type": "Dataset",
+    "version": "5954189ec542139d41f1871a382fbe1f15a18579"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "85621564-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "08f096d7-7ae9-4eb2-abd3-cac270e9d866",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/ia-1"
+      },
+      {
+        "@id": "3235ba8b-bcf6-41e7-ac8c-5bf495ad9634",
+        "description": "datalad-public"
+      },
+      {
+        "@id": "acf5629f-ea85-43bd-83f4-c846f404a189",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "c8381baf-c159-4991-9ad7-8feab8ab949c",
+        "description": "[datalad-archives]"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:38-04:00",
+    "type": "Dataset",
+    "version": "43bc4c0c796ab7d2cd9705e25d73611dd025728c"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "85d8ffbc-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "11f1a940-a4c3-4637-8a55-e0d2526b32b0",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/infe-1"
+      },
+      {
+        "@id": "2beb7037-1a77-4711-bee7-6cae27d71165",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "65e3b12e-1ed0-490b-aa03-ebade0636551",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "fba46258-86ca-4332-9a3c-0f3544e02fb1",
+        "description": "datalad-public"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:38-04:00",
+    "type": "Dataset",
+    "version": "74f4b2bac1ebd666bf073753f5f6f1f1e9988515"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "85ff61d4-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "2952f79a-0511-4c14-8521-32e38dcfbe6f",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/lgn-1"
+      },
+      {
+        "@id": "7123f0bf-442c-4fed-84d3-1c6a2403a6db",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "8681351d-0934-4e91-bb0a-f9e246ba379d",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "9172b4a0-7c12-40a0-b637-e8a2466810ff",
+        "description": "datalad-public"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:39-04:00",
+    "type": "Dataset",
+    "version": "9f9b833a909c8b9fda3b4ad15c6f02ab535ccb2b"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "862c0112-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "199b2ad0-4969-4c63-a58d-10be34c959f6",
+        "description": "datalad-public"
+      },
+      {
+        "@id": "4464eed0-82ce-4f75-ab25-d15144ebab3c",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "4cfcde11-a34c-40f9-ac42-d165bf6aa108",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/mt-1"
+      },
+      {
+        "@id": "9a944ae1-c2cd-4588-b85b-a1c67af4f1ef",
+        "description": "[datalad]"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:39-04:00",
+    "type": "Dataset",
+    "version": "113bc57d6ab8691a4c78df6d55a42db5d731fa37"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "866c51e0-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "0797ca5c-a6d7-4c14-af49-f6ac4dcf0f1c",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/ofc-1"
+      },
+      {
+        "@id": "5b1f6768-d433-4f57-91e8-64e2091c7dea",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "7966ea30-d119-4a79-8ddf-3b4281375922",
+        "description": "datalad-public"
+      },
+      {
+        "@id": "848cd495-0121-462e-8447-90f1ea4d36f0",
+        "description": "[datalad]"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:40-04:00",
+    "type": "Dataset",
+    "version": "76752bb52a4212ecf0638591a267af35221aa730"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "869c7c12-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "100760d2-e7cd-4797-8010-e2bac38fcc9e",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/ofc-2"
+      },
+      {
+        "@id": "b6840d8b-715d-47c4-94e5-71756fc8d959",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "b9c40e83-7a1a-46a1-bbc8-6b2fe9760949",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "d6595b2f-e141-4bfb-9091-5ca59de30428",
+        "description": "datalad-public"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:40-04:00",
+    "type": "Dataset",
+    "version": "0f9e7f5a9f5cebe84abf3d54ce13b7c841365bc4"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "86e55342-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "0e4365f4-28a6-4932-a4bd-618083be39e3",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "3ed62601-25f7-4787-b2cf-3f81990f2764",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/pfc-1"
+      },
+      {
+        "@id": "61411cd7-14f9-4c68-b294-917926e985f8",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "b2f5b19b-3d89-4ce2-af40-aefa8b96fb2b",
+        "description": "datalad-public"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:40-04:00",
+    "type": "Dataset",
+    "version": "c90b540254eb9e5e3925cae39ead948cf6a41e20"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "873a6eae-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "1283a857-8b26-4f9f-bc9e-75ede3aa3f3a",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "1351ea3d-4849-4edf-879e-5886e9e3dbcb",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "2313f563-7cd2-487e-a0b3-595e6463d7f5",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/pfc-2"
+      },
+      {
+        "@id": "84b5767a-cf07-45bb-bd60-76e50c8dac9a",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/crcns/pfc-2 [datalad-public]"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:42-04:00",
+    "type": "Dataset",
+    "version": "0070a62843f22f5754985965796f0bd50ea2b35c"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "87dc9cd8-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "5cb0fda3-83f2-4261-b9a7-ca27886fa041",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "97b2a38b-6660-470e-985d-e75671f00818",
+        "description": "datalad-public"
+      },
+      {
+        "@id": "ca645639-ba31-4120-8c71-197d48bcd91e",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "fbcee44b-7af4-4c15-87d9-36db760bb671",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/pfc-3"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:43-04:00",
+    "type": "Dataset",
+    "version": "e7c856b856af73d6f89eefb99c539c031b45bff3"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "88804162-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "0ad871bb-419a-4725-ba20-7983d8177b57",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "621acca8-bcf2-4aa9-bf60-48f72c772521",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "9510e63c-baf4-4c86-a23a-acae80b6aa58",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/pfc-4"
+      },
+      {
+        "@id": "eb1018d3-deba-4e64-a3d6-3991aefa9873",
+        "description": "datalad-public"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:43-04:00",
+    "type": "Dataset",
+    "version": "89bdb4e08b7028ace77d22f8a4ab76615927e391"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "88e85018-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "25f51754-c655-4ce2-8ac4-684c6d1f1ff7",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "43fadf00-dd7c-4b46-a955-96551b5aca12",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/pvc-1"
+      },
+      {
+        "@id": "4abb777b-96a6-4396-a7d0-deb46180b9c7",
+        "description": "datalad-public"
+      },
+      {
+        "@id": "a491c173-c3b9-4cb5-af83-07d3e018baff",
+        "description": "[datalad-archives]"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:51-04:00",
+    "type": "Dataset",
+    "version": "eb113c542a15a69c2c231e8888ecf24664b4000a"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "8dc0324a-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "5648f549-4fd0-4113-9989-5c959d076f9e",
+        "description": "datalad-public"
+      },
+      {
+        "@id": "60a85c66-f095-461d-9056-a5b4d26fbd28",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "854cbee5-c09b-4993-8e3c-45b0b892ec11",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/pvc-10"
+      },
+      {
+        "@id": "de62f9a0-c199-4329-bed9-c6029a8bb5d3",
+        "description": "[datalad-archives]"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:52-04:00",
+    "type": "Dataset",
+    "version": "df6b53eb296728b5352d2a310268a3d921eaa3b0"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "8e4b846c-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "05eea69b-5c34-49ba-a428-b134b1cfa21c",
+        "description": "datalad-public"
+      },
+      {
+        "@id": "81fb8952-078e-47c6-875b-c92a4fc86249",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/pvc-2"
+      },
+      {
+        "@id": "ad0ce41a-bbe6-44b8-90f9-7030be8a0ec0",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "c116b335-2a50-4423-9de0-b6ad0ec4cbae",
+        "description": "[datalad-archives]"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:53-04:00",
+    "type": "Dataset",
+    "version": "a9aa72d7c9b5dff6463863f735d1c10f72bdc12e"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "8e9e2320-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "298db06a-ea34-417d-a5ad-fed98be4504a",
+        "description": "datalad-public"
+      },
+      {
+        "@id": "2c10b611-71b4-4ab3-8efb-a8409c4c4a45",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/pvc-3"
+      },
+      {
+        "@id": "605f46d8-b30b-413e-b283-9585717bd983",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "ab8346cf-7079-43ec-9d34-d97efe4c3a9a",
+        "description": "[datalad]"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:53-04:00",
+    "type": "Dataset",
+    "version": "64cd4e73262ab59d82f80e7a79db483849e92f53"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "8edd84ca-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "771be9b6-b330-4f13-aec9-27b89251a098",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "91fe1bc4-9e33-4a70-be53-262853eed9d8",
+        "description": "datalad-public"
+      },
+      {
+        "@id": "d2675e75-58dd-4412-9125-f6cabf74ce1d",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/pvc-4"
+      },
+      {
+        "@id": "e08f2209-d7f0-4eb1-a150-0b3d5f77d401",
+        "description": "[datalad-archives]"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:54-04:00",
+    "type": "Dataset",
+    "version": "df15b42c72a17c752552bd5f63493a7f40273ce3"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "8f750534-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "37596ad4-9293-4c1f-9985-0695078786d7",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "51d128e6-3464-4a2c-95f9-b0ec86b6ed39",
+        "description": "datalad-public"
+      },
+      {
+        "@id": "61c03c54-795c-4dd6-a142-6f4e95789fc9",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/pvc-5"
+      },
+      {
+        "@id": "b8449068-cbb9-4c29-bd24-cbe4d7384897",
+        "description": "[datalad-archives]"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:55-04:00",
+    "type": "Dataset",
+    "version": "664eab1d9485aa6b15b68ad797824cde92d8e127"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "8fa20412-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "10e6a815-60e9-419d-a8d8-a794c67703d3",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "81e40208-0e8d-4986-bb82-351204ca6bb1",
+        "description": "datalad-public"
+      },
+      {
+        "@id": "82bf0eae-30e4-42e2-ad12-42c422988289",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "c661684a-0ab3-4142-bd17-5670315d7477",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/pvc-6"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:55-04:00",
+    "type": "Dataset",
+    "version": "4b407c559e27425dd2e9bf8ac63e48f34b3a2f52"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "8fec0d78-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "46b1c944-b4f4-475d-991e-8fd0f7cc6aa9",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "a7c8b3f3-b604-4f3f-a61a-6304b1ae49e3",
+        "description": "datalad-public"
+      },
+      {
+        "@id": "eef560db-a42b-470e-a5e1-4edb1f40c8e3",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/pvc-7"
+      },
+      {
+        "@id": "fd04e89c-e44a-4b22-9a02-2283b27a7e3b",
+        "description": "[datalad-archives]"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:55-04:00",
+    "type": "Dataset",
+    "version": "3e96698bfa3a3fcfabaeef879d0fe15041f95daf"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "9014dfdc-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "01cd724a-2642-461c-b3a0-e38d09066455",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "2d685ef9-3522-4659-a38d-a92c26140aca",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/pvc-8"
+      },
+      {
+        "@id": "4a75a0e7-82dc-4e6b-bb0f-7c6086669e87",
+        "description": "datalad-public"
+      },
+      {
+        "@id": "861ded8e-5178-4b0d-a1a1-7731d7566bea",
+        "description": "[datalad]"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:56-04:00",
+    "type": "Dataset",
+    "version": "01a881521b25c2fd9de8f662df4e656f30f58541"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "907cb62a-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "0a7c3770-ad61-4e12-b9b9-a0ec77bbb28a",
+        "description": "datalad-public"
+      },
+      {
+        "@id": "39b760b8-cf93-48ea-b6ff-972b6743d50f",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "6832da3a-64b2-414c-b2d6-26bdc20ea042",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "9207e3cb-a9e4-47c9-a35f-c7b1e8fc339d",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/pvc-9"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:56-04:00",
+    "type": "Dataset",
+    "version": "a1fdf5b4fdfc5fe354bdb6cd57d357794977689c"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "90b052f0-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "2682dbda-7d02-4ccb-9c8e-1bc6ad2da056",
+        "description": "datalad-public"
+      },
+      {
+        "@id": "3735f710-7936-46e6-adf9-09655868a27f",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/ret-1"
+      },
+      {
+        "@id": "90e50122-506e-4f7b-98d2-6eb75a32679a",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "bb3a7d27-497b-4ee6-bb7b-4bef7ed7e813",
+        "description": "[datalad]"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:57-04:00",
+    "type": "Dataset",
+    "version": "679638b3667cec9d74e8e79d46a10ce7fc0295c5"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "90e8cd42-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "4cd2c43c-ef89-488d-b10b-d905e05259ee",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "7397c72c-4937-423e-833b-b83787a53609",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "947afba3-a14d-483a-99bb-1f061edffbe2",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/sim-1"
+      },
+      {
+        "@id": "9e3f0e2e-dc19-4671-8451-ed9e527c4600",
+        "description": "datalad-public"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:57-04:00",
+    "type": "Dataset",
+    "version": "9ee14d68377602f0f5801b31b3f784978832c02e"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "91164eac-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "08fa499f-d59b-48e3-924c-475c56cb8dae",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/ssc-1"
+      },
+      {
+        "@id": "3ad8906b-043b-4b3e-84c5-d9e0dc0c1ccb",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "724a5c88-dea4-4d63-bec7-6b347e467d54",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "fba35f9f-a169-4708-9911-cf316cfd8ec0",
+        "description": "datalad-public"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:48:58-04:00",
+    "type": "Dataset",
+    "version": "05ad7d7f51157d8d8c6833d1ea735b5718285cc9"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "91ed10e0-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "5d70152e-4ec8-4837-8e9f-a095c5fad5b1",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "65bc4537-0eb6-45c2-8a94-6796db384a66",
+        "description": "datalad-public"
+      },
+      {
+        "@id": "7de05d77-2ca1-458a-abef-ef9e56298546",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "f1796118-2dbd-4742-85f2-a11e9a5e2ee2",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/ssc-2"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:49:00-04:00",
+    "type": "Dataset",
+    "version": "7a3157a2b53f97b389aac94fe02d873af2be7ab7"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "9304647e-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "177375fc-6016-49aa-a116-d0c3634c23dd",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "29672af0-780e-4878-b32d-d3d1ba15f082",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "35d037c6-f5bf-406b-8a2c-aa69d5086f94",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/ssc-3"
+      },
+      {
+        "@id": "f6df4dd0-2242-4a59-b026-895af6e11892",
+        "description": "datalad-public"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:49:01-04:00",
+    "type": "Dataset",
+    "version": "d2fd3736b836f549c771ae6c6d7a19dd28cfa393"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "9337143c-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "0f56f62c-c6e4-4f06-b395-59f9bf5c3af8",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "8699a209-554e-40e4-b8cc-06d614511be4",
+        "description": "datalad-public"
+      },
+      {
+        "@id": "aaf6d2ed-ed4a-411b-8632-04230b56e167",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/th-1"
+      },
+      {
+        "@id": "dce31e19-ccea-40c7-bea9-c549aab699cc",
+        "description": "[datalad-archives]"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:49:01-04:00",
+    "type": "Dataset",
+    "version": "b8871d297450438b559b883ee0418ce0419e221d"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "9396d3e0-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "caaf853a-0204-4516-950d-43ce3a1cc7e5",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "d8026ad2-1ad0-425f-a9a9-3d0253c8417b",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "e476f286-8e48-4bc2-8c05-6bd5b0b48174",
+        "description": "datalad-public"
+      },
+      {
+        "@id": "ee506123-a772-40f0-8931-c4e5d5d5711a",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/v2-1"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:49:02-04:00",
+    "type": "Dataset",
+    "version": "feb0bd59bd7b123e1ac103841830fc8a1f8413f1"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "93ed7c22-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "101ee832-2aaf-415c-8107-96f62cbd93da",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "1c8d0f28-7cdb-4a9f-9cb4-f10eef516b18",
+        "description": "datalad-public"
+      },
+      {
+        "@id": "b1893a3b-68b9-4e00-a182-3b7ce4d86579",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "efa9a7d8-58b5-442e-aff5-41f63bd0622d",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/vim-1"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:49:03-04:00",
+    "type": "Dataset",
+    "version": "6762afe9f9dd2d3cfa18097dad45d50f8206e4ff"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "948d3b0e-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "0fc1cf4a-5904-46ff-8831-9c936524044a",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "5c2143cd-4bc6-44ce-a70d-8526fbf5d41d",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/vim-2"
+      },
+      {
+        "@id": "b62bba94-a0c5-435d-b5b2-1b1382ee8a0c",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "eed8f274-fffa-41cf-968a-e40a6b70060a",
+        "description": "datalad-public"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:49:04-04:00",
+    "type": "Dataset",
+    "version": "bf4ce419292a8863685ca5b6ab87bdc2212e6e4e"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "95562fd2-7ae6-11e6-a6c8-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "47f11951-dc20-4d4b-bf12-48f562863aa0",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "7fa853fc-0a16-450a-bbba-6cf7eefe96ba",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "e5e9b9d8-2bef-48a7-9fd6-0f8281f9147c",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/vim-3"
+      },
+      {
+        "@id": "fd412a5f-c477-430e-ba8b-052692b9fa2f",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/crcns/vim-3 [datalad-public]"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:50:56-04:00",
+    "type": "Dataset",
+    "version": "114425a9c3ec533ef9c9314e6c40b82f44025b3c"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "dbc7e258-7ae6-11e6-8994-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "2b0b648b-f63f-48c9-9865-41dc9c33cb97",
+        "description": "[datalad]"
+      },
+      {
+        "@id": "83834874-cf1c-45d8-b73b-3e8eeff50776",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/crcns/zipser-1 [datalad-public]"
+      },
+      {
+        "@id": "8765f2d5-4f52-437d-bc9a-f89ea908fa44",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "faf7a3ec-11fa-48fb-bd09-8f145fb8fa9f",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/zipser-1"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2016-09-14T21:51:03-04:00",
+    "type": "Dataset",
+    "version": "f9debc7268ac28974d0d5b849a8f26f9b35c766e"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@id": "72e7a148-7af4-11e6-af5a-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:hasPart": {
+      "@id": "72f7a0f2-7af4-11e6-af5a-002590f97d84",
+      "location": "mitchell",
+      "type": "Dataset"
+    },
+    "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
+    "dcterms:modified": "2016-09-14T23:29:26-04:00",
+    "type": "Dataset",
+    "version": "8b8d52627ad6fef5a98d785ba6b18f46e289ea19"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "72f7a0f2-7af4-11e6-af5a-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:hasPart": {
+      "@id": "730a81c2-7af4-11e6-af5a-002590f97d84",
+      "location": "mitchell/science2008",
+      "type": "Dataset"
+    },
+    "dcterms:isPartOf": "72e7a148-7af4-11e6-af5a-002590f97d84",
+    "dcterms:modified": "2016-09-14T23:29:26-04:00",
+    "type": "Dataset",
+    "version": "ee917e9a43f62fc5806b70e35a550d0d5ee43729"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "72f7a0f2-7af4-11e6-af5a-002590f97d84",
+    "author": "Tom Mitchell",
+    "dcterms:conformsTo": [
+      "http://specs.frictionlessdata.io/data-packages",
+      "http://docs.datalad.org/metadata.html#v0-1"
+    ],
+    "keywords": [
+      "MRI",
+      "fMRI",
+      "Machine Learning"
+    ],
+    "name": "mitchell",
+    "title": "Datasets from Tom Mitchell's lab",
+    "type": "Dataset"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "730a81c2-7af4-11e6-af5a-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "254a8527-5210-480f-9f3b-8797fba2e9b8",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/labs/mitchell/science2008 [datalad-public]"
+      },
+      {
+        "@id": "39d5df60-d193-455b-b2ec-9a5e8658f33a",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "b95aad26-2da8-437c-b79a-b098543e618f",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/labs/mitchell/science2008"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "72f7a0f2-7af4-11e6-af5a-002590f97d84",
+    "dcterms:modified": "2016-09-14T23:29:26-04:00",
+    "type": "Dataset",
+    "version": "a1bb3002c54bf80281ed5929350e60289e140670"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "730a81c2-7af4-11e6-af5a-002590f97d84",
+    "author": "Tom M. Mitchell, Svetlana V. Shinkareva, Andrew Carlson, Kai-Min Chang, Vicente L. Malave, Robert A. Mason, Marcel Adam Just",
+    "dcterms:conformsTo": [
+      "http://specs.frictionlessdata.io/data-packages",
+      "http://docs.datalad.org/metadata.html#v0-1"
+    ],
+    "description": "Originally from http://www.cs.cmu.edu/~tom/science2008/",
+    "keywords": [
+      "fMRI",
+      "Semantics"
+    ],
+    "name": "mitchell/science2008",
+    "title": "Supplemental materials for 'Predicting Human Brain Activity Associated with the Meanings of Nouns'",
+    "type": "Dataset"
+  }
+]
