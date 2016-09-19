@@ -55,12 +55,12 @@
         "type": "Dataset"
       },
       {
-        "@id": "634cfad0-7e96-11e6-8171-002590f97d84",
+        "@id": "a98549aa-7e99-11e6-bd2c-002590f97d84",
         "location": "ds000030",
         "type": "Dataset"
       },
       {
-        "@id": "634dcc26-7e96-11e6-8171-002590f97d84",
+        "@id": "679095a4-7e99-11e6-9c94-002590f97d84",
         "location": "ds000031",
         "type": "Dataset"
       },
@@ -286,9 +286,9 @@
       }
     ],
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2016-09-19T12:04:30-04:00",
+    "dcterms:modified": "2016-09-19T14:51:40-04:00",
     "type": "Dataset",
-    "version": "3b51c1752f8b3af79b16e3e6182b4e0eb4fd3a34"
+    "version": "abc7de6f31dc60dff0ad669b833b5b1e39148219"
   },
   {
     "@context": "http://schema.org/",
@@ -633,7 +633,7 @@
   },
   {
     "@context": "http://schema.org/",
-    "@id": "7b9f1e60-7e82-11e6-b1b4-002590f97d84",
+    "@id": "a98549aa-7e99-11e6-bd2c-002590f97d84",
     "availableFrom": [
       {
         "@id": "09ede57e-5ec2-484b-b6fb-8a632e5c7a4e",
@@ -650,13 +650,13 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-05-23T14:56:15-04:00",
+    "dcterms:modified": "2016-09-19T14:48:35-04:00",
     "type": "Dataset",
-    "version": "e2b0463c1e25ac308f0df672e1a3b25368fd7e86"
+    "version": "3d9fc7ed0e84d0b4a8282177f328638826f6aabc"
   },
   {
     "@context": "http://schema.org/",
-    "@id": "7b9f1e60-7e82-11e6-b1b4-002590f97d84",
+    "@id": "a98549aa-7e99-11e6-bd2c-002590f97d84",
     "author": [
       "Bilder, R",
       "Poldrack, R",
@@ -690,7 +690,7 @@
   },
   {
     "@context": "http://schema.org/",
-    "@id": "8c3a990c-7e82-11e6-b1b4-002590f97d84",
+    "@id": "679095a4-7e99-11e6-9c94-002590f97d84",
     "availableFrom": [
       {
         "@id": "2270dbad-eab9-4629-8d3a-67c124018cc8",
@@ -707,13 +707,13 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-03T22:22:43-04:00",
+    "dcterms:modified": "2016-09-19T14:46:42-04:00",
     "type": "Dataset",
-    "version": "dead9a6df84ed12d8e74efc86ebd6f27d4d01f78"
+    "version": "e543bec3e6a0f30fa05aa27d9b427f06ffe62e17"
   },
   {
     "@context": "http://schema.org/",
-    "@id": "8c3a990c-7e82-11e6-b1b4-002590f97d84",
+    "@id": "679095a4-7e99-11e6-9c94-002590f97d84",
     "author": "Poldrack RA, Laumann TO, Koyejo O, Gregory B, Hover A, Chen MY, Luci J, Joo SJ, Handwerker D, Liang J, Boyd R,  Hunicke-Smith S, Simpson ZB, Caven T,  Sochat V, Shine JM, Gordon E, Snyder AZ, Adeyemo B,  Petersen SE, Glahn D, McKay DR, Curran JE, Goring HHH, Carless MA, Blangero J, Frick L, Marcotte E, Mumford JA",
     "citation": [
       "http://www.myconnectome.org",
