@@ -4,12 +4,12 @@
     "@id": "76a53362-7ae6-11e6-a6c8-002590f97d84",
     "availableFrom": [
       {
-        "@id": "4442e40e-20a7-446a-a10d-42b0d5b96820",
-        "description": "datalad-public"
-      },
-      {
         "@id": "691d5059-360d-4dfb-a384-f0a2fa24851e",
         "description": "yoh@smaug:/mnt/datasets/datalad/crawl/crcns"
+      },
+      {
+        "@id": "98060a01-fa89-4a82-b614-9b636a04b7e9",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns"
       },
       {
         "@id": "ef75d346-6ca6-45c0-abf6-208069ed390b",
@@ -280,9 +280,9 @@
       }
     ],
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2016-09-18T20:02:07-04:00",
+    "dcterms:modified": "2016-09-19T20:37:00-04:00",
     "type": "Dataset",
-    "version": "bff4eab5e1f6b1e690fd1accef684ab5ce357585"
+    "version": "b9c08cbb0e377ddf14b0ce3c3c39c42a5da54ff6"
   },
   {
     "@context": "http://schema.org/",

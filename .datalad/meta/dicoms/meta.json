@@ -2,12 +2,23 @@
   {
     "@context": "http://schema.org/",
     "@id": "5500090e-7aea-11e6-b268-002590f97d84",
-    "availableFrom": {
-      "@id": "29cf2d5d-4f64-42f1-bcf0-77dab37a7a07",
-      "description": "yoh@smaug:/mnt/datasets/datalad/datasets.datalad.org/dicoms"
-    },
+    "availableFrom": [
+      {
+        "@id": "940086d9-bff2-457d-9cf1-bebfa382ed33",
+        "description": "/srv/datasets.datalad.org/www/dicoms"
+      },
+      {
+        "@id": "f8cccf6e-59d8-4178-84f2-48fb328c9e78",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/dicoms"
+      }
+    ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:hasPart": [
+      {
+        "@id": "031991c8-7ed7-11e6-a607-002590f97d84",
+        "location": "dcm2niix-tests",
+        "type": "Dataset"
+      },
       {
         "@id": "85c4465e-7aea-11e6-a5d5-002590f97d84",
         "location": "dartmouth-phantoms",
@@ -20,9 +31,30 @@
       }
     ],
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2016-09-14T22:17:46-04:00",
+    "dcterms:modified": "2016-09-20T10:41:31-04:00",
     "type": "Dataset",
-    "version": "150ede8bb07764eb13641a71f1f268503425bf3a"
+    "version": "83ff4c3b0aeb3b75680bf3888d7ce12546450978"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "5500090e-7aea-11e6-b268-002590f97d84",
+    "author": "DataLad Team <team@datalad.org>",
+    "contributors": [
+      "Yaroslav Halchenko <debian@onerussian.com>"
+    ],
+    "dcterms:conformsTo": [
+      "http://specs.frictionlessdata.io/data-packages",
+      "http://docs.datalad.org/metadata.html#v0-1"
+    ],
+    "homepage": "http://datasets.datalad.org/?dir=/dicoms",
+    "keywords": [
+      "DICOM",
+      "NeuroImaging"
+    ],
+    "license": "http://opendatacommons.org/licenses/pddl/",
+    "name": "dicoms",
+    "title": "Various collections of DICOM files which could be used for software and methods testing",
+    "type": "Dataset"
   },
   {
     "@context": "http://schema.org/",
@@ -35,11 +67,58 @@
   },
   {
     "@context": "http://schema.org/",
+    "@id": "031991c8-7ed7-11e6-a607-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "773fd1dd-5582-4c6a-a835-9701be6b24de",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl-misc/dicoms/dcm2niix-tests"
+      },
+      {
+        "@id": "b8823c21-5dff-43f6-a9f4-0017f5d8e9a6",
+        "description": "[datalad-archives]"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "5500090e-7aea-11e6-b268-002590f97d84",
+    "dcterms:modified": "2016-09-20T10:35:30-04:00",
+    "type": "Dataset",
+    "version": "31614d30095a30ea9c80fe590f5ae69b42967203"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "031991c8-7ed7-11e6-a607-002590f97d84",
+    "author": "Chris Rorden",
+    "contributors": [
+      "Yaroslav Halchenko <debian@onerussian.com>"
+    ],
+    "dcterms:conformsTo": [
+      "http://specs.frictionlessdata.io/data-packages",
+      "http://docs.datalad.org/metadata.html#v0-1"
+    ],
+    "description": "Originally from https://www.nitrc.org/plugins/mwiki/index.php/dcm2nii:MainPage#Diffusion_Tensor_Imaging",
+    "homepage": "https://www.nitrc.org/plugins/mwiki/index.php/dcm2nii:MainPage#Diffusion_Tensor_Imaging",
+    "keywords": [
+      "DICOM",
+      "NeuroImaging",
+      "dcm2niix",
+      "testing"
+    ],
+    "license": "http://opendatacommons.org/licenses/pddl/",
+    "name": "dcm2niix-tests",
+    "title": "DICOMs for testing dcm2niix functionality",
+    "type": "Dataset"
+  },
+  {
+    "@context": "http://schema.org/",
     "@id": "9183b182-7aea-11e6-8706-002590f97d84",
     "availableFrom": [
       {
         "@id": "f2b42741-720e-4192-b1db-da941ea5dfd4",
         "description": "[datalad-archives]"
+      },
+      {
+        "@id": "f4ae0814-ef69-4659-a415-f5b8c4244373",
+        "description": "/srv/datasets.datalad.org/www/dicoms/rosetta [datalad-public]"
       },
       {
         "@id": "f898e958-3518-496f-8e66-8e3d094df6b2",

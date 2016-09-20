@@ -9,7 +9,11 @@
       },
       {
         "@id": "95c6c82c-acc9-40ff-aee4-3af92b84deea",
-        "description": "yoh@falkor:/srv/datasets.datalad.org/www/nidm [datalad-public]"
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/nidm"
+      },
+      {
+        "@id": "c5b2b9f1-2062-45ce-87d9-8794dfcb000f",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/nidm"
       }
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
