@@ -2,16 +2,6 @@
   {
     "@context": "http://schema.org/",
     "@id": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "availableFrom": [
-      {
-        "@id": "a9563298-d625-4917-9852-fa625dfb04d0",
-        "description": "datalad-public"
-      },
-      {
-        "@id": "f930d818-e5d6-47d1-a275-9bd26b78d046",
-        "description": ""
-      }
-    ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:hasPart": [
       {
@@ -132,6 +122,11 @@
       {
         "@id": "75cd6882-7baf-11e6-a303-002590f97d84",
         "location": "ds000157",
+        "type": "Dataset"
+      },
+      {
+        "@id": "87c83672-80fd-11e6-bf7d-002590f97d84",
+        "location": "ds000208",
         "type": "Dataset"
       },
       {
@@ -286,9 +281,9 @@
       }
     ],
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2016-09-19T14:51:40-04:00",
+    "dcterms:modified": "2016-09-22T18:02:55-04:00",
     "type": "Dataset",
-    "version": "abc7de6f31dc60dff0ad669b833b5b1e39148219"
+    "version": "7ac342f3b4a10b3e629f2ce7d12254bab0db4ac5"
   },
   {
     "@context": "http://schema.org/",
@@ -1075,7 +1070,7 @@
     "availableFrom": [
       {
         "@id": "0f532ec0-f685-4324-8e21-b501db1134b2",
-        "description": "datalad-public"
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000113c [datalad-public]"
       },
       {
         "@id": "2a7c1a16-81b5-480b-8f79-831e430be8d7",
@@ -1410,7 +1405,7 @@
     "availableFrom": [
       {
         "@id": "2369fcc9-1f97-4aa9-9cc9-c8fc3da55980",
-        "description": "datalad-public"
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000122 [datalad-public]"
       },
       {
         "@id": "5c9fbb04-24d1-4fdb-b0b4-43dd652ff693",
@@ -1460,7 +1455,7 @@
       },
       {
         "@id": "d66fb5d4-513b-4c5f-ba3b-8615126d1f4b",
-        "description": "datalad-public"
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000133 [datalad-public]"
       }
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
@@ -1649,7 +1644,7 @@
     "availableFrom": [
       {
         "@id": "378599ce-ace4-4c68-8686-b87e87eed387",
-        "description": "datalad-public"
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000168 [datalad-public]"
       },
       {
         "@id": "a5c24a53-028f-40fd-a318-78138735e5ff",
@@ -1743,7 +1738,7 @@
       },
       {
         "@id": "92cdb283-1305-4f9c-b18d-bd2e338283bd",
-        "description": "datalad-public"
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000171 [datalad-public]"
       }
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
@@ -1836,7 +1831,7 @@
     "availableFrom": [
       {
         "@id": "06e81b0c-b953-40e3-a5fc-3c643e36b95f",
-        "description": "datalad-public"
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000174 [datalad-public]"
       },
       {
         "@id": "a054e406-c888-4a76-ba48-95bba19d2b1e",
@@ -1882,7 +1877,7 @@
     "availableFrom": [
       {
         "@id": "142916a0-e66f-4b93-81ff-fb02bbe11bdc",
-        "description": "datalad-public"
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000177 [datalad-public]"
       },
       {
         "@id": "2594a16d-0b7d-4c65-b205-4338d0d7b6ec",
@@ -1949,7 +1944,7 @@
       },
       {
         "@id": "c670e7b1-271f-4fe6-a3fe-228a0661570f",
-        "description": "datalad-public"
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000201 [datalad-public]"
       },
       {
         "@id": "ec145dbe-079a-42bd-bb1b-87f13e2d7b38",
@@ -2040,7 +2035,7 @@
     "availableFrom": [
       {
         "@id": "44c84d64-5a2c-4bb9-b01a-af15be4e1f68",
-        "description": "datalad-public"
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000203 [datalad-public]"
       },
       {
         "@id": "6f960ff3-cb48-405e-af26-61fd8207ffa6",
@@ -2220,6 +2215,40 @@
     "foaf:fundedBy": "This work was supported, in part, by awards from CHDI Foundation, Inc.; NIH R01NS050568; NINDS NS40068 Neu- robiological Predictors of Huntington's Disease; and NINDS R01 NS054893 Cognitive and Functional Brain Changes in Preclinical HD. Dr. Turner was supported by NCRR 1 U24 RR021992 from the Functional Imaging Biomedical Infor- matics Network (S.G. Potkin, PI) for her work on this project while at the University of California, Irvine. This publication was supported by the National Center for Research Resour- ces and the National Center for Advancing Translational Sciences, National Institutes of Health, through Grant UL1RR024979. The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH.",
     "license": "PDDL",
     "name": "Huntington's Traveling Human Phantom",
+    "type": "Dataset"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "87c83672-80fd-11e6-bf7d-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "3a03d549-d50b-4a09-b109-519d764cca37",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "fc06b23a-74aa-4962-8a8a-f1784d7ecc7f",
+        "description": "yoh@smaug:/mnt/datasets/datalad/crawl/openfmri/ds000208"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
+    "dcterms:modified": "2016-09-22T16:19:31-04:00",
+    "type": "Dataset",
+    "version": "01b7ffc949fa5e99459e4fa03596e07ecf9137c2"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "87c83672-80fd-11e6-bf7d-002590f97d84",
+    "author": [
+      "Tetreault P, Mansour A, Vachon-Presseau E, Schnitzer TJ, Apkarian AV, Baliki MN"
+    ],
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io/bids_spec1.0.0 .pdf"
+    ],
+    "foaf:fundedBy": "Eli Lilly Pharmaceuticals funded study 2 (IIT number: F1J-US-XO61). This research was partially also supported by grants from National Institute of Neurological Disorders and Stroke (NS035115), and National Center for Complementary and Integrative Health (AT007987) of U.S. National Institutes of Health. P.T. and E.V.-P. were supported by the Canadian Institutes of Health Research.",
+    "license": "PDDL",
+    "name": "Brain connectivity predicts placebo response across chronic pain clinical trials",
     "type": "Dataset"
   }
 ]

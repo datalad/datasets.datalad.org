@@ -2,20 +2,6 @@
   {
     "@context": "http://schema.org/",
     "@id": "5500090e-7aea-11e6-b268-002590f97d84",
-    "availableFrom": [
-      {
-        "@id": "940086d9-bff2-457d-9cf1-bebfa382ed33",
-        "description": "/srv/datasets.datalad.org/www/dicoms"
-      },
-      {
-        "@id": "f3a1b935-41d9-426e-8f7e-d44919d9630e",
-        "description": "datalad-public"
-      },
-      {
-        "@id": "f8cccf6e-59d8-4178-84f2-48fb328c9e78",
-        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/dicoms"
-      }
-    ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:hasPart": [
       {
