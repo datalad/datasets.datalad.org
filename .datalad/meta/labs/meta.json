@@ -3,15 +3,79 @@
     "@context": "http://schema.org/",
     "@id": "72e7a148-7af4-11e6-af5a-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:hasPart": [
+      {
+        "@id": "72f7a0f2-7af4-11e6-af5a-002590f97d84",
+        "location": "mitchell",
+        "type": "Dataset"
+      },
+      {
+        "@id": "01cfb952-8439-11e6-af53-002590f97d84",
+        "location": "haxby",
+        "type": "Dataset"
+      }
+    ],
+    "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
+    "dcterms:modified": "2016-09-27T10:33:49-04:00",
+    "type": "Dataset",
+    "version": "c72d50d8b80fc2711131255de8cb103592f0e536"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "01cfb952-8439-11e6-af53-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:hasPart": {
-      "@id": "72f7a0f2-7af4-11e6-af5a-002590f97d84",
-      "location": "mitchell",
+      "@id": "6eeadb86-84be-11e6-b24c-002590f97d84",
+      "location": "haxby/raiders",
       "type": "Dataset"
     },
-    "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2016-09-14T23:29:26-04:00",
+    "dcterms:isPartOf": "72e7a148-7af4-11e6-af5a-002590f97d84",
+    "dcterms:modified": "2016-09-27T10:33:32-04:00",
     "type": "Dataset",
-    "version": "8b8d52627ad6fef5a98d785ba6b18f46e289ea19"
+    "version": "0b6f3dcaec24b2904229956b700eccf32be7f74c"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "6eeadb86-84be-11e6-b24c-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "41e5039d-1750-43d2-8bea-89897d969326",
+        "description": "/mnt/datasets/datalad/crawl/labs/haxby/raiders"
+      },
+      {
+        "@id": "87d7db62-683d-43b2-b594-baeb420ae7a6",
+        "description": "."
+      },
+      {
+        "@id": "de53ce43-2c07-4971-8de8-0445c596f7dc",
+        "description": "datalad-public-ro [datalad-public]"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "01cfb952-8439-11e6-af53-002590f97d84",
+    "dcterms:modified": "2016-09-27T10:32:34-04:00",
+    "type": "Dataset",
+    "version": "3bf7193bd56c31c4a3a3b44d1ddc75f9fb90711d"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "6eeadb86-84be-11e6-b24c-002590f97d84",
+    "author": [
+      "J. Swaroop Guntupalli",
+      "Yaroslav O. Halchenko",
+      "James V. Haxby"
+    ],
+    "citation": [
+      "doi:10.1016/j.neuron.2011.08.026"
+    ],
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io"
+    ],
+    "foaf:fundedBy": "Funding was provided by National Institutes of Mental Health grant 5R01MH075706 (Haxby), and by a graduate fellowship from the Neukom Institute for Computational Sciences at Dartmouth (Guntupalli).",
+    "license": "PDDL",
+    "name": "Dartmouth Raiders Dataset",
+    "type": "Dataset"
   },
   {
     "@context": "http://schema.org/",
