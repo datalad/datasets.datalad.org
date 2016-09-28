@@ -21,9 +21,9 @@
       }
     ],
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2016-09-20T10:41:31-04:00",
+    "dcterms:modified": "2016-09-28T14:35:03-04:00",
     "type": "Dataset",
-    "version": "83ff4c3b0aeb3b75680bf3888d7ce12546450978"
+    "version": "a4b4a26d2f9074ded221b62bd62560a2687c1cd3"
   },
   {
     "@context": "http://schema.org/",
@@ -50,10 +50,100 @@
     "@context": "http://schema.org/",
     "@id": "85c4465e-7aea-11e6-a5d5-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:hasPart": [
+      {
+        "@id": "0c7ab9b4-859d-11e6-95c9-8019340ce7f2",
+        "location": "dartmouth-phantoms/PHANTOM1_3",
+        "type": "Dataset"
+      },
+      {
+        "@id": "e8d2d492-859c-11e6-95c9-8019340ce7f2",
+        "location": "dartmouth-phantoms/bids_test3",
+        "type": "Dataset"
+      },
+      {
+        "@id": "39b73bf0-859d-11e6-95c9-8019340ce7f2",
+        "location": "dartmouth-phantoms/PHANTOM-20160909",
+        "type": "Dataset"
+      }
+    ],
     "dcterms:isPartOf": "5500090e-7aea-11e6-b268-002590f97d84",
-    "dcterms:modified": "2016-09-14T22:17:16-04:00",
+    "dcterms:modified": "2016-09-28T14:34:18-04:00",
     "type": "Dataset",
-    "version": "3b1b9630d92c227a0933a2a05e8ff60186d79ffc"
+    "version": "075d466fa908f2da61d9029a821d7c6eed1e4390"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "39b73bf0-859d-11e6-95c9-8019340ce7f2",
+    "availableFrom": [
+      {
+        "@id": "203638de-6bc6-4b8a-8680-d0652ce911f2",
+        "description": "yoh@hopa:~/picts/mris/PHANTOM-20160909"
+      },
+      {
+        "@id": "67394cd4-1ed5-439c-be1e-4a8dfbe66ae2",
+        "description": "/srv/datasets.datalad.org/www/dicoms/dartmouth-phantoms/PHANTOM-20160909 [datalad-public]"
+      },
+      {
+        "@id": "fe23b955-3957-49e4-808c-14b1c326c03b",
+        "description": "yoh@smaug:/mnt/datasets/datalad/crawl/dicoms/dartmouth-phantoms/PHANTOM-20160909"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "85c4465e-7aea-11e6-a5d5-002590f97d84",
+    "dcterms:modified": "2016-09-28T14:04:55-04:00",
+    "type": "Dataset",
+    "version": "6a5738e3669b57690c4ca40b29dac2709c95f85e"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "0c7ab9b4-859d-11e6-95c9-8019340ce7f2",
+    "availableFrom": [
+      {
+        "@id": "14228697-3986-48c3-ba48-8718c7ec336a",
+        "description": "yoh@smaug:/mnt/datasets/datalad/crawl/dicoms/dartmouth-phantoms/PHANTOM1_3"
+      },
+      {
+        "@id": "28468356-71a3-4b45-b2ff-9d2c6f88748d",
+        "description": "yoh@hopa:~/picts/mris/PHANTOM1_3"
+      },
+      {
+        "@id": "869bee6b-7aae-4bb6-99aa-1884fb38f9dd",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/test/dartmouth-siemens"
+      },
+      {
+        "@id": "c38a9393-0086-4545-b725-b4d16367790b",
+        "description": "/srv/datasets.datalad.org/www/dicoms/dartmouth-phantoms/PHANTOM1_3 [datalad-public]"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "85c4465e-7aea-11e6-a5d5-002590f97d84",
+    "dcterms:modified": "2016-09-28T14:08:30-04:00",
+    "type": "Dataset",
+    "version": "b17d1c7304ac5d1d32ff52f4c42ac22fa44023de"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "e8d2d492-859c-11e6-95c9-8019340ce7f2",
+    "availableFrom": [
+      {
+        "@id": "008d6e24-df90-48b0-841b-2415e61ef96a",
+        "description": "yoh@smaug:/mnt/datasets/datalad/crawl/dicoms/dartmouth-phantoms/bids_test3"
+      },
+      {
+        "@id": "58081f52-cd9d-4e8c-a34a-41905fa2ef26",
+        "description": "/srv/datasets.datalad.org/www/dicoms/dartmouth-phantoms/bids_test3 [datalad-public]"
+      },
+      {
+        "@id": "e48ce580-d0e2-45f0-8586-63d1b3486c11",
+        "description": "yoh@hopa:~/picts/mris/dartmouth-phantoms/bids_test3"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "85c4465e-7aea-11e6-a5d5-002590f97d84",
+    "dcterms:modified": "2016-09-28T12:59:39-04:00",
+    "type": "Dataset",
+    "version": "b5b39f2934347d8b03796bfe9d14f7d74c6f4602"
   },
   {
     "@context": "http://schema.org/",
@@ -66,6 +156,10 @@
       {
         "@id": "b8823c21-5dff-43f6-a9f4-0017f5d8e9a6",
         "description": "[datalad-archives]"
+      },
+      {
+        "@id": "c3445f85-4531-48d6-a5f3-51221c24c6d8",
+        "description": "/srv/datasets.datalad.org/www/dicoms/dcm2niix-tests [datalad-public]"
       }
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
