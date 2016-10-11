@@ -16,9 +16,20 @@
       }
     ],
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2016-09-27T10:33:49-04:00",
+    "dcterms:modified": "2016-10-11T00:05:48-04:00",
     "type": "Dataset",
-    "version": "c72d50d8b80fc2711131255de8cb103592f0e536"
+    "version": "171ac78f6045ebbf8dd92e2d3e9530718df9727a"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "72e7a148-7af4-11e6-af5a-002590f97d84",
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io"
+    ],
+    "license": "PDDL (dataset itself), subdatasets -- various",
+    "name": "Datasets from various labs",
+    "type": "Dataset"
   },
   {
     "@context": "http://schema.org/",
@@ -30,9 +41,25 @@
       "type": "Dataset"
     },
     "dcterms:isPartOf": "72e7a148-7af4-11e6-af5a-002590f97d84",
-    "dcterms:modified": "2016-09-27T10:33:32-04:00",
+    "dcterms:modified": "2016-10-11T00:01:37-04:00",
     "type": "Dataset",
-    "version": "0b6f3dcaec24b2904229956b700eccf32be7f74c"
+    "version": "c88cc545a2454beb5b934cf3e725386c8c8e4c45"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "01cfb952-8439-11e6-af53-002590f97d84",
+    "author": [
+      "J. Swaroop Guntupalli",
+      "Yaroslav O. Halchenko",
+      "James V. Haxby"
+    ],
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io"
+    ],
+    "license": "PDDL",
+    "name": "Haxby Lab (http://haxbylab.dartmouth.edu) Datasets",
+    "type": "Dataset"
   },
   {
     "@context": "http://schema.org/",
@@ -87,9 +114,9 @@
       "type": "Dataset"
     },
     "dcterms:isPartOf": "72e7a148-7af4-11e6-af5a-002590f97d84",
-    "dcterms:modified": "2016-09-14T23:29:26-04:00",
+    "dcterms:modified": "2016-10-11T00:05:25-04:00",
     "type": "Dataset",
-    "version": "ee917e9a43f62fc5806b70e35a550d0d5ee43729"
+    "version": "e3f030342b05658799f56a3dfe6a8dd469b46d19"
   },
   {
     "@context": "http://schema.org/",
@@ -104,8 +131,7 @@
       "fMRI",
       "Machine Learning"
     ],
-    "name": "mitchell",
-    "title": "Datasets from Tom Mitchell's lab",
+    "name": "Mitchell Lab Datasets",
     "type": "Dataset"
   },
   {
