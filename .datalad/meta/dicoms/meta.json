@@ -21,9 +21,9 @@
       }
     ],
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2016-10-06T13:18:31-04:00",
+    "dcterms:modified": "2016-10-11T00:12:48-04:00",
     "type": "Dataset",
-    "version": "2965d1246f7b4346428c5adeb33791fd78c75ca2"
+    "version": "d2ae0e459fc11cc274eff81b717d9c8ce29ad0c1"
   },
   {
     "@context": "http://schema.org/",
@@ -42,7 +42,7 @@
       "NeuroImaging"
     ],
     "license": "http://opendatacommons.org/licenses/pddl/",
-    "name": "dicoms",
+    "name": "Collections of DICOM files",
     "title": "Various collections of DICOM files which could be used for software and methods testing",
     "type": "Dataset"
   },
@@ -57,6 +57,11 @@
         "type": "Dataset"
       },
       {
+        "@id": "f802b556-8f68-11e6-9cf2-002590f97d84",
+        "location": "dartmouth-phantoms/Philips-20131217",
+        "type": "Dataset"
+      },
+      {
         "@id": "e8d2d492-859c-11e6-95c9-8019340ce7f2",
         "location": "dartmouth-phantoms/bids_test3",
         "type": "Dataset"
@@ -68,9 +73,30 @@
       }
     ],
     "dcterms:isPartOf": "5500090e-7aea-11e6-b268-002590f97d84",
-    "dcterms:modified": "2016-09-28T14:34:18-04:00",
+    "dcterms:modified": "2016-10-11T00:09:59-04:00",
     "type": "Dataset",
-    "version": "075d466fa908f2da61d9029a821d7c6eed1e4390"
+    "version": "c0d2ce3a27a840471ea7c3be50828b5be303b59d"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "85c4465e-7aea-11e6-a5d5-002590f97d84",
+    "author": "DataLad Team <team@datalad.org>",
+    "contributors": [
+      "Yaroslav Halchenko <debian@onerussian.com>"
+    ],
+    "dcterms:conformsTo": [
+      "http://specs.frictionlessdata.io/data-packages",
+      "http://docs.datalad.org/metadata.html#v0-1"
+    ],
+    "homepage": "http://datasets.datalad.org/?dir=/dicoms/dartmouth-phantoms",
+    "keywords": [
+      "DICOM",
+      "NeuroImaging"
+    ],
+    "license": "http://opendatacommons.org/licenses/pddl/",
+    "name": "Various DICOMs acquired on phantoms from DBIC",
+    "title": "Various collections of DICOM files from DBIC (http://dbic.dartmouth.edu) for QA, software and methods testing etc",
+    "type": "Dataset"
   },
   {
     "@context": "http://schema.org/",
@@ -121,6 +147,29 @@
     "dcterms:modified": "2016-09-28T14:08:30-04:00",
     "type": "Dataset",
     "version": "b17d1c7304ac5d1d32ff52f4c42ac22fa44023de"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "9325a4f4-8f68-11e6-bd1c-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "4db8b3b5-b7da-4f95-ae77-b8dcb76f271d",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/dicoms/dartmouth-phantoms/Philips-20131217 [datalad-public]"
+      },
+      {
+        "@id": "8381ffd4-1291-4e0b-b358-8cd868920775",
+        "description": "yoh@head1:/data/QA/yoh/DICOMs/20131217-Phantom [origin]"
+      },
+      {
+        "@id": "d49a6417-6ecb-4bb3-b86e-a611609cac9a",
+        "description": "yoh@smaug:/mnt/datasets/datalad/crawl/dicoms/dartmouth-phantoms/20131217-Phantom"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "85c4465e-7aea-11e6-a5d5-002590f97d84",
+    "dcterms:modified": "2015-07-09T15:32:55-04:00",
+    "type": "Dataset",
+    "version": "74ae276508e9da3ad7d2754231d224ffeedd5c7d"
   },
   {
     "@context": "http://schema.org/",
@@ -211,8 +260,25 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "5500090e-7aea-11e6-b268-002590f97d84",
-    "dcterms:modified": "2016-09-14T22:17:38-04:00",
+    "dcterms:modified": "2016-10-11T00:12:28-04:00",
     "type": "Dataset",
-    "version": "f24908fd2901572b3867e803ec16f8746d6a7b97"
+    "version": "1c7554ebae4ba870583ac02a32e12b3f38314824"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "9183b182-7aea-11e6-8706-002590f97d84",
+    "dcterms:conformsTo": [
+      "http://specs.frictionlessdata.io/data-packages",
+      "http://docs.datalad.org/metadata.html#v0-1"
+    ],
+    "homepage": "https://www.nitrc.org/projects/rosetta/",
+    "keywords": [
+      "DICOM",
+      "NeuroImaging"
+    ],
+    "license": "http://nbirn.net/bdr/Data_Use_Agreement_09_19_07-1.pdf",
+    "name": "Collections of DICOM files",
+    "title": "Public datasets that have been transcoded into multiple formats",
+    "type": "Dataset"
   }
 ]
