@@ -9,9 +9,20 @@
       "type": "Dataset"
     },
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2016-09-14T23:30:14-04:00",
+    "dcterms:modified": "2016-10-11T00:24:21-04:00",
     "type": "Dataset",
-    "version": "d41e6435203e3de24ffa4ed2875745fcf8b87a72"
+    "version": "8a98ac8fc9dffb73ef14fc8a1967404bcff4f6c0"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "f3fab990-7474-11e6-938a-002590f97d84",
+    "dcterms:conformsTo": [
+      "http://specs.frictionlessdata.io/data-packages",
+      "http://docs.datalad.org/metadata.html#v0-1"
+    ],
+    "homepage": "http://kaggle.com",
+    "name": "Some datasets from Kaggle",
+    "type": "Dataset"
   },
   {
     "@context": "http://schema.org/",

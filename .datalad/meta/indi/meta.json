@@ -9,9 +9,25 @@
       "type": "Dataset"
     },
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2016-09-18T20:48:15-04:00",
+    "dcterms:modified": "2016-10-11T00:22:47-04:00",
     "type": "Dataset",
-    "version": "d180bb3b05d1974219569a3475c729c299691859"
+    "version": "814b899be9f64e8f6a47670af4b5a7f51989539e"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "a67c9f18-7aea-11e6-8f6e-002590f97d84",
+    "author": "Michael Milham et al (prepared by DataLad Team)",
+    "dcterms:conformsTo": [
+      "http://specs.frictionlessdata.io/data-packages",
+      "http://docs.datalad.org/metadata.html#v0-1"
+    ],
+    "homepage": "http://fcon_1000.projects.nitrc.org/",
+    "keywords": [
+      "NeuroImaging"
+    ],
+    "name": "INDI (http://fcon_1000.projects.nitrc.org)",
+    "title": "Primarily MRI and fMRI from International Neuroimaging Data-sharing Initiative",
+    "type": "Dataset"
   },
   {
     "@context": "http://schema.org/",

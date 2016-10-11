@@ -266,9 +266,25 @@
       }
     ],
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2016-09-19T20:37:00-04:00",
+    "dcterms:modified": "2016-10-11T00:20:29-04:00",
     "type": "Dataset",
-    "version": "b9c08cbb0e377ddf14b0ce3c3c39c42a5da54ff6"
+    "version": "a4e0e97963967a3e0dc6ba1523252b1aa8166204"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:conformsTo": [
+      "http://specs.frictionlessdata.io/data-packages",
+      "http://docs.datalad.org/metadata.html#v0-1"
+    ],
+    "homepage": "http://crcns.org",
+    "keywords": [
+      "NeuroImaging",
+      "Electrophysiology"
+    ],
+    "name": "CRCNS (http://crcns.org)",
+    "title": "Primarily electrophysiology data from CRCNS initiative",
+    "type": "Dataset"
   },
   {
     "@context": "http://schema.org/",
@@ -473,7 +489,7 @@
       },
       {
         "@id": "1a7005cb-7641-461b-b2bd-0afd697c4624",
-        "description": "datalad-public"
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/crcns/am-2 [datalad-public]"
       },
       {
         "@id": "3500d22e-547f-4bb1-91f8-dfbca0cfed5f",
@@ -482,9 +498,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2016-09-14T21:48:25-04:00",
+    "dcterms:modified": "2016-09-19T20:23:37-04:00",
     "type": "Dataset",
-    "version": "8024c25d783cdda810cc31919f2925ee3cc5f348"
+    "version": "a78b657532f19f9fde13712195072eb870391f44"
   },
   {
     "@context": "http://schema.org/",
@@ -585,7 +601,7 @@
       },
       {
         "@id": "9396d563-eeb3-4a11-ba01-7035506ec61d",
-        "description": "datalad-public"
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/crcns/ch-epfl-2009 [datalad-public]"
       }
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
@@ -652,6 +668,10 @@
     "@context": "http://schema.org/",
     "@id": "771a3e4c-7ae5-11e6-b936-002590f97d84",
     "availableFrom": [
+      {
+        "@id": "a8086bb6-c261-424d-a985-ebf355dfb905",
+        "description": "/srv/datasets.datalad.org/www/crcns/fcx-1 [datalad-public]"
+      },
       {
         "@id": "d9f61a86-5b5e-409d-92c6-deb5234cd739",
         "description": "yoh@smaug:/mnt/datasets/datalad/crawl/crcns/fcx-1"

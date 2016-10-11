@@ -281,9 +281,30 @@
       }
     ],
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2016-10-07T22:40:47-04:00",
+    "dcterms:modified": "2016-10-11T00:17:46-04:00",
     "type": "Dataset",
-    "version": "cb3e6e2916ae7eb30587a29b8b27edfb3a19fcc0"
+    "version": "d6e9b70263740118d4cc74450ce4998119faf4f0"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "14114028-7d08-11e6-9ce4-002590f97d84",
+    "author": "Russel Poldrack et al (prepared by DataLad Team)",
+    "contributors": [
+      "Yaroslav Halchenko <debian@onerussian.com>"
+    ],
+    "dcterms:conformsTo": [
+      "http://specs.frictionlessdata.io/data-packages",
+      "http://docs.datalad.org/metadata.html#v0-1"
+    ],
+    "homepage": "http://openfmri.org",
+    "keywords": [
+      "BIDS",
+      "NeuroImaging"
+    ],
+    "license": "http://opendatacommons.org/licenses/pddl/",
+    "name": "OpenfMRI (http://openfmri.org)",
+    "title": "Primarily fMRI (but also E/MEEG data) for various neuroimaging experiments collated from various labs",
+    "type": "Dataset"
   },
   {
     "@context": "http://schema.org/",
