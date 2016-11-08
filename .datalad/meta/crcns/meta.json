@@ -1,277 +1,21 @@
 [
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "76a53362-7ae6-11e6-a6c8-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
-    "dcterms:hasPart": [
-      {
-        "@id": "90b052f0-7ae6-11e6-a6c8-002590f97d84",
-        "location": "ret-1",
-        "type": "Dataset"
-      },
-      {
-        "@id": "7f36ee44-7ae6-11e6-a6c8-002590f97d84",
-        "location": "cai-2",
-        "type": "Dataset"
-      },
-      {
-        "@id": "7ea1e0b0-7ae6-11e6-a6c8-002590f97d84",
-        "location": "cai-1",
-        "type": "Dataset"
-      },
-      {
-        "@id": "7e59d0d6-7ae6-11e6-a6c8-002590f97d84",
-        "location": "bst-1",
-        "type": "Dataset"
-      },
-      {
-        "@id": "85ff61d4-7ae6-11e6-a6c8-002590f97d84",
-        "location": "lgn-1",
-        "type": "Dataset"
-      },
-      {
-        "@id": "6065deb0-7a7f-11e6-921b-002590f97d84",
-        "location": "ch-epfl-2009",
-        "type": "Dataset"
-      },
-      {
-        "@id": "907cb62a-7ae6-11e6-a6c8-002590f97d84",
-        "location": "pvc-9",
-        "type": "Dataset"
-      },
-      {
-        "@id": "9014dfdc-7ae6-11e6-a6c8-002590f97d84",
-        "location": "pvc-8",
-        "type": "Dataset"
-      },
-      {
-        "@id": "8fec0d78-7ae6-11e6-a6c8-002590f97d84",
-        "location": "pvc-7",
-        "type": "Dataset"
-      },
-      {
-        "@id": "862c0112-7ae6-11e6-a6c8-002590f97d84",
-        "location": "mt-1",
-        "type": "Dataset"
-      },
-      {
-        "@id": "8f750534-7ae6-11e6-a6c8-002590f97d84",
-        "location": "pvc-5",
-        "type": "Dataset"
-      },
-      {
-        "@id": "8edd84ca-7ae6-11e6-a6c8-002590f97d84",
-        "location": "pvc-4",
-        "type": "Dataset"
-      },
-      {
-        "@id": "8e9e2320-7ae6-11e6-a6c8-002590f97d84",
-        "location": "pvc-3",
-        "type": "Dataset"
-      },
-      {
-        "@id": "8e4b846c-7ae6-11e6-a6c8-002590f97d84",
-        "location": "pvc-2",
-        "type": "Dataset"
-      },
-      {
-        "@id": "88e85018-7ae6-11e6-a6c8-002590f97d84",
-        "location": "pvc-1",
-        "type": "Dataset"
-      },
-      {
-        "@id": "90e8cd42-7ae6-11e6-a6c8-002590f97d84",
-        "location": "sim-1",
-        "type": "Dataset"
-      },
-      {
-        "@id": "88804162-7ae6-11e6-a6c8-002590f97d84",
-        "location": "pfc-4",
-        "type": "Dataset"
-      },
-      {
-        "@id": "87dc9cd8-7ae6-11e6-a6c8-002590f97d84",
-        "location": "pfc-3",
-        "type": "Dataset"
-      },
-      {
-        "@id": "873a6eae-7ae6-11e6-a6c8-002590f97d84",
-        "location": "pfc-2",
-        "type": "Dataset"
-      },
-      {
-        "@id": "86e55342-7ae6-11e6-a6c8-002590f97d84",
-        "location": "pfc-1",
-        "type": "Dataset"
-      },
-      {
-        "@id": "8085c5c2-7ae6-11e6-a6c8-002590f97d84",
-        "location": "hc-1",
-        "type": "Dataset"
-      },
-      {
-        "@id": "80cf6df8-7ae6-11e6-a6c8-002590f97d84",
-        "location": "hc-2",
-        "type": "Dataset"
-      },
-      {
-        "@id": "8127a716-7ae6-11e6-a6c8-002590f97d84",
-        "location": "hc-3",
-        "type": "Dataset"
-      },
-      {
-        "@id": "8333c01c-7ae6-11e6-a6c8-002590f97d84",
-        "location": "hc-4",
-        "type": "Dataset"
-      },
-      {
-        "@id": "83df9ea0-7ae6-11e6-a6c8-002590f97d84",
-        "location": "hc-5",
-        "type": "Dataset"
-      },
-      {
-        "@id": "8461a1c0-7ae6-11e6-a6c8-002590f97d84",
-        "location": "hc-6",
-        "type": "Dataset"
-      },
-      {
-        "@id": "8dc0324a-7ae6-11e6-a6c8-002590f97d84",
-        "location": "pvc-10",
-        "type": "Dataset"
-      },
-      {
-        "@id": "85d8ffbc-7ae6-11e6-a6c8-002590f97d84",
-        "location": "infe-1",
-        "type": "Dataset"
-      },
-      {
-        "@id": "8fa20412-7ae6-11e6-a6c8-002590f97d84",
-        "location": "pvc-6",
-        "type": "Dataset"
-      },
-      {
-        "@id": "dbc7e258-7ae6-11e6-8994-002590f97d84",
-        "location": "zipser-1",
-        "type": "Dataset"
-      },
-      {
-        "@id": "866c51e0-7ae6-11e6-a6c8-002590f97d84",
-        "location": "ofc-1",
-        "type": "Dataset"
-      },
-      {
-        "@id": "869c7c12-7ae6-11e6-a6c8-002590f97d84",
-        "location": "ofc-2",
-        "type": "Dataset"
-      },
-      {
-        "@id": "9304647e-7ae6-11e6-a6c8-002590f97d84",
-        "location": "ssc-3",
-        "type": "Dataset"
-      },
-      {
-        "@id": "91ed10e0-7ae6-11e6-a6c8-002590f97d84",
-        "location": "ssc-2",
-        "type": "Dataset"
-      },
-      {
-        "@id": "91164eac-7ae6-11e6-a6c8-002590f97d84",
-        "location": "ssc-1",
-        "type": "Dataset"
-      },
-      {
-        "@id": "85621564-7ae6-11e6-a6c8-002590f97d84",
-        "location": "ia-1",
-        "type": "Dataset"
-      },
-      {
-        "@id": "7d2173f4-7ae6-11e6-a6c8-002590f97d84",
-        "location": "am-1",
-        "type": "Dataset"
-      },
-      {
-        "@id": "771a3e4c-7ae5-11e6-b936-002590f97d84",
-        "location": "fcx-1",
-        "type": "Dataset"
-      },
-      {
-        "@id": "9396d3e0-7ae6-11e6-a6c8-002590f97d84",
-        "location": "v2-1",
-        "type": "Dataset"
-      },
-      {
-        "@id": "7d87f660-7ae6-11e6-a6c8-002590f97d84",
-        "location": "am-2",
-        "type": "Dataset"
-      },
-      {
-        "@id": "9337143c-7ae6-11e6-a6c8-002590f97d84",
-        "location": "th-1",
-        "type": "Dataset"
-      },
-      {
-        "@id": "7f8f52e6-7ae6-11e6-a6c8-002590f97d84",
-        "location": "dream",
-        "type": "Dataset"
-      },
-      {
-        "@id": "948d3b0e-7ae6-11e6-a6c8-002590f97d84",
-        "location": "vim-2",
-        "type": "Dataset"
-      },
-      {
-        "@id": "95562fd2-7ae6-11e6-a6c8-002590f97d84",
-        "location": "vim-3",
-        "type": "Dataset"
-      },
-      {
-        "@id": "93ed7c22-7ae6-11e6-a6c8-002590f97d84",
-        "location": "vim-1",
-        "type": "Dataset"
-      },
-      {
-        "@id": "7c3b42c6-7ae6-11e6-a6c8-002590f97d84",
-        "location": "alm-2",
-        "type": "Dataset"
-      },
-      {
-        "@id": "79bda21e-7ae6-11e6-a6c8-002590f97d84",
-        "location": "ac-2",
-        "type": "Dataset"
-      },
-      {
-        "@id": "79683158-7ae6-11e6-a6c8-002590f97d84",
-        "location": "ac-1",
-        "type": "Dataset"
-      },
-      {
-        "@id": "7a010f40-7ae6-11e6-a6c8-002590f97d84",
-        "location": "alm-1",
-        "type": "Dataset"
-      },
-      {
-        "@id": "77271f9e-7ae6-11e6-a6c8-002590f97d84",
-        "location": "aa-1",
-        "type": "Dataset"
-      },
-      {
-        "@id": "779a6cd8-7ae6-11e6-a6c8-002590f97d84",
-        "location": "aa-2",
-        "type": "Dataset"
-      },
-      {
-        "@id": "7ffcf18e-7ae6-11e6-a6c8-002590f97d84",
-        "location": "eye-1",
-        "type": "Dataset"
-      }
-    ],
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2016-10-11T00:20:29-04:00",
+    "dcterms:modified": "2016-11-07T23:35:00-05:00",
     "type": "Dataset",
-    "version": "a4e0e97963967a3e0dc6ba1523252b1aa8166204"
+    "version": "66dbd277dd4e5f11179ef91ae85fbe587be81ada"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "76a53362-7ae6-11e6-a6c8-002590f97d84",
     "dcterms:conformsTo": [
       "http://specs.frictionlessdata.io/data-packages",
@@ -283,8 +27,225 @@
       "Electrophysiology"
     ],
     "name": "CRCNS (http://crcns.org)",
-    "title": "Primarily electrophysiology data from CRCNS initiative",
-    "type": "Dataset"
+    "title": "Primarily electrophysiology data from CRCNS initiative"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:hasPart": [
+      {
+        "@id": "77271f9e-7ae6-11e6-a6c8-002590f97d84",
+        "location": "aa-1"
+      },
+      {
+        "@id": "779a6cd8-7ae6-11e6-a6c8-002590f97d84",
+        "location": "aa-2"
+      },
+      {
+        "@id": "79683158-7ae6-11e6-a6c8-002590f97d84",
+        "location": "ac-1"
+      },
+      {
+        "@id": "79bda21e-7ae6-11e6-a6c8-002590f97d84",
+        "location": "ac-2"
+      },
+      {
+        "@id": "7a010f40-7ae6-11e6-a6c8-002590f97d84",
+        "location": "alm-1"
+      },
+      {
+        "@id": "7c3b42c6-7ae6-11e6-a6c8-002590f97d84",
+        "location": "alm-2"
+      },
+      {
+        "@id": "7d2173f4-7ae6-11e6-a6c8-002590f97d84",
+        "location": "am-1"
+      },
+      {
+        "@id": "7d87f660-7ae6-11e6-a6c8-002590f97d84",
+        "location": "am-2"
+      },
+      {
+        "@id": "7e59d0d6-7ae6-11e6-a6c8-002590f97d84",
+        "location": "bst-1"
+      },
+      {
+        "@id": "7ea1e0b0-7ae6-11e6-a6c8-002590f97d84",
+        "location": "cai-1"
+      },
+      {
+        "@id": "7f36ee44-7ae6-11e6-a6c8-002590f97d84",
+        "location": "cai-2"
+      },
+      {
+        "@id": "6065deb0-7a7f-11e6-921b-002590f97d84",
+        "location": "ch-epfl-2009"
+      },
+      {
+        "@id": "7f8f52e6-7ae6-11e6-a6c8-002590f97d84",
+        "location": "dream"
+      },
+      {
+        "@id": "7ffcf18e-7ae6-11e6-a6c8-002590f97d84",
+        "location": "eye-1"
+      },
+      {
+        "@id": "771a3e4c-7ae5-11e6-b936-002590f97d84",
+        "location": "fcx-1"
+      },
+      {
+        "@id": "8085c5c2-7ae6-11e6-a6c8-002590f97d84",
+        "location": "hc-1"
+      },
+      {
+        "@id": "80cf6df8-7ae6-11e6-a6c8-002590f97d84",
+        "location": "hc-2"
+      },
+      {
+        "@id": "8127a716-7ae6-11e6-a6c8-002590f97d84",
+        "location": "hc-3"
+      },
+      {
+        "@id": "8333c01c-7ae6-11e6-a6c8-002590f97d84",
+        "location": "hc-4"
+      },
+      {
+        "@id": "83df9ea0-7ae6-11e6-a6c8-002590f97d84",
+        "location": "hc-5"
+      },
+      {
+        "@id": "8461a1c0-7ae6-11e6-a6c8-002590f97d84",
+        "location": "hc-6"
+      },
+      {
+        "@id": "85621564-7ae6-11e6-a6c8-002590f97d84",
+        "location": "ia-1"
+      },
+      {
+        "@id": "85d8ffbc-7ae6-11e6-a6c8-002590f97d84",
+        "location": "infe-1"
+      },
+      {
+        "@id": "85ff61d4-7ae6-11e6-a6c8-002590f97d84",
+        "location": "lgn-1"
+      },
+      {
+        "@id": "862c0112-7ae6-11e6-a6c8-002590f97d84",
+        "location": "mt-1"
+      },
+      {
+        "@id": "866c51e0-7ae6-11e6-a6c8-002590f97d84",
+        "location": "ofc-1"
+      },
+      {
+        "@id": "869c7c12-7ae6-11e6-a6c8-002590f97d84",
+        "location": "ofc-2"
+      },
+      {
+        "@id": "86e55342-7ae6-11e6-a6c8-002590f97d84",
+        "location": "pfc-1"
+      },
+      {
+        "@id": "873a6eae-7ae6-11e6-a6c8-002590f97d84",
+        "location": "pfc-2"
+      },
+      {
+        "@id": "87dc9cd8-7ae6-11e6-a6c8-002590f97d84",
+        "location": "pfc-3"
+      },
+      {
+        "@id": "88804162-7ae6-11e6-a6c8-002590f97d84",
+        "location": "pfc-4"
+      },
+      {
+        "@id": "88e85018-7ae6-11e6-a6c8-002590f97d84",
+        "location": "pvc-1"
+      },
+      {
+        "@id": "8dc0324a-7ae6-11e6-a6c8-002590f97d84",
+        "location": "pvc-10"
+      },
+      {
+        "@id": "8e4b846c-7ae6-11e6-a6c8-002590f97d84",
+        "location": "pvc-2"
+      },
+      {
+        "@id": "8e9e2320-7ae6-11e6-a6c8-002590f97d84",
+        "location": "pvc-3"
+      },
+      {
+        "@id": "8edd84ca-7ae6-11e6-a6c8-002590f97d84",
+        "location": "pvc-4"
+      },
+      {
+        "@id": "8f750534-7ae6-11e6-a6c8-002590f97d84",
+        "location": "pvc-5"
+      },
+      {
+        "@id": "8fa20412-7ae6-11e6-a6c8-002590f97d84",
+        "location": "pvc-6"
+      },
+      {
+        "@id": "8fec0d78-7ae6-11e6-a6c8-002590f97d84",
+        "location": "pvc-7"
+      },
+      {
+        "@id": "9014dfdc-7ae6-11e6-a6c8-002590f97d84",
+        "location": "pvc-8"
+      },
+      {
+        "@id": "907cb62a-7ae6-11e6-a6c8-002590f97d84",
+        "location": "pvc-9"
+      },
+      {
+        "@id": "90b052f0-7ae6-11e6-a6c8-002590f97d84",
+        "location": "ret-1"
+      },
+      {
+        "@id": "90e8cd42-7ae6-11e6-a6c8-002590f97d84",
+        "location": "sim-1"
+      },
+      {
+        "@id": "91164eac-7ae6-11e6-a6c8-002590f97d84",
+        "location": "ssc-1"
+      },
+      {
+        "@id": "91ed10e0-7ae6-11e6-a6c8-002590f97d84",
+        "location": "ssc-2"
+      },
+      {
+        "@id": "9304647e-7ae6-11e6-a6c8-002590f97d84",
+        "location": "ssc-3"
+      },
+      {
+        "@id": "9337143c-7ae6-11e6-a6c8-002590f97d84",
+        "location": "th-1"
+      },
+      {
+        "@id": "9396d3e0-7ae6-11e6-a6c8-002590f97d84",
+        "location": "v2-1"
+      },
+      {
+        "@id": "93ed7c22-7ae6-11e6-a6c8-002590f97d84",
+        "location": "vim-1"
+      },
+      {
+        "@id": "948d3b0e-7ae6-11e6-a6c8-002590f97d84",
+        "location": "vim-2"
+      },
+      {
+        "@id": "95562fd2-7ae6-11e6-a6c8-002590f97d84",
+        "location": "vim-3"
+      },
+      {
+        "@id": "dbc7e258-7ae6-11e6-8994-002590f97d84",
+        "location": "zipser-1"
+      }
+    ]
   },
   {
     "@context": "http://schema.org/",

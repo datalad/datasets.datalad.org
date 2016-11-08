@@ -1,32 +1,21 @@
 [
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "5500090e-7aea-11e6-b268-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
-    "dcterms:hasPart": [
-      {
-        "@id": "031991c8-7ed7-11e6-a607-002590f97d84",
-        "location": "dcm2niix-tests",
-        "type": "Dataset"
-      },
-      {
-        "@id": "85c4465e-7aea-11e6-a5d5-002590f97d84",
-        "location": "dartmouth-phantoms",
-        "type": "Dataset"
-      },
-      {
-        "@id": "9183b182-7aea-11e6-8706-002590f97d84",
-        "location": "rosetta",
-        "type": "Dataset"
-      }
-    ],
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2016-10-11T00:12:48-04:00",
+    "dcterms:modified": "2016-11-07T23:35:02-05:00",
     "type": "Dataset",
-    "version": "d2ae0e459fc11cc274eff81b717d9c8ce29ad0c1"
+    "version": "7d2d559c0fffb1a1923fa8753e13df18150c3cd4"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "5500090e-7aea-11e6-b268-002590f97d84",
     "author": "DataLad Team <team@datalad.org>",
     "contributors": [
@@ -43,8 +32,29 @@
     ],
     "license": "http://opendatacommons.org/licenses/pddl/",
     "name": "Collections of DICOM files",
-    "title": "Various collections of DICOM files which could be used for software and methods testing",
-    "type": "Dataset"
+    "title": "Various collections of DICOM files which could be used for software and methods testing"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "5500090e-7aea-11e6-b268-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:hasPart": [
+      {
+        "@id": "85c4465e-7aea-11e6-a5d5-002590f97d84",
+        "location": "dartmouth-phantoms"
+      },
+      {
+        "@id": "9183b182-7aea-11e6-8706-002590f97d84",
+        "location": "rosetta"
+      },
+      {
+        "@id": "031991c8-7ed7-11e6-a607-002590f97d84",
+        "location": "dcm2niix-tests"
+      }
+    ]
   },
   {
     "@context": "http://schema.org/",
@@ -196,6 +206,46 @@
   },
   {
     "@context": "http://schema.org/",
+    "@id": "9183b182-7aea-11e6-8706-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "f2b42741-720e-4192-b1db-da941ea5dfd4",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "f4ae0814-ef69-4659-a415-f5b8c4244373",
+        "description": "/srv/datasets.datalad.org/www/dicoms/rosetta [datalad-public]"
+      },
+      {
+        "@id": "f898e958-3518-496f-8e66-8e3d094df6b2",
+        "description": "yoh@smaug:~/deb/perspect/rosetta"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "5500090e-7aea-11e6-b268-002590f97d84",
+    "dcterms:modified": "2016-10-11T00:12:28-04:00",
+    "type": "Dataset",
+    "version": "1c7554ebae4ba870583ac02a32e12b3f38314824"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@id": "9183b182-7aea-11e6-8706-002590f97d84",
+    "dcterms:conformsTo": [
+      "http://specs.frictionlessdata.io/data-packages",
+      "http://docs.datalad.org/metadata.html#v0-1"
+    ],
+    "homepage": "https://www.nitrc.org/projects/rosetta/",
+    "keywords": [
+      "DICOM",
+      "NeuroImaging"
+    ],
+    "license": "http://nbirn.net/bdr/Data_Use_Agreement_09_19_07-1.pdf",
+    "name": "Collections of DICOM files",
+    "title": "Public datasets that have been transcoded into multiple formats",
+    "type": "Dataset"
+  },
+  {
+    "@context": "http://schema.org/",
     "@id": "031991c8-7ed7-11e6-a607-002590f97d84",
     "availableFrom": [
       {
@@ -239,46 +289,6 @@
     "license": "http://opendatacommons.org/licenses/pddl/",
     "name": "dcm2niix-tests",
     "title": "DICOMs for testing dcm2niix functionality",
-    "type": "Dataset"
-  },
-  {
-    "@context": "http://schema.org/",
-    "@id": "9183b182-7aea-11e6-8706-002590f97d84",
-    "availableFrom": [
-      {
-        "@id": "f2b42741-720e-4192-b1db-da941ea5dfd4",
-        "description": "[datalad-archives]"
-      },
-      {
-        "@id": "f4ae0814-ef69-4659-a415-f5b8c4244373",
-        "description": "/srv/datasets.datalad.org/www/dicoms/rosetta [datalad-public]"
-      },
-      {
-        "@id": "f898e958-3518-496f-8e66-8e3d094df6b2",
-        "description": "yoh@smaug:~/deb/perspect/rosetta"
-      }
-    ],
-    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
-    "dcterms:isPartOf": "5500090e-7aea-11e6-b268-002590f97d84",
-    "dcterms:modified": "2016-10-11T00:12:28-04:00",
-    "type": "Dataset",
-    "version": "1c7554ebae4ba870583ac02a32e12b3f38314824"
-  },
-  {
-    "@context": "http://schema.org/",
-    "@id": "9183b182-7aea-11e6-8706-002590f97d84",
-    "dcterms:conformsTo": [
-      "http://specs.frictionlessdata.io/data-packages",
-      "http://docs.datalad.org/metadata.html#v0-1"
-    ],
-    "homepage": "https://www.nitrc.org/projects/rosetta/",
-    "keywords": [
-      "DICOM",
-      "NeuroImaging"
-    ],
-    "license": "http://nbirn.net/bdr/Data_Use_Agreement_09_19_07-1.pdf",
-    "name": "Collections of DICOM files",
-    "title": "Public datasets that have been transcoded into multiple formats",
     "type": "Dataset"
   }
 ]

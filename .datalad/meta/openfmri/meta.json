@@ -1,292 +1,21 @@
 [
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "14114028-7d08-11e6-9ce4-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
-    "dcterms:hasPart": [
-      {
-        "@id": "0be965d2-7df9-11e6-8623-002590f97d84",
-        "location": "ds000158",
-        "type": "Dataset"
-      },
-      {
-        "@id": "a43ec748-7df7-11e6-bf7d-002590f97d84",
-        "location": "ds000113d",
-        "type": "Dataset"
-      },
-      {
-        "@id": "94ae712a-7df7-11e6-ac6b-002590f97d84",
-        "location": "ds000113c",
-        "type": "Dataset"
-      },
-      {
-        "@id": "8aa835ee-7df7-11e6-bf2b-002590f97d84",
-        "location": "ds000113b",
-        "type": "Dataset"
-      },
-      {
-        "@id": "b130214a-7df7-11e6-887b-002590f97d84",
-        "location": "ds000114",
-        "type": "Dataset"
-      },
-      {
-        "@id": "2b21e94c-7df9-11e6-aaee-002590f97d84",
-        "location": "ds000171",
-        "type": "Dataset"
-      },
-      {
-        "@id": "2225c976-7df9-11e6-a070-002590f97d84",
-        "location": "ds000170",
-        "type": "Dataset"
-      },
-      {
-        "@id": "7a878e48-7df8-11e6-8118-002590f97d84",
-        "location": "ds000119",
-        "type": "Dataset"
-      },
-      {
-        "@id": "a98549aa-7e99-11e6-bd2c-002590f97d84",
-        "location": "ds000030",
-        "type": "Dataset"
-      },
-      {
-        "@id": "679095a4-7e99-11e6-9c94-002590f97d84",
-        "location": "ds000031",
-        "type": "Dataset"
-      },
-      {
-        "@id": "a322941a-7df8-11e6-b188-002590f97d84",
-        "location": "ds000121",
-        "type": "Dataset"
-      },
-      {
-        "@id": "6ff5b7c8-7dfa-11e6-b5c8-002590f97d84",
-        "location": "ds000177",
-        "type": "Dataset"
-      },
-      {
-        "@id": "5c36d01c-7df7-11e6-8057-002590f97d84",
-        "location": "ds000110",
-        "type": "Dataset"
-      },
-      {
-        "@id": "764d7078-7df7-11e6-9321-002590f97d84",
-        "location": "ds000113",
-        "type": "Dataset"
-      },
-      {
-        "@id": "488c85cc-7dfa-11e6-9067-002590f97d84",
-        "location": "ds000174",
-        "type": "Dataset"
-      },
-      {
-        "@id": "d0642c32-7df7-11e6-b9e4-002590f97d84",
-        "location": "ds000115",
-        "type": "Dataset"
-      },
-      {
-        "@id": "9903de1a-7df5-11e6-b6e8-002590f97d84",
-        "location": "ds000011",
-        "type": "Dataset"
-      },
-      {
-        "@id": "6b3fec48-7e0a-11e6-a025-002590f97d84",
-        "location": "ds000117",
-        "type": "Dataset"
-      },
-      {
-        "@id": "01357c08-7df8-11e6-9a71-002590f97d84",
-        "location": "ds000116",
-        "type": "Dataset"
-      },
-      {
-        "@id": "b4c4d674-7df8-11e6-9054-002590f97d84",
-        "location": "ds000133",
-        "type": "Dataset"
-      },
-      {
-        "@id": "8d539320-7df6-11e6-9e44-002590f97d84",
-        "location": "ds000051",
-        "type": "Dataset"
-      },
-      {
-        "@id": "a26ee296-7df6-11e6-9010-002590f97d84",
-        "location": "ds000052",
-        "type": "Dataset"
-      },
-      {
-        "@id": "e66853a6-7df6-11e6-888d-002590f97d84",
-        "location": "ds000053",
-        "type": "Dataset"
-      },
-      {
-        "@id": "75cd6882-7baf-11e6-a303-002590f97d84",
-        "location": "ds000157",
-        "type": "Dataset"
-      },
-      {
-        "@id": "87c83672-80fd-11e6-bf7d-002590f97d84",
-        "location": "ds000208",
-        "type": "Dataset"
-      },
-      {
-        "@id": "c813dbee-7df8-11e6-8cef-002590f97d84",
-        "location": "ds000140",
-        "type": "Dataset"
-      },
-      {
-        "@id": "32761efc-7df9-11e6-877a-002590f97d84",
-        "location": "ds000172",
-        "type": "Dataset"
-      },
-      {
-        "@id": "f25940fe-7df5-11e6-8103-002590f97d84",
-        "location": "ds000017A",
-        "type": "Dataset"
-      },
-      {
-        "@id": "1284b9c6-7df6-11e6-a1cd-002590f97d84",
-        "location": "ds000017B",
-        "type": "Dataset"
-      },
-      {
-        "@id": "18be089e-7232-11e6-885a-002590f97d84",
-        "location": "ds000206",
-        "type": "Dataset"
-      },
-      {
-        "@id": "1642ae62-7df9-11e6-bbe2-002590f97d84",
-        "location": "ds000168",
-        "type": "Dataset"
-      },
-      {
-        "@id": "34ded716-7d0d-11e6-9320-002590f97d84",
-        "location": "ds000009",
-        "type": "Dataset"
-      },
-      {
-        "@id": "4842e188-7df5-11e6-8e6b-002590f97d84",
-        "location": "ds000008",
-        "type": "Dataset"
-      },
-      {
-        "@id": "34a8d452-7df5-11e6-bfcd-002590f97d84",
-        "location": "ds000007",
-        "type": "Dataset"
-      },
-      {
-        "@id": "1a286fb6-7df5-11e6-86c4-002590f97d84",
-        "location": "ds000006",
-        "type": "Dataset"
-      },
-      {
-        "@id": "0055019e-7df5-11e6-8251-002590f97d84",
-        "location": "ds000005",
-        "type": "Dataset"
-      },
-      {
-        "@id": "cf71a006-7df8-11e6-beb1-002590f97d84",
-        "location": "ds000149",
-        "type": "Dataset"
-      },
-      {
-        "@id": "e360fb06-7df4-11e6-8d00-002590f97d84",
-        "location": "ds000003",
-        "type": "Dataset"
-      },
-      {
-        "@id": "d0e8cec2-7df4-11e6-8c5a-002590f97d84",
-        "location": "ds000002",
-        "type": "Dataset"
-      },
-      {
-        "@id": "233cc486-7d0e-11e6-855b-002590f97d84",
-        "location": "ds000001",
-        "type": "Dataset"
-      },
-      {
-        "@id": "7d3602a8-7dfa-11e6-831a-002590f97d84",
-        "location": "ds000200",
-        "type": "Dataset"
-      },
-      {
-        "@id": "91ee8050-7df8-11e6-9699-002590f97d84",
-        "location": "ds000120",
-        "type": "Dataset"
-      },
-      {
-        "@id": "2f977160-7df7-11e6-9015-002590f97d84",
-        "location": "ds000107",
-        "type": "Dataset"
-      },
-      {
-        "@id": "abb8edd6-7df8-11e6-b012-002590f97d84",
-        "location": "ds000122",
-        "type": "Dataset"
-      },
-      {
-        "@id": "0dba8ed8-7df7-11e6-8819-002590f97d84",
-        "location": "ds000105",
-        "type": "Dataset"
-      },
-      {
-        "@id": "fa8951e6-7df6-11e6-a090-002590f97d84",
-        "location": "ds000102",
-        "type": "Dataset"
-      },
-      {
-        "@id": "cd0fad10-7dfa-11e6-9ced-002590f97d84",
-        "location": "ds000203",
-        "type": "Dataset"
-      },
-      {
-        "@id": "ddd60512-7df6-11e6-b4ef-002590f97d84",
-        "location": "ds000101",
-        "type": "Dataset"
-      },
-      {
-        "@id": "18003eae-7232-11e6-885a-002590f97d84",
-        "location": "ds000205",
-        "type": "Dataset"
-      },
-      {
-        "@id": "e255e3e2-7dfa-11e6-aaba-002590f97d84",
-        "location": "ds000204",
-        "type": "Dataset"
-      },
-      {
-        "@id": "baf16f38-7dfa-11e6-84b7-002590f97d84",
-        "location": "ds000202",
-        "type": "Dataset"
-      },
-      {
-        "@id": "372a01da-7bb4-11e6-9994-002590f97d84",
-        "location": "ds000201",
-        "type": "Dataset"
-      },
-      {
-        "@id": "d9b97944-7df8-11e6-a1a3-002590f97d84",
-        "location": "ds000148",
-        "type": "Dataset"
-      },
-      {
-        "@id": "45984e4e-7df7-11e6-a9bc-002590f97d84",
-        "location": "ds000108",
-        "type": "Dataset"
-      },
-      {
-        "@id": "50e68770-7df7-11e6-92ce-002590f97d84",
-        "location": "ds000109",
-        "type": "Dataset"
-      }
-    ],
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2016-10-11T00:17:46-04:00",
+    "dcterms:modified": "2016-11-07T23:02:14-05:00",
     "type": "Dataset",
-    "version": "d6e9b70263740118d4cc74450ce4998119faf4f0"
+    "version": "4cb90b9892e0b90a1cf45d2e1add5e24af149886"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "14114028-7d08-11e6-9ce4-002590f97d84",
     "author": "Russel Poldrack et al (prepared by DataLad Team)",
     "contributors": [
@@ -303,11 +32,247 @@
     ],
     "license": "http://opendatacommons.org/licenses/pddl/",
     "name": "OpenfMRI (http://openfmri.org)",
-    "title": "Primarily fMRI (but also E/MEEG data) for various neuroimaging experiments collated from various labs",
-    "type": "Dataset"
+    "title": "Primarily fMRI (but also E/MEEG data) for various neuroimaging experiments collated from various labs"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "14114028-7d08-11e6-9ce4-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:hasPart": [
+      {
+        "@id": "233cc486-7d0e-11e6-855b-002590f97d84",
+        "location": "ds000001"
+      },
+      {
+        "@id": "d0e8cec2-7df4-11e6-8c5a-002590f97d84",
+        "location": "ds000002"
+      },
+      {
+        "@id": "e360fb06-7df4-11e6-8d00-002590f97d84",
+        "location": "ds000003"
+      },
+      {
+        "@id": "0055019e-7df5-11e6-8251-002590f97d84",
+        "location": "ds000005"
+      },
+      {
+        "@id": "1a286fb6-7df5-11e6-86c4-002590f97d84",
+        "location": "ds000006"
+      },
+      {
+        "@id": "34a8d452-7df5-11e6-bfcd-002590f97d84",
+        "location": "ds000007"
+      },
+      {
+        "@id": "4842e188-7df5-11e6-8e6b-002590f97d84",
+        "location": "ds000008"
+      },
+      {
+        "@id": "34ded716-7d0d-11e6-9320-002590f97d84",
+        "location": "ds000009"
+      },
+      {
+        "@id": "9903de1a-7df5-11e6-b6e8-002590f97d84",
+        "location": "ds000011"
+      },
+      {
+        "@id": "f25940fe-7df5-11e6-8103-002590f97d84",
+        "location": "ds000017A"
+      },
+      {
+        "@id": "1284b9c6-7df6-11e6-a1cd-002590f97d84",
+        "location": "ds000017B"
+      },
+      {
+        "@id": "a98549aa-7e99-11e6-bd2c-002590f97d84",
+        "location": "ds000030"
+      },
+      {
+        "@id": "679095a4-7e99-11e6-9c94-002590f97d84",
+        "location": "ds000031"
+      },
+      {
+        "@id": "8d539320-7df6-11e6-9e44-002590f97d84",
+        "location": "ds000051"
+      },
+      {
+        "@id": "a26ee296-7df6-11e6-9010-002590f97d84",
+        "location": "ds000052"
+      },
+      {
+        "@id": "e66853a6-7df6-11e6-888d-002590f97d84",
+        "location": "ds000053"
+      },
+      {
+        "@id": "ddd60512-7df6-11e6-b4ef-002590f97d84",
+        "location": "ds000101"
+      },
+      {
+        "@id": "fa8951e6-7df6-11e6-a090-002590f97d84",
+        "location": "ds000102"
+      },
+      {
+        "@id": "0dba8ed8-7df7-11e6-8819-002590f97d84",
+        "location": "ds000105"
+      },
+      {
+        "@id": "2f977160-7df7-11e6-9015-002590f97d84",
+        "location": "ds000107"
+      },
+      {
+        "@id": "45984e4e-7df7-11e6-a9bc-002590f97d84",
+        "location": "ds000108"
+      },
+      {
+        "@id": "50e68770-7df7-11e6-92ce-002590f97d84",
+        "location": "ds000109"
+      },
+      {
+        "@id": "5c36d01c-7df7-11e6-8057-002590f97d84",
+        "location": "ds000110"
+      },
+      {
+        "@id": "764d7078-7df7-11e6-9321-002590f97d84",
+        "location": "ds000113"
+      },
+      {
+        "@id": "8aa835ee-7df7-11e6-bf2b-002590f97d84",
+        "location": "ds000113b"
+      },
+      {
+        "@id": "94ae712a-7df7-11e6-ac6b-002590f97d84",
+        "location": "ds000113c"
+      },
+      {
+        "@id": "a43ec748-7df7-11e6-bf7d-002590f97d84",
+        "location": "ds000113d"
+      },
+      {
+        "@id": "b130214a-7df7-11e6-887b-002590f97d84",
+        "location": "ds000114"
+      },
+      {
+        "@id": "d0642c32-7df7-11e6-b9e4-002590f97d84",
+        "location": "ds000115"
+      },
+      {
+        "@id": "01357c08-7df8-11e6-9a71-002590f97d84",
+        "location": "ds000116"
+      },
+      {
+        "@id": "6b3fec48-7e0a-11e6-a025-002590f97d84",
+        "location": "ds000117"
+      },
+      {
+        "@id": "7a878e48-7df8-11e6-8118-002590f97d84",
+        "location": "ds000119"
+      },
+      {
+        "@id": "91ee8050-7df8-11e6-9699-002590f97d84",
+        "location": "ds000120"
+      },
+      {
+        "@id": "a322941a-7df8-11e6-b188-002590f97d84",
+        "location": "ds000121"
+      },
+      {
+        "@id": "abb8edd6-7df8-11e6-b012-002590f97d84",
+        "location": "ds000122"
+      },
+      {
+        "@id": "b4c4d674-7df8-11e6-9054-002590f97d84",
+        "location": "ds000133"
+      },
+      {
+        "@id": "c813dbee-7df8-11e6-8cef-002590f97d84",
+        "location": "ds000140"
+      },
+      {
+        "@id": "d9b97944-7df8-11e6-a1a3-002590f97d84",
+        "location": "ds000148"
+      },
+      {
+        "@id": "cf71a006-7df8-11e6-beb1-002590f97d84",
+        "location": "ds000149"
+      },
+      {
+        "@id": "75cd6882-7baf-11e6-a303-002590f97d84",
+        "location": "ds000157"
+      },
+      {
+        "@id": "0be965d2-7df9-11e6-8623-002590f97d84",
+        "location": "ds000158"
+      },
+      {
+        "@id": "1642ae62-7df9-11e6-bbe2-002590f97d84",
+        "location": "ds000168"
+      },
+      {
+        "@id": "2225c976-7df9-11e6-a070-002590f97d84",
+        "location": "ds000170"
+      },
+      {
+        "@id": "2b21e94c-7df9-11e6-aaee-002590f97d84",
+        "location": "ds000171"
+      },
+      {
+        "@id": "32761efc-7df9-11e6-877a-002590f97d84",
+        "location": "ds000172"
+      },
+      {
+        "@id": "488c85cc-7dfa-11e6-9067-002590f97d84",
+        "location": "ds000174"
+      },
+      {
+        "@id": "6ff5b7c8-7dfa-11e6-b5c8-002590f97d84",
+        "location": "ds000177"
+      },
+      {
+        "@id": "7d3602a8-7dfa-11e6-831a-002590f97d84",
+        "location": "ds000200"
+      },
+      {
+        "@id": "372a01da-7bb4-11e6-9994-002590f97d84",
+        "location": "ds000201"
+      },
+      {
+        "@id": "baf16f38-7dfa-11e6-84b7-002590f97d84",
+        "location": "ds000202"
+      },
+      {
+        "@id": "cd0fad10-7dfa-11e6-9ced-002590f97d84",
+        "location": "ds000203"
+      },
+      {
+        "@id": "e255e3e2-7dfa-11e6-aaba-002590f97d84",
+        "location": "ds000204"
+      },
+      {
+        "@id": "18003eae-7232-11e6-885a-002590f97d84",
+        "location": "ds000205"
+      },
+      {
+        "@id": "18be089e-7232-11e6-885a-002590f97d84",
+        "location": "ds000206"
+      },
+      {
+        "@id": "87c83672-80fd-11e6-bf7d-002590f97d84",
+        "location": "ds000208"
+      },
+      {
+        "@id": "9ff28c78-9d4c-11e6-889a-002590f97d84",
+        "location": "ds000210"
+      }
+    ]
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "233cc486-7d0e-11e6-855b-002590f97d84",
     "availableFrom": [
       {
@@ -319,30 +284,55 @@
         "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000001"
       },
       {
+        "@id": "ce96a357-a40c-4107-9039-77124f428aae",
+        "description": "[datalad]"
+      },
+      {
         "@id": "f4cc85b8-e252-4c4d-9c35-6dc64ce87317",
         "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000001 [datalad-public]"
       }
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-17T15:37:16-04:00",
+    "dcterms:modified": "2016-11-03T11:53:30-04:00",
     "type": "Dataset",
-    "version": "7ec9ffdb69df3fe4cab2d374bf0880e60a4a097e"
+    "version": "0f9cdbc31a01c987f13729d67f92e6702ad36ea5"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "233cc486-7d0e-11e6-855b-002590f97d84",
+    "author": [
+      "Schonberg TS",
+      "Fox CR",
+      "Mumford JA",
+      "Congdon E",
+      "Trepel C",
+      "Poldrack RA"
+    ],
     "citation": "Schonberg TS, Fox CR, Mumford JA, Congdon E, Trepel C, Poldrack RA (2012). Decreasing ventromedial prefrontal cortex activity during sequential risk-taking: An fMRI investigation of the Balloon Analogue Risk Task. Frontiers in Decision Neuroscience, 6:80 doi: 10.3389/fnins.2012.00080",
     "dcterms:conformsTo": [
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0.pdf"
     ],
     "license": "This dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
-    "name": "Balloon Analog Risk Task",
-    "type": "Dataset"
+    "name": "Balloon Analog Risk Task"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "233cc486-7d0e-11e6-855b-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "d0e8cec2-7df4-11e6-8c5a-002590f97d84",
     "availableFrom": [
       {
@@ -356,28 +346,50 @@
       {
         "@id": "a9cb6a1b-acef-49d8-beeb-393f92f47dd5",
         "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000002"
+      },
+      {
+        "@id": "db9857a4-e76d-4533-8ae1-d687ebf89e37",
+        "description": "[datalad]"
       }
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-10-03T12:02:20-04:00",
+    "dcterms:modified": "2016-11-04T17:18:02-04:00",
     "type": "Dataset",
-    "version": "af886a4a69f0cb11afaded0f54bb0be0178a39b4"
+    "version": "af97459555986774815d1f8d0b4a9dd7ea6c4fc7"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "d0e8cec2-7df4-11e6-8c5a-002590f97d84",
+    "author": [
+      "Aron A.R",
+      "Gluck M.A.",
+      "Poldrack, R.A."
+    ],
     "citation": "Aron, A.R., Gluck, M.A., Poldrack, R.A. (2006). Long-term test-retest reliability of functional MRI in a classification learning task. Neuroimage, 29(3):1000-6",
     "dcterms:conformsTo": [
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0.pdf"
     ],
     "license": "This dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
-    "name": "Classification learning",
-    "type": "Dataset"
+    "name": "Classification learning"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "d0e8cec2-7df4-11e6-8c5a-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "e360fb06-7df4-11e6-8d00-002590f97d84",
     "availableFrom": [
       {
@@ -391,28 +403,48 @@
       {
         "@id": "df38d714-5c35-4088-8271-a09d94c2992c",
         "description": "[datalad-archives]"
+      },
+      {
+        "@id": "ef30b1a1-c196-48df-90e8-5b2a724b85f1",
+        "description": "[datalad]"
       }
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-10-03T12:03:29-04:00",
+    "dcterms:modified": "2016-11-03T18:22:09-04:00",
     "type": "Dataset",
-    "version": "a69ca12578bbba0fbc4c70aeeebd7ebea4814dbc"
+    "version": "e905f0ea036a50f7c8f1cf66e1b29aa2f9766501"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "e360fb06-7df4-11e6-8d00-002590f97d84",
-    "author": "Xue, G., Poldrack, R.A.",
+    "author": [
+      "Xue, G.",
+      "Poldrack, R.A."
+    ],
     "dcterms:conformsTo": [
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0.pdf"
     ],
     "license": "This dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
-    "name": "Rhyme judgment",
-    "type": "Dataset"
+    "name": "Rhyme judgment"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "e360fb06-7df4-11e6-8d00-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "0055019e-7df5-11e6-8251-002590f97d84",
     "availableFrom": [
       {
@@ -424,30 +456,53 @@
         "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000005 [datalad-public]"
       },
       {
+        "@id": "a4b8bf0a-222a-4122-a90f-df86e9f3e4d1",
+        "description": "[datalad]"
+      },
+      {
         "@id": "a826a342-036d-4064-a167-9d7bde3332ac",
         "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000005"
       }
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:09:51-04:00",
+    "dcterms:modified": "2016-11-03T19:07:25-04:00",
     "type": "Dataset",
-    "version": "bed924530aa802eee3d66d090a55be5ffa659e85"
+    "version": "8e275f5f59820ab565fa76427f0bccb6e69f5d2b"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "0055019e-7df5-11e6-8251-002590f97d84",
+    "author": [
+      "Tom, S.M.",
+      "Fox, C.R.",
+      "Trepel, C.",
+      "Poldrack, R.A."
+    ],
     "citation": "Tom, S.M., Fox, C.R., Trepel, C., Poldrack, R.A. (2007). The neural basis of loss aversion in decision-making under risk. Science, 315(5811):515-8",
     "dcterms:conformsTo": [
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0rc4.pdf"
     ],
     "license": "This dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
-    "name": "Mixed-gambles task",
-    "type": "Dataset"
+    "name": "Mixed-gambles task"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "0055019e-7df5-11e6-8251-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "1a286fb6-7df5-11e6-86c4-002590f97d84",
     "availableFrom": [
       {
@@ -465,25 +520,48 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:10:34-04:00",
+    "dcterms:modified": "2016-11-03T18:56:27-04:00",
     "type": "Dataset",
-    "version": "8b1d65a906a067ee5462bfcaa5cb4266bd4661a8"
+    "version": "e5d4febd51817f458fa2479f94999d28ca17ca2e"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "1a286fb6-7df5-11e6-86c4-002590f97d84",
+    "author": [
+      "K Jimura",
+      "E Stover",
+      "F Cazalis",
+      "R Poldrack"
+    ],
     "dcterms:conformsTo": [
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0rc4.pdf"
     ],
     "license": "This dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
-    "name": "Living-nonliving decision with plain or mirror-reversed text",
-    "type": "Dataset"
+    "name": "Living-nonliving decision with plain or mirror-reversed text"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "1a286fb6-7df5-11e6-86c4-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "34a8d452-7df5-11e6-bfcd-002590f97d84",
     "availableFrom": [
+      {
+        "@id": "09f1dc09-b9cc-4c14-952c-e6033b8f6033",
+        "description": "[datalad]"
+      },
       {
         "@id": "4de36eba-0a38-4720-bc7a-a40e6d6a4565",
         "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000007"
@@ -499,12 +577,15 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:11:19-04:00",
+    "dcterms:modified": "2016-11-03T19:26:16-04:00",
     "type": "Dataset",
-    "version": "3e250726119268071da8931aacc725d680c826df"
+    "version": "9b5cdeed7e256c73986d004a7d9fe2b05cbb9024"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "34a8d452-7df5-11e6-bfcd-002590f97d84",
     "author": [
       "Xue G",
@@ -520,13 +601,27 @@
     ],
     "foaf:fundedBy": "Funding: James S. McDonnell Foundation 21st Century Science Program Grant (to R.P); Foundation for Psychological Research, University of California-Los Angeles Center for Culture, Brain and Development (to G.X.).",
     "license": "PDDL",
-    "name": "Stop-signal task with spoken & manual responses",
-    "type": "Dataset"
+    "name": "Stop-signal task with spoken & manual responses"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "34a8d452-7df5-11e6-bfcd-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "4842e188-7df5-11e6-8e6b-002590f97d84",
     "availableFrom": [
+      {
+        "@id": "43eb75c9-22fd-4bd6-8155-11efb7f6d4cb",
+        "description": "[datalad]"
+      },
       {
         "@id": "5e30267f-c203-4536-8057-7f1d5d5cf687",
         "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000008"
@@ -542,12 +637,15 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:11:52-04:00",
+    "dcterms:modified": "2016-11-03T19:30:36-04:00",
     "type": "Dataset",
-    "version": "890ebe0ea67ed6975c84d758f42e758029a28bf2"
+    "version": "b62470149154b8221f99e4d8409c6eeff1a390ea"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "4842e188-7df5-11e6-8e6b-002590f97d84",
     "citation": "Aron, A.R., Behrens, T.E., Smith, S., Frank, M.J., Poldrack, R.A. (2007). Triangulating a cognitive control network using diffusion-weighted magnetic resonance imaging (MRI) and functional MRI. J Neurosci, 27(14):3743-52",
     "dcterms:conformsTo": [
@@ -555,11 +653,21 @@
       "http://bids.neuroimaging.io/bids_spec1.0.0rc4.pdf"
     ],
     "license": "This dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
-    "name": "Stop-signal task with unselective and selective stopping",
-    "type": "Dataset"
+    "name": "Stop-signal task with unselective and selective stopping"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "4842e188-7df5-11e6-8e6b-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "34ded716-7d0d-11e6-9320-002590f97d84",
     "availableFrom": [
       {
@@ -573,16 +681,23 @@
       {
         "@id": "b5fdb494-7df7-4226-be4f-945ad03a030a",
         "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000009 [datalad-public]"
+      },
+      {
+        "@id": "e0872144-9ab8-4d3c-9fa2-a604d64c576b",
+        "description": "[datalad]"
       }
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-17T15:30:36-04:00",
+    "dcterms:modified": "2016-11-03T19:12:47-04:00",
     "type": "Dataset",
-    "version": "28596bf0a43d85ce1e9db190810102217d9ff8e1"
+    "version": "1118a05629308b7eed164b43cc8022e8fc61cad5"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "34ded716-7d0d-11e6-9320-002590f97d84",
     "author": [
       "Jessica Cohen",
@@ -599,13 +714,27 @@
     "description": "This study examined four different forms of self-control in a single context to determine whether multiple forms were related in a single sample of healthy adults. Participants performed four different tasks within a single scanning session.",
     "foaf:fundedBy": "This research was supported by a Ruth L. Kirschstein Pre-Doctoral National Research Service Award from the National Institute of Drug Abuse (5F31 DA024534) and by grants from the National Institute of Mental Health (5R24 MH072697), the McDonnell Foundation, and the Delia Martin Foundation.",
     "license": "PDDL",
-    "name": "The generality of self-control",
-    "type": "Dataset"
+    "name": "The generality of self-control"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "34ded716-7d0d-11e6-9320-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "9903de1a-7df5-11e6-b6e8-002590f97d84",
     "availableFrom": [
+      {
+        "@id": "34bd5a86-e6f4-4a9a-bbbf-0d5e88697870",
+        "description": "[datalad]"
+      },
       {
         "@id": "4d780526-23bf-438f-8b3d-5df2ce3f5737",
         "description": "[datalad-archives]"
@@ -621,30 +750,51 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-10-03T12:06:07-04:00",
+    "dcterms:modified": "2016-11-03T19:38:12-04:00",
     "type": "Dataset",
-    "version": "06249262d6e33a10af764755e227accb813ed1fc"
+    "version": "17c6c596c091ee4bfd81bdd9bf3e4808cb556fa5"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "9903de1a-7df5-11e6-b6e8-002590f97d84",
-    "author": "Foerde, K., Knowlton, B.J., Poldrack, R.A.",
+    "author": [
+      "Foerde K.",
+      "Knowlton B.J.",
+      "Poldrack R.A."
+    ],
     "citation": "Foerde, K., Knowlton, B.J., Poldrack, R.A. (2006). Modulation of competing memory systems by distraction. Proc Natl Acad Sci U S A,103(31):11778-83",
     "dcterms:conformsTo": [
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0.pdf"
     ],
     "license": "This dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
-    "name": "Classification learning and tone-counting",
-    "type": "Dataset"
+    "name": "Classification learning and tone-counting"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "9903de1a-7df5-11e6-b6e8-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "f25940fe-7df5-11e6-8103-002590f97d84",
     "availableFrom": [
       {
         "@id": "3799aa5c-b6db-4be8-a5bd-fb3febd04ee2",
         "description": "[datalad-archives]"
+      },
+      {
+        "@id": "a65d3625-0836-4ffb-a6d9-4a2f59e3c969",
+        "description": "[datalad]"
       },
       {
         "@id": "aff40fd1-2dda-408a-a657-b54b940c08e2",
@@ -657,17 +807,32 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:16:37-04:00",
+    "dcterms:modified": "2016-11-03T19:48:31-04:00",
     "type": "Dataset",
-    "version": "03f05da8c648f3d3735073bdf7917f14549030d1"
+    "version": "7a023eed0a7d9d4886f500b3afa7099316db2411"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "f25940fe-7df5-11e6-8103-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "1284b9c6-7df6-11e6-a1cd-002590f97d84",
     "availableFrom": [
       {
         "@id": "0cf80801-7ac4-469e-9e51-1acdddb73e62",
         "description": "yoh@smaug:/mnt/datasets/datalad/crawl/openfmri/ds000017B"
+      },
+      {
+        "@id": "898043f3-f90f-4095-8bc4-ed53573e5497",
+        "description": "[datalad]"
       },
       {
         "@id": "ca79a23a-1f6c-4108-a3c6-155ebbf0431b",
@@ -680,12 +845,23 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:17:31-04:00",
+    "dcterms:modified": "2016-11-03T19:49:45-04:00",
     "type": "Dataset",
-    "version": "574a1b0c9f309047edfedf56a2dac7cbbb202ac6"
+    "version": "d715d4eac5c0c161044c8e69f7b96ef5b15f03a7"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "1284b9c6-7df6-11e6-a1cd-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "a98549aa-7e99-11e6-bd2c-002590f97d84",
     "availableFrom": [
       {
@@ -703,12 +879,15 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-10-06T16:29:22-04:00",
+    "dcterms:modified": "2016-11-03T19:44:06-04:00",
     "type": "Dataset",
-    "version": "cb81eba00b25a14407d9412226c2258a0240e585"
+    "version": "92c5d8af386ff56fabacc0183d1180d450863b24"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "a98549aa-7e99-11e6-bd2c-002590f97d84",
     "author": [
       "Bilder, R",
@@ -738,13 +917,27 @@
       "PL1NS062410"
     ],
     "license": "PDDL",
-    "name": "UCLA Consortium for Neuropsychiatric Phenomics LA5c Study",
-    "type": "Dataset"
+    "name": "UCLA Consortium for Neuropsychiatric Phenomics LA5c Study"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "a98549aa-7e99-11e6-bd2c-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "679095a4-7e99-11e6-9c94-002590f97d84",
     "availableFrom": [
+      {
+        "@id": "0171bc50-2e57-46de-9946-267860bb7b74",
+        "description": "[datalad]"
+      },
       {
         "@id": "2270dbad-eab9-4629-8d3a-67c124018cc8",
         "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000031 [datalad-public]"
@@ -760,12 +953,15 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-19T14:46:42-04:00",
+    "dcterms:modified": "2016-11-07T23:02:22-05:00",
     "type": "Dataset",
-    "version": "e543bec3e6a0f30fa05aa27d9b427f06ffe62e17"
+    "version": "bc43cb53fa234aa4a0786503b997727e37f43db5"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "679095a4-7e99-11e6-9c94-002590f97d84",
     "author": "Poldrack RA, Laumann TO, Koyejo O, Gregory B, Hover A, Chen MY, Luci J, Joo SJ, Handwerker D, Liang J, Boyd R,  Hunicke-Smith S, Simpson ZB, Caven T,  Sochat V, Shine JM, Gordon E, Snyder AZ, Adeyemo B,  Petersen SE, Glahn D, McKay DR, Curran JE, Goring HHH, Carless MA, Blangero J, Frick L, Marcotte E, Mumford JA",
     "citation": [
@@ -779,16 +975,30 @@
     "description": "Extensive longitudinal acquisition on a single individual",
     "foaf:fundedBy": "Texas Emerging Technology Fund",
     "license": "PDDL",
-    "name": "MyConnectome",
-    "type": "Dataset"
+    "name": "MyConnectome"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "679095a4-7e99-11e6-9c94-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "8d539320-7df6-11e6-9e44-002590f97d84",
     "availableFrom": [
       {
         "@id": "1034c28a-e28e-4e6c-8c86-60ad3eb33cd1",
         "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000051 [datalad-public]"
+      },
+      {
+        "@id": "44bc4f98-9abe-4a85-bc9e-967fcc481155",
+        "description": "[datalad]"
       },
       {
         "@id": "883d171f-2a3e-4151-b0d1-642674b35a95",
@@ -801,29 +1011,49 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-10-03T12:10:44-04:00",
+    "dcterms:modified": "2016-11-03T20:17:12-04:00",
     "type": "Dataset",
-    "version": "3ea0ece7f848c1073308b44107d0dab528163e23"
+    "version": "1a53da0203a0b6212fbec9eb081cb05e37f35015"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "8d539320-7df6-11e6-9e44-002590f97d84",
-    "author": "Alvarez, R., Poldrack, R.A.",
+    "author": [
+      "Alvarez R.",
+      "Poldrack R.A."
+    ],
     "dcterms:conformsTo": [
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0.pdf"
     ],
     "license": "This dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
-    "name": "Cross-language repetition priming",
-    "type": "Dataset"
+    "name": "Cross-language repetition priming"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "8d539320-7df6-11e6-9e44-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "a26ee296-7df6-11e6-9010-002590f97d84",
     "availableFrom": [
       {
         "@id": "47d19900-5e1b-49a9-95dc-bb7f6262664d",
         "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000052 [datalad-public]"
+      },
+      {
+        "@id": "72e9894b-ae98-4745-be0a-d90e73e9e1b2",
+        "description": "[datalad]"
       },
       {
         "@id": "b2e0269d-5455-456c-88e3-589b171be225",
@@ -836,12 +1066,15 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:21:32-04:00",
+    "dcterms:modified": "2016-11-03T20:03:14-04:00",
     "type": "Dataset",
-    "version": "42e792717a428beebd01c89d4fe01566de347ccb"
+    "version": "fc90404283fbf4a8c77aa3de8a0ab26922006e7c"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "a26ee296-7df6-11e6-9010-002590f97d84",
     "author": [
       "Poldrack, R.A.",
@@ -860,11 +1093,21 @@
       "http://bids.neuroimaging.io/bids_spec1.0.0rc3.pdf"
     ],
     "license": "PDDL",
-    "name": "Classification learning and reversal",
-    "type": "Dataset"
+    "name": "Classification learning and reversal"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "a26ee296-7df6-11e6-9010-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "e66853a6-7df6-11e6-888d-002590f97d84",
     "availableFrom": [
       {
@@ -882,14 +1125,29 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:23:26-04:00",
+    "dcterms:modified": "2016-11-07T23:02:24-05:00",
     "type": "Dataset",
-    "version": "0a03e4c513dbc01becf0086c9ccfd2992b3be91f"
+    "version": "756bfaaf685f9740ef0f891d48858f9c99d09522"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "e66853a6-7df6-11e6-888d-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "ddd60512-7df6-11e6-b4ef-002590f97d84",
     "availableFrom": [
+      {
+        "@id": "42136033-5941-4aaa-999a-9105d477498d",
+        "description": "[datalad]"
+      },
       {
         "@id": "dc8058cf-ea09-4bfb-8808-4d86551e72d0",
         "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000101"
@@ -905,12 +1163,15 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:23:12-04:00",
+    "dcterms:modified": "2016-11-04T08:21:56-04:00",
     "type": "Dataset",
-    "version": "427bce56a6b61b7f4c50eaf10930a4c28ddbaa52"
+    "version": "b6fb4ccd95322d0232408f44bc4001451bd76f5a"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "ddd60512-7df6-11e6-b4ef-002590f97d84",
     "author": [
       "Kelly AMC",
@@ -924,11 +1185,21 @@
       "http://bids.neuroimaging.io/bids_spec1.0.0rc3.pdf"
     ],
     "license": "PDDL",
-    "name": "Simon Task",
-    "type": "Dataset"
+    "name": "Simon Task"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "ddd60512-7df6-11e6-b4ef-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "fa8951e6-7df6-11e6-a090-002590f97d84",
     "availableFrom": [
       {
@@ -940,18 +1211,25 @@
         "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000102"
       },
       {
+        "@id": "874146e0-9d5e-458b-a0c4-1574214a7dad",
+        "description": "[datalad]"
+      },
+      {
         "@id": "efa0a649-fe21-4f7e-8449-fc64048b199b",
         "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000102 [datalad-public]"
       }
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:24:00-04:00",
+    "dcterms:modified": "2016-11-04T08:28:45-04:00",
     "type": "Dataset",
-    "version": "5178a430c86d50cecd0fafe637eb1eb0f95bfb39"
+    "version": "256846a737fc0daa88a197d49b7d2f4e6f4ab63a"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "fa8951e6-7df6-11e6-a090-002590f97d84",
     "author": [
       "Kelly AMC",
@@ -970,11 +1248,21 @@
       "http://bids.neuroimaging.io/bids_spec1.0.0rc3.pdf"
     ],
     "license": "PDDL",
-    "name": "Flanker Task",
-    "type": "Dataset"
+    "name": "Flanker Task"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "fa8951e6-7df6-11e6-a090-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "0dba8ed8-7df7-11e6-8819-002590f97d84",
     "availableFrom": [
       {
@@ -986,36 +1274,64 @@
         "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000105"
       },
       {
+        "@id": "b1d0d104-1576-422d-8b02-8cef63bc1f02",
+        "description": "[datalad]"
+      },
+      {
         "@id": "f0d9fbb6-dba5-4da5-a78d-24e9be621067",
         "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000105 [datalad-public]"
       }
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-10-03T12:13:54-04:00",
+    "dcterms:modified": "2016-11-03T17:03:51-04:00",
     "type": "Dataset",
-    "version": "70ae27fca462ee4fd31db2528de8624ede4c4a9e"
+    "version": "6bb31fde846b36f8f7275a2ae8a753b1552e2a71"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "0dba8ed8-7df7-11e6-8819-002590f97d84",
-    "author": "Haxby, J.V., Gobbini, M.I., Furey, M.L., Ishai, A., Schouten, J.L., Pietrini, P.",
+    "author": [
+      "Haxby, J.V.",
+      "Gobbini, M.I.",
+      "Furey, M.L.",
+      "Ishai, A.",
+      "Schouten, J.L.",
+      "Pietrini, P."
+    ],
     "citation": "Haxby, J.V., Gobbini, M.I., Furey, M.L., Ishai, A., Schouten, J.L., Pietrini, P. (2001). Distributed and overlapping representations of faces and objects in ventral temporal cortex. Science, 293(5539):2425-30\n\nHanson, S.J., Matsuka, T., Haxby, J.V. (2004). Combinatorial codes in ventral temporal lobe for object recognition: Haxby (2001) revisited: is there a \"face\" area? Neuroimage. 23(1):156-66\n\nO'Toole, A.J., Jiang, F., Abdi, H., Haxby, J.V. (2005). Partially distributed representations of objects and faces in ventral temporal cortex. J Cogn Neurosci, 17(4):580-90",
     "dcterms:conformsTo": [
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0.pdf"
     ],
     "license": "This dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
-    "name": "Visual object recognition",
-    "type": "Dataset"
+    "name": "Visual object recognition"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "0dba8ed8-7df7-11e6-8819-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "2f977160-7df7-11e6-9015-002590f97d84",
     "availableFrom": [
       {
         "@id": "36728ddd-879b-4a57-b3e1-2104ae973e7d",
         "description": "[datalad-archives]"
+      },
+      {
+        "@id": "4d3ac2c7-a386-4555-8a74-032057bbbc6c",
+        "description": "[datalad]"
       },
       {
         "@id": "588f4ebd-699b-4e3d-87b3-091791df8214",
@@ -1028,27 +1344,49 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-10-03T12:17:10-04:00",
+    "dcterms:modified": "2016-11-04T08:54:17-04:00",
     "type": "Dataset",
-    "version": "38fd645984172f4b53395c84c25cacfb6a7af4e3"
+    "version": "b747fe59498c4a32b920578675078ab266e9c646"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "2f977160-7df7-11e6-9015-002590f97d84",
-    "author": "Duncan, K.J., Pattamadilok, C., Knierim, I., Devlin, J.T.",
+    "author": [
+      "Duncan, K.J.",
+      "Pattamadilok, C.",
+      "Knierim, I., Devlin",
+      "J.T."
+    ],
     "citation": "Duncan, K.J., Pattamadilok, C., Knierim, I., Devlin, J.T. (2009). Consistency and variability in functional localisers. Neuroimage, 46(4):1018-26. doi: 10.1016/j.neuroimage.2009.03.014",
     "dcterms:conformsTo": [
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0.pdf"
     ],
     "license": "This dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
-    "name": "Word and object processing",
-    "type": "Dataset"
+    "name": "Word and object processing"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "2f977160-7df7-11e6-9015-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "45984e4e-7df7-11e6-a9bc-002590f97d84",
     "availableFrom": [
+      {
+        "@id": "371b4c9d-7d55-40c4-86aa-f392e6108b2f",
+        "description": "[datalad]"
+      },
       {
         "@id": "38c820c0-e3a8-4f98-86ef-72ef184fb285",
         "description": "[datalad-archives]"
@@ -1064,12 +1402,44 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:26:06-04:00",
+    "dcterms:modified": "2016-11-04T21:17:15-04:00",
     "type": "Dataset",
-    "version": "2e60abab03fc29e6630b97c411f43184182dcb16"
+    "version": "c8717f195edac4af20f4f29c6512b1d4360c3b99"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "45984e4e-7df7-11e6-a9bc-002590f97d84",
+    "author": [
+      "Wager T.D.",
+      "Davidson, M.L.",
+      "Hughes, B.L.",
+      "Lindquist, M.A.",
+      "Ochsner, K.N."
+    ],
+    "citation": "Wager, T.D., Davidson, M.L., Hughes, B.L., Lindquist, M.A., Ochsner, K.N. (2008). Prefrontal-subcortical pathways mediating successful emotion regulation. Neuron, 59(6):1037-50. doi: 10.1016/j.neuron.2008.09.006",
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io/bids_spec1.0.0.pdf"
+    ],
+    "license": "This dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
+    "name": "Prefrontal-Subcortical Pathways Mediating Successful Emotion Regulation"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "45984e4e-7df7-11e6-a9bc-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "50e68770-7df7-11e6-92ce-002590f97d84",
     "availableFrom": [
       {
@@ -1081,18 +1451,25 @@
         "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000109 [datalad-public]"
       },
       {
+        "@id": "c107aacb-3333-4c2a-ba3d-907be53d6369",
+        "description": "[datalad]"
+      },
+      {
         "@id": "df1e9e11-3aea-4357-b116-97096c6f0928",
         "description": "[datalad-archives]"
       }
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-10-03T12:19:27-04:00",
+    "dcterms:modified": "2016-11-04T09:55:09-04:00",
     "type": "Dataset",
-    "version": "d4663c9f1239f4dc44bf9894838ed0e985aae9a1"
+    "version": "515b5eeffb13f8fa70dbc7aca2d6522b5795b343"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "50e68770-7df7-11e6-92ce-002590f97d84",
     "author": "Moran, J.M., Jolly, E., Mitchell, J.P.",
     "citation": "Moran, J.M., Jolly, E., Mitchell, J.P. (2012). Social-cognitive deficits in normal aging. J Neurosci, 32(16):5553-61. doi: 10.1523/JNEUROSCI.5511-11.2012",
@@ -1100,13 +1477,27 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0.pdf"
     ],
-    "name": "Social cognitive tasks (animate movement task, moral judgment task, false belief task)",
-    "type": "Dataset"
+    "name": "Social cognitive tasks (animate movement task, moral judgment task, false belief task)"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "50e68770-7df7-11e6-92ce-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "5c36d01c-7df7-11e6-8057-002590f97d84",
     "availableFrom": [
+      {
+        "@id": "298cdc71-de59-4d4f-91db-0a61bbc0c6db",
+        "description": "[datalad]"
+      },
       {
         "@id": "2af4937b-97c3-4629-b378-db22fbd1e269",
         "description": "[datalad-archives]"
@@ -1122,14 +1513,48 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:26:45-04:00",
+    "dcterms:modified": "2016-11-03T22:33:51-04:00",
     "type": "Dataset",
-    "version": "2a8984729c6d9f9f1b31ffe3a474b3298ff15b0b"
+    "version": "0f9a5cafb5e651e1a80d680550582a61d9437e78"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "5c36d01c-7df7-11e6-8057-002590f97d84",
+    "author": [
+      "Melina R. Uncapher",
+      "J. Benjamin Hutchinson",
+      "Anthony D. Wagner"
+    ],
+    "citation": "Uncapher, M.R., Hutchinson, J.B., Wagner, A.D. (2011). Dissociable effects of top-down and bottom-up attention during episodic encoding. J Neurosci, 31(35):12613-28. doi: 10.1523/JNEUROSCI.0152-11.2011",
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io/bids_spec1.0.0.pdf"
+    ],
+    "license": "This dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
+    "name": "Incidental encoding task (Posner Cueing Paradigm)"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "5c36d01c-7df7-11e6-8057-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "764d7078-7df7-11e6-9321-002590f97d84",
     "availableFrom": [
+      {
+        "@id": "49e227d4-d253-419f-a786-fafeab194886",
+        "description": "[datalad]"
+      },
       {
         "@id": "86466850-f536-4231-b228-68e08e884228",
         "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000113"
@@ -1145,12 +1570,23 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:27:28-04:00",
+    "dcterms:modified": "2016-11-07T18:41:57-05:00",
     "type": "Dataset",
-    "version": "e9a533fd9058d062ddfb5249d7e7d49458cbfbaf"
+    "version": "4f704a5559f10574c164189da7efaf49a03f88ab"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "764d7078-7df7-11e6-9321-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "8aa835ee-7df7-11e6-bf2b-002590f97d84",
     "availableFrom": [
       {
@@ -1168,12 +1604,37 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:28:02-04:00",
+    "dcterms:modified": "2016-11-07T23:02:29-05:00",
     "type": "Dataset",
-    "version": "665f22d25d9f83c52af051bad04baab059cc010b"
+    "version": "6b803a03b2386456119c703b9df85d2ac2fc4bcc"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "8aa835ee-7df7-11e6-bf2b-002590f97d84",
+    "author": "Hanke, M., Baumgartner, F.J., Ibe, P., Kaule, F.R., Pollmann, S., Speck, O.,\nZinke, W. & Stadler, J.",
+    "citation": "Hanke, M., Baumgartner, F.J., Ibe, P., Kaule, F.R., Pollmann, S., Speck, O.,\nZinke, W. & Stadler, J. (2014). A high-resolution 7-Tesla fMRI dataset from\ncomplex natural stimulation with an audio movie. Scientific Data, 1.\ndoi:10.1038/sdata.2014.3\n\nLabs, A., Reich, T., Schulenburg, H., Boennen, M., Gehrke, M., Golz, M.,\nHartings, B., Hoffmann, N., Keil, S., Perlow, M., Peukmann, A. K., Rabe, L. N.,\nvon Sobbe, F.-R. & Hanke, M. (2015). Portrayed emotions in the movie “Forrest\nGump”. F1000Research, 4:92.\nurl:http://f1000research.com/articles/4-92\ndoi:10.12688/f1000research.6230.1",
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io/bids_spec1.0.0rc2.pdf"
+    ],
+    "name": "Forrest Gump movie annotation"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "8aa835ee-7df7-11e6-bf2b-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "94ae712a-7df7-11e6-ac6b-002590f97d84",
     "availableFrom": [
       {
@@ -1191,12 +1652,15 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:28:19-04:00",
+    "dcterms:modified": "2016-11-07T23:02:30-05:00",
     "type": "Dataset",
-    "version": "3565828fa15ed66dd8067c7a5454594acd021ad4"
+    "version": "b1452bd7330643c760028128c8036a14bf665862"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "94ae712a-7df7-11e6-ac6b-002590f97d84",
     "author": [
       "Ayan Sengupta",
@@ -1215,11 +1679,21 @@
     "description": "Extension of the dataset published in Hanke et al. (2014; doi:10.1038/sdata.2014.3) with additional acquisitions for 6 of the original 20 participants (and one additional participant). Participants performed a central fixation task while being stimulated with oriented gratings. The experiment was repeated in four different sessions with 7T BOLD fMRI acquisition, each with a different scan resolution (0.8, 1.4, 2.0, and 3.0 mm).",
     "foaf:fundedBy": "This research was supported by a grant from the German Research Foundation (DFG) awarded to S. Pollmann and O. Speck (DFG PO 548/15-1). This research was, in part, also supported by the German Federal Ministry of Education and Research (BMBF) as part of a US-German collaboration in computational neuroscience (CRCNS), co-funded by the BMBF and the US National Science Foundation (BMBF 01GQ1112; NSF 1129855). Work on the data-sharing technology employed for this research was supported by US-German CRCNS project, co-funded by the BMBF and the US National Science Foundation (BMBF 01GQ1411; NSF 1429999).",
     "license": "PDDL",
-    "name": "studyforrest_multires7t",
-    "type": "Dataset"
+    "name": "studyforrest_multires7t"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "94ae712a-7df7-11e6-ac6b-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "a43ec748-7df7-11e6-bf7d-002590f97d84",
     "availableFrom": [
       {
@@ -1237,12 +1711,15 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:28:45-04:00",
+    "dcterms:modified": "2016-11-07T23:02:31-05:00",
     "type": "Dataset",
-    "version": "1c514a4455fca44619f9e563d2bde9663ad2de5c"
+    "version": "f6225b4b7a84dd20d01738391681a6d5779ea65b"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "a43ec748-7df7-11e6-bf7d-002590f97d84",
     "author": [
       "Michael Hanke",
@@ -1266,13 +1743,27 @@
     "description": "Extension of the dataset published in Hanke et al. (2014; doi:10.1038/sdata.2014.3) with additional acquisitions for 15 of the original 20 particpants. These additions include: retinotopic mapping, a localizer paradigm for higher visual areas (FFA, EBA, PPA), and another 2h movie recording with 3T full-brain BOLD fMRI with simultaneous 1000 Hz eyetracking.",
     "foaf:fundedBy": "We acknowledge the support of the Combinatorial NeuroImaging Core Facility at the Leibniz Institute for Neurobiology in Magdeburg, and the German federal state of Saxony-Anhalt, Project: Center for Behavioral Brain Sciences. This research was, in part, also supported by the German Federal Ministry of Education and Research (BMBF) as part of a US-German collaboration in computational neuroscience (CRCNS), co-funded by the BMBF and the US National Science Foundation (BMBF 01GQ1112; NSF 1129855). Work on the data-sharing technology employed for this research was supported by US-German CRCNS project, co-funded by the BMBF and the US National Science Foundation (BMBF 01GQ1411; NSF 1429999).",
     "license": "PDDL",
-    "name": "studyforrest_phase2",
-    "type": "Dataset"
+    "name": "studyforrest_phase2"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "a43ec748-7df7-11e6-bf7d-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "b130214a-7df7-11e6-887b-002590f97d84",
     "availableFrom": [
+      {
+        "@id": "135caf6c-5166-45e8-8d46-4ff5e08985b3",
+        "description": "[datalad]"
+      },
       {
         "@id": "1a7dad34-a60c-474d-9b2d-d792136beb81",
         "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000114 [datalad-public]"
@@ -1288,22 +1779,44 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:29:07-04:00",
+    "dcterms:modified": "2016-11-07T22:58:32-05:00",
     "type": "Dataset",
-    "version": "10210d9326e4ff828974354dd8af86d3879fdf10"
+    "version": "6b6f4c1d5096b3ae5a0a9ad581cea8c026fdf4fe"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "b130214a-7df7-11e6-887b-002590f97d84",
+    "author": [
+      "Gorgolewski KJ",
+      "Storkey A",
+      "Bastin ME",
+      "Whittle IR",
+      "Wardlaw JM",
+      "Pernet CR"
+    ],
+    "citation": "A test-retest fMRI dataset for motor, language and spatial attention functions, http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3641991/",
     "dcterms:conformsTo": [
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0rc2.pdf"
     ],
-    "name": "ds114",
-    "type": "Dataset"
+    "name": "ds114"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "b130214a-7df7-11e6-887b-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "d0642c32-7df7-11e6-b9e4-002590f97d84",
     "availableFrom": [
       {
@@ -1315,23 +1828,59 @@
         "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000115"
       },
       {
+        "@id": "8c835dab-7f16-4ebe-93f4-a5174142e3fc",
+        "description": "[datalad]"
+      },
+      {
         "@id": "e6c34cb1-422a-4885-a7aa-95044ea9761f",
         "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000115 [datalad-public]"
       }
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:30:04-04:00",
+    "dcterms:modified": "2016-11-03T20:31:03-04:00",
     "type": "Dataset",
-    "version": "42ab80e27ccf5cc9ada6f11b283e7bfa8029a6bb"
+    "version": "0a1ba96407015cd40be04c024d62d2dcac4c2534"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "d0642c32-7df7-11e6-b9e4-002590f97d84",
+    "author": [
+      "Grega Repovš",
+      "Deanna M. Barch"
+    ],
+    "citation": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3358772/",
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io/bids_spec1.0.0.pdf"
+    ],
+    "name": "Working memory in healthy and schizophrenic individuals"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "d0642c32-7df7-11e6-b9e4-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "01357c08-7df8-11e6-9a71-002590f97d84",
     "availableFrom": [
       {
         "@id": "07e2077e-fa6b-4f79-8beb-057090ebc36e",
         "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000116 [datalad-public]"
+      },
+      {
+        "@id": "21a004f7-8b6f-467a-8289-de6ea8b7f0df",
+        "description": "[datalad]"
       },
       {
         "@id": "43424651-776d-4fb2-8ad7-fc0088d4862b",
@@ -1344,17 +1893,47 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:31:23-04:00",
+    "dcterms:modified": "2016-11-07T12:59:49-05:00",
     "type": "Dataset",
-    "version": "dfc2f44f047fa79a84c7f6b9177fdf8b0110d79a"
+    "version": "724ff99036f85574a61d46ffc2138b2c48821b50"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "01357c08-7df8-11e6-9a71-002590f97d84",
+    "author": [
+      "Jennifer M Walz, Robin I Goldman, Jordan Muraskin, Bryan Conroy, Truman R Brown, Paul Sajda"
+    ],
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io/bids_spec1.0.0.pdf"
+    ],
+    "name": "Auditory and Visual Oddball EEG-fMRI"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "01357c08-7df8-11e6-9a71-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "6b3fec48-7e0a-11e6-a025-002590f97d84",
     "availableFrom": [
       {
         "@id": "105e1dd6-b27a-4a32-b090-d48352633926",
         "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000117 [datalad-public]"
+      },
+      {
+        "@id": "15c283bb-565f-472d-b5f4-9fabc967338f",
+        "description": "[datalad]"
       },
       {
         "@id": "a826e279-8231-4a77-b233-acffed458d7a",
@@ -1367,12 +1946,23 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T21:43:10-04:00",
+    "dcterms:modified": "2016-11-04T01:05:41-04:00",
     "type": "Dataset",
-    "version": "1f78cdfcd21dc271ee241b15ca78e1e265df5b97"
+    "version": "b6951a76ab93fc3587c19a2f9ca0598159878e95"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "6b3fec48-7e0a-11e6-a025-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "7a878e48-7df8-11e6-8118-002590f97d84",
     "availableFrom": [
       {
@@ -1390,12 +1980,15 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:34:44-04:00",
+    "dcterms:modified": "2016-11-04T23:45:21-04:00",
     "type": "Dataset",
-    "version": "efb21612d5d8d777504fc781fa8aa73acb3e982a"
+    "version": "7622d75afa24b291101ab599dd956fd9f5d2ac5a"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "7a878e48-7df8-11e6-8118-002590f97d84",
     "author": [
       "Katerina Velanova",
@@ -1411,11 +2004,21 @@
     ],
     "description": "Documenting the development of the functional anatomy underlying error processing is critically important for understanding age-related improvements in cognitive performance. Here we used functional magnetic resonance imaging to examine time courses of brain activity in 77 individuals aged 8-27 years during correct and incorrect performance of an oculomotor task requiring inhibitory control. Canonical eye-movement regions showed increased activity for correct versus error trials but no differences between children, adolescents and young adults, suggesting that core task processes are in place early in development.",
     "license": "PDDL",
-    "name": "Maturational Changes in Anterior Cingulate and Frontoparietal Recruitment Support the Development of Error Processing and Inhibitory Control",
-    "type": "Dataset"
+    "name": "Maturational Changes in Anterior Cingulate and Frontoparietal Recruitment Support the Development of Error Processing and Inhibitory Control"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "7a878e48-7df8-11e6-8118-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "91ee8050-7df8-11e6-9699-002590f97d84",
     "availableFrom": [
       {
@@ -1433,12 +2036,15 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:35:23-04:00",
+    "dcterms:modified": "2016-11-04T17:59:21-04:00",
     "type": "Dataset",
-    "version": "478dfe02bc47d08847a5ba98a3ec55fa0c54f980"
+    "version": "e3e665b3bf0d80dac7d2359cf7be13fee1517d7b"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "91ee8050-7df8-11e6-9699-002590f97d84",
     "author": [
       "Aarthi Padmanabhana",
@@ -1457,11 +2063,21 @@
     "description": "Adolescence is a period marked by changes in motivational and cognitive brain systems. However, the development of the interactions between reward and cognitive control processing are just beginning to be understood. Using event-related functional neuroimaging and an incentive modulated antisaccade task, we compared blood-oxygen level dependent activity underlying motivated response inhibition in children, adolescents, and adults.",
     "foaf:fundedBy": "This study was supported by National Institute of Mental Health Grant MH080243.",
     "license": "PDDL",
-    "name": "Developmental changes in brain function underlying the influence of reward processing on inhibitory control",
-    "type": "Dataset"
+    "name": "Developmental changes in brain function underlying the influence of reward processing on inhibitory control"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "91ee8050-7df8-11e6-9699-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "a322941a-7df8-11e6-b188-002590f97d84",
     "availableFrom": [
       {
@@ -1479,12 +2095,15 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:35:52-04:00",
+    "dcterms:modified": "2016-11-04T17:59:29-04:00",
     "type": "Dataset",
-    "version": "7efa8f4f56938b79e8a88eb7905e7da7bc010f9c"
+    "version": "c6d921292d1466e22f70d1f0ab72ecd937d47bee"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "a322941a-7df8-11e6-b188-002590f97d84",
     "author": [
       "C.F. Geier",
@@ -1504,11 +2123,21 @@
     "description": "The nature of immature reward processing and the influence of rewards on basic elements of cognitive control during adolescence are currently not well understood. Here, during functional magnetic resonance imaging, healthy adolescents and adults performed a modified antisaccade task in which trial-by-trial reward contingencies were manipulated. The use of a novel fast, event-related design enabled developmental differences in brain function underlying temporally distinct stages of reward processing and response inhibition to be assessed.",
     "foaf:fundedBy": "National Institutes of Health (RO1 MH067924, RO1 MH080243 to B.L.).",
     "license": "PDDL",
-    "name": "Immaturities in Reward Processing and Its Influence on Inhibitory Control in Adolescence (Ring Reward)",
-    "type": "Dataset"
+    "name": "Immaturities in Reward Processing and Its Influence on Inhibitory Control in Adolescence (Ring Reward)"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "a322941a-7df8-11e6-b188-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "abb8edd6-7df8-11e6-b012-002590f97d84",
     "availableFrom": [
       {
@@ -1526,12 +2155,15 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:36:07-04:00",
+    "dcterms:modified": "2016-11-04T17:59:34-04:00",
     "type": "Dataset",
-    "version": "9bc418e12c4fcde5563414b9a16498d4658706ac"
+    "version": "6fa58a4d15ec775e11ebb0a579ddc7a0ef9788c5"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "abb8edd6-7df8-11e6-b012-002590f97d84",
     "author": [
       "J Xu",
@@ -1546,11 +2178,21 @@
       "http://bids.neuroimaging.io/bids_spec1.0.0rc3.pdf"
     ],
     "license": "This dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
-    "name": "visual attention task (block design)",
-    "type": "Dataset"
+    "name": "visual attention task (block design)"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "abb8edd6-7df8-11e6-b012-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "b4c4d674-7df8-11e6-9054-002590f97d84",
     "availableFrom": [
       {
@@ -1568,12 +2210,15 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:36:22-04:00",
+    "dcterms:modified": "2016-11-04T17:59:41-04:00",
     "type": "Dataset",
-    "version": "4a65e58addf03a858d1324d2dba5835ffe3ee693"
+    "version": "e97d9b4f123fa9916efbf7ce55bf509929c0a060"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "b4c4d674-7df8-11e6-9054-002590f97d84",
     "author": [
       "Nicoletta Cera",
@@ -1590,11 +2235,21 @@
     "description": "Modafinil is employed for the treatment of narcolepsy and has also been, off-label, used to treat cognitive dysfunction in neuropsychiatric disorders.  In a previous study, we have reported that single dose administration of modafinil in healthy young subjects enhances fluid reasoning and affects resting state activity in the Fronto Parietal Control (FPC) and Dorsal Attention (DAN) networks. No changes were found in the Salience Network (SN), a surprising result as the network is involved in the modulation of emotional and fluid reasoning.  The insula is crucial hub of the SN and functionally divided in anterior and posterior subregions. Using a seed-based approach, we have now analyzed effects of modafinil on the functional connectivity (FC) of insular subregions. Analysis of FC with resting state fMRI (rs-FMRI) revealed increased FC between the right posterior insula and the putamen, the superior frontal gyrus and the anterior cingulate cortex in the modafinil-treated group.Modafinil is considered a putative cognitive enhancer. The rs-fMRI modifications that we have found are consistent with the drug cognitive enhancing properties and indicate subregional targets of action.",
     "foaf:fundedBy": "SLS is supported by funds from the Italian Department of Education [Fondo per gli Investimenti della Ricerca di Base (FIRB) 2003; Programmi di Ricerca di Rilevante Interesse nazionale (PRIN) 2008]. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.",
     "license": "PDDL",
-    "name": "Modafinil alters intrinsic functional connectivity of the right posterior insula: a pharmacological resting state fMRI study",
-    "type": "Dataset"
+    "name": "Modafinil alters intrinsic functional connectivity of the right posterior insula: a pharmacological resting state fMRI study"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "b4c4d674-7df8-11e6-9054-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "c813dbee-7df8-11e6-8cef-002590f97d84",
     "availableFrom": [
       {
@@ -1612,12 +2267,23 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:36:55-04:00",
+    "dcterms:modified": "2016-11-07T23:02:38-05:00",
     "type": "Dataset",
-    "version": "938fe72ab2599e60482ccd6b941a9a8ed87ed8d2"
+    "version": "09d5cd862a398d538b52565245394d5eb1f4bdeb"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "c813dbee-7df8-11e6-8cef-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "d9b97944-7df8-11e6-a1a3-002590f97d84",
     "availableFrom": [
       {
@@ -1635,12 +2301,15 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:37:24-04:00",
+    "dcterms:modified": "2016-11-04T17:59:56-04:00",
     "type": "Dataset",
-    "version": "ebfd351c1fead366167ab51a529067f3df5b060a"
+    "version": "ca34ca7639e7b867b1cae35bb1fbeb7b6f617083"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "d9b97944-7df8-11e6-a1a3-002590f97d84",
     "author": [
       "Edward Nęcka",
@@ -1653,11 +2322,21 @@
       "http://bids.neuroimaging.io/bids_spec1.0.0rc3.pdf"
     ],
     "license": "PPDL",
-    "name": "Who can afford self-control? The neural efficiency mechanism explains effective self-regulation of behavior",
-    "type": "Dataset"
+    "name": "Who can afford self-control? The neural efficiency mechanism explains effective self-regulation of behavior"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "d9b97944-7df8-11e6-a1a3-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "cf71a006-7df8-11e6-beb1-002590f97d84",
     "availableFrom": [
       {
@@ -1675,12 +2354,23 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:37:06-04:00",
+    "dcterms:modified": "2016-11-04T18:00:00-04:00",
     "type": "Dataset",
-    "version": "354f6bf30fb4f6699e1ec8db94d10fb45c91a28f"
+    "version": "7419b470686e1b6c4bd7d6245fae1de7cbddbcb6"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "cf71a006-7df8-11e6-beb1-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "75cd6882-7baf-11e6-a303-002590f97d84",
     "availableFrom": [
       {
@@ -1698,12 +2388,15 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-15T21:48:07-04:00",
+    "dcterms:modified": "2016-11-04T18:00:08-04:00",
     "type": "Dataset",
-    "version": "55f1278284b06afee9aa2b6893154926a74034f3"
+    "version": "28d3255ead717f705655835339e163a4849846e7"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "75cd6882-7baf-11e6-a303-002590f97d84",
     "author": [
       "Paul A. M. Smeets",
@@ -1720,11 +2413,21 @@
     ],
     "description": "Thirty female subjects performed a passive viewing task with blocks of food and nonfood images. More procedures can be found in the publication. ",
     "license": "PDDL",
-    "name": "Block design food and nonfood picture viewing task",
-    "type": "Dataset"
+    "name": "Block design food and nonfood picture viewing task"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "75cd6882-7baf-11e6-a303-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "0be965d2-7df9-11e6-8623-002590f97d84",
     "availableFrom": [
       {
@@ -1742,12 +2445,23 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:38:48-04:00",
+    "dcterms:modified": "2016-11-04T18:00:19-04:00",
     "type": "Dataset",
-    "version": "5a2b12222ac60980c8b4b20ebb1965cfba7ab8e7"
+    "version": "953b797d79516f99835fc6c882e9d9c822586aac"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "0be965d2-7df9-11e6-8623-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "1642ae62-7df9-11e6-bbe2-002590f97d84",
     "availableFrom": [
       {
@@ -1765,12 +2479,15 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:39:06-04:00",
+    "dcterms:modified": "2016-11-04T18:00:25-04:00",
     "type": "Dataset",
-    "version": "8ac9060014081f2753a9c36b13d53822859fbafc"
+    "version": "21ffd63b7b76b500df957bbdca9088aeedd8fde3"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "1642ae62-7df9-11e6-bbe2-002590f97d84",
     "author": [
       "James K. Bursley",
@@ -1784,11 +2501,21 @@
     ],
     "foaf:fundedBy": "This project was supported by a Rothberg Research Award in Human Brain Imaging awarded to J.K.B. and J.D.C.",
     "license": "PPDL",
-    "name": "Offline Processing in Associative Learning",
-    "type": "Dataset"
+    "name": "Offline Processing in Associative Learning"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "1642ae62-7df9-11e6-bbe2-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "2225c976-7df9-11e6-a070-002590f97d84",
     "availableFrom": [
       {
@@ -1806,12 +2533,15 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:39:26-04:00",
+    "dcterms:modified": "2016-11-04T18:00:30-04:00",
     "type": "Dataset",
-    "version": "533998d57662f886b03ed12c57c60d5a47b3fc1f"
+    "version": "67f81e3a8c6c57448810e358c4fd1bbe4cb06edb"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "2225c976-7df9-11e6-a070-002590f97d84",
     "author": [
       "Ella Gabitov",
@@ -1829,11 +2559,21 @@
     ],
     "foaf:fundedBy": "E.G. was partially supported by a fellowship from the E. J. Safra Brain Research Center for the Study of Learning Disabilities. The research leading to these results has received funding from the European Union Seventh Framework Program (FP7/2007-2013) under grant agreement no. 604102 (Human Brain Project).",
     "license": "PDDL",
-    "name": "Learning and memory: motor skill consolidation and intermanual transfer",
-    "type": "Dataset"
+    "name": "Learning and memory: motor skill consolidation and intermanual transfer"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "2225c976-7df9-11e6-a070-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "2b21e94c-7df9-11e6-aaee-002590f97d84",
     "availableFrom": [
       {
@@ -1851,12 +2591,15 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:39:41-04:00",
+    "dcterms:modified": "2016-11-04T18:00:36-04:00",
     "type": "Dataset",
-    "version": "4007cfc52a8cd1a4b354d631d9f408a1a4435087"
+    "version": "2373e1cf373085a8dd562008b0406f25b85aee76"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "2b21e94c-7df9-11e6-aaee-002590f97d84",
     "author": [
       "Rebecca J. Lepping",
@@ -1882,11 +2625,21 @@
     ],
     "foaf:fundedBy": "This work was supported by funding to RL from The Society for Education, Music and Psychology Research (SEMPRE: Arnold Bentley New Initiatives Fund), and the University of Kansas Doctoral Student Research Fund. MR imaging was provided by pilot funding from the Hoglund Brain Imaging Center. The Hoglund Brain Imaging Center is supported by a generous gift from Forrest and Sally Hoglund and funding from the National Institutes of Health (UL1 TR000001). The contents of this dataset are solely the responsibility of the authors and do not necessarily represent the official views of the NIH or any individual institute. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the associated manuscript.",
     "license": "PDDL",
-    "name": "Neural Processing of Emotional Musical and Nonmusical Stimuli in Depression",
-    "type": "Dataset"
+    "name": "Neural Processing of Emotional Musical and Nonmusical Stimuli in Depression"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "2b21e94c-7df9-11e6-aaee-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "32761efc-7df9-11e6-877a-002590f97d84",
     "availableFrom": [
       {
@@ -1904,12 +2657,15 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:47:19-04:00",
+    "dcterms:modified": "2016-11-04T18:00:40-04:00",
     "type": "Dataset",
-    "version": "ab7adfa8321a98d43b0e5e066db24ee2d6a12fcd"
+    "version": "a3e355f45cf8ab06bd0d2fe6f2a7a6af65299a19"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "32761efc-7df9-11e6-877a-002590f97d84",
     "author": [
       "Hsu AL",
@@ -1930,11 +2686,21 @@
     ],
     "foaf:fundedBy": "See Acknowledgements",
     "license": "PDDL",
-    "name": "Physiological Contribution in Spontaneous Oscillations: An Approximate Quality Assurance Index for Resting-State fMRI Signals",
-    "type": "Dataset"
+    "name": "Physiological Contribution in Spontaneous Oscillations: An Approximate Quality Assurance Index for Resting-State fMRI Signals"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "32761efc-7df9-11e6-877a-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "488c85cc-7dfa-11e6-9067-002590f97d84",
     "availableFrom": [
       {
@@ -1952,12 +2718,15 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:47:39-04:00",
+    "dcterms:modified": "2016-11-04T18:00:43-04:00",
     "type": "Dataset",
-    "version": "e57b05cce8df81b6419406236c362d2323584759"
+    "version": "79dfbd8bdb8cb65359b472571f6657329b2137cc"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "488c85cc-7dfa-11e6-9067-002590f97d84",
     "author": [
       "Laura Koenders",
@@ -1976,11 +2745,21 @@
       "http://bids.neuroimaging.io/bids_spec1.0.0rc3.pdf"
     ],
     "license": "CC BY-NC 4.0i",
-    "name": "T1-weighted structural MRI study of cannabis users at baseline and 3 years follow up",
-    "type": "Dataset"
+    "name": "T1-weighted structural MRI study of cannabis users at baseline and 3 years follow up"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "488c85cc-7dfa-11e6-9067-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "6ff5b7c8-7dfa-11e6-b5c8-002590f97d84",
     "availableFrom": [
       {
@@ -1998,12 +2777,23 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:48:45-04:00",
+    "dcterms:modified": "2016-11-04T18:00:47-04:00",
     "type": "Dataset",
-    "version": "b60812d7daddcd0b8bdbf978a3e2cd28225be7c5"
+    "version": "da0ae16b2278790affae6d1da1c4d1a3ccc0debd"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "6ff5b7c8-7dfa-11e6-b5c8-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "7d3602a8-7dfa-11e6-831a-002590f97d84",
     "availableFrom": [
       {
@@ -2021,12 +2811,15 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:49:08-04:00",
+    "dcterms:modified": "2016-11-04T18:18:45-04:00",
     "type": "Dataset",
-    "version": "fc777e18f0243c2dabdd5a030ff48f2f10efb08e"
+    "version": "0d9784d441542905f07575bade39872c6be2e2d1"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "7d3602a8-7dfa-11e6-831a-002590f97d84",
     "author": [
       "Emilia Iannilli"
@@ -2039,11 +2832,21 @@
       "http://bids.neuroimaging.io/bids_spec1.0.0-rc2.pdf"
     ],
     "foaf:fundedBy": "",
-    "name": "Pre-adolescents Exposure to Manganese",
-    "type": "Dataset"
+    "name": "Pre-adolescents Exposure to Manganese"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "7d3602a8-7dfa-11e6-831a-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "372a01da-7bb4-11e6-9994-002590f97d84",
     "availableFrom": [
       {
@@ -2061,12 +2864,15 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-15T22:21:05-04:00",
+    "dcterms:modified": "2016-11-04T18:19:11-04:00",
     "type": "Dataset",
-    "version": "df2f244da1de282fc79e59c4563e831548a924f2"
+    "version": "970408c43ff0ec925a02d43e863f46df8bd139c0"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "372a01da-7bb4-11e6-9994-002590f97d84",
     "author": [
       "Gustav Nilsonne",
@@ -2094,11 +2900,21 @@
       "http://bids.neuroimaging.io/bids_spec1.0.0rc3.pdf"
     ],
     "license": "PDDL",
-    "name": "The Stockholm Sleepy Brain Study: Effects of Sleep Deprivation on Cognitive and Emotional Processing in Young and Old",
-    "type": "Dataset"
+    "name": "The Stockholm Sleepy Brain Study: Effects of Sleep Deprivation on Cognitive and Emotional Processing in Young and Old"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "372a01da-7bb4-11e6-9994-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "baf16f38-7dfa-11e6-84b7-002590f97d84",
     "availableFrom": [
       {
@@ -2116,12 +2932,15 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:50:51-04:00",
+    "dcterms:modified": "2016-11-04T18:19:16-04:00",
     "type": "Dataset",
-    "version": "539c468e426d5652b828f0d39f48d76981756781"
+    "version": "ff60359619c180107679e6e4537b7a839eccfba9"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "baf16f38-7dfa-11e6-84b7-002590f97d84",
     "author": [
       "Peter Van Schuerbeek",
@@ -2134,11 +2953,21 @@
     ],
     "foaf:fundedBy": "",
     "license": "Not Specified",
-    "name": "The heterogeneity in retrieved relations between the personality trait 'Harm avoidance' and gray matter volumes due to variations in the VBM and ROI labeling processing settings.",
-    "type": "Dataset"
+    "name": "The heterogeneity in retrieved relations between the personality trait 'Harm avoidance' and gray matter volumes due to variations in the VBM and ROI labeling processing settings."
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "baf16f38-7dfa-11e6-84b7-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "cd0fad10-7dfa-11e6-9ced-002590f97d84",
     "availableFrom": [
       {
@@ -2156,12 +2985,15 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:51:24-04:00",
+    "dcterms:modified": "2016-11-04T18:19:34-04:00",
     "type": "Dataset",
-    "version": "0ea80815c77d7f8c203cc56bd20e13b6828f4268"
+    "version": "353cca544f8cb4593284feb9fb5f379c3afe2903"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "cd0fad10-7dfa-11e6-9ced-002590f97d84",
     "author": [
       "Christian Stephan-Otto",
@@ -2184,11 +3016,21 @@
       "PI10/02479"
     ],
     "license": "PDDL",
-    "name": "Visual imagery and false memory for pictures",
-    "type": "Dataset"
+    "name": "Visual imagery and false memory for pictures"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "cd0fad10-7dfa-11e6-9ced-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "e255e3e2-7dfa-11e6-aaba-002590f97d84",
     "availableFrom": [
       {
@@ -2206,12 +3048,15 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:51:57-04:00",
+    "dcterms:modified": "2016-11-04T18:19:39-04:00",
     "type": "Dataset",
-    "version": "e6c9a9e7d5ef0d2be912f5b23b8c628680637e0f"
+    "version": "d81f3f5d05d0784cfbc7ab3c29ff33250e2f1111"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "e255e3e2-7dfa-11e6-aaba-002590f97d84",
     "author": [
       "Dara Dickstein",
@@ -2243,11 +3088,21 @@
       "NICHD K01HD074651-01A"
     ],
     "license": "PDDL",
-    "name": "Imaging [18F]AV-1451 and [18F]AV-45 in acute and chronic traumatic brain injury",
-    "type": "Dataset"
+    "name": "Imaging [18F]AV-1451 and [18F]AV-45 in acute and chronic traumatic brain injury"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "e255e3e2-7dfa-11e6-aaba-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "18003eae-7232-11e6-885a-002590f97d84",
     "availableFrom": [
       {
@@ -2261,12 +3116,15 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:52:10-04:00",
+    "dcterms:modified": "2016-11-04T18:19:44-04:00",
     "type": "Dataset",
-    "version": "17b0bb9c051b679d007e7c925f587b1f568423c8"
+    "version": "9f8defc8814731c3a5cde30f6539a1ea2f638d37"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "18003eae-7232-11e6-885a-002590f97d84",
     "author": [
       "Jongwan Kim",
@@ -2279,11 +3137,21 @@
       "http://bids.neuroimaging.io/bids_spec1.0.0.pdf"
     ],
     "license": "PDDL",
-    "name": "Affective Videos",
-    "type": "Dataset"
+    "name": "Affective Videos"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "18003eae-7232-11e6-885a-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "18be089e-7232-11e6-885a-002590f97d84",
     "availableFrom": [
       {
@@ -2301,12 +3169,15 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-09-18T19:52:46-04:00",
+    "dcterms:modified": "2016-11-04T18:19:52-04:00",
     "type": "Dataset",
-    "version": "f0f345a91b77a56189c3e519dd2cb11e1fe196da"
+    "version": "d6ffdc89709957f0bbe9ade81e9a904238b2cb80"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "18be089e-7232-11e6-885a-002590f97d84",
     "author": [
       "Hans J. Johnson",
@@ -2322,11 +3193,21 @@
     ],
     "foaf:fundedBy": "This work was supported, in part, by awards from CHDI Foundation, Inc.; NIH R01NS050568; NINDS NS40068 Neu- robiological Predictors of Huntington's Disease; and NINDS R01 NS054893 Cognitive and Functional Brain Changes in Preclinical HD. Dr. Turner was supported by NCRR 1 U24 RR021992 from the Functional Imaging Biomedical Infor- matics Network (S.G. Potkin, PI) for her work on this project while at the University of California, Irvine. This publication was supported by the National Center for Research Resour- ces and the National Center for Advancing Translational Sciences, National Institutes of Health, through Grant UL1RR024979. The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH.",
     "license": "PDDL",
-    "name": "Huntington's Traveling Human Phantom",
-    "type": "Dataset"
+    "name": "Huntington's Traveling Human Phantom"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "18be089e-7232-11e6-885a-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "87c83672-80fd-11e6-bf7d-002590f97d84",
     "availableFrom": [
       {
@@ -2344,12 +3225,15 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-10-03T12:23:43-04:00",
+    "dcterms:modified": "2016-11-04T18:19:59-04:00",
     "type": "Dataset",
-    "version": "0be746d1e5ca8334947901f52b6360bb9cabec58"
+    "version": "722b3bd766aa12eadd44abad58cb35eb59e7b70c"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "87c83672-80fd-11e6-bf7d-002590f97d84",
     "author": [
       "Tetreault P, Mansour A, Vachon-Presseau E, Schnitzer TJ, Apkarian AV, Baliki MN"
@@ -2360,7 +3244,62 @@
     ],
     "foaf:fundedBy": "Eli Lilly Pharmaceuticals funded study 2 (IIT number: F1J-US-XO61). This research was partially also supported by grants from National Institute of Neurological Disorders and Stroke (NS035115), and National Center for Complementary and Integrative Health (AT007987) of U.S. National Institutes of Health. P.T. and E.V.-P. were supported by the Canadian Institutes of Health Research.",
     "license": "PDDL",
-    "name": "Brain connectivity predicts placebo response across chronic pain clinical trials",
-    "type": "Dataset"
+    "name": "Brain connectivity predicts placebo response across chronic pain clinical trials"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "87c83672-80fd-11e6-bf7d-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "9ff28c78-9d4c-11e6-889a-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "1be38fac-fb1a-46a7-aae6-c38152758ff3",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "c66a9753-c2a7-4d8b-ae42-c7685748ef33",
+        "description": "yoh@smaug:/mnt/datasets/datalad/crawl/openfmri/ds000210"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
+    "dcterms:modified": "2016-11-04T18:20:09-04:00",
+    "type": "Dataset",
+    "version": "21b8a1f361ee552cdcaa95f8aac88e53f7b77c38"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "9ff28c78-9d4c-11e6-889a-002590f97d84",
+    "author": [
+      "Elizabeth DuPre",
+      "Wen-Ming Luh",
+      "R. Nathan Spreng"
+    ],
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io/bids_spec1.0.0.pdf"
+    ],
+    "license": "PDDL",
+    "name": "Multi-echo fMRI replication sample of autobiographical memory, prospection and theory of mind reasoning tasks"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "9ff28c78-9d4c-11e6-889a-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
   }
 ]

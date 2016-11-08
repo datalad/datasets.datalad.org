@@ -1,20 +1,21 @@
 [
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "bdd69cf4-7af4-11e6-b580-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
-    "dcterms:hasPart": {
-      "@id": "bde4c95a-7af4-11e6-b580-002590f97d84",
-      "location": "snapshots",
-      "type": "Dataset"
-    },
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2016-10-11T00:25:15-04:00",
+    "dcterms:modified": "2016-11-07T23:35:03-05:00",
     "type": "Dataset",
-    "version": "4de624803cda211253da6b4259642c3049ef28a3"
+    "version": "e65422791ccd9cea1339805f2b6cb7cb04ba7c31"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "bdd69cf4-7af4-11e6-b580-002590f97d84",
     "dcterms:conformsTo": [
       "http://specs.frictionlessdata.io/data-packages",
@@ -26,8 +27,19 @@
       "NeuroImaging"
     ],
     "license": "http://opendatacommons.org/licenses/pddl/",
-    "name": "Snapshots of http://neurovault.org",
-    "type": "Dataset"
+    "name": "Snapshots of http://neurovault.org"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "bdd69cf4-7af4-11e6-b580-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:hasPart": {
+      "@id": "bde4c95a-7af4-11e6-b580-002590f97d84",
+      "location": "snapshots"
+    }
   },
   {
     "@context": "http://schema.org/",

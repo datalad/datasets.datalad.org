@@ -1,20 +1,21 @@
 [
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "a67c9f18-7aea-11e6-8f6e-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
-    "dcterms:hasPart": {
-      "@id": "b6101c84-7aea-11e6-9d5d-002590f97d84",
-      "location": "fcon1000",
-      "type": "Dataset"
-    },
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2016-10-11T00:22:47-04:00",
+    "dcterms:modified": "2016-11-07T23:35:02-05:00",
     "type": "Dataset",
-    "version": "814b899be9f64e8f6a47670af4b5a7f51989539e"
+    "version": "a50d85d1d09423f6875720d43673cbfaeac01fb3"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "a67c9f18-7aea-11e6-8f6e-002590f97d84",
     "author": "Michael Milham et al (prepared by DataLad Team)",
     "dcterms:conformsTo": [
@@ -26,8 +27,19 @@
       "NeuroImaging"
     ],
     "name": "INDI (http://fcon_1000.projects.nitrc.org)",
-    "title": "Primarily MRI and fMRI from International Neuroimaging Data-sharing Initiative",
-    "type": "Dataset"
+    "title": "Primarily MRI and fMRI from International Neuroimaging Data-sharing Initiative"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "a67c9f18-7aea-11e6-8f6e-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:hasPart": {
+      "@id": "b6101c84-7aea-11e6-9d5d-002590f97d84",
+      "location": "fcon1000"
+    }
   },
   {
     "@context": "http://schema.org/",

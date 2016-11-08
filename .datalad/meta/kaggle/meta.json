@@ -1,28 +1,40 @@
 [
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "f3fab990-7474-11e6-938a-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
-    "dcterms:hasPart": {
-      "@id": "08811364-7475-11e6-9b35-002590f97d84",
-      "location": "melbourne-university-seizure-prediction",
-      "type": "Dataset"
-    },
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2016-10-11T00:24:21-04:00",
+    "dcterms:modified": "2016-11-07T23:35:03-05:00",
     "type": "Dataset",
-    "version": "8a98ac8fc9dffb73ef14fc8a1967404bcff4f6c0"
+    "version": "45b93a78a64641848eff9a614f7bf3c683eecdba"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "f3fab990-7474-11e6-938a-002590f97d84",
     "dcterms:conformsTo": [
       "http://specs.frictionlessdata.io/data-packages",
       "http://docs.datalad.org/metadata.html#v0-1"
     ],
     "homepage": "http://kaggle.com",
-    "name": "Some datasets from Kaggle",
-    "type": "Dataset"
+    "name": "Some datasets from Kaggle"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "f3fab990-7474-11e6-938a-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:hasPart": {
+      "@id": "08811364-7475-11e6-9b35-002590f97d84",
+      "location": "melbourne-university-seizure-prediction"
+    }
   },
   {
     "@context": "http://schema.org/",
