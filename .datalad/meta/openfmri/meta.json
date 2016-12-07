@@ -7,9 +7,9 @@
     "@id": "14114028-7d08-11e6-9ce4-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2016-11-07T23:02:14-05:00",
+    "dcterms:modified": "2016-11-25T16:53:07-05:00",
     "type": "Dataset",
-    "version": "4cb90b9892e0b90a1cf45d2e1add5e24af149886"
+    "version": "0f561cf9254df1eccf0b36d448ba315493d679db"
   },
   {
     "@context": {
@@ -294,9 +294,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-03T11:53:30-04:00",
+    "dcterms:modified": "2016-11-25T16:52:25-05:00",
     "type": "Dataset",
-    "version": "0f9cdbc31a01c987f13729d67f92e6702ad36ea5"
+    "version": "4f4f2cddac818b8567bc00b063821fc29fb1c71c"
   },
   {
     "@context": {
@@ -317,6 +317,7 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0.pdf"
     ],
+    "description": "This dataset was obtained from the OpenfMRI project (http://www.openfmri.org).\nAccession #: ds001\nDescription: Balloon Analog Risk Task\n\nPlease cite the following references if you use these data:\n\nSchonberg TS, Fox CR, Mumford JA, Congdon E, Trepel C, Poldrack RA (2012). Decreasing ventromedial prefrontal cortex activity during sequential risk-taking: An fMRI investigation of the Balloon Analogue Risk Task. Frontiers in Decision Neuroscience, 6:80 doi: 10.3389/fnins.2012.00080\n\n\nRelease history:\n7/10/2012: initial release\n\n3/21/2013: Updated release with QA information\n\n2/18/2016: Fixed orientation information in nifti headers for more consistent left-right determination\n\n\nThis dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.\n\n\n### Comments added by Openfmri Curators ###\n===========================================\n\n\nKnown Issues\n------------\nNot all subjects/sessions/runs have the same scanning parameters.\n  /sub-01/anat/sub-01_inplaneT2.nii.gz\n  /sub-01/func/sub-01_task-balloonanalogrisktask_run-01_bold.nii.gz\n  /sub-01/func/sub-01_task-balloonanalogrisktask_run-02_bold.nii.gz\n  /sub-01/func/sub-01_task-balloonanalogrisktask_run-03_bold.nii.gz\n\nDefacing\n--------\nPydeface was used on all anatomical images to ensure deindentification of subjects. The code\ncan be found at https://github.com/poldracklab/pydeface\n\n\nWhere to discuss the dataset\n----------------------------\n1) www.openfmri.org/dataset/ds******/ See the comments section at the bottom of the dataset\npage.\n2) www.neurostars.org Please tag any discussion topics with the tags openfmri and dsXXXXXX\naccession number.\n3) Send an email to submissions@openfmri.org. Please include the dsXXXXXX accession number in\nyour email.",
     "license": "This dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
     "name": "Balloon Analog Risk Task"
   },
@@ -354,9 +355,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-04T17:18:02-04:00",
+    "dcterms:modified": "2016-11-25T16:52:25-05:00",
     "type": "Dataset",
-    "version": "af97459555986774815d1f8d0b4a9dd7ea6c4fc7"
+    "version": "48a18ebbe09cee0ce6b7b0c1bb74106734856ad4"
   },
   {
     "@context": {
@@ -374,6 +375,7 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0.pdf"
     ],
+    "description": "This dataset was obtained from the OpenfMRI project (http://www.openfmri.org).\nAccession #: ds002\nDescription: Classification learning\n\nPlease cite the following references if you use these data:\n\nAron, A.R., Gluck, M.A., Poldrack, R.A. (2006). Long-term test-retest reliability of functional MRI in a classification learning task. Neuroimage, 29(3):1000-6\n\n\nRelease history:\n10/06/2011: initial release\n3/21/2013: Updated release with QA information\n\nThis dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
     "license": "This dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
     "name": "Classification learning"
   },
@@ -411,9 +413,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-03T18:22:09-04:00",
+    "dcterms:modified": "2016-11-25T16:52:26-05:00",
     "type": "Dataset",
-    "version": "e905f0ea036a50f7c8f1cf66e1b29aa2f9766501"
+    "version": "1df352eae93d7dc844502be396ecd3a91f5ba7b5"
   },
   {
     "@context": {
@@ -429,6 +431,7 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0.pdf"
     ],
+    "description": "This dataset was obtained from the OpenfMRI project (http://www.openfmri.org).\nAccession #: ds003\nDescription: Rhyme judgment\n\nRelease history:\n10/06/2011: initial release\n3/21/2013: Updated release with QA information\n2/18/2016: Updated orientation information in nifti headers for improved left-right determination\n\nThis dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
     "license": "This dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
     "name": "Rhyme judgment"
   },
@@ -466,9 +469,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-03T19:07:25-04:00",
+    "dcterms:modified": "2016-11-25T16:52:26-05:00",
     "type": "Dataset",
-    "version": "8e275f5f59820ab565fa76427f0bccb6e69f5d2b"
+    "version": "15ac76bd3cc702d6ef2bd0596129d2f0aec20c85"
   },
   {
     "@context": {
@@ -487,6 +490,7 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0rc4.pdf"
     ],
+    "description": "This dataset was obtained from the OpenfMRI project (http://www.openfmri.org).\nAccession #: ds005\nDescription: Mixed-gambles task\n\nPlease cite the following references if you use these data:\n\nTom, S.M., Fox, C.R., Trepel, C., Poldrack, R.A. (2007). The neural basis of loss aversion in decision-making under risk. Science, 315(5811):515-8\n\n\nRelease history:\n10/06/2011: initial release\n3/21/2013: Updated release with QA information\n2/18/2016: Update orientation information in nifti header for improved left-right determination\n\nThis dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
     "license": "This dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
     "name": "Mixed-gambles task"
   },
@@ -520,9 +524,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-03T18:56:27-04:00",
+    "dcterms:modified": "2016-11-25T16:52:27-05:00",
     "type": "Dataset",
-    "version": "e5d4febd51817f458fa2479f94999d28ca17ca2e"
+    "version": "ff5b5578122635bd5926ecc8c7ce15586cf6f132"
   },
   {
     "@context": {
@@ -540,6 +544,7 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0rc4.pdf"
     ],
+    "description": "This dataset was obtained from the OpenfMRI project (http://www.openfmri.org).\nAccession #: ds006A\nDescription: Living-nonliving decision with plain or mirror-reversed text\n3/21/2013: Updated release with QA information\n2/19/2016: Updated orientation information in NIFTI header for improved left-right determination.\n\nThis dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
     "license": "This dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
     "name": "Living-nonliving decision with plain or mirror-reversed text"
   },
@@ -577,9 +582,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-03T19:26:16-04:00",
+    "dcterms:modified": "2016-11-25T16:52:28-05:00",
     "type": "Dataset",
-    "version": "9b5cdeed7e256c73986d004a7d9fe2b05cbb9024"
+    "version": "b8e23ff64253b0272d79ca9b6a9a44a7cbe7024a"
   },
   {
     "@context": {
@@ -599,6 +604,7 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0rc3.pdf"
     ],
+    "description": "This dataset was obtained from the OpenfMRI project (http://www.openfmri.org).\nAccession #: ds007\nDescription: Stop-signal task with spoken & manual responses\n\nPlease cite the following references if you use these data:\n\nXue, G., Aron, A.R., Poldrack, R.A. (2008). Common neural substrates for inhibition of spoken and manual responses. Cereb Cortex, 18(8):1923-32. doi: 10.1093/cercor/bhm220\n\nThis dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
     "foaf:fundedBy": "Funding: James S. McDonnell Foundation 21st Century Science Program Grant (to R.P); Foundation for Psychological Research, University of California-Los Angeles Center for Culture, Brain and Development (to G.X.).",
     "license": "PDDL",
     "name": "Stop-signal task with spoken & manual responses"
@@ -637,9 +643,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-03T19:30:36-04:00",
+    "dcterms:modified": "2016-11-25T16:52:28-05:00",
     "type": "Dataset",
-    "version": "b62470149154b8221f99e4d8409c6eeff1a390ea"
+    "version": "011c0ede1ea2bed73897f81dea0f3e0e6e8f556e"
   },
   {
     "@context": {
@@ -652,6 +658,7 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0rc4.pdf"
     ],
+    "description": "This dataset was obtained from the OpenfMRI project (http://www.openfmri.org).\nAccession #: ds008\nDescription: Stop-signal task with unselective and selective stopping\n\nPlease cite the following references if you use these data:\n\nAron, A.R., Behrens, T.E., Smith, S., Frank, M.J., Poldrack, R.A. (2007). Triangulating a cognitive control network using diffusion-weighted magnetic resonance imaging (MRI) and functional MRI. J Neurosci, 27(14):3743-52\n\n\nRelease history:\n10/06/2011: initial release\n12/20/2012: The originally posted version of this dataset was missing some\nonsets for task002. The newly posted version contains the full set of onsets\nfor all conditions.  If only the onsets and model info are needed, they can be\nobtained by downloading the updated onsets file and untarring it in the main\nds008 directory.\n3/21/2013: Updated release with QA information\n2/19/2016: Updated orientation information in NIFTI header for better left-right determination\n3/7/2016: Remove sub008 due to ambiguously defined task onsets and missing run data\n\nThis dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
     "license": "This dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
     "name": "Stop-signal task with unselective and selective stopping"
   },
@@ -750,9 +757,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-03T19:38:12-04:00",
+    "dcterms:modified": "2016-11-25T16:52:29-05:00",
     "type": "Dataset",
-    "version": "17c6c596c091ee4bfd81bdd9bf3e4808cb556fa5"
+    "version": "d1fd6c31376e44f9f034c48b544af7ea43bedb34"
   },
   {
     "@context": {
@@ -770,6 +777,7 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0.pdf"
     ],
+    "description": "This dataset was obtained from the OpenfMRI project (http://www.openfmri.org).\nAccession #: ds011\nDescription: Classification learning and tone-counting\n\nPlease cite the following references if you use these data:\n\nFoerde, K., Knowlton, B.J., Poldrack, R.A. (2006). Modulation of competing memory systems by distraction. Proc Natl Acad Sci U S A,103(31):11778-83\n\n\nRelease history:\n10/06/2011: initial release\n3/21/2013: Updated release with QA information\n\nThis dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
     "license": "This dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
     "name": "Classification learning and tone-counting"
   },
@@ -879,9 +887,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-03T19:44:06-04:00",
+    "dcterms:modified": "2016-11-25T16:52:32-05:00",
     "type": "Dataset",
-    "version": "92c5d8af386ff56fabacc0183d1180d450863b24"
+    "version": "c9577578c5255b39229f4d6753996f101131ad8f"
   },
   {
     "@context": {
@@ -906,6 +914,7 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0rc3.pdf"
     ],
+    "description": "## UCLA Consortium for Neuropsychiatric Phenomics LA5c Study\n\n## Feedback and Discussion of Dataset DS000030\n\nFeedback, discussions, and comments are welcome. For information on how and where to discuss this data set, please see the OpenfMRI FAQ: https://openfmri.org/faq/ item \"**Is there a place to discuss these datasets with the larger community?**\"\n\n## Data Organization\n\nThe data set is organized in BIDS version 1.0.0rc3 (http://bids.neuroimaging.io) format.\n\n## Subjects / Participants\nThe participants.tsv file contains subject IDs with demographic informations as well as an inventory of the scans that are included for each subject.\n\n## Dataset Derivatives (/derivatives)\nThe /derivaties folder contains summary information that reflects the data and its contents:\n\n1. Final_Scan_Count.pdf - Plot showing the over all scan inclusion, for quick reference.\n2. parameter_plots/ - Folder contains many scan parameters plotted over time. Plot symbols are color coded by imaging site. Intended to provide a general sense of protocol adherence throughout the study. Individual parameters scan be found in the scan .json sidecar file. A single file containing the combined data from all of the imaging .json sidecars if provided in parameter_plots/MR_Scan_Parameters.tsv file.\n3. physio_plots/ - Folder contains a plot of the physiological recording trace for the Breath Hold and Resting State functional scans. For the BHT, the instructional cue timings are represented by shaded background.\n4. event_plots/ - Simple plots of the function task events files. The x-axis is always time (onset), and the y-axis can be task-specific. Also intended as a quick reference or summary.\n5. mriqcp/ - Output of the current version (as of 27 Jan 2016) of MRIQCP (MRI Quality Control Protocol: https://github.com/poldracklab/mriqc). Included are numeric results of anatomical and functional protocols as well as single subject results plotted against group distribution.\n6. data_browser/ - a rudimentary data visualization for MRIQP (see: http://wtriplett.github.io/ds030/)\n\n## Scan-specific Notes\n\nAll scan files were converted from scanner DICOM files using dcm2niix (0c9e5c8 from https://github.com/neurolabusc/dcm2niix.git). Extra DICOM metadata elements were extracted using GDCM (http://gdcm.sourceforge.net/wiki/index.php/Main_Page) and combined to form each scan's .json sidecar.\n\n**Note regarding scan and task timing**: In most cases, the trigger time was provided in the task data file and has been transferred into the TaskParameter section of each scans *_bold.json file. If the trigger time is available, a correction was performed to the onset times to account for trigger delay. The uncompensated onset times are included in the onset_NoTriggerAdjust column. There will be an 8 second discrepancy between the compensated and uncompensated that accounts for pre-scans (4 TRs) performed by the scanner. In the cases where the trigger time is not available, the output of (TotalScanTime - nVols*RepetitionTime) may provide an estimate of pre-scan time.\n\n### T1w Anatomical\nDefacing was performed using freesurfer mri_deface (https://surfer.nmr.mgh.harvard.edu/fswiki/mri_deface)\n\n    Bischoff-Grethe, Amanda et al. \"A Technique for the Deidentification of Structural Brain MR Images.\" Human brain mapping 28.9 (2007): 892–903. PMC. Web. 27 Jan. 2016.\n\n### PAMenc / PAMret\nThe larger amount of missing PAM scans is due to a task design change early in the study. It was decided that data collected before the design change would be excluded.\n\n### Stop Signal\nThe Stop Signal task consisted of both a training task (no MRI) and the in-scanner fMRI task. The data from the training run is included in each subject's beh folder with the task name \"stopsignaltraining\".",
     "foaf:fundedBy": [
       "UL1-DE019580",
       "RL1MH083268",
@@ -1011,9 +1020,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-03T20:17:12-04:00",
+    "dcterms:modified": "2016-11-25T16:52:33-05:00",
     "type": "Dataset",
-    "version": "1a53da0203a0b6212fbec9eb081cb05e37f35015"
+    "version": "ef40ae6309c354a66372fd2ff2be6fb52ed4b9c3"
   },
   {
     "@context": {
@@ -1029,6 +1038,7 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0.pdf"
     ],
+    "description": "This dataset was obtained from the OpenfMRI project (http://www.openfmri.org).\nAccession #: ds051\nDescription: Cross-language repetition priming\n\nRelease history:\n11/04/2011: initial release\n3/21/2013: Updated release with QA information\n\nThis dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
     "license": "This dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
     "name": "Cross-language repetition priming"
   },
@@ -1066,9 +1076,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-03T20:03:14-04:00",
+    "dcterms:modified": "2016-11-25T16:52:34-05:00",
     "type": "Dataset",
-    "version": "fc90404283fbf4a8c77aa3de8a0ab26922006e7c"
+    "version": "1437505c58a2be6e284781525b0a967894353b07"
   },
   {
     "@context": {
@@ -1092,6 +1102,7 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0rc3.pdf"
     ],
+    "description": "This dataset was obtained from the OpenfMRI project (http://www.openfmri.org).\nAccession #: ds052\nDescription: Classification learning and reversal\n\nPlease cite the following references if you use these data:\n\nPoldrack, R.A., Clark, J., Paré-Blagoev, E.J., Shohamy, D., Creso Moyano, J., Myers, C., Gluck, M.A. (2001). Interactive memory systems in the human brain. Nature, 414(6863):546-50\n\n\nThis dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
     "license": "PDDL",
     "name": "Classification learning and reversal"
   },
@@ -1163,9 +1174,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-04T08:21:56-04:00",
+    "dcterms:modified": "2016-11-25T16:52:35-05:00",
     "type": "Dataset",
-    "version": "b6fb4ccd95322d0232408f44bc4001451bd76f5a"
+    "version": "6ecff2171cb788f254442e0bccda0fd2a0b65ff7"
   },
   {
     "@context": {
@@ -1184,6 +1195,7 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0rc3.pdf"
     ],
+    "description": "This dataset was obtained from the OpenfMRI project (http://www.openfmri.org).\nAccession #: ds101\nDescription: Simon task\n\nThis dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
     "license": "PDDL",
     "name": "Simon Task"
   },
@@ -1221,9 +1233,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-04T08:28:45-04:00",
+    "dcterms:modified": "2016-11-25T16:52:36-05:00",
     "type": "Dataset",
-    "version": "256846a737fc0daa88a197d49b7d2f4e6f4ab63a"
+    "version": "fb72f76b3fc7c5645cad729080fc0f44787c11e2"
   },
   {
     "@context": {
@@ -1247,6 +1259,7 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0rc3.pdf"
     ],
+    "description": "This dataset was obtained from the OpenfMRI project (http://www.openfmri.org).\nAccession #: ds102\nDescription: Flanker task (event-related)\n\nThe \"NYU Slow Flanker\" dataset comprises data collected from 26 healthy\nadults (age and sex included in Slow_Flanker_age_sex.txt) while they \nperformed a slow event-related Eriksen Flanker task.\n\n**Please note that all data have been uploaded regardless of quality\nit is up to the user to check for data quality (movement etc).\n\nOn each trial (inter-trial interval (ITI) varied between 8 s and 14 s;\nmean ITI=12 s),participants used one of two buttons on a response pad\nto indicate the direction of a central arrow in an array of 5 arrows.\nIn congruent trials the flanking arrows pointed in the same direction\nas the central arrow (e.g., < < < < <), while in more demanding\nincongruent trials the flanking arrows pointed in the opposite\ndirection (e.g., < < > < <). \n\nSubjects performed two 5-minute blocks, each containing 12 congruent\nand 12 incongruent trials, presented in a pseudorandom order.\n\nFunctional imaging data were acquired using a research dedicated Siemens\nAllegra 3.0 T scanner, with a standard Siemens head coil, located at the\nNYU Center for Brain Imaging.\n\nWe obtained 146 contiguous echo planar imaging (EPI) whole-brainfunctional\nvolumes (TR=2000 ms; TE=30 ms; flip angle=80, 40 slices, matrix=64x64; FOV=192 mm; acquisition voxel size=3x3x4mm) during each of the two flanker task blocks. A high-resolution T1-weighted anatomical image was also acquired using a magnetization prepared gradient echo sequence (MPRAGE, TR=2500 ms; TE=\n3.93 ms; TI=900 ms; flip angle=8; 176 slices, FOV=256 mm).\n\nPlease cite one of the following references if you use these data:\n\nKelly, A.M., Uddin, L.Q., Biswal, B.B., Castellanos, F.X., Milham, M.P. (2008). Competition between functional brain networks mediates behavioral variability. Neuroimage, 39(1):527-37\n\nMennes, M., Kelly, C., Zuo, X.N., Di Martino, A., Biswal, B.B., Castellanos, F.X., Milham, M.P. (2010). Inter-individual differences in resting-state functional connectivity predict task-induced BOLD activity. Neuroimage, 50(4):1690-701. doi: 10.1016/j.neuroimage.2010.01.002. Epub 2010 Jan 15. Erratum in: Neuroimage. 2011 Mar 1;55(1):434\n\nMennes, M., Zuo, X.N., Kelly, C., Di Martino, A., Zang, Y.F., Biswal, B., Castellanos, F.X., Milham, M.P. (2011). Linking inter-individual differences in neural activation and behavior to intrinsic brain dynamics. Neuroimage, 54(4):2950-9. doi: 10.1016/j.neuroimage.2010.10.046\n\nThis dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
     "license": "PDDL",
     "name": "Flanker Task"
   },
@@ -1284,9 +1297,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-03T17:03:51-04:00",
+    "dcterms:modified": "2016-11-25T16:52:37-05:00",
     "type": "Dataset",
-    "version": "6bb31fde846b36f8f7275a2ae8a753b1552e2a71"
+    "version": "1f59432e5369528c7754755e265def5fbafb892d"
   },
   {
     "@context": {
@@ -1307,6 +1320,7 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0.pdf"
     ],
+    "description": "This dataset was obtained from the OpenfMRI project (http://www.openfmri.org).\nAccession #: ds105\nDescription: Visual object recognition\n\nPlease cite the following references if you use these data:\n\nHaxby, J.V., Gobbini, M.I., Furey, M.L., Ishai, A., Schouten, J.L., Pietrini, P. (2001). Distributed and overlapping representations of faces and objects in ventral temporal cortex. Science, 293(5539):2425-30\n\n\n\nHanson, S.J., Matsuka, T., Haxby, J.V. (2004). Combinatorial codes in ventral temporal lobe for object recognition: Haxby (2001) revisited: is there a \"face\" area? Neuroimage. 23(1):156-66\n\n\n\nO'Toole, A.J., Jiang, F., Abdi, H., Haxby, J.V. (2005). Partially distributed representations of objects and faces in ventral temporal cortex. J Cogn Neurosci, 17(4):580-90\n\n\nRelease history:\n10/12/2011: initial release\n10/29:2012: updated release, corrected a problem with initial release in which one extra timepoint was incorrectly added to the end of runs 1-11 for each subject. \n3/21/2013: Updated release with QA information\n\nThis dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
     "license": "This dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
     "name": "Visual object recognition"
   },
@@ -1344,9 +1358,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-04T08:54:17-04:00",
+    "dcterms:modified": "2016-11-25T16:52:37-05:00",
     "type": "Dataset",
-    "version": "b747fe59498c4a32b920578675078ab266e9c646"
+    "version": "9d7a6014902ce28047a763328d146986f36576f7"
   },
   {
     "@context": {
@@ -1365,6 +1379,7 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0.pdf"
     ],
+    "description": "This dataset was obtained from the OpenfMRI project (http://www.openfmri.org).\nAccession #: ds107\nDescription: Word and object processing\n\nPlease cite the following references if you use these data:\n\nDuncan, K.J., Pattamadilok, C., Knierim, I., Devlin, J.T. (2009). Consistency and variability in functional localisers. Neuroimage, 46(4):1018-26. doi: 10.1016/j.neuroimage.2009.03.014\n\n\nRelease history:\n11/04/2011: initial release\n3/21/2013: Updated release with QA information\n\nThis dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
     "license": "This dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
     "name": "Word and object processing"
   },
@@ -1402,9 +1417,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-04T21:17:15-04:00",
+    "dcterms:modified": "2016-11-25T16:52:38-05:00",
     "type": "Dataset",
-    "version": "c8717f195edac4af20f4f29c6512b1d4360c3b99"
+    "version": "471250275f5dcb0777e903af67f8060b60aca9d0"
   },
   {
     "@context": {
@@ -1424,6 +1439,7 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0.pdf"
     ],
+    "description": "This dataset was obtained from the OpenfMRI project (http://www.openfmri.org).\nAccession #: ds108\nDescription: Prefrontal-Subcortical Pathways Mediating Successful Emotion Regulation\n\nPlease cite the following references if you use these data:\n\nWager, T.D., Davidson, M.L., Hughes, B.L., Lindquist, M.A., Ochsner, K.N. (2008). Prefrontal-subcortical pathways mediating successful emotion regulation. Neuron, 59(6):1037-50. doi: 10.1016/j.neuron.2008.09.006\n\n3/21/2013: Updated release with QA information\n\nThis dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.\n\n\n### Comments added by Openfmri Curators ###\n=====================================\n  \nKnown Issues\n-------------------\nMissing Files - \n/sub-24/func/sub-24_task-Emotionregulation_run-05_bold.nii.gz\n/sub-28/func/sub-28_task-Emotionregulation_run-06_bold.nii.gz\n/sub-29/func/sub-29_task-Emotionregulation_run-06_bold.nii.gz\n/sub-34/func/sub-34_task-Emotionregulation_run-06_bold.nii.gz\n      \nDefacing\n------------\nPydeface was used on all anatomical images to ensure deindentification of subjects. The code can be found at https://github.com/poldracklab/pydeface \n\nQuality Control\n--------------------\nMriqc was run on the dataset. Results are located in derivatives/mriqc. The code can be found at https://github.com/poldracklab/mriqc\n\nWhere to discuss the dataset\n---------------------------------------\nwww.openfmri.org/dataset/ds******/ See the comments section at the bottom of the dataset page.\nwww.neurostars.org Please tag any discussion topics with the tags openfmri and dsXXXXXX accession number.\nSend an email to submissions@openfmri.org. Please include the dsXXXXXX accession number in your email.",
     "license": "This dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
     "name": "Prefrontal-Subcortical Pathways Mediating Successful Emotion Regulation"
   },
@@ -1513,9 +1529,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-03T22:33:51-04:00",
+    "dcterms:modified": "2016-11-25T16:52:39-05:00",
     "type": "Dataset",
-    "version": "0f9a5cafb5e651e1a80d680550582a61d9437e78"
+    "version": "bcd0294fed6e7e419e3877ef1630b77bf8512ce0"
   },
   {
     "@context": {
@@ -1533,6 +1549,7 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0.pdf"
     ],
+    "description": "This dataset was obtained from the OpenfMRI project (http://www.openfmri.org).\nAccession #: ds110\nDescription: Incidental encoding task (Posner Cueing Paradigm)\n\nPlease cite the following references if you use these data:\n\nUncapher, M.R., Hutchinson, J.B., Wagner, A.D. (2011). Dissociable effects of top-down and bottom-up attention during episodic encoding. J Neurosci, 31(35):12613-28. doi: 10.1523/JNEUROSCI.0152-11.2011\n\n3/21/2013: Updated release with QA information\n\nThis dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.\n\nKnown Issues\n------------\nN/A\n\n\nDefacing\n--------\nPydeface was used on all anatomical images to ensure deindentification of subjects. The code\ncan be found at https://github.com/poldracklab/pydeface\n\n\nQuality Control\n---------------\nMriqc was run on the dataset. Results are located in derivatives/mriqc. The code can be found\nat https://github.com/poldracklab/mriqc\n\n\nWhere to discuss the dataset\n----------------------------\n1) www.openfmri.org/dataset/ds000***/ See the comments section at the bottom of the dataset\npage.\n2) www.neurostars.org Please tag any discussion topics with the tags openfmri and dsXXXXXX\naccession number.\n3) Send an email to submissions@openfmri.org. Please include the dsXXXXXX accession number in\nyour email.",
     "license": "This dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
     "name": "Incidental encoding task (Posner Cueing Paradigm)"
   },
@@ -1604,9 +1621,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-07T23:02:29-05:00",
+    "dcterms:modified": "2016-11-25T16:52:40-05:00",
     "type": "Dataset",
-    "version": "6b803a03b2386456119c703b9df85d2ac2fc4bcc"
+    "version": "638d220dc9f315fdec372bae395c0e6bf21d9399"
   },
   {
     "@context": {
@@ -1614,12 +1631,22 @@
       "doap": "http://usefulinc.com/ns/doap#"
     },
     "@id": "8aa835ee-7df7-11e6-bf2b-002590f97d84",
-    "author": "Hanke, M., Baumgartner, F.J., Ibe, P., Kaule, F.R., Pollmann, S., Speck, O.,\nZinke, W. & Stadler, J.",
+    "author": [
+      "Hanke, M.",
+      "Baumgartner, F.J.",
+      "Ibe, P.",
+      "Kaule, F.R.",
+      "Pollmann, S.",
+      "Speck, O.",
+      "Zinke, W.",
+      "Stadler, J."
+    ],
     "citation": "Hanke, M., Baumgartner, F.J., Ibe, P., Kaule, F.R., Pollmann, S., Speck, O.,\nZinke, W. & Stadler, J. (2014). A high-resolution 7-Tesla fMRI dataset from\ncomplex natural stimulation with an audio movie. Scientific Data, 1.\ndoi:10.1038/sdata.2014.3\n\nLabs, A., Reich, T., Schulenburg, H., Boennen, M., Gehrke, M., Golz, M.,\nHartings, B., Hoffmann, N., Keil, S., Perlow, M., Peukmann, A. K., Rabe, L. N.,\nvon Sobbe, F.-R. & Hanke, M. (2015). Portrayed emotions in the movie “Forrest\nGump”. F1000Research, 4:92.\nurl:http://f1000research.com/articles/4-92\ndoi:10.12688/f1000research.6230.1",
     "dcterms:conformsTo": [
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0rc2.pdf"
     ],
+    "description": "### Comments added by Openfmri Curators ###\n===========================================\n\n\nKnown Issues\n------------\nNot all subjects contain the same files.\n               /sub-20/func/sub-20_task-auditoryperception_run-05_bold.nii.gz\n               /sub-20/func/sub-20_task-auditoryperception_run-05_events.tsv\n               /sub-20/func/sub-20_task-auditoryperception_run-06_bold.nii.gz\n               /sub-20/func/sub-20_task-auditoryperception_run-06_events.tsv\n               /sub-20/func/sub-20_task-auditoryperception_run-07_bold.nii.gz\n               /sub-20/func/sub-20_task-auditoryperception_run-07_events.tsv\n               /sub-20/func/sub-20_task-auditoryperception_run-08_bold.nii.gz\n               /sub-20/func/sub-20_task-auditoryperception_run-08_events.tsv\n\nDefacing\n--------\nPydeface was used on all anatomical images to ensure deindentification of subjects. The code\ncan be found at https://github.com/poldracklab/pydeface\n\nWhere to discuss the dataset\n----------------------------\n1) www.openfmri.org/dataset/ds******/ See the comments section at the bottom of the dataset\npage.\n2) www.neurostars.org Please tag any discussion topics with the tags openfmri and dsXXXXXX\naccession number.\n3) Send an email to submissions@openfmri.org. Please include the dsXXXXXX accession number in\nyour email.",
     "name": "Forrest Gump movie annotation"
   },
   {
@@ -1697,6 +1724,10 @@
     "@id": "a43ec748-7df7-11e6-bf7d-002590f97d84",
     "availableFrom": [
       {
+        "@id": "0de56edb-37fa-47dc-9908-5d57cb260334",
+        "description": "[datalad]"
+      },
+      {
         "@id": "590d0da0-e791-4848-a09e-a47c70939758",
         "description": "[datalad-archives]"
       },
@@ -1711,9 +1742,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-07T23:02:31-05:00",
+    "dcterms:modified": "2016-11-16T15:29:58-05:00",
     "type": "Dataset",
-    "version": "f6225b4b7a84dd20d01738391681a6d5779ea65b"
+    "version": "8058c252eaa8b1fe648704392dec499e0f99b4f9"
   },
   {
     "@context": {
@@ -1838,9 +1869,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-03T20:31:03-04:00",
+    "dcterms:modified": "2016-11-25T16:52:42-05:00",
     "type": "Dataset",
-    "version": "0a1ba96407015cd40be04c024d62d2dcac4c2534"
+    "version": "c7ebc7afdece64b776bc8315470df924e61175e3"
   },
   {
     "@context": {
@@ -1857,6 +1888,7 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0.pdf"
     ],
+    "description": "1.  grab original data from xnat and setup using setup_all_subs.py\n\n2.  set up new directories using reformat_data.py\n\n3.  set up functional data using copy_func_data.py\n\n\n### Comments added by Openfmri Curators ###\n=====================================\n\nKnown Issues\n-------------------\nMissing Subjects - sub-23, sub-25, sub-48 \n\nDefacing\n------------\nPydeface was used on all anatomical images to ensure deindentification of subjects. The code can be found at https://\ngithub.com/poldracklab/pydeface\n\nWhere to discuss the dataset\n---------------------------------------\nwww.openfmri.org/dataset/ds******/ See the comments section at the bottom of the dataset page.\nwww.neurostars.org Please tag any discussion topics with the tags openfmri and dsXXXXXX accession number.\nSend an email to submissions@openfmri.org. Please include the dsXXXXXX accession number in your email.",
     "name": "Working memory in healthy and schizophrenic individuals"
   },
   {
@@ -1893,9 +1925,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-07T12:59:49-05:00",
+    "dcterms:modified": "2016-11-25T16:52:45-05:00",
     "type": "Dataset",
-    "version": "724ff99036f85574a61d46ffc2138b2c48821b50"
+    "version": "9990af5aaa9eee56eeb937ab8ea6c0f8f8af940d"
   },
   {
     "@context": {
@@ -1910,6 +1942,7 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0.pdf"
     ],
+    "description": "Data acquisition methods have been described in detail in Walz et al. (2013, J Neurosci), but we outline them here and provide file information for clarity and ease of use.\n\n\n————————————————————————————————\nODDBALL PARADIGM\n————————————————————————————————\n\n3 runs each of separate auditory and visual tasks\n20% target stimuli (requiring button response), 80% standard stimuli (to be ignored)\nstimulus duration 200 ms\nITI 2-3 sec, uniformly distributed \nfirst 2 stimuli constrained to be standards\neach run consisted of 125 total stimuli\n\nAUDITORY\ntarget - broadband “laser gun” sound\nstandard - 390 Hz tone \n\nVISUAL\ntarget - large red circle on isoluminant grey background (3.45 degree visual angle)\nstandard - small green circle on isoluminant grey background (1.15 degree visual angle)\n\n\n————————————————————————————————\nEEG DATA\n————————————————————————————————\n\ncustom built MR-compatible EEG system with differential amplifier\ncustom cap configuration using bipolar electrode pairs and twisted leads\n1000 Hz sampling rate\n49 channels \nstart triggered by fMRI scan start and EEG clock synced with scanner clock on each TR.\n\n\nCHANNEL KEY\n\nchan 1-43 (or 1-34 in the re-referenced electrode space)\nEEG (for locations refer to cap diagram and bipolar mapping table, described in SUPPLEMENTARY FILES section below)\n\nchan 44 \nEOG - horizontal\n\nchan 45\nEOG - vertical\n\nchan 46-47 (or chan 35 in the re-referenced electrode space)\nECG\n\nchan 48 (or chan 35 in the re-referenced electrode space)\nstimulus event markers\nbaseline 0 value jumps to 25 at start of task\nvalue 125 is auditory standards\nvalue 150 is auditory targets\nvalue 225 is visual standards\nvalue 250 is visual targets\n\nchan 49 (or chan 36 in the re-referenced electrode space)\nbehavioral event markers\nbaseline value 0 with value 100 indicating response \n\n\nRAW EEG DATA (EEG_raw.mat)\n\nThis is the completely raw EEG recording, contaminated with gradient and BCG artifacts. \nrange is -8 to +8 V (amplifier gain was set to 10K)\n\n\nGRADIENT-FREE EEG DATA (EEG_noGA.mat)\n\nunits of uV\nThis is the data following gradient-artifact removal using mean (across TRs for each channel) subtraction method and standard filtering. BCG artifact remains. \nNote: these are the data we used for classification in our study.\n\n\nRE-REFERENCED GRADIENT-FREE EEG DATA (EEG_rereferenced.mat)\n\nunits of uV\nThis is the same data as above, but in the 34-channel electrode space. Re-referencing is performed via a basic matrix operation using the shortestpath.m (see SUPPLEMENTARY FILES section below).  Noisy channels (subjectively determined by visual inspection) were excluded prior to re-referencing; due to oversampled system design, this does not cause loss of electrodes.\n\nsubject\texcluded bipolar pair channels\nsub001 \t[8 24]\nsub002 \t[5 30]\t\nsub003 \t[29 30 34 36]\nsub004 \t[23 24 30]\nsub005 \t[8 30]\nsub006 \t[9 24 30]\nsub007 \t[30]\nsub008 \t[28 29 30 33 36]\nsub009 \t[29 30 33]\nsub010 \t[24 29 33]\nsub011 \t[16 24 30]\nsub012 \t[30]\nsub013 \t[30]\nsub014 \t[30]\nsub015 \t[8 16 28 34 37]\nsub016 \t[16 24 30 28 37]\nsub017 \t[7 33]\n\n\n————————————————————————————————\nBOLD fMRI DATA\n————————————————————————————————\n\n3T Philips Achieva MR Scanner\nsingle channel send and receive head coil \nEPI sequence\n170 TRs per run\n2 s TR\n25 ms TE \n32 slices\n3x3x4 mm resolution \nno slice gap\nAC-PC alignment\n\n\nThe supplied explanatory variable files \n- cond001.txt - target stimuli\n- cond002.txt - standard stimuli\n- cond003.txt - reaction time\ncontain only trials with correct responses and clean EEG. To include all trials, one can easily create new model files from the behavdata.txt files.  \n\n\nIMPORTANT NOTES ABOUT PREPROCESSING\n\n* Slices were not acquired in interleaved order. Refer to the slice_order.txt file (single column FSL format) if you choose to perform slice timing correction.\n\n* The scanner began the EPI pulse sequence a few seconds prior to the start of recording, so there is no need to discard the first few TRs, as is commonly done with fMRI data. \n\n* EEG wires can create field inhomogeneities that are sometimes visible on the images, particularly on the left posterior region closest to where the wires were bunched together as they exited the coil. Bias field correction can optionally be performed using FSL FAST without the need of a field map.\n\n\n————————————————————————————————\nANATOMICAL MRI DATA\n————————————————————————————————\n\n- highresSPGR001.nii.gz - SPGR 1x1x1 mm (present for all subjects except sub010)\n- highresMPRAGE001.nii.gz - MPRAGE 1x1x1 mm (for sub010 and additionally exists for a few others)\n- highresEPI001.nii.gz - high resolution single volume EPI 2x2x2 mm\n\n\n————————————————————————————————\nSUPPLEMENTARY FILES\n————————————————————————————————\n\nEEG RE-REFERENCING \n\n- shortestpath.m - Matlab function used to re-reference EEG data from 43-channel bipolar pair space to 34-channel electrode space. See function help for more info.  Dependencies are efmri36mastoids.ced location file (supplied) and EEGLAB readlocs.m function (free download from UCSD).\n\nELECTRODE LOCATIONS\n\n- efmri36mastoids.ced - location file for re-referenced data that includes mastoid channels.\n- locations_34_EEG.ced - location file for 34 electrodes.\n- EEGfMRI_cap_diagram.png - for easy reference.\n- EEGfMRI_cap_bipolar_pair_mapping.pdf - table showing mapping from bipolar pair space to electrode space.\n\nfMRI ACQUISITION\n\n- slice_order.txt - single column FSL format custom slice timing correction file. This is the order in which slices were acquired by the scanner (i.e. not interleaved).\n\n\n————————————————————————————————\nPUBLICATIONS\n————————————————————————————————\n\nWalz JM, Goldman RI, Carapezza M, Muraskin J, Brown TR, Sajda P (2013) “Simultaneous EEG-fMRI Reveals Temporal Evolution of Coupling between Supramodal Cortical Attention Networks and the Brainstem,” J Neurosci 33(49):19212-22. doi: 10.1523/JNEUROSCI.2649-13.2013.\n\nWalz JM, Goldman RI, Carapezza M, Muraskin J, Brown TR, Sajda P (2013) “Simultaneous EEG-fMRI reveals a temporal cascade of task-related and default-mode activations during a simple target detection task,” Neuroimage. 2013 Aug 17. pii: S1053-8119(13)00868-9. doi: 10.1016/j.neuroimage.2013.08.014.\n\nConroy BR, Walz JM, Sajda P (2013) “Fast bootstrapping and permutation testing for assessing reproducibility and interpretability of multivariate FMRI decoding models,” PLoS One. 2013 Nov 14;8(11):e79271. doi: 10.1371/journal.pone.0079271.",
     "name": "Auditory and Visual Oddball EEG-fMRI"
   },
   {
@@ -2155,9 +2188,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-04T17:59:34-04:00",
+    "dcterms:modified": "2016-11-25T16:52:48-05:00",
     "type": "Dataset",
-    "version": "6fa58a4d15ec775e11ebb0a579ddc7a0ef9788c5"
+    "version": "8ff2c49fcec6ce96cfcded15b2b65a70e6cda925"
   },
   {
     "@context": {
@@ -2177,6 +2210,7 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0rc3.pdf"
     ],
+    "description": "This dataset was obtained from the OpenfMRI project (http://www.openfmri.org).\nAccession #: ds000122\nDescription: Visual Attention Task (block design)\n\nPlease cite the following references if you use these data:\n\nJ Xu, S  Zhang, VD Calhoun, J Monterosso, MN Potenza 2013 Task-related concurrent but opposite modulations of overlapping functional networks as revealed by spatial ICA. NeuroImage 79:62-71 (PMCID: PMC3677796)\n\n04/08/2016: initial release\n\nThis dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.\n\n\nEvents Headings:\n-ReactionTime: Reaction Time\n-ResponseButtonCode: Response Button Code (33 is hit, \n0 is no response, others were wrong response)\n-OnsetBlock: Starting time of each block\n-OnsetTrial: Starting time of each trial\n-TaskLevel: Task level\n-TargetNontarget: 1=target; 0=nontarget",
     "license": "This dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
     "name": "visual attention task (block design)"
   },
@@ -2301,9 +2335,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-04T17:59:56-04:00",
+    "dcterms:modified": "2016-11-25T16:52:50-05:00",
     "type": "Dataset",
-    "version": "ca34ca7639e7b867b1cae35bb1fbeb7b6f617083"
+    "version": "d961a005601dd631bd81d0c0806e5d97b6404004"
   },
   {
     "@context": {
@@ -2321,6 +2355,7 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0rc3.pdf"
     ],
+    "description": "Necka, E., Senderecka, M., Kucharzyk, B., Falkiewicz, M. (2015). \"Who can afford self-control? The neural efficiency mechanism explains effective self-regulation of behavior\".\n\nSubjects performed 3 sessions of figural 2-back task with lures on n-1 position. They were instructed to press a button when the target is present and withhold reaction when a lure was present. \n\nBehavioral tests included trait self-control questionnaire AS36 (publication submitted), filled by both the participant and his/her two friends. The questionnaire consists of three subscales:\nswitching, monitoring and inhibition. Additionally, IQ test scores (Raven's Progressive Matrices and TAO) are included in last two columns. All additional scores are included in demographics.txt in columns 5-15:\n\n1. dataset number\n2. subject\n3. sex\n4. age\n5. AS36, switching, self-rated\n6. AS36, switching, 1st friend rating\n7. AS36, switching, 2nd friend rating\n8. AS36, monitoring, self-rated\n9. AS36, monitoring, 1st friend rating\n10. AS36, monitoring, 2nd friend rating\n11. AS36, inhibition, self-rated\n12. AS36, inhibition, 1st friend rating\n13. AS36, inhibition, 2nd friend rating\n14. RPM\n15. TAO\n\nNote that the order of friends is arbitrary.",
     "license": "PPDL",
     "name": "Who can afford self-control? The neural efficiency mechanism explains effective self-regulation of behavior"
   },
@@ -2479,9 +2514,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-04T18:00:25-04:00",
+    "dcterms:modified": "2016-11-25T16:52:52-05:00",
     "type": "Dataset",
-    "version": "21ffd63b7b76b500df957bbdca9088aeedd8fde3"
+    "version": "a6cafcf3470aaf4616b9a1d774cdd685c6c47656"
   },
   {
     "@context": {
@@ -2499,6 +2534,7 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0rc3.pdf"
     ],
+    "description": "Offline Processing in Associative Learning\n\nThis is structural and functional MRI data from 35 healthy volunteers that accompanies \nBursley et al. (2015), \"Awake, Offline Processing During Associative Learning.\" Subjects \nencoded paired associates and then performed a distractor task before being probed on \nassociate pairs. Pattern analyses suggest that encoded memories were reactivated during \nthe distractor task, and performance of the distractor task led to superior recall for \nthe associate pairs, compared to a control condition in which no distractor task was \nperformed.\n\n\nContact Information:\nName: James K. Bursley\nEmail: bursley@fas.harvard.edu\n\n\nScan file headings:\n-FirstALDT: Subject's accuracy on the first iteration of the associative learning task in \nthe distractor task condition.\n-SecondALDT: Subject's accuracy on the second iteration of the associative learning task in \nthe distractor task condition.\n-ALIR: Subject's accuracy on the associative learning task in the immediate-recall \ncondition.\n-FirstALDTVoc: Subject's accuracy on the vocabulary distractor task during the first \niteration of the associative learning task.\n-SecondALDTVoc: Subject's accuracy on the vocabulary distractor task during the second \niteration of the associative learning task.\n-FirstALFloatVoc: Subject's accuracy on the first independent vocabulary task, occurring \noutside of any associative learning task.\n-SecondALFloatVoc: Subject's accuracy on the second independent vocabulary task, occurring \noutside of any associative learning task.",
     "foaf:fundedBy": "This project was supported by a Rothberg Research Award in Human Brain Imaging awarded to J.K.B. and J.D.C.",
     "license": "PPDL",
     "name": "Offline Processing in Associative Learning"
@@ -2533,9 +2569,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-04T18:00:30-04:00",
+    "dcterms:modified": "2016-11-25T16:52:52-05:00",
     "type": "Dataset",
-    "version": "67f81e3a8c6c57448810e358c4fd1bbe4cb06edb"
+    "version": "e56cc1c21986f8e2fa7738f6bd949922f6c6690e"
   },
   {
     "@context": {
@@ -2557,6 +2593,7 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0rc3.pdf"
     ],
+    "description": "This dataset was obtained from the OpenfMRI project (http://www.openfmri.org).\n\nAccession #: ds000170\nDescription: \n\nPlease cite the following references if you use these data:\n\n\nRelease History:\n  02/25/2016: Initial Release\n  04/15/2016: Added events files containing task onsets and durations\n              (previously omitted due to error in curation process)\n\nThis dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \n\nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
     "foaf:fundedBy": "E.G. was partially supported by a fellowship from the E. J. Safra Brain Research Center for the Study of Learning Disabilities. The research leading to these results has received funding from the European Union Seventh Framework Program (FP7/2007-2013) under grant agreement no. 604102 (Human Brain Project).",
     "license": "PDDL",
     "name": "Learning and memory: motor skill consolidation and intermanual transfer"
@@ -2591,9 +2628,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-04T18:00:36-04:00",
+    "dcterms:modified": "2016-11-25T16:52:53-05:00",
     "type": "Dataset",
-    "version": "2373e1cf373085a8dd562008b0406f25b85aee76"
+    "version": "06862e45f5c3ba91335e098c019682f92d1afd46"
   },
   {
     "@context": {
@@ -2623,6 +2660,7 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0-rc2.pdf"
     ],
+    "description": "The present dataset uses functional MRI and an validated emotional music\nand nonmusical auditory paradigm (Lepping, et al., 2015) to examine how\nneural processing of emotionally provocative auditory stimuli is altered\nin depression.  Nineteen individuals with depression (MDD) and 20\nnever-depressed control participants (ND) listened to positive and\nnegative emotional musical and nonmusical stimuli during fMRI scanning. \nND participants had no history of depression or other psychiatric\ndisorder, determined by administration of the Structured Clinical\nInterview for DSM Disorders, non-patient version (SCID-I/NP) (First,\n2002).  Participants in the MDD group were all experiencing a current\ndepressive episode at the time of scanning, determined by screening for\nresearch purposes using the SCID-I/NP.  Participants had no current or\npast manic episodes, no comorbid anxiety disorders, and no current\nalcohol abuse or dependence, and were not taking medication for\ndepression at the time of the study.",
     "foaf:fundedBy": "This work was supported by funding to RL from The Society for Education, Music and Psychology Research (SEMPRE: Arnold Bentley New Initiatives Fund), and the University of Kansas Doctoral Student Research Fund. MR imaging was provided by pilot funding from the Hoglund Brain Imaging Center. The Hoglund Brain Imaging Center is supported by a generous gift from Forrest and Sally Hoglund and funding from the National Institutes of Health (UL1 TR000001). The contents of this dataset are solely the responsibility of the authors and do not necessarily represent the official views of the NIH or any individual institute. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the associated manuscript.",
     "license": "PDDL",
     "name": "Neural Processing of Emotional Musical and Nonmusical Stimuli in Depression"
@@ -2657,9 +2695,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-04T18:00:40-04:00",
+    "dcterms:modified": "2016-11-25T16:52:54-05:00",
     "type": "Dataset",
-    "version": "a3e355f45cf8ab06bd0d2fe6f2a7a6af65299a19"
+    "version": "ab1122cd3b5a18b36bd0598b82edd81631c3ef1a"
   },
   {
     "@context": {
@@ -2684,6 +2722,7 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0rc3.pdf"
     ],
+    "description": "This dataset was obtained from the OpenfMRI project (http://www.openfmri.org).\n\nAccession #: ds000172\nDescription: Physiological Contribution in Spontaneous Oscillations: An Approximate Quality- Assurance Index for Resting-State fMRI Signals\n\nFor validating the sensitivity of the proposed PICSO index (a new quality-assurance index for rs- fMRI) to functional connectivity, both fMRI dataset of phantom and human during resting state were acquired. The resting-state human dataset (n=12, age: 26.4 ± 2.1 y, females/males: 6/6) was acquired at four image resolutions (1.3×1.3×2,2×2×2,3×3×3,and5×5×5mm^3). Moreover, a spherical water phantom was scanned using identical imaging protocols. Besides, T1-weighted structural images and B0 field map were acquired as well.\n\nPlease cite the following references if you use these data:\n\nRelease History:\n\n\t1.0.0 - Initial release\n\nThis dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/.\n\nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
     "foaf:fundedBy": "See Acknowledgements",
     "license": "PDDL",
     "name": "Physiological Contribution in Spontaneous Oscillations: An Approximate Quality Assurance Index for Resting-State fMRI Signals"
@@ -2718,9 +2757,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-04T18:00:43-04:00",
+    "dcterms:modified": "2016-11-25T16:52:54-05:00",
     "type": "Dataset",
-    "version": "79dfbd8bdb8cb65359b472571f6657329b2137cc"
+    "version": "f446134a2770fc17e24c1c1089fccb6131365688"
   },
   {
     "@context": {
@@ -2744,6 +2783,7 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0rc3.pdf"
     ],
+    "description": "This dataset was obtained from the OpenfMRI project (http://www.openfmri.org).\n\nAccession #: ds000174\nDescription: T1-weighted structural MRI study of cannabis users at baseline and 3 years follow up\n\nThe scores from the CUDIT (Cannabis Use Disorder Identification Test) and AUDIT\n(Alcohol Use Disorder Identification Test) are included in the participants.tsv file.\n\nThis dataset is made available under the Creative Commons Attribution-NonCommercial 4.0\nInternational license: http://creativecommons.org/licenses/by-nc/4.0/legalcode.txt",
     "license": "CC BY-NC 4.0i",
     "name": "T1-weighted structural MRI study of cannabis users at baseline and 3 years follow up"
   },
@@ -2811,9 +2851,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-04T18:18:45-04:00",
+    "dcterms:modified": "2016-11-25T16:52:55-05:00",
     "type": "Dataset",
-    "version": "0d9784d441542905f07575bade39872c6be2e2d1"
+    "version": "8358acb31c4982cfcfc6ed53a5f01eacee8b256d"
   },
   {
     "@context": {
@@ -2831,6 +2871,7 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0-rc2.pdf"
     ],
+    "description": "= Project Name =\nPre-adolescents Exposure to Manganese\n\n= Project Summary =\nThe data included in this pilot study are a collection of 14 \npre-adolescents recruited in one of the Italian sites exposed \nto Manganese. The mean age of the two groups was respectively \n14.7 years (s.d.=2.4) and 14.6 years (s.d.= 0.5) with 4 girls \nin the first group and 2 in the second.\n\nThe fMRI paradigm included an olfactory stimulation which consisted \nof 12 alternating task-rest blocks of 25 seconds, 10 volumes/block \n(120 volumes) for a total acquisition time of 5 minutes. The MRI \nacquisition protocol included a Coronal T2 FSE (TR/TE  5000/102 \nslice thickness 2 mm, no gap) use for the volumetric measurement \nof the olfactory bulb; a time series of 2D echo planar imaging (EPI) \n(TR/TE 2500/50 ms,  28 axial slices, 3.3 mm thickness, 1.1 mm \ninter-slice gap, matrix size  64x64).\n\n= Investigators =\nEmilia Iannilli",
     "foaf:fundedBy": "",
     "name": "Pre-adolescents Exposure to Manganese"
   },
@@ -2864,9 +2905,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-04T18:19:11-04:00",
+    "dcterms:modified": "2016-11-25T16:52:58-05:00",
     "type": "Dataset",
-    "version": "970408c43ff0ec925a02d43e863f46df8bd139c0"
+    "version": "01961a3c7db503bc0a5cf988d70fad1ec10bbdf7"
   },
   {
     "@context": {
@@ -2899,6 +2940,7 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0rc3.pdf"
     ],
+    "description": "# The Stockholm SleepyBrain Project #\n\n## Background and Aim ## \n\nSleepiness is a brain state with pervasive effects on cognitive and\naffective functioning. However, little is known about the functional\nmechanisms and correlates of sleepiness in the awake brain. This project\naimed to investigate overall effects of sleepiness on brain function \nwith particular regard to emotional processing.\n\n## Method and Design ##  \n\nWe investigated the effects of sleep deprivation using a randomized\ncross-over design. Resting state functional connectivity was \ninvestigated using functional magnetic resonance imaging (fMRI). \nEmotional contagion was studied using concurrent fMRI and \nelectromyography (EMG) of facial muscles in response to emotional \nexpressions and empathy for pain was investigated using pictures \nof others receiving pain stimuli. To study emotional reappraisal, \nparticipants were instructed to actively up-regulate or \ndown-regulate their emotional responses to picture stimuli. \nThe participants were characterized using several rating scales, \nbiometric information, and blood sampling.\n\n## Specific Notes ##\n\n### participants.tsv File ###\nSubject ID list and subject-level variables. Please refer to the\nparticipants_codebook.tsv guidance on how to interpret specific \ncolumns in the participants.tsv file.\n\n### BIDS dataset ###\nData were converted from DICOM source files using dcm2niix. The\nparameters were further extracted from the DICOM files using pydicom\nand converted to .json format. SeriesDates were anonymized and\nshifted to pre-1900's years and a subject-based offset added to\nthe month/year that preserves time difference between initial\nand follow-up visit.\n\nT1- and T2-anatomical scans (anat/*_T{1,2}w.nii.gz) were defaced using \nthe pydeface.py software: \n  https://github.com/poldracklab/pydeface (c1ceeb2)\n\n### derivatives Folder ###\nThis folder contains the processed output from the MRIQC protocol.\nMRIQC is an automated processing pipeline designed to compute many\nimage quality metrics for T1 weighted anatomical and T2* weighted\nfunctional scans. For more information please see:\n\n  https://github.com/poldracklab/mriqc (a5f68f5)\n\nAdditional derivatives include:\n\n  - Plots of the fMRI event logs\n  - thumbnail mosaics of the high-resolution T1w and T2w scans used\n    to confirm defacing process.\n\n### rawsource Folder ###\nThis folder contains the as-provided source files used to create the\nBIDS dataset files. The only changes made to these source files were\nto remove any information that could potentially be used to identify\nthe study participants. Specifically:\n\n  - EyeTrackingLogFiles: Files renamed, \"TimeValues\" and \"TimeStamp\" \n    entries changed to \"REMOVED\" within each file.\n  - PresentationLogFiles: Files renamed, scrubbed of Dates, Subject\n    IDs. These files were used to create the\n       sub-9XXX_ses-{1,2}_task-<taskname>_events.tsv\n    files.\n  - PulseGatingFiles: Files renamed to remove original IDs.\n  - WorkingMemoryTestResults: Files renamed to remove original IDs.,\n    subject IDs altered to 9XXX series randomized IDs. Dates removed.\n    Times-of-day left intact.\n\nOther data that could not be included in raw form due to its binary nature:\n\n  - Physiological recordings (EMG): Converted from raw Acknowledge format\n    to compressed .tsv files using the \"convert_physio_files.py\" script\n    located in the code/ directory within the dataset. The output data are \n    located within the dataset as *_physio.tsv.gz and *_physio.json pairs.\n\n### Diffusion Imaging - use these data with caution ###\nDiffusion imaging from the following subjects should be used with\ncaution due to suspicious bval/bvecs tables extracted from the source\nDICOM files:\n\n    sub-9019  sub-9070  sub-9057  sub-9091  sub-9090  sub-9013  sub-9044\n    sub-9050  sub-9067  sub-9035  sub-9035  sub-9073  sub-9083  sub-9037\n    sub-9007  sub-9053  sub-9066  sub-9012  sub-9082  sub-9077  sub-9076\n    sub-9099  sub-9001\n\n### Raw Polysomnography Data ###\nRaw polysomnography data is available upon request. Please contact Gustav Nilsonne at \ngustav.nilsonne@ki.se to request this data.",
     "license": "PDDL",
     "name": "The Stockholm Sleepy Brain Study: Effects of Sleep Deprivation on Cognitive and Emotional Processing in Young and Old"
   },
@@ -2932,9 +2974,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-04T18:19:16-04:00",
+    "dcterms:modified": "2016-11-25T16:52:59-05:00",
     "type": "Dataset",
-    "version": "ff60359619c180107679e6e4537b7a839eccfba9"
+    "version": "787301b56644903b31ac3c774bf992dc4bbf4e96"
   },
   {
     "@context": {
@@ -2951,6 +2993,7 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0-rc2.pdf"
     ],
+    "description": "= Project Name =\nThe heterogeneity in retrieved relations between the personality \ntrait ‘Harm avoidance’ and gray matter volumes due to variations \nin the VBM and ROI labeling processing settings.\n\n= Authors =\nPeter Van Schuerbeek, UZ Brussel – VUB, department of Radiology, Brussels, Belgium\nChris Baeken, Ghent University, Department of psychiatry and medical psychology, Ghent, Belgium\nJohan De Mey, UZ Brussel – VUB, Department of Radiology, Brussels, Belgium\n\n= Project Summary =\nIn this study we tested the heterogeneity in obtained correlations \nbetween gray matter morphology and the personality trait \n‘Harm Avoidance’ (HA).\n\n95 healthy female volunteers (age: 18-30 years) were recruited to participate \nin the study. All underwent a T1 weighted anatomical scan of the head \n(TI/TR/TE=940.4/7.6/3.7ms, flip angle=8°, FOV=240x240x200mm³, \nresolution=1x1x2mm³) at a Philips 3T Achieva MRI scanner. A score for all \npersonality traits as defined in Cloninger’s psychobiological model of \npersonality was obtained using the ‘Revised Temperament and Character \nInventory’ (TCI).",
     "foaf:fundedBy": "",
     "license": "Not Specified",
     "name": "The heterogeneity in retrieved relations between the personality trait 'Harm avoidance' and gray matter volumes due to variations in the VBM and ROI labeling processing settings."
@@ -2985,9 +3028,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-04T18:19:34-04:00",
+    "dcterms:modified": "2016-11-25T16:53:01-05:00",
     "type": "Dataset",
-    "version": "353cca544f8cb4593284feb9fb5f379c3afe2903"
+    "version": "2fbe454fbc605e79b5b6391d11c647244589a53a"
   },
   {
     "@context": {
@@ -3009,6 +3052,7 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0rc4.pdf"
     ],
+    "description": "This dataset was obtained from the OpenfMRI project (http://www.openfmri.org).\nAccession #: ds203\nDescription: Visual Imagery and False Memory task\n\nPlease cite the following references if you use these data:\n\nStephan-Otto C, Siddi S, Senior C, Mu�oz-Samons D, Ochoa S, S�nchez Laforga AM, Br�bion G (Visual imagery and false memory for pictures: a Functional Magnetic Resonance Imaging study in healthy participants. [Submitted to PLoS One] doi: XXX/XXXXXx\n\n\nRelease history:\n6/2/2016: initial release\n\nThis dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at http://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
     "foaf:fundedBy": [
       "PRRMAB-A2011-19251",
       "PTA2011-4983-I",
@@ -3116,9 +3160,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-04T18:19:44-04:00",
+    "dcterms:modified": "2016-11-25T16:53:02-05:00",
     "type": "Dataset",
-    "version": "9f8defc8814731c3a5cde30f6539a1ea2f638d37"
+    "version": "657a67fa0a4e01eceea05684223fe73f33312e47"
   },
   {
     "@context": {
@@ -3136,6 +3180,7 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0.pdf"
     ],
+    "description": "﻿Data acquisition methods have been described in detail in Kim et al. (2016, PLoS ONE), but we outline them here and provide file information for clarity and ease of use.\n\n\n\n\n————————————————————————————————Materials\n————————————————————————————————\n\n\nParticipants viewed affect-eliciting audiovisual clips that varied on levels of valence and arousal. Eight stimuli were selected for each affective category corresponding to each of the four quadrants of the affective space: high arousal-negative valence (HN), low arousal-negative valence (LN), low arousal-positive valence (LP), and high arousal-positive valence (HP). \n\n————————————————————————————————\nBOLD fMRI DATA\n————————————————————————————————\nMRI data were acquired on a Siemens Magnetom Trio 3.0T whole-body scanner (Siemens, Erlangen, Germany) at the McCausland Center for Brain Imaging at the University of South Carolina. The functional images were acquired using a single-shot echo-planar imaging pulse sequence (TR = 2200ms, TE = 35ms, 90° flip angle) with a 12-channel head coil. Thirty-six 3 mm thick oblique-axial slices were imaged in interleaved scanning order with no gap. The acquisition matrix was 64×64 with 3×3×3 mm voxels.  Functional data was acquired using a slow event-related design in two scanning sessions (two runs for each session). High-resolution whole-brain anatomical images were acquired using a standard T1-weighted 3D MP-RAGE protocol (TR= 2250 ms, TE= 4.18 ms, FOV= 256 mm, flip angle= 9°, voxel size=1×1×1 mm) to facilitate normalization of the functional data.  \nData processing and statistical analyses were performed in MATLAB environment using standard procedures in Statistical Parametric Mapping software (SPM 8, Wellcome Department of Cognitive Neurology, London, UK). The data were corrected for motion and linear trend. Structural data were segmented into white and gray matter to facilitate the normalization. Functional and anatomical images were co-registered and spatially normalized into the standard Montreal Neurological Institute (MNI) space based on T1-derived normalization parameters. \nMain experiment To improve signal-to-noise ratio, the time-series data for each voxel were fit using GLMdenoise, a technique successfully used in MVPA and other applications [54, 55]. GLMdenoise used the four affective categories to estimate regressors of no interest.  Notably the procedure was blind to valence and arousal categories, and thus did not bias the results when comparing across combined categories (i.e., positive versus negative valence or high versus low arousal). Furthermore, to control for possible confounds arising from lower level features of the stimuli, five lower level feature components were regressed out as covariates of no interest together with six head motion parameter estimates. We used principal components to reduce the number of regressors, while keeping most of the variability in the data.The residuals from this analysis were used for all further analyses. The percent signal change (PSC) relative to the average activity in a voxel was computed for each voxel in every volume from the residuals. The mean PSC of two volumes, offset 4.4s from the stimulus onset (to account for the delay in hemodynamic response), was used as the input for further analyses. Data for each condition were standardized across voxels to have zero mean and unit variance. \n \n\n\n\n————————————————————————————————\nFUNCTIONAL LOCALIZER\n————————————————————————————————\n\nAreas responsive to naturalistic audiovisual presentation were identified in a separate localizer session for each participant. There were four experimental conditions: baseline, auditory (beep), dynamic visual (checkerboard), and a combined naturalistic audiovisual condition (audiovisual). Additionally, the functional localizer contained two other conditions that were not part of the present experiment. The conditions were presented in a block design with each block lasting 12s (Fig 2A). Baseline condition consisted of a black screen with a white fixation cross shown in the center of the screen and background noise. During an auditory condition, designed to localize primary auditory cortex, a binaural sine tone of 1,000 Hz pulsating at 6 Hz was presented. During a dynamic visual condition, designed to localize primary visual areas, there were 12s of high-contrast flickering checkerboard reversals, 200ms per cycle. During a naturalistic audiovisual condition, four 3s audiovisual clips sampled from the four affective quadrants were played back to back. There were eight runs in the localizer scan and each run consisted of six conditions presented in a pseudo randomized order such that the same condition was not presented twice in a row for the two subsequent runs. There were a total of 48 blocks resulting in 273 acquired volumes.\n\n\n\n\n\n————————————————————————————————\nPUBLICATIONS\n————————————————————————————————\n\n\nJongwan Kim, Jing Wang, Douglas H. Wedell, Svetlana V. Shinkareva (2016) “Identifying Core Affect in Individuals from fMRI Responses to Dynamic Naturalistic Audiovisual Stimuli” PLoS One",
     "license": "PDDL",
     "name": "Affective Videos"
   },
@@ -3169,9 +3214,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-04T18:19:52-04:00",
+    "dcterms:modified": "2016-11-25T16:53:03-05:00",
     "type": "Dataset",
-    "version": "d6ffdc89709957f0bbe9ade81e9a904238b2cb80"
+    "version": "4b6203d35624007c8576a411da4928d68476c9dd"
   },
   {
     "@context": {
@@ -3191,6 +3236,7 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0.pdf"
     ],
+    "description": "This Datasets is from a Traveling Human Phantom (THP) dataset that was\ncollected for a multi-site neuroimaging reliability study.  The THP dataset\nincludes repeated multi-modal magnetic resonance (MR) images\nobtained for five healthy controls performed at eight imaging centers. The\nmodalities include diffusion weighted images (DWI) and three-dimensional T1\nweighted MP-RAGE and T2 SPACE sequences.  Intra-subject and inter-site\nvariability for MRI scans was and can be assessed as repeated images were taken\nacross multiple imaging protocols.\n\nAnother use for the THP dataset could be to evaluate and improve one's tool\nagainst multi-modal and multi-site data. In addition to the THP dataset, which\nis useful as it is, we share our processed results. DWI datasets were processed\nto produce common rotationally invariant scalar images and diffusion tensor\nimages. Anatomical images, T1 and T2, were processed with the BRAINSTools suite\nto produce anatomical segmentations. \n\n@article{magnotta2012multicenter,\nabstract = {A number of studies are now collecting diffusion tensor imaging\n(DTI) data across sites. While the reliability of anatomical images has been\nestablished by a number of groups, the reliability of DTI data has not been\nstudied as extensively. In this study, five healthy controls were recruited and\nimaged at eight imaging centers. Repeated measures were obtained across two\nimaging protocols allowing intra-subject and inter-site variability to be\nassessed. Regional measures within white matter were obtained for standard\nrotationally invariant measures: fractional anisotropy, mean diffusivity,\nradial diffusivity, and axial diffusivity. Intra-subject coefficient of\nvariation (CV) was typically {\\textless}1{\\%} for all scalars and regions.\nInter-site CV increased to {\\~{}}1{\\%}-3{\\%}. Inter-vendor variation was\nsimilar to inter-site variability. This variability includes differences in the\nactual implementation of the sequence.}, author = {Magnotta, Vincent a. and\nMatsui, Joy T. and Liu, Dawei and Johnson, Hans J. and Long, Jeffrey D. and\nBolster, Bradley D. and Mueller, Bryon a. and Lim, Kelvin O. and Mori, Susumu\nand Helmer, Karl and Turner, Jessica a. and Lowe, Mark J. and Aylward,\nElizabeth and Flashman, Laura a. and Bonett, Greg and Paulsen, Jane S.},\ndoi = {10.1089/brain.2012.0112},\nisbn = {8605457767},\nissn = {2158-0014},\njournal = {Brain Connectivity},\nkeywords = {diffusion tensor,fractional anisotropy,magnetic resonance,mean diffusivity,reliability,white matter},\nmendeley-groups = {ReginaThesis,BiosketchReferences,JoysThesis,JoyCrossSectionalDWI,TEMP{\\_}HOWES{\\_}RE},\nmonth = {jan},\nnumber = {6},\npages = {121018043201009},\npmid = {23075313},\npublisher = {Mary Ann Liebert, Inc. 140 Huguenot Street, 3rd Floor New Rochelle, NY 10801 USA},\ntitle = {{Multi-Center Reliability of Diffusion Tensor Imaging}},\nurl = {http://www.ncbi.nlm.nih.gov/pubmed/23075313 http://online.liebertpub.com/doi/abs/10.1089/brain.2012.0112 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3623569},\nvolume = {2},\nyear = {2012}\n}",
     "foaf:fundedBy": "This work was supported, in part, by awards from CHDI Foundation, Inc.; NIH R01NS050568; NINDS NS40068 Neu- robiological Predictors of Huntington's Disease; and NINDS R01 NS054893 Cognitive and Functional Brain Changes in Preclinical HD. Dr. Turner was supported by NCRR 1 U24 RR021992 from the Functional Imaging Biomedical Infor- matics Network (S.G. Potkin, PI) for her work on this project while at the University of California, Irvine. This publication was supported by the National Center for Research Resour- ces and the National Center for Advancing Translational Sciences, National Institutes of Health, through Grant UL1RR024979. The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH.",
     "license": "PDDL",
     "name": "Huntington's Traveling Human Phantom"
@@ -3225,9 +3271,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-04T18:19:59-04:00",
+    "dcterms:modified": "2016-11-25T16:53:04-05:00",
     "type": "Dataset",
-    "version": "722b3bd766aa12eadd44abad58cb35eb59e7b70c"
+    "version": "c32fcf0b09489d9267782b107fa97e7614954c5c"
   },
   {
     "@context": {
@@ -3242,6 +3288,7 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0.pdf"
     ],
+    "description": "In this dataset you will find the following T1 and resting state scans for;\n\n-20 Healthy controls.\n\n-17 Osteoarthritis (OA) patients from a 2-week placebo only treatment (study 1) scanned before treatment.\n\n-39 OA patients from a 3-month placebo vs duloxetine treatment (study 2) scanned before treatment.\n\nDemographics with age, gender, stratification, etc. can be found in the participants.tsv file.\n\n\nPascal Tetreault, Ph.D\ntetreault.pascal@gmail.com\nAugust 2016",
     "foaf:fundedBy": "Eli Lilly Pharmaceuticals funded study 2 (IIT number: F1J-US-XO61). This research was partially also supported by grants from National Institute of Neurological Disorders and Stroke (NS035115), and National Center for Complementary and Integrative Health (AT007987) of U.S. National Institutes of Health. P.T. and E.V.-P. were supported by the Canadian Institutes of Health Research.",
     "license": "PDDL",
     "name": "Brain connectivity predicts placebo response across chronic pain clinical trials"
@@ -3266,15 +3313,19 @@
         "description": "[datalad-archives]"
       },
       {
+        "@id": "52460554-cef6-45dd-baf2-187f8bbfc71b",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000210 [datalad-public]"
+      },
+      {
         "@id": "c66a9753-c2a7-4d8b-ae42-c7685748ef33",
         "description": "yoh@smaug:/mnt/datasets/datalad/crawl/openfmri/ds000210"
       }
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-04T18:20:09-04:00",
+    "dcterms:modified": "2016-11-25T16:53:05-05:00",
     "type": "Dataset",
-    "version": "21b8a1f361ee552cdcaa95f8aac88e53f7b77c38"
+    "version": "f6417c79af3714c762dcfa66e1b1ce24a7e64635"
   },
   {
     "@context": {
@@ -3291,6 +3342,7 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.0.pdf"
     ],
+    "description": "A multi-echo replication sample of autobiographical memory, prospection and theory of mind reasoning tasks  published in Spreng and Grady (J Cogn. Neurosci. 22, 1112-1123, 2010). \n\n\nFour task runs and one resting-state run were collected for 31 young adults. Full acquisition parameters are detailed in the accompanying Data Descriptor published at Scientific Data, but are summarized here for ease of use:\n\n\nT1w:\none 5m25s run \nrepetition time (TR) = 2530 ms \necho time (TE) = 3.4 ms\ninversion time = 1100 ms \nflip angle (FA) = 7° \n1.0 mm isotropic voxels \n176 slices \n\n\nTask:\nfour 8m40s runs\nrepetition time (TR) = 2000 ms \necho time (TE) = 13, 27, and 43 ms \nflip angle (FA) = 77° \nmatrix size = 64 x 64 \nfield of view (FOV) = 240 mm\nslice thickness 3.8 mm \n33 axial slices \n\n\nRest:\none 10m06s run\nrepetition time (TR) = 3000 ms \necho time (TE) = 13.7, 30, and 47 ms \nflip angle (FA) = 83° \nmatrix size = 72 x 72 \nfield of view (FOV) = 210 mm \n3.0 mm isotropic voxels\n46 axial slices \n\n\nData are made available under Open Data Commons Public Domain Dedication and License (PDDL) version 1.0, whose full text is available at http://opendatacommons.org/licenses/pddl/. Although not legally required, we hope that all users will follow the Open Data Commons Attribution/Share-Alike Community Norms, available at http://opendatacommons.org/norms/odc-by-sa/.",
     "license": "PDDL",
     "name": "Multi-echo fMRI replication sample of autobiographical memory, prospection and theory of mind reasoning tasks"
   },
