@@ -7,9 +7,9 @@
     "@id": "72e7a148-7af4-11e6-af5a-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2016-11-07T23:35:03-05:00",
+    "dcterms:modified": "2017-02-03T16:50:03-05:00",
     "type": "Dataset",
-    "version": "d8489e61cee62323efe1ec039566d6723678a23a"
+    "version": "05da471e67161202546501fe92c0470d72e8fba3"
   },
   {
     "@context": {
@@ -39,25 +39,30 @@
       {
         "@id": "01cfb952-8439-11e6-af53-002590f97d84",
         "location": "haxby"
+      },
+      {
+        "@id": "0e7a2ee8-ea56-11e6-9e36-002590f97d84",
+        "location": "tarr"
       }
     ]
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "72f7a0f2-7af4-11e6-af5a-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
-    "dcterms:hasPart": {
-      "@id": "730a81c2-7af4-11e6-af5a-002590f97d84",
-      "location": "mitchell/science2008",
-      "type": "Dataset"
-    },
     "dcterms:isPartOf": "72e7a148-7af4-11e6-af5a-002590f97d84",
-    "dcterms:modified": "2016-10-11T00:05:25-04:00",
+    "dcterms:modified": "2017-02-03T16:41:15-05:00",
     "type": "Dataset",
-    "version": "e3f030342b05658799f56a3dfe6a8dd469b46d19"
+    "version": "acc80560d93335ed05822ad5dc7b31f2f7d93309"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "72f7a0f2-7af4-11e6-af5a-002590f97d84",
     "author": "Tom Mitchell",
     "dcterms:conformsTo": [
@@ -69,11 +74,25 @@
       "fMRI",
       "Machine Learning"
     ],
-    "name": "Mitchell Lab Datasets",
-    "type": "Dataset"
+    "name": "Mitchell Lab Datasets"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "72f7a0f2-7af4-11e6-af5a-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:hasPart": {
+      "@id": "730a81c2-7af4-11e6-af5a-002590f97d84",
+      "location": "mitchell/science2008"
+    }
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "730a81c2-7af4-11e6-af5a-002590f97d84",
     "availableFrom": [
       {
@@ -91,12 +110,15 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "72f7a0f2-7af4-11e6-af5a-002590f97d84",
-    "dcterms:modified": "2016-09-14T23:29:26-04:00",
+    "dcterms:modified": "2017-02-03T16:41:14-05:00",
     "type": "Dataset",
-    "version": "a1bb3002c54bf80281ed5929350e60289e140670"
+    "version": "514aa4adba188c468fbdcc2212599cbca27ca91f"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "730a81c2-7af4-11e6-af5a-002590f97d84",
     "author": "Tom M. Mitchell, Svetlana V. Shinkareva, Andrew Carlson, Kai-Min Chang, Vicente L. Malave, Robert A. Mason, Marcel Adam Just",
     "dcterms:conformsTo": [
@@ -109,25 +131,33 @@
       "Semantics"
     ],
     "name": "mitchell/science2008",
-    "title": "Supplemental materials for 'Predicting Human Brain Activity Associated with the Meanings of Nouns'",
-    "type": "Dataset"
+    "title": "Supplemental materials for 'Predicting Human Brain Activity Associated with the Meanings of Nouns'"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "730a81c2-7af4-11e6-af5a-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "01cfb952-8439-11e6-af53-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
-    "dcterms:hasPart": {
-      "@id": "6eeadb86-84be-11e6-b24c-002590f97d84",
-      "location": "haxby/raiders",
-      "type": "Dataset"
-    },
     "dcterms:isPartOf": "72e7a148-7af4-11e6-af5a-002590f97d84",
-    "dcterms:modified": "2016-10-11T00:01:37-04:00",
+    "dcterms:modified": "2017-02-03T16:41:13-05:00",
     "type": "Dataset",
-    "version": "c88cc545a2454beb5b934cf3e725386c8c8e4c45"
+    "version": "f0f80c2114d9d67416c1d6a4a408914c73d83d73"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "01cfb952-8439-11e6-af53-002590f97d84",
     "author": [
       "J. Swaroop Guntupalli",
@@ -139,16 +169,34 @@
       "http://bids.neuroimaging.io"
     ],
     "license": "PDDL",
-    "name": "Haxby Lab (http://haxbylab.dartmouth.edu) Datasets",
-    "type": "Dataset"
+    "name": "Haxby Lab (http://haxbylab.dartmouth.edu) Datasets"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "01cfb952-8439-11e6-af53-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:hasPart": {
+      "@id": "6eeadb86-84be-11e6-b24c-002590f97d84",
+      "location": "haxby/raiders"
+    }
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "6eeadb86-84be-11e6-b24c-002590f97d84",
     "availableFrom": [
       {
         "@id": "41e5039d-1750-43d2-8bea-89897d969326",
         "description": "/mnt/datasets/datalad/crawl/labs/haxby/raiders"
+      },
+      {
+        "@id": "682d0106-0906-4847-9962-7c78356378ae",
+        "description": "yoh@falkor:/srv/datasets-restricted.datalad.org/www/labs/haxby/raiders [datalad-restricted]"
       },
       {
         "@id": "87d7db62-683d-43b2-b594-baeb420ae7a6",
@@ -161,12 +209,15 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "01cfb952-8439-11e6-af53-002590f97d84",
-    "dcterms:modified": "2016-09-27T10:32:34-04:00",
+    "dcterms:modified": "2017-02-03T16:41:13-05:00",
     "type": "Dataset",
-    "version": "3bf7193bd56c31c4a3a3b44d1ddc75f9fb90711d"
+    "version": "07861d6b4b6a00e8ad1f2caffbf986987ce145c0"
   },
   {
-    "@context": "http://schema.org/",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "6eeadb86-84be-11e6-b24c-002590f97d84",
     "author": [
       "J. Swaroop Guntupalli",
@@ -182,7 +233,105 @@
     ],
     "foaf:fundedBy": "Funding was provided by National Institutes of Mental Health grant 5R01MH075706 (Haxby), and by a graduate fellowship from the Neukom Institute for Computational Sciences at Dartmouth (Guntupalli).",
     "license": "PDDL",
-    "name": "Dartmouth Raiders Dataset",
-    "type": "Dataset"
+    "name": "Dartmouth Raiders Dataset"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "6eeadb86-84be-11e6-b24c-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "0e7a2ee8-ea56-11e6-9e36-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "72e7a148-7af4-11e6-af5a-002590f97d84",
+    "dcterms:modified": "2017-02-03T16:50:03-05:00",
+    "type": "Dataset",
+    "version": "f96ebec7e1c68fdba4f5c99987273303407bee1a"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "0e7a2ee8-ea56-11e6-9e36-002590f97d84",
+    "author": "Michael J. Tarr",
+    "dcterms:conformsTo": [
+      "http://specs.frictionlessdata.io/data-packages",
+      "http://docs.datalad.org/metadata.html#v0-1"
+    ],
+    "keywords": [
+      "Human Vision"
+    ],
+    "name": "Tarr Lab Datasets"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "0e7a2ee8-ea56-11e6-9e36-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:hasPart": {
+      "@id": "1ff928ae-ea56-11e6-92ba-002590f97d84",
+      "location": "tarr/face_place"
+    }
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "1ff928ae-ea56-11e6-92ba-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "64841f3b-650b-4489-856e-aff3c6286af3",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "f189041e-bdbf-488a-961a-ea7b6dcec86b",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/labs/tarr/face_place"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "0e7a2ee8-ea56-11e6-9e36-002590f97d84",
+    "dcterms:modified": "2017-02-03T16:50:02-05:00",
+    "type": "Dataset",
+    "version": "b8ee88bc22004e612e314d3b7ea3b29d1147245f"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "1ff928ae-ea56-11e6-92ba-002590f97d84",
+    "author": "Righi, G., Peissig, J. J., & Tarr, M. J.",
+    "dcterms:conformsTo": [
+      "http://specs.frictionlessdata.io/data-packages",
+      "http://docs.datalad.org/metadata.html#v0-1"
+    ],
+    "description": "This database includes multiple images for over 200 individuals of many different races with consistent lighting, multiple views, real emotions, and disguises (and some participants returned for a second session several weeks later with a haircut, or a new beard, etc.).  Originally from http://wiki.cnbc.cmu.edu/Face_Place. These images were used in: Righi, G., Peissig, J. J., & Tarr, M. J. (2012). Recognizing disguised faces. Visual Cognition, 20(2), 143-169. doi:10.1080/13506285.2012.654624",
+    "keywords": [
+      "faces"
+    ],
+    "license": [
+      "https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US"
+    ],
+    "name": "face-place",
+    "title": "Disguised faces study dataset"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "1ff928ae-ea56-11e6-92ba-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
   }
 ]
