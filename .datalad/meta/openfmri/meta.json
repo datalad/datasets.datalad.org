@@ -7,9 +7,9 @@
     "@id": "14114028-7d08-11e6-9ce4-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2017-01-27T16:26:23-05:00",
+    "dcterms:modified": "2017-03-19T11:21:42-04:00",
     "type": "Dataset",
-    "version": "22b93fd05e583abcf370d07e556ec95f1ca355ce"
+    "version": "300a77104c5ef81b9178866d75c38d51932ceac2"
   },
   {
     "@context": {
@@ -277,6 +277,30 @@
       {
         "@id": "24f00476-e1bf-11e6-8cec-002590f97d84",
         "location": "ds000214"
+      },
+      {
+        "@id": "74352e72-f24e-11e6-ba84-002590f97d84",
+        "location": "ds000218"
+      },
+      {
+        "@id": "77b01788-f24e-11e6-ba84-002590f97d84",
+        "location": "ds000213"
+      },
+      {
+        "@id": "759f06de-f24e-11e6-ba84-002590f97d84",
+        "location": "ds000216"
+      },
+      {
+        "@id": "76b23082-f24e-11e6-ba84-002590f97d84",
+        "location": "ds000219"
+      },
+      {
+        "@id": "e5ec5fc2-01c1-11e7-85ca-002590f97d84",
+        "location": "ds000217"
+      },
+      {
+        "@id": "f25940fe-7df5-11e6-8103-002590f97d84",
+        "location": "ds000017"
       }
     ]
   },
@@ -301,7 +325,7 @@
       },
       {
         "@id": "ce96a357-a40c-4107-9039-77124f428aae",
-        "description": "[datalad]"
+        "description": "datalad"
       },
       {
         "@id": "f4cc85b8-e252-4c4d-9c35-6dc64ce87317",
@@ -310,9 +334,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-01-04T11:15:32-05:00",
+    "dcterms:modified": "2017-02-20T14:50:47-05:00",
     "type": "Dataset",
-    "version": "99b71d9d0d0ff51cf0a659e42e8a3bf6bc79f5d6"
+    "version": "c43e83cdc29808c238a816f43f0a4a292f42890b"
   },
   {
     "@context": {
@@ -366,14 +390,14 @@
       },
       {
         "@id": "db9857a4-e76d-4533-8ae1-d687ebf89e37",
-        "description": "[datalad]"
+        "description": "datalad"
       }
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-25T16:52:25-05:00",
+    "dcterms:modified": "2017-02-21T13:22:53-05:00",
     "type": "Dataset",
-    "version": "48a18ebbe09cee0ce6b7b0c1bb74106734856ad4"
+    "version": "949bc90461b5222836aa68b4b99a5073ae2eacf1"
   },
   {
     "@context": {
@@ -424,14 +448,14 @@
       },
       {
         "@id": "ef30b1a1-c196-48df-90e8-5b2a724b85f1",
-        "description": "[datalad]"
+        "description": "datalad"
       }
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-25T16:52:26-05:00",
+    "dcterms:modified": "2017-02-21T12:15:59-05:00",
     "type": "Dataset",
-    "version": "1df352eae93d7dc844502be396ecd3a91f5ba7b5"
+    "version": "9b24656ba43b5294f7192d07107e6281550ade0e"
   },
   {
     "@context": {
@@ -476,7 +500,7 @@
       },
       {
         "@id": "a4b8bf0a-222a-4122-a90f-df86e9f3e4d1",
-        "description": "[datalad]"
+        "description": "datalad"
       },
       {
         "@id": "a826a342-036d-4064-a167-9d7bde3332ac",
@@ -485,9 +509,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-25T16:52:26-05:00",
+    "dcterms:modified": "2017-02-22T12:32:50-05:00",
     "type": "Dataset",
-    "version": "15ac76bd3cc702d6ef2bd0596129d2f0aec20c85"
+    "version": "b27e62c485fc9a6e444805c985caf20b7c22c8d7"
   },
   {
     "@context": {
@@ -581,7 +605,7 @@
     "availableFrom": [
       {
         "@id": "09f1dc09-b9cc-4c14-952c-e6033b8f6033",
-        "description": "[datalad]"
+        "description": "datalad"
       },
       {
         "@id": "4de36eba-0a38-4720-bc7a-a40e6d6a4565",
@@ -598,9 +622,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-25T16:52:28-05:00",
+    "dcterms:modified": "2017-02-22T12:59:22-05:00",
     "type": "Dataset",
-    "version": "b8e23ff64253b0272d79ca9b6a9a44a7cbe7024a"
+    "version": "8924bd6b5c720fe6708806231f6e3a1787a8172a"
   },
   {
     "@context": {
@@ -642,7 +666,7 @@
     "availableFrom": [
       {
         "@id": "43eb75c9-22fd-4bd6-8155-11efb7f6d4cb",
-        "description": "[datalad]"
+        "description": "datalad"
       },
       {
         "@id": "5e30267f-c203-4536-8057-7f1d5d5cf687",
@@ -659,9 +683,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-25T16:52:28-05:00",
+    "dcterms:modified": "2017-02-22T14:56:12-05:00",
     "type": "Dataset",
-    "version": "011c0ede1ea2bed73897f81dea0f3e0e6e8f556e"
+    "version": "9b32ed5f1800014c0fba1471a2a723a2475ee6b6"
   },
   {
     "@context": {
@@ -707,14 +731,14 @@
       },
       {
         "@id": "e0872144-9ab8-4d3c-9fa2-a604d64c576b",
-        "description": "[datalad]"
+        "description": "datalad"
       }
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-03T19:12:47-04:00",
+    "dcterms:modified": "2017-02-22T15:59:35-05:00",
     "type": "Dataset",
-    "version": "1118a05629308b7eed164b43cc8022e8fc61cad5"
+    "version": "6fdeb7c6b67abf48250cfbaac6f75795d97ee3df"
   },
   {
     "@context": {
@@ -756,7 +780,7 @@
     "availableFrom": [
       {
         "@id": "34bd5a86-e6f4-4a9a-bbbf-0d5e88697870",
-        "description": "[datalad]"
+        "description": "datalad"
       },
       {
         "@id": "4d780526-23bf-438f-8b3d-5df2ce3f5737",
@@ -773,9 +797,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-25T16:52:29-05:00",
+    "dcterms:modified": "2017-02-22T13:55:48-05:00",
     "type": "Dataset",
-    "version": "d1fd6c31376e44f9f034c48b544af7ea43bedb34"
+    "version": "5a67b6df1d08a54ddd217859cf3331d6d03835dd"
   },
   {
     "@context": {
@@ -818,7 +842,7 @@
       },
       {
         "@id": "a65d3625-0836-4ffb-a6d9-4a2f59e3c969",
-        "description": "[datalad]"
+        "description": "datalad"
       },
       {
         "@id": "aff40fd1-2dda-408a-a657-b54b940c08e2",
@@ -831,9 +855,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-03T19:48:31-04:00",
+    "dcterms:modified": "2017-03-17T09:05:01-04:00",
     "type": "Dataset",
-    "version": "7a023eed0a7d9d4886f500b3afa7099316db2411"
+    "version": "c69868f434390bbde4422344e18a311bff85e924"
   },
   {
     "@context": {
@@ -855,8 +879,24 @@
         "description": "yoh@smaug:/mnt/datasets/datalad/crawl/openfmri/ds000017B"
       },
       {
+        "@id": "3799aa5c-b6db-4be8-a5bd-fb3febd04ee2",
+        "description": "datalad-archives"
+      },
+      {
         "@id": "898043f3-f90f-4095-8bc4-ed53573e5497",
-        "description": "[datalad]"
+        "description": "datalad"
+      },
+      {
+        "@id": "a65d3625-0836-4ffb-a6d9-4a2f59e3c969",
+        "description": "datalad"
+      },
+      {
+        "@id": "aff40fd1-2dda-408a-a657-b54b940c08e2",
+        "description": "yoh@smaug:/mnt/datasets/datalad/crawl/openfmri/ds000017A [ds000017A]"
+      },
+      {
+        "@id": "b8660dc2-d7e6-4f24-93c6-d7b0a1052a16",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000017A"
       },
       {
         "@id": "ca79a23a-1f6c-4108-a3c6-155ebbf0431b",
@@ -869,9 +909,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-03T19:49:45-04:00",
+    "dcterms:modified": "2017-03-17T09:13:24-04:00",
     "type": "Dataset",
-    "version": "d715d4eac5c0c161044c8e69f7b96ef5b15f03a7"
+    "version": "76551c816fbd13c0a9277f60a1791620de67c632"
   },
   {
     "@context": {
@@ -961,7 +1001,7 @@
     "availableFrom": [
       {
         "@id": "0171bc50-2e57-46de-9946-267860bb7b74",
-        "description": "[datalad]"
+        "description": "datalad"
       },
       {
         "@id": "2270dbad-eab9-4629-8d3a-67c124018cc8",
@@ -978,9 +1018,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-01-06T16:07:21-05:00",
+    "dcterms:modified": "2017-02-22T19:00:48-05:00",
     "type": "Dataset",
-    "version": "839fdc2df171f346e1d2ed1304d35ab892f0af67"
+    "version": "b28ff1c18c2dbe1771d8c5239a60c1fc7c841cff"
   },
   {
     "@context": {
@@ -1023,7 +1063,7 @@
       },
       {
         "@id": "44bc4f98-9abe-4a85-bc9e-967fcc481155",
-        "description": "[datalad]"
+        "description": "datalad"
       },
       {
         "@id": "883d171f-2a3e-4151-b0d1-642674b35a95",
@@ -1036,9 +1076,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-25T16:52:33-05:00",
+    "dcterms:modified": "2017-02-23T06:42:41-05:00",
     "type": "Dataset",
-    "version": "ef40ae6309c354a66372fd2ff2be6fb52ed4b9c3"
+    "version": "f045ff3b473ca2be15ac06ff0354b928f2649cf2"
   },
   {
     "@context": {
@@ -1092,9 +1132,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-25T16:52:34-05:00",
+    "dcterms:modified": "2017-02-27T23:51:29-05:00",
     "type": "Dataset",
-    "version": "1437505c58a2be6e284781525b0a967894353b07"
+    "version": "6ea6662f13362d9773f78bacf24f5b6e61cddd19"
   },
   {
     "@context": {
@@ -1173,7 +1213,7 @@
     "availableFrom": [
       {
         "@id": "42136033-5941-4aaa-999a-9105d477498d",
-        "description": "[datalad]"
+        "description": "datalad"
       },
       {
         "@id": "dc8058cf-ea09-4bfb-8808-4d86551e72d0",
@@ -1190,9 +1230,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-25T16:52:35-05:00",
+    "dcterms:modified": "2017-02-22T13:10:31-05:00",
     "type": "Dataset",
-    "version": "6ecff2171cb788f254442e0bccda0fd2a0b65ff7"
+    "version": "20856b2bb591c1148038cd3fdb2a523ff2096dac"
   },
   {
     "@context": {
@@ -1240,7 +1280,7 @@
       },
       {
         "@id": "874146e0-9d5e-458b-a0c4-1574214a7dad",
-        "description": "[datalad]"
+        "description": "datalad"
       },
       {
         "@id": "efa0a649-fe21-4f7e-8449-fc64048b199b",
@@ -1249,9 +1289,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-25T16:52:36-05:00",
+    "dcterms:modified": "2017-02-22T13:16:19-05:00",
     "type": "Dataset",
-    "version": "fb72f76b3fc7c5645cad729080fc0f44787c11e2"
+    "version": "ba26d5cdc0d6e7740eb3b90d2e66e53f2cf21da8"
   },
   {
     "@context": {
@@ -1304,7 +1344,7 @@
       },
       {
         "@id": "b1d0d104-1576-422d-8b02-8cef63bc1f02",
-        "description": "[datalad]"
+        "description": "datalad"
       },
       {
         "@id": "f0d9fbb6-dba5-4da5-a78d-24e9be621067",
@@ -1313,9 +1353,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-25T16:52:37-05:00",
+    "dcterms:modified": "2017-02-23T18:41:05-05:00",
     "type": "Dataset",
-    "version": "1f59432e5369528c7754755e265def5fbafb892d"
+    "version": "d5f06db47577614e19f887b5f8aff748b8a36e11"
   },
   {
     "@context": {
@@ -1361,7 +1401,7 @@
       },
       {
         "@id": "4d3ac2c7-a386-4555-8a74-032057bbbc6c",
-        "description": "[datalad]"
+        "description": "datalad"
       },
       {
         "@id": "588f4ebd-699b-4e3d-87b3-091791df8214",
@@ -1374,9 +1414,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-01-27T16:17:53-05:00",
+    "dcterms:modified": "2017-02-27T15:25:59-05:00",
     "type": "Dataset",
-    "version": "f58e93af3f70c3ebbc8a87594b4ebeb2d1473b8b"
+    "version": "8a53c1cc20d2c4d94a4d054e53388f5c522dbd5c"
   },
   {
     "@context": {
@@ -1416,7 +1456,7 @@
     "availableFrom": [
       {
         "@id": "371b4c9d-7d55-40c4-86aa-f392e6108b2f",
-        "description": "[datalad]"
+        "description": "datalad"
       },
       {
         "@id": "38c820c0-e3a8-4f98-86ef-72ef184fb285",
@@ -1433,9 +1473,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-25T16:52:38-05:00",
+    "dcterms:modified": "2017-02-22T15:09:44-05:00",
     "type": "Dataset",
-    "version": "471250275f5dcb0777e903af67f8060b60aca9d0"
+    "version": "88f7ca6ca5eb196934bc7defdd5d4d90a716d425"
   },
   {
     "@context": {
@@ -1484,7 +1524,7 @@
       },
       {
         "@id": "c107aacb-3333-4c2a-ba3d-907be53d6369",
-        "description": "[datalad]"
+        "description": "datalad"
       },
       {
         "@id": "df1e9e11-3aea-4357-b116-97096c6f0928",
@@ -1493,9 +1533,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-04T09:55:09-04:00",
+    "dcterms:modified": "2017-02-22T14:06:32-05:00",
     "type": "Dataset",
-    "version": "515b5eeffb13f8fa70dbc7aca2d6522b5795b343"
+    "version": "e3dd459950c40c090cc9b8b86490498984ce902e"
   },
   {
     "@context": {
@@ -1528,7 +1568,7 @@
     "availableFrom": [
       {
         "@id": "298cdc71-de59-4d4f-91db-0a61bbc0c6db",
-        "description": "[datalad]"
+        "description": "datalad"
       },
       {
         "@id": "2af4937b-97c3-4629-b378-db22fbd1e269",
@@ -1545,9 +1585,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-25T16:52:39-05:00",
+    "dcterms:modified": "2017-02-22T17:30:51-05:00",
     "type": "Dataset",
-    "version": "bcd0294fed6e7e419e3877ef1630b77bf8512ce0"
+    "version": "88925a6234f3b53c31d3065a74631b5661a64813"
   },
   {
     "@context": {
@@ -1586,7 +1626,7 @@
     "availableFrom": [
       {
         "@id": "49e227d4-d253-419f-a786-fafeab194886",
-        "description": "[datalad]"
+        "description": "datalad"
       },
       {
         "@id": "86466850-f536-4231-b228-68e08e884228",
@@ -1603,9 +1643,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-07T18:41:57-05:00",
+    "dcterms:modified": "2017-02-22T19:39:24-05:00",
     "type": "Dataset",
-    "version": "4f704a5559f10574c164189da7efaf49a03f88ab"
+    "version": "f9e0f20373e7a49727564106320e00807a3e4bfe"
   },
   {
     "@context": {
@@ -1741,7 +1781,7 @@
     "availableFrom": [
       {
         "@id": "0de56edb-37fa-47dc-9908-5d57cb260334",
-        "description": "[datalad]"
+        "description": "datalad"
       },
       {
         "@id": "590d0da0-e791-4848-a09e-a47c70939758",
@@ -1758,9 +1798,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-16T15:29:58-05:00",
+    "dcterms:modified": "2017-02-22T16:07:24-05:00",
     "type": "Dataset",
-    "version": "8058c252eaa8b1fe648704392dec499e0f99b4f9"
+    "version": "1f3e87a4873d330a6e91cb78e71dc57bece89a52"
   },
   {
     "@context": {
@@ -1809,7 +1849,7 @@
     "availableFrom": [
       {
         "@id": "135caf6c-5166-45e8-8d46-4ff5e08985b3",
-        "description": "[datalad]"
+        "description": "datalad"
       },
       {
         "@id": "1a7dad34-a60c-474d-9b2d-d792136beb81",
@@ -1826,9 +1866,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-07T22:58:32-05:00",
+    "dcterms:modified": "2017-02-22T15:05:21-05:00",
     "type": "Dataset",
-    "version": "6b6f4c1d5096b3ae5a0a9ad581cea8c026fdf4fe"
+    "version": "da3dd70c469402dadf5cdecb2be0681ee09a9eb0"
   },
   {
     "@context": {
@@ -1876,7 +1916,7 @@
       },
       {
         "@id": "8c835dab-7f16-4ebe-93f4-a5174142e3fc",
-        "description": "[datalad]"
+        "description": "datalad"
       },
       {
         "@id": "e6c34cb1-422a-4885-a7aa-95044ea9761f",
@@ -1885,9 +1925,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-25T16:52:42-05:00",
+    "dcterms:modified": "2017-02-23T13:11:48-05:00",
     "type": "Dataset",
-    "version": "c7ebc7afdece64b776bc8315470df924e61175e3"
+    "version": "e0f6e1375fc877dfbc08609d0f3ac3e85cae7137"
   },
   {
     "@context": {
@@ -1928,7 +1968,7 @@
       },
       {
         "@id": "21a004f7-8b6f-467a-8289-de6ea8b7f0df",
-        "description": "[datalad]"
+        "description": "datalad"
       },
       {
         "@id": "43424651-776d-4fb2-8ad7-fc0088d4862b",
@@ -1941,9 +1981,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-25T16:52:45-05:00",
+    "dcterms:modified": "2017-02-23T04:13:11-05:00",
     "type": "Dataset",
-    "version": "9990af5aaa9eee56eeb937ab8ea6c0f8f8af940d"
+    "version": "98d5217e0e5525f55a43ec839b36a187b6635c46"
   },
   {
     "@context": {
@@ -1982,7 +2022,7 @@
       },
       {
         "@id": "15c283bb-565f-472d-b5f4-9fabc967338f",
-        "description": "[datalad]"
+        "description": "datalad"
       },
       {
         "@id": "a826e279-8231-4a77-b233-acffed458d7a",
@@ -1995,9 +2035,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2016-11-04T01:05:41-04:00",
+    "dcterms:modified": "2017-02-23T00:41:17-05:00",
     "type": "Dataset",
-    "version": "b6951a76ab93fc3587c19a2f9ca0598159878e95"
+    "version": "e133bdf13481259fe584d8ab7588bb8bfbc9a2d0"
   },
   {
     "@context": {
@@ -3555,15 +3595,23 @@
         "description": "[datalad-archives]"
       },
       {
+        "@id": "c670e7b1-271f-4fe6-a3fe-228a0661570f",
+        "description": "datalad-public"
+      },
+      {
         "@id": "cd0b9ad8-146d-4200-8de8-475b88212175",
         "description": "yoh@smaug:/mnt/datasets/datalad/crawl/openfmri/ds000214"
+      },
+      {
+        "@id": "e1e05d54-9e5d-4ede-bf4c-cf578985c02a",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000214"
       }
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-01-23T18:33:28-05:00",
+    "dcterms:modified": "2017-02-13T20:02:34-05:00",
     "type": "Dataset",
-    "version": "d3656ec3a2f55e3c77222b1cf089606553b415aa"
+    "version": "750be8fda9bb3dc2b661913db7cfbbda1bd233f8"
   },
   {
     "@context": {
@@ -3595,6 +3643,349 @@
       "doap": "http://usefulinc.com/ns/doap#"
     },
     "@id": "24f00476-e1bf-11e6-8cec-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "74352e72-f24e-11e6-ba84-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "1b7c2d9d-430c-4ce6-aa1e-3514f785f4ef",
+        "description": "yoh@smaug:/mnt/datasets/datalad/crawl/openfmri/ds000218"
+      },
+      {
+        "@id": "d2bb0534-3688-43de-8103-f23d6cd7043a",
+        "description": "[datalad-archives]"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
+    "dcterms:modified": "2017-02-13T20:09:24-05:00",
+    "type": "Dataset",
+    "version": "2b0f2b68bad17716dd538752a1bffd65a711fa8b"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "74352e72-f24e-11e6-ba84-002590f97d84",
+    "author": [
+      "Jelle R. Dalenberg",
+      "Liselore Weitkamp",
+      "Remco J. Renken",
+      "L. Nanetti",
+      "Gert J. ter Horst"
+    ],
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io/bids_spec1.0.0.pdf"
+    ],
+    "description": "Data acquisition methods have been described in detail in Dalenberg et al. (2017, Plos One)\n\n————————————————————————————————\nIMPORTANT NOTES\n————————————————————————————————\nDue to technical difficulties with the PRESTO sequence several volumes were missing or broken.\nTo fix the timing of the data, missing volumes need to be filled and broken volumes need replacement. \n\nMissing/borken volumes:\n\nParticipant_id\trun\tvolumes_missing\tvolumes_broken\nsub-02\tr1\t[1 2 3 4 5 6 7 8 9 10 11]\t[561]\nsub-08\tr2\t[1 2 3 4 5 6 7 8 9 10]\t[561]\nsub-08\tr3\t[1 2 3 4 5 6 7 8 9 10 11]\t[559]\nsub-10\tr2\t[1 2 3 4 5 6 7 8 9 10] \nsub-18\tr2\t[1 2 3 4 5 6 7 8 9 10]\t[559]\n\nFurther missing data due to difficulties with the gustometer:\nsub-03\nsub-06\nsub-16\n\n_______________________________\n##  Stimulus information  ##\n_______________________________\n\nFlavour_Products\tDescription\nfc_cap\tOral Nutritional Supplement Product brand: Forticare, flavour Cappucino\nfc_ole\tOral Nutritional Supplement Product brand: Forticare, flavour Orange Lemon\nfc_peg\tOral Nutritional Supplement Product brand: Forticare, flavour Peach Ginger\nfm_apr\tOral Nutritional Supplement Product brand: Fortimel, flavour Apricot\nfm_neu\tOral Nutritional Supplement Product brand: Fortimel, flavour Neutral\nfm_van\tOral Nutritional Supplement Product brand: Fortimel, flavour Vanilla\n\n##Product compositions##\nFortimel:\nMilk protein concentrate, water, maltodextrin, vegetable oils, sucrose, acidity regulator (citric acid), emulsifier (soy lecithin), cocoa, flavoring (vanilla/apricot), tri-potassium citrate, choline chloride, calcium hydroxide, sodium L-ascorbate, potassium hydroxide, trisodium citrate, DL-α-tocopherol, ferrous lactate, nicotinamide, retinyl acetate, copper gluconate, manganese sulfate, zinc sulfate, sodium selenite, chromium chloride, D-calcium pantothenate, D-biotin, cholecalciferol, pyridoxine hydrochloride, pteroylmonoglutamic acid, thiamine hydrochloride, sodium fluoride, sodium molybdate, riboflavin, potassium iodide, phytomenadione.\n\nForticare:\nDemineralised water, glucose syrup, sodium molybdate, milk protein isolate, sodium fluoride, trehalose, sucrose, vegetable oils, dietary fibres (oligofructose, inulin, cellulose, resistant starch), fish oil, whey protein concentrate (from milk), tri potassium citrate, flavour, sodium chloride, tri sodium citrate, colour (E150d), flavour, magnesium hydrogen phosphate, choline chloride, carotenoids (contains soy) (b-carotene, lutein, lycopene), sodium L-ascorbate, magnesium carbonate, potassium hydroxide, taurine, DL-a-tocopheryl acetate, L-carnitine, ferrous lactate, zinc sulphate, nicotinamide, retinyl aceteate, sodium selenite, manganese sulphate, copper gluconate, pyridoxine hydrochloride, calcium D-pantothenate, pteroylmonoglutamic acid, D-biotin, chromium chloride, cholecalciferol, cyanocobalamin, thiamin hydrochloride, sodium molybdate, sodium fluoride, riboflavin, potassium iodide, phytomenadione.\n\n##General procedure per trial##\nPeriod\tDescription\nwarning_star\tWarning for upcomming flavour stimulus using a star on the screen (2s)\ntaste_and_swallow\tInstruction to first taste (3.5s) and then swallow (4s) the 2ml flavour stimulus\njudge\tPassivily judge the stimulus (22.5s) while watching a fixation cross.\nrate\tActively rate the stimulus on a 7 point liking scale (self paced)\nrinse\tRinsing procedure to rinse the palate using 2ml of a 5% artificial saliva solution (29s)\n\n##Stimulus labels##\nAll stimulus screens (except \"warning_star\" and \"rinse\") are coded as a combination of the general procedure and Flavour product as follows:\n\ntaste_and_swallow_fm_neu\njudge_fm_neu\nrate_fm_neu\n\ntaste_and_swallow_fc_ole\njudge_fc_ole\nrate_fc_ole\n\ntaste_and_swallow_fm_van\njudge_fm_van\nrate_fm_van\n\ntaste_and_swallow_fc_peg\njudge_fc_peg\nrate_fc_peg\n\ntaste_and_swallow_fc_cap\njudge_fc_cap\nrate_fc_cap\n\ntaste_and_swallow_fm_apr\njudge_fm_apr\nrate_fm_apr \n\n————————————————————————————————\nSCANNER & PRESTO SEQUENCE DETAILS\n————————————————————————————————\n\n3T Philips Intera MRI Scanner\n32 channel head coil \nVariable number of TRs per run (depending on answering times)\n\n————————————————————————————————\nSCANNER PRESTO EXAM CARD\n————————————————————————————————\nCoil selection 1 =\t\t\"SENSE-Head-32P\";\n     element selection =\t\"selection 1\";\nCoil selection 2 =\t\t\"SENSE-Head-32AH\";\n     element selection =\t\"selection 1\";\nDual coil =\t\t\t\"yes\";\nCLEAR =\t\t\t\t\"yes\";\n    body tuned =\t\t\"no\";\nFOV          FH (mm) =\t\t230;\n             AP (mm) =\t\t230;\n             RL (mm) =\t\t153;\nVoxel size   FH (mm) =\t\t3;\n             AP (mm) =\t\t3;\n             RL (mm) =\t\t3;\nRecon voxel size (mm) =\t\t2.875;\nFold-over suppression =\t\t\"no\";\nSlice oversampling =\t\t\"default\";\nReconstruction matrix =\t\t80;\nSENSE =\t\t\t\t\"yes\";\n    P reduction (AP) =\t\t1.89999998;\n    P os factor =\t\t1;\n    S reduction (RL) =\t\t1.89999998;\nOvercontiguous slices =\t\t\"no\";\nStacks =\t\t\t1;\n    slices =\t\t\t51;\n    slice orientation =\t\t\"sagittal\";\n    fold-over direction =\t\"AP\";\n    fat shift direction =\t\"P\";\nStack Offc. AP (P=+mm) =\t-8.07165337;\n            RL (L=+mm) =\t-2.93776155;\n            FH (H=+mm) =\t21.0553951;\n      Ang.  AP (deg) =\t\t0.122744754;\n            RL (deg) =\t\t1.3835777;\n            FH (deg) =\t\t-0.273202777;\nChunks =\t\t\t1;\nLarge table movement =\t\t\"no\";\nPlanAlign =\t\t\t\"no\";\nREST slabs =\t\t\t0;\nInteractive positioning =\t\"no\";\nPatient position =\t\t\"head first\";\n        orientation =\t\t\"supine\";\nScan type =\t\t\t\"Imaging\";\nScan mode =\t\t\t\"3D\";\n    technique =\t\t\t\"FFE\";\nContrast enhancement =\t\t\"T1\";\nAcquisition mode =\t\t\"cartesian\";\nFast Imaging mode =\t\t\"EPI\";\n    3D non-selective =\t\t\"no\";\n    shot mode =\t\t\t\"multishot\";\nEPI factor =\t\t\t17;\nEchoes =\t\t\t1;\n    partial echo =\t\t\"no\";\n    shifted echo =\t\t\"yes\";\n        TE>TR shift =\t\t1;\n        M add factor =\t\t-4;\n        P add factor =\t\t-4;\n        S add factor =\t\t-4;\nTE =\t\t\t\t\"user defined\";\n    (ms) =\t\t\t10;\nFlip angle (deg) =\t\t7;\nTR =\t\t\t\t\"user defined\";\n    (ms) =\t\t\t20;\nHalfscan =\t\t\t\"no\";\nWater-fat shift =\t\t\"minimum\";\nShim =\t\t\t\t\"auto\";\nFat suppression =\t\t\"no\";\nWater suppression =\t\t\"no\";\nMTC =\t\t\t\t\"no\";\nResearch prepulse =\t\t\"no\";\nDiffusion mode =\t\t\"no\";\nSAR mode =\t\t\t\"high\";\nB1 mode =\t\t\t\"default\";\nPNS mode =\t\t\t\"low\";\nGradient mode =\t\t\t\"default\";\nSofTone mode =\t\t\t\"no\";\nCardiac synchronization =\t\"no\";\nRespiratory compensation =\t\"no\";\nNavigator respiratory comp =\t\"no\";\nFlow compensation =\t\t\"no\";\nfMRI echo stabilisation =\t\"no\";\nNSA =\t\t\t\t1;\nAngio / Contrast enh. =\t\t\"no\";\nQuantitative flow =\t\t\"no\";\nManual start =\t\t\t\"yes\";\nDynamic study =\t\t\t\"individual\";\n    dyn scans =\t\t\t700;\n    dyn scan times =\t\t\"shortest\";\n    FOV time mode =\t\t\"default\";\n    dummy scans =\t\t2;\n    immediate subtraction =\t\"no\";\n    fast next scan =\t\t\"no\";\n    synch. ext. device =\t\"yes\";\n        start at dyn. =\t\t1;\n        interval (dyn) =\t1;\n    dyn stabilization =\t\t\"yes\";\n    prospect. motion corr. =\t\"no\";\nKeyhole =\t\t\t\"no\";\nArterial Spin labeling =\t\"no\";\nPreparation phases =\t\t\"full\";\nInteractive F0 =\t\t\"no\";\nB0 field map =\t\t\t\"no\";\nB1 field map =\t\t\t\"no\";\nMIP/MPR =\t\t\t\"no\";\nImages =\t\t\t\" M\", (3) \" no\";\nAutoview image =\t\t\" M\";\nCalculated images =\t\t(4) \" no\";\nReference tissue =\t\t\"Grey matter\";\nPreset window contrast =\t\"soft\";\nReconstruction mode =\t\t\"real time\";\n    reuse memory =\t\t\"no\";\nSave raw data =\t\t\t\"no\";\nHardcopy protocol =\t\t\"no\";\nRinging filtering =\t\t\"default\";\nGeometry correction =\t\t\"default\";\nElliptical k-space shutter =\t\"default\";\nIF_info_seperator =\t\t1634755923;\nTotal scan duration =\t\t\"17:56.5\";\nRel. signal level (%) =\t\t100;\nAct. TR/TE (shifted) (ms) =\t\"20 / 30\";\nDyn. scan time =\t\t\"00:01.5\";\nTime to k0 =\t\t\t\"0.750\";\nACQ matrix M x P =\t\t\"76 x 58\";\nACQ voxel MPS (mm) =\t\t\"3.03 / 3.92 / 3.00\";\nREC voxel MPS (mm) =\t\t\"2.88 / 2.88 / 3.00\";\nScan percentage (%) =\t\t77.272728;\nAct. WFS (pix) / BW (Hz) =\t\"4.999 / 86.9\";\nBW in EPI freq. dir. (Hz) =\t\"2654.6\";\nMin. WFS (pix) / Max. BW (Hz) =\t\"4.976 / 87.3\";\nMin. TR/TE (ms) =\t\t\"19 / 7.4\";\nES-FFE: added M area =\t\t-15.5215797;\nES-FFE: added P area =\t\t-15.5215797;\nES-FFE: added S area =\t\t-15.5215797;\nSAR / head =\t\t\t\"<  2 %\";\nWhole body / level =\t\t\"0.0 W/kg / normal\";\nB1 rms =\t\t\t\"0.33 uT\";\nPNS / level =\t\t\t\"46 % / normal\";\nSound Pressure Level (dB) =\t14.8522921;\n\n————————————————————————————————\nPUBLICATIONS\n————————————————————————————————\nDalenberg, J.R., Weitkamp, L., Renken, R.J., Nanetti, L., ter Horst G.J., (2017). Flavor pleasantness processing in the ventral emotion network. Plos One _____, doi: ______\n\n\n### Comments added by Openfmri Curators ###\n===========================================\n\nGeneral Comments\n----------------\n\n\nDefacing\n--------\nPydeface was used on all anatomical images to ensure deindentification of subjects. The code\ncan be found at https://github.com/poldracklab/pydeface\n\nWhere to discuss the dataset\n----------------------------\n1) www.openfmri.org/dataset/ds000218/ See the comments section at the bottom of the dataset page.\n2) www.neurostars.org Please tag any discussion topics with the tags openfmri and ds000218\naccession number.\n3) Send an email to submissions@openfmri.org. Please include the ds000218 accession number in\nyour email.\n\nKnown Issues\n------------\nN/A\n\nBids-validator Output\n---------------------\n\n\nu should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-01/sub-01_task-ONSflavourtask_bold.json, /sub-01/func/sub-01_task-ONSflavourtask_run-01_bold.json\n       \t\t/sub-01/func/sub-01_task-ONSflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-01/sub-01_task-ONSflavourtask_bold.json, /sub-01/func/sub-01_task-ONSflavourtask_run-02_bold.json\n       \t\t/sub-01/func/sub-01_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-01/sub-01_task-ONSflavourtask_bold.json, /sub-01/func/sub-01_task-ONSflavourtask_run-03_bold.json\n       \t\t/sub-02/func/sub-02_task-ONSflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-02/sub-02_task-ONSflavourtask_bold.json, /sub-02/func/sub-02_task-ONSflavourtask_run-01_bold.json\n       \t\t/sub-02/func/sub-02_task-ONSflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-02/sub-02_task-ONSflavourtask_bold.json, /sub-02/func/sub-02_task-ONSflavourtask_run-02_bold.json\n       \t\t/sub-02/func/sub-02_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-02/sub-02_task-ONSflavourtask_bold.json, /sub-02/func/sub-02_task-ONSflavourtask_run-03_bold.json\n       \t\t/sub-04/func/sub-04_task-ONSflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-04/sub-04_task-ONSflavourtask_bold.json, /sub-04/func/sub-04_task-ONSflavourtask_run-01_bold.json\n       \t\t/sub-04/func/sub-04_task-ONSflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-04/sub-04_task-ONSflavourtask_bold.json, /sub-04/func/sub-04_task-ONSflavourtask_run-02_bold.json\n       \t\t/sub-04/func/sub-04_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-04/sub-04_task-ONSflavourtask_bold.json, /sub-04/func/sub-04_task-ONSflavourtask_run-03_bold.json\n       \t\t/sub-05/func/sub-05_task-ONSflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-05/sub-05_task-ONSflavourtask_bold.json, /sub-05/func/sub-05_task-ONSflavourtask_run-01_bold.json\n       \t\t/sub-05/func/sub-05_task-ONSflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-05/sub-05_task-ONSflavourtask_bold.json, /sub-05/func/sub-05_task-ONSflavourtask_run-02_bold.json\n       \t\t/sub-05/func/sub-05_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-05/sub-05_task-ONSflavourtask_bold.json, /sub-05/func/sub-05_task-ONSflavourtask_run-03_bold.json\n       \t\t/sub-07/func/sub-07_task-ONSflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-07/sub-07_task-ONSflavourtask_bold.json, /sub-07/func/sub-07_task-ONSflavourtask_run-01_bold.json\n       \t\t/sub-07/func/sub-07_task-ONSflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-07/sub-07_task-ONSflavourtask_bold.json, /sub-07/func/sub-07_task-ONSflavourtask_run-02_bold.json\n       \t\t/sub-07/func/sub-07_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-07/sub-07_task-ONSflavourtask_bold.json, /sub-07/func/sub-07_task-ONSflavourtask_run-03_bold.json\n       \t\t/sub-08/func/sub-08_task-ONSflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-08/sub-08_task-ONSflavourtask_bold.json, /sub-08/func/sub-08_task-ONSflavourtask_run-01_bold.json\n       \t\t/sub-08/func/sub-08_task-ONSflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-08/sub-08_task-ONSflavourtask_bold.json, /sub-08/func/sub-08_task-ONSflavourtask_run-02_bold.json\n       \t\t/sub-08/func/sub-08_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-08/sub-08_task-ONSflavourtask_bold.json, /sub-08/func/sub-08_task-ONSflavourtask_run-03_bold.json\n       \t\t/sub-09/func/sub-09_task-ONSflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-09/sub-09_task-ONSflavourtask_bold.json, /sub-09/func/sub-09_task-ONSflavourtask_run-01_bold.json\n       \t\t/sub-09/func/sub-09_task-ONSflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-09/sub-09_task-ONSflavourtask_bold.json, /sub-09/func/sub-09_task-ONSflavourtask_run-02_bold.json\n       \t\t/sub-09/func/sub-09_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-09/sub-09_task-ONSflavourtask_bold.json, /sub-09/func/sub-09_task-ONSflavourtask_run-03_bold.json\n       \t\t/sub-10/func/sub-10_task-ONSflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-10/sub-10_task-ONSflavourtask_bold.json, /sub-10/func/sub-10_task-ONSflavourtask_run-01_bold.json\n       \t\t/sub-10/func/sub-10_task-ONSflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-10/sub-10_task-ONSflavourtask_bold.json, /sub-10/func/sub-10_task-ONSflavourtask_run-02_bold.json\n       \t\t/sub-10/func/sub-10_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-10/sub-10_task-ONSflavourtask_bold.json, /sub-10/func/sub-10_task-ONSflavourtask_run-03_bold.json\n       \t\t/sub-11/func/sub-11_task-ONSflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-11/sub-11_task-ONSflavourtask_bold.json, /sub-11/func/sub-11_task-ONSflavourtask_run-01_bold.json\n       \t\t/sub-11/func/sub-11_task-ONSflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-11/sub-11_task-ONSflavourtask_bold.json, /sub-11/func/sub-11_task-ONSflavourtask_run-02_bold.json\n       \t\t/sub-11/func/sub-11_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-11/sub-11_task-ONSflavourtask_bold.json, /sub-11/func/sub-11_task-ONSflavourtask_run-03_bold.json\n       \t\t/sub-12/func/sub-12_task-ONSflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-12/sub-12_task-ONSflavourtask_bold.json, /sub-12/func/sub-12_task-ONSflavourtask_run-01_bold.json\n       \t\t/sub-12/func/sub-12_task-ONSflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-12/sub-12_task-ONSflavourtask_bold.json, /sub-12/func/sub-12_task-ONSflavourtask_run-02_bold.json\n       \t\t/sub-12/func/sub-12_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-12/sub-12_task-ONSflavourtask_bold.json, /sub-12/func/sub-12_task-ONSflavourtask_run-03_bold.json\n       \t\t/sub-13/func/sub-13_task-ONSflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-13/sub-13_task-ONSflavourtask_bold.json, /sub-13/func/sub-13_task-ONSflavourtask_run-01_bold.json\n       \t\t/sub-13/func/sub-13_task-ONSflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-13/sub-13_task-ONSflavourtask_bold.json, /sub-13/func/sub-13_task-ONSflavourtask_run-02_bold.json\n       \t\t/sub-13/func/sub-13_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-13/sub-13_task-ONSflavourtask_bold.json, /sub-13/func/sub-13_task-ONSflavourtask_run-03_bold.json\n       \t\t/sub-14/func/sub-14_task-ONSflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-14/sub-14_task-ONSflavourtask_bold.json, /sub-14/func/sub-14_task-ONSflavourtask_run-01_bold.json\n       \t\t/sub-14/func/sub-14_task-ONSflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-14/sub-14_task-ONSflavourtask_bold.json, /sub-14/func/sub-14_task-ONSflavourtask_run-02_bold.json\n       \t\t/sub-14/func/sub-14_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-14/sub-14_task-ONSflavourtask_bold.json, /sub-14/func/sub-14_task-ONSflavourtask_run-03_bold.json\n       \t\t/sub-15/func/sub-15_task-ONSflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-15/sub-15_task-ONSflavourtask_bold.json, /sub-15/func/sub-15_task-ONSflavourtask_run-01_bold.json\n       \t\t/sub-15/func/sub-15_task-ONSflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-15/sub-15_task-ONSflavourtask_bold.json, /sub-15/func/sub-15_task-ONSflavourtask_run-02_bold.json\n       \t\t/sub-15/func/sub-15_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-15/sub-15_task-ONSflavourtask_bold.json, /sub-15/func/sub-15_task-ONSflavourtask_run-03_bold.json\n       \t\t/sub-17/func/sub-17_task-ONSflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-17/sub-17_task-ONSflavourtask_bold.json, /sub-17/func/sub-17_task-ONSflavourtask_run-01_bold.json\n       \t\t/sub-17/func/sub-17_task-ONSflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-17/sub-17_task-ONSflavourtask_bold.json, /sub-17/func/sub-17_task-ONSflavourtask_run-02_bold.json\n       \t\t/sub-17/func/sub-17_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-17/sub-17_task-ONSflavourtask_bold.json, /sub-17/func/sub-17_task-ONSflavourtask_run-03_bold.json\n       \t\t/sub-18/func/sub-18_task-ONSflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-18/sub-18_task-ONSflavourtask_bold.json, /sub-18/func/sub-18_task-ONSflavourtask_run-01_bold.json\n       \t\t/sub-18/func/sub-18_task-ONSflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-18/sub-18_task-ONSflavourtask_bold.json, /sub-18/func/sub-18_task-ONSflavourtask_run-02_bold.json\n       \t\t/sub-18/func/sub-18_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-18/sub-18_task-ONSflavourtask_bold.json, /sub-18/func/sub-18_task-ONSflavourtask_run-03_bold.json\n       \t\t/sub-19/func/sub-19_task-ONSflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-19/sub-19_task-ONSflavourtask_bold.json, /sub-19/func/sub-19_task-ONSflavourtask_run-01_bold.json\n       \t\t/sub-19/func/sub-19_task-ONSflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-19/sub-19_task-ONSflavourtask_bold.json, /sub-19/func/sub-19_task-ONSflavourtask_run-02_bold.json\n       \t\t/sub-19/func/sub-19_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-19/sub-19_task-ONSflavourtask_bold.json, /sub-19/func/sub-19_task-ONSflavourtask_run-03_bold.json\n       \t\t/sub-20/func/sub-20_task-ONSflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-20/sub-20_task-ONSflavourtask_bold.json, /sub-20/func/sub-20_task-ONSflavourtask_run-01_bold.json\n       \t\t/sub-20/func/sub-20_task-ONSflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-20/sub-20_task-ONSflavourtask_bold.json, /sub-20/func/sub-20_task-ONSflavourtask_run-02_bold.json\n       \t\t/sub-20/func/sub-20_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-20/sub-20_task-ONSflavourtask_bold.json, /sub-20/func/sub-20_task-ONSflavourtask_run-03_bold.json\n       \t\t/sub-21/func/sub-21_task-ONSflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-21/sub-21_task-ONSflavourtask_bold.json, /sub-21/func/sub-21_task-ONSflavourtask_run-01_bold.json\n       \t\t/sub-21/func/sub-21_task-ONSflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-21/sub-21_task-ONSflavourtask_bold.json, /sub-21/func/sub-21_task-ONSflavourtask_run-02_bold.json\n       \t\t/sub-21/func/sub-21_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-21/sub-21_task-ONSflavourtask_bold.json, /sub-21/func/sub-21_task-ONSflavourtask_run-03_bold.json\n       \t\t/sub-22/func/sub-22_task-ONSflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-22/sub-22_task-ONSflavourtask_bold.json, /sub-22/func/sub-22_task-ONSflavourtask_run-01_bold.json\n       \t\t/sub-22/func/sub-22_task-ONSflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-22/sub-22_task-ONSflavourtask_bold.json, /sub-22/func/sub-22_task-ONSflavourtask_run-02_bold.json\n       \t\t/sub-22/func/sub-22_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-ONSflavourtask_bold.json, /sub-22/sub-22_task-ONSflavourtask_bold.json, /sub-22/func/sub-22_task-ONSflavourtask_run-03_bold.json\n\n       \t2: Not all subjects/sessions/runs have the same scanning parameters. (code: 39 - INCONSISTENT_PARAMETERS)\n       \t\t/sub-01/func/sub-01_task-ONSflavourtask_run-01_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,583 (voxels).\n       \t\t/sub-01/func/sub-01_task-ONSflavourtask_run-02_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,561 (voxels).\n       \t\t/sub-01/func/sub-01_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,560 (voxels).\n       \t\t/sub-02/func/sub-02_task-ONSflavourtask_run-01_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,550 (voxels).\n       \t\t/sub-02/func/sub-02_task-ONSflavourtask_run-02_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,560 (voxels).\n       \t\t/sub-02/func/sub-02_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,551 (voxels).\n       \t\t/sub-04/func/sub-04_task-ONSflavourtask_run-01_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,562 (voxels).\n       \t\t/sub-04/func/sub-04_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,558 (voxels).\n       \t\t/sub-05/func/sub-05_task-ONSflavourtask_run-01_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,569 (voxels).\n       \t\t/sub-05/func/sub-05_task-ONSflavourtask_run-02_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,559 (voxels).\n       \t\t/sub-05/func/sub-05_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,564 (voxels).\n       \t\t/sub-07/func/sub-07_task-ONSflavourtask_run-01_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,567 (voxels).\n       \t\t/sub-07/func/sub-07_task-ONSflavourtask_run-02_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,559 (voxels).\n       \t\t/sub-07/func/sub-07_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,561 (voxels).\n       \t\t/sub-08/func/sub-08_task-ONSflavourtask_run-01_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,580 (voxels).\n       \t\t/sub-08/func/sub-08_task-ONSflavourtask_run-02_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,551 (voxels).\n       \t\t/sub-08/func/sub-08_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,548 (voxels).\n       \t\t/sub-09/func/sub-09_task-ONSflavourtask_run-01_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,592 (voxels).\n       \t\t/sub-09/func/sub-09_task-ONSflavourtask_run-02_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,554 (voxels).\n       \t\t/sub-09/func/sub-09_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,559 (voxels).\n       \t\t/sub-10/func/sub-10_task-ONSflavourtask_run-01_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,564 (voxels).\n       \t\t/sub-10/func/sub-10_task-ONSflavourtask_run-02_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,562 (voxels).\n       \t\t/sub-10/func/sub-10_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,587 (voxels).\n       \t\t/sub-11/func/sub-11_task-ONSflavourtask_run-01_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,561 (voxels).\n       \t\t/sub-11/func/sub-11_task-ONSflavourtask_run-02_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,558 (voxels).\n       \t\t/sub-11/func/sub-11_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,559 (voxels).\n       \t\t/sub-12/func/sub-12_task-ONSflavourtask_run-01_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,557 (voxels).\n       \t\t/sub-12/func/sub-12_task-ONSflavourtask_run-02_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,554 (voxels).\n       \t\t/sub-12/func/sub-12_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,552 (voxels).\n       \t\t/sub-13/func/sub-13_task-ONSflavourtask_run-01_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,561 (voxels).\n       \t\t/sub-13/func/sub-13_task-ONSflavourtask_run-02_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,552 (voxels).\n       \t\t/sub-13/func/sub-13_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,552 (voxels).\n       \t\t/sub-14/func/sub-14_task-ONSflavourtask_run-02_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,567 (voxels).\n       \t\t/sub-14/func/sub-14_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,561 (voxels).\n       \t\t/sub-15/func/sub-15_task-ONSflavourtask_run-01_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,558 (voxels).\n       \t\t/sub-15/func/sub-15_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,557 (voxels).\n       \t\t/sub-17/func/sub-17_task-ONSflavourtask_run-01_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,579 (voxels).\n       \t\t/sub-17/func/sub-17_task-ONSflavourtask_run-02_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,562 (voxels).\n       \t\t/sub-17/func/sub-17_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,557 (voxels).\n       \t\t/sub-18/func/sub-18_task-ONSflavourtask_run-02_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,549 (voxels).\n       \t\t/sub-18/func/sub-18_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,557 (voxels).\n       \t\t/sub-19/func/sub-19_task-ONSflavourtask_run-01_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,572 (voxels).\n       \t\t/sub-19/func/sub-19_task-ONSflavourtask_run-02_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,573 (voxels).\n       \t\t/sub-19/func/sub-19_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,556 (voxels).\n       \t\t/sub-20/func/sub-20_task-ONSflavourtask_run-01_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,576 (voxels).\n       \t\t/sub-20/func/sub-20_task-ONSflavourtask_run-02_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,567 (voxels).\n       \t\t/sub-20/func/sub-20_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,570 (voxels).\n       \t\t/sub-21/func/sub-21_task-ONSflavourtask_run-01_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,557 (voxels).\n       \t\t/sub-21/func/sub-21_task-ONSflavourtask_run-02_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,556 (voxels).\n       \t\t/sub-21/func/sub-21_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,554 (voxels).\n       \t\t/sub-22/func/sub-22_task-ONSflavourtask_run-02_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,554 (voxels).\n       \t\t/sub-22/func/sub-22_task-ONSflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,563 (voxels), This file has the dimensions: 51,80,80,554 (voxels).\n\n        Summary:                    Available Tasks:        Available Modalities:\n        13111 Files, 97.27GB        ONS flavour task        T1w\n        19 - Subjects                                       bold\n        1 - Session",
+    "foaf:fundedBy": "TIFN SL001",
+    "license": "CC0",
+    "name": "Flavour Pleasantness - ONS dataset"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "74352e72-f24e-11e6-ba84-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "77b01788-f24e-11e6-ba84-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "408dfb0d-09d8-4fa5-b153-73187352bbfe",
+        "description": "yoh@smaug:/mnt/datasets/datalad/crawl/openfmri/ds000213"
+      },
+      {
+        "@id": "8b148890-c1a3-42b5-aa82-d167dae51442",
+        "description": "[datalad-archives]"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
+    "dcterms:modified": "2017-02-13T20:02:23-05:00",
+    "type": "Dataset",
+    "version": "bde784e4a0f65c5a4910d8f3113446d80040c275"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "77b01788-f24e-11e6-ba84-002590f97d84",
+    "author": [
+      "Xiao Gao",
+      "Xiao Deng",
+      "Xin Wen",
+      "Ying She",
+      "Petra Corianne Vinke",
+      "Hong Chen"
+    ],
+    "citation": [
+      "https://www.ncbi.nlm.nih.gov/pubmed/27764116"
+    ],
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io/bids_spec1.0.0.pdf"
+    ],
+    "description": "### Comments added by Openfmri Curators ###\n===========================================\n\nDefacing\n--------\n- Pydeface was used on all anatomical images (except sub-02 and sub-11) to ensure \ndeindentification of subjects. The code can be found at https://github.com/poldracklab/pydeface\n- Pydeface removed part of brain from the anatomical images for sub-02 and sub-11. Thus, defacing\n was performed using mri_deface instead on these images. Information about mri_deface can be found \nhere: https://surfer.nmr.mgh.harvard.edu/fswiki/mri_deface\n\nQuality Control\n---------------\nMriqc output was not run on this dataset due to issues we are having with the software. It\nwill be included in the next revision.\n\nWhere to discuss the dataset\n----------------------------\n1) www.openfmri.org/dataset/ds******/ See the comments section at the bottom of the dataset\npage.\n2) www.neurostars.org Please tag any discussion topics with the tags openfmri and dsXXXXXX\naccession number.\n3) Send an email to submissions@openfmri.org. Please include the dsXXXXXX accession number in\nyour email.\n\nBids-validator Output\n---------------------\n\n\t1: You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. (code: 13 - SLICE_TIMING_NOT_DEFINED)\n\t\t/sub-01/func/sub-01_task-socialcomparison_bold.nii.gz\n\t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-socialcomparison_bold.json, /sub-01/sub-01_task-socialcomparison_bold.json, /sub-01/func/sub-01_task-socialcomparison_bold.json\n\t\t/sub-02/func/sub-02_task-socialcomparison_bold.nii.gz\n\t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-socialcomparison_bold.json, /sub-02/sub-02_task-socialcomparison_bold.json, /sub-02/func/sub-02_task-socialcomparison_bold.json\n\t\t/sub-03/func/sub-03_task-socialcomparison_bold.nii.gz\n\t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-socialcomparison_bold.json, /sub-03/sub-03_task-socialcomparison_bold.json, /sub-03/func/sub-03_task-socialcomparison_bold.json\n\t\t/sub-04/func/sub-04_task-socialcomparison_bold.nii.gz\n\t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-socialcomparison_bold.json, /sub-04/sub-04_task-socialcomparison_bold.json, /sub-04/func/sub-04_task-socialcomparison_bold.json\n\t\t/sub-05/func/sub-05_task-socialcomparison_bold.nii.gz\n\t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-socialcomparison_bold.json, /sub-05/sub-05_task-socialcomparison_bold.json, /sub-05/func/sub-05_task-socialcomparison_bold.json\n\t\t/sub-06/func/sub-06_task-socialcomparison_bold.nii.gz\n\t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-socialcomparison_bold.json, /sub-06/sub-06_task-socialcomparison_bold.json, /sub-06/func/sub-06_task-socialcomparison_bold.json\n\t\t/sub-07/func/sub-07_task-socialcomparison_bold.nii.gz\n\t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-socialcomparison_bold.json, /sub-07/sub-07_task-socialcomparison_bold.json, /sub-07/func/sub-07_task-socialcomparison_bold.json\n\t\t/sub-08/func/sub-08_task-socialcomparison_bold.nii.gz\n\t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-socialcomparison_bold.json, /sub-08/sub-08_task-socialcomparison_bold.json, /sub-08/func/sub-08_task-socialcomparison_bold.json\n\t\t/sub-09/func/sub-09_task-socialcomparison_bold.nii.gz\n\t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-socialcomparison_bold.json, /sub-09/sub-09_task-socialcomparison_bold.json, /sub-09/func/sub-09_task-socialcomparison_bold.json\n\t\t/sub-10/func/sub-10_task-socialcomparison_bold.nii.gz\n\t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-socialcomparison_bold.json, /sub-10/sub-10_task-socialcomparison_bold.json, /sub-10/func/sub-10_task-socialcomparison_bold.json\n\t\t/sub-11/func/sub-11_task-socialcomparison_bold.nii.gz\n\t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-socialcomparison_bold.json, /sub-11/sub-11_task-socialcomparison_bold.json, /sub-11/func/sub-11_task-socialcomparison_bold.json\n\t\t/sub-12/func/sub-12_task-socialcomparison_bold.nii.gz\n\t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-socialcomparison_bold.json, /sub-12/sub-12_task-socialcomparison_bold.json, /sub-12/func/sub-12_task-socialcomparison_bold.json\n\t\t/sub-13/func/sub-13_task-socialcomparison_bold.nii.gz\n\t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-socialcomparison_bold.json, /sub-13/sub-13_task-socialcomparison_bold.json, /sub-13/func/sub-13_task-socialcomparison_bold.json\n\t\t/sub-14/func/sub-14_task-socialcomparison_bold.nii.gz\n\t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-socialcomparison_bold.json, /sub-14/sub-14_task-socialcomparison_bold.json, /sub-14/func/sub-14_task-socialcomparison_bold.json\n\t\t/sub-15/func/sub-15_task-socialcomparison_bold.nii.gz\n\t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-socialcomparison_bold.json, /sub-15/sub-15_task-socialcomparison_bold.json, /sub-15/func/sub-15_task-socialcomparison_bold.json\n\t\t/sub-16/func/sub-16_task-socialcomparison_bold.nii.gz\n\t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-socialcomparison_bold.json, /sub-16/sub-16_task-socialcomparison_bold.json, /sub-16/func/sub-16_task-socialcomparison_bold.json\n\t\t/sub-19/func/sub-19_task-socialcomparison_bold.nii.gz\n\t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-socialcomparison_bold.json, /sub-19/sub-19_task-socialcomparison_bold.json, /sub-19/func/sub-19_task-socialcomparison_bold.json\n\t\t/sub-20/func/sub-20_task-socialcomparison_bold.nii.gz\n\t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-socialcomparison_bold.json, /sub-20/sub-20_task-socialcomparison_bold.json, /sub-20/func/sub-20_task-socialcomparison_bold.json\n\t\t/sub-21/func/sub-21_task-socialcomparison_bold.nii.gz\n\t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-socialcomparison_bold.json, /sub-21/sub-21_task-socialcomparison_bold.json, /sub-21/func/sub-21_task-socialcomparison_bold.json\n\t\t/sub-22/func/sub-22_task-socialcomparison_bold.nii.gz\n\t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-socialcomparison_bold.json, /sub-22/sub-22_task-socialcomparison_bold.json, /sub-22/func/sub-22_task-socialcomparison_bold.json\n\t\t/sub-23/func/sub-23_task-socialcomparison_bold.nii.gz\n\t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-socialcomparison_bold.json, /sub-23/sub-23_task-socialcomparison_bold.json, /sub-23/func/sub-23_task-socialcomparison_bold.json\n\t\t/sub-24/func/sub-24_task-socialcomparison_bold.nii.gz\n\t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-socialcomparison_bold.json, /sub-24/sub-24_task-socialcomparison_bold.json, /sub-24/func/sub-24_task-socialcomparison_bold.json\n\t\t/sub-25/func/sub-25_task-socialcomparison_bold.nii.gz\n\t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-socialcomparison_bold.json, /sub-25/sub-25_task-socialcomparison_bold.json, /sub-25/func/sub-25_task-socialcomparison_bold.json\n\t\t/sub-26/func/sub-26_task-socialcomparison_bold.nii.gz\n\t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-socialcomparison_bold.json, /sub-26/sub-26_task-socialcomparison_bold.json, /sub-26/func/sub-26_task-socialcomparison_bold.json\n\t\t/sub-27/func/sub-27_task-socialcomparison_bold.nii.gz\n\t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-socialcomparison_bold.json, /sub-27/sub-27_task-socialcomparison_bold.json, /sub-27/func/sub-27_task-socialcomparison_bold.json\n\t\t/sub-28/func/sub-28_task-socialcomparison_bold.nii.gz\n\t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-socialcomparison_bold.json, /sub-28/sub-28_task-socialcomparison_bold.json, /sub-28/func/sub-28_task-socialcomparison_bold.json\n\n        Summary:                Available Tasks:         Available Modalities: \n        59 Files, 1.72GB        social comparison        T1w                   \n        26 - Subjects                                    bold                  \n        1 - Session",
+    "foaf:fundedBy": [
+      "Chinese National Natural Science Foundation (31100758)",
+      "Central Universities Fundamental Research Funds (SWU1409116)",
+      "Chongqing Health Bureau Foundation (2012-2-135)",
+      "Chinese National NaturalScience Foundation (31170981)"
+    ],
+    "license": "PDDL",
+    "name": "Neural mechanism underlying appearance social comparison"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "77b01788-f24e-11e6-ba84-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "759f06de-f24e-11e6-ba84-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "d69d8843-736d-46fd-ba1b-5d652b4862dd",
+        "description": "yoh@smaug:/mnt/datasets/datalad/crawl/openfmri/ds000216"
+      },
+      {
+        "@id": "f7b94890-e475-4768-9d1a-6b22c79e1f44",
+        "description": "[datalad-archives]"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
+    "dcterms:modified": "2017-02-13T20:03:42-05:00",
+    "type": "Dataset",
+    "version": "b89acaefceb2dcb450d45c85b609f2418787ae74"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "759f06de-f24e-11e6-ba84-002590f97d84",
+    "author": [
+      "Alexander D. Cohen",
+      "Andrew S. Nencka",
+      "R. Marc Lebel",
+      "Yang Wang"
+    ],
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io/bids_spec1.0.0.pdf"
+    ],
+    "description": "This dataset contains resting state data collected using a multiband, multiecho simultaneous pseudocontinous ASL (pCASL) and BOLD acquisition. Additional information regarding the sequence is as follows:\n\nThe sequence consists of an unbalanced pseudo-continuous ASL (pCASL) tagging module, followed by a post labeling delay period (PLD). Following the PLD, a multiband excitation and multi-echo, gradient-echo EPI readout was implemented. Blipped-CAIPI was also applied to reduce g-factor noise amplification caused by the slice-unaliasing in MB imaging. Each echo in the multi-echo acquisition was obtained consecutively as part of one shot. The last repetition is the M0 image collected for quantification of CBF.\nEach subject underwent one resting-state MBME ASL/BOLD scan, which utilized an unbalanced pCASL labeling scheme with labeling time=1.5 s and PLD=1.0 s. A partial k-space acquisition was employed with 20 overscan lines. To keep the later TEs within reasonable ranges and reduce total readout time, in-plane acceleration was employed with R=2. Additional parameters for the MBME ASL/BOLD run were as follows: number of echoes=4, TE=9.1, 25, 39.6, 54.3 ms, TR=3.5 s, MB-factor=4, number of excitations=9 (total slices=9×4=36), FOV=240 mm, resolution=3×3×3 mm, FA=90°, RF pulse width=6400 ms. Scans lasted 644 seconds resulting in 167 acquisitions excluding calibration reps. Subjects were instructed to lie awake with their eyes closed.\n\n### Comments added by Openfmri Curators ###\n===========================================\n\nGeneral Comments\n----------------\n\n\nDefacing\n--------\nPydeface was used on all anatomical images to ensure deindentification of subjects. The code\ncan be found at https://github.com/poldracklab/pydeface\n\nWhere to discuss the dataset\n----------------------------\n1) www.openfmri.org/dataset/ds000216/ See the comments section at the bottom of the dataset\npage.\n2) www.neurostars.org Please tag any discussion topics with the tags openfmri and ds000216\naccession number.\n3) Send an email to submissions@openfmri.org. Please include the ds000216 accession number in\nyour email.\n\nKnown Issues\n------------\nN/A\n\nBids-validator Output\n---------------------\ns file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: .zip\n       \t\t/sub-01/func/sub-01_task-rest_acq-echo-1_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-01_task-rest_acq-echo-1_bold.nii.gz\n       \t\t/sub-01/func/sub-01_task-rest_acq-echo-2_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-01_task-rest_acq-echo-2_bold.nii.gz\n       \t\t/sub-01/func/sub-01_task-rest_acq-echo-3_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-01_task-rest_acq-echo-3_bold.nii.gz\n       \t\t/sub-01/func/sub-01_task-rest_acq-echo-4_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-01_task-rest_acq-echo-4_bold.nii.gz\n       \t\t/sub-02/func/sub-02_task-rest_acq-echo-1_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-02_task-rest_acq-echo-1_bold.nii.gz\n       \t\t/sub-02/func/sub-02_task-rest_acq-echo-2_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-02_task-rest_acq-echo-2_bold.nii.gz\n       \t\t/sub-02/func/sub-02_task-rest_acq-echo-3_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-02_task-rest_acq-echo-3_bold.nii.gz\n       \t\t/sub-02/func/sub-02_task-rest_acq-echo-4_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-02_task-rest_acq-echo-4_bold.nii.gz\n       \t\t/sub-03/func/sub-03_task-rest_acq-echo-1_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-03_task-rest_acq-echo-1_bold.nii.gz\n       \t\t/sub-03/func/sub-03_task-rest_acq-echo-2_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-03_task-rest_acq-echo-2_bold.nii.gz\n       \t\t/sub-03/func/sub-03_task-rest_acq-echo-3_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-03_task-rest_acq-echo-3_bold.nii.gz\n       \t\t/sub-03/func/sub-03_task-rest_acq-echo-4_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-03_task-rest_acq-echo-4_bold.nii.gz\n       \t\t/sub-04/func/sub-04_task-rest_acq-echo-1_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-04_task-rest_acq-echo-1_bold.nii.gz\n       \t\t/sub-04/func/sub-04_task-rest_acq-echo-2_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-04_task-rest_acq-echo-2_bold.nii.gz\n       \t\t/sub-04/func/sub-04_task-rest_acq-echo-3_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-04_task-rest_acq-echo-3_bold.nii.gz\n       \t\t/sub-04/func/sub-04_task-rest_acq-echo-4_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-04_task-rest_acq-echo-4_bold.nii.gz\n       \t\t/sub-05/func/sub-05_task-rest_acq-echo-1_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-05_task-rest_acq-echo-1_bold.nii.gz\n       \t\t/sub-05/func/sub-05_task-rest_acq-echo-2_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-05_task-rest_acq-echo-2_bold.nii.gz\n       \t\t/sub-05/func/sub-05_task-rest_acq-echo-3_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-05_task-rest_acq-echo-3_bold.nii.gz\n       \t\t/sub-05/func/sub-05_task-rest_acq-echo-4_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-05_task-rest_acq-echo-4_bold.nii.gz\n       \t\t/sub-06/func/sub-06_task-rest_acq-echo-1_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-06_task-rest_acq-echo-1_bold.nii.gz\n       \t\t/sub-06/func/sub-06_task-rest_acq-echo-2_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-06_task-rest_acq-echo-2_bold.nii.gz\n       \t\t/sub-06/func/sub-06_task-rest_acq-echo-3_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-06_task-rest_acq-echo-3_bold.nii.gz\n       \t\t/sub-06/func/sub-06_task-rest_acq-echo-4_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-06_task-rest_acq-echo-4_bold.nii.gz\n       \t\t/sub-07/func/sub-07_task-rest_acq-echo-1_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-07_task-rest_acq-echo-1_bold.nii.gz\n       \t\t/sub-07/func/sub-07_task-rest_acq-echo-2_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-07_task-rest_acq-echo-2_bold.nii.gz\n       \t\t/sub-07/func/sub-07_task-rest_acq-echo-3_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-07_task-rest_acq-echo-3_bold.nii.gz\n       \t\t/sub-07/func/sub-07_task-rest_acq-echo-4_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-07_task-rest_acq-echo-4_bold.nii.gz\n       \t\t/task-rest_acq-echo-1_bold.json\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: task-rest_acq-echo-1_bold.json\n       \t\t/task-rest_acq-echo-2_bold.json\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: task-rest_acq-echo-2_bold.json\n       \t\t/task-rest_acq-echo-3_bold.json\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: task-rest_acq-echo-3_bold.json\n       \t\t/task-rest_acq-echo-4_bold.json\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: task-rest_acq-echo-4_bold.json\n\n        Summary:                Available Tasks:        Available Modalities:\n        44 Files, 1.97GB                                T1w\n        7 - Subjects\n        1 - Session",
+    "name": "Multiband Multi-Echo Imaging of Simultaneous Oxygenation and Flow Timeseries for Resting State Connectivity"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "759f06de-f24e-11e6-ba84-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "76b23082-f24e-11e6-ba84-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "000149cd-00ee-41fb-9c51-ce73d20aeeea",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "bd2efca7-05d1-4dce-9771-37c8b57cd50c",
+        "description": "yoh@smaug:/mnt/datasets/datalad/crawl/openfmri/ds000219"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
+    "dcterms:modified": "2017-02-13T20:16:54-05:00",
+    "type": "Dataset",
+    "version": "679bbc371ed875d23a1e00e8300daa0bc44383d9"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "76b23082-f24e-11e6-ba84-002590f97d84",
+    "author": [
+      "Jelle R. Dalenberg",
+      "Liselore Weitkamp",
+      "Remco J. Renken",
+      "L. Nanetti",
+      "Gert J. ter Horst"
+    ],
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io/bids_spec1.0.0.pdf"
+    ],
+    "description": "Data acquisition methods have been described in detail in Dalenberg et al. (2017, Plos One)\n\n————————————————————————————————\nIMPORTANT NOTES\n————————————————————————————————\nDue to technical difficulties with the PRESTO sequence several volumes were missing or broken.\nTo fix the timing of the data, missing volumes need to be filled and broken volumes need replacement. \n\nMissing/borken volumes:\n\nParticipant_id\trun\tvolumes_missing\tvolumes_broken\nsub-06\tr1\t[1 2 3 4 5 6 7 8 9 10]\t[]\nsub-08\tr4\t[1 2 3 4 5 6 7 8 9 10]\t[]\nsub-18\tr1\t[1 2 3 4 5 6 7 8 9 10]\t[]\nsub-20\tr1\t[1 2 3 4 5 6 7 8 9 10]\t[]\n\nFurther missing data due to difficulties with the gustometer or brain abnormalities:\nsub-02 r1\nsub-03 r2\nsub-04 r1\nsub-10 r3\nsub-16 r1 r2 r3 r4\nsub-19 r2\nsub-22 r4\n\n_____________________________\n##   Stimulus information  ##\n_____________________________\n\nFlavour_Products\tDescription\nanaman\tProduct brand DubbelFrisss, flavour Pineapple-Mango\nappbos\tProduct brand DubbelFrisss, flavour Apple-Blueberry\nappper\tProduct brand DubbelFrisss, flavour Apple-Peach\nsinman\tProduct brand DubbelFrisss, flavour Orange-Tangerine\nfra\tProduct brand Optimel, flavour Raspberry\nkok\tProduct brand Optimel, flavour Coconut\nlim\tProduct brand Optimel, flavour Lemon\nska\tProduct brand Optimel, flavour Orange-Cinnamon\n\n##Product compositions##\nDubbelFrisss Pineapple-Mango:\nwater, fruit juices from concentrated fruit juices, (apple, pineapple 1%, mango 1%), citric acid, aroma, sugar, carbonic acid (< 0,1%). Total sugars/sodium (per 100gr): 8.6gr/0.001gr.\n\nDubbelFrisss Apple-Blueberry:\nwater, fruit juices from concentrated fruit juices, (apple 11%, blackcurrant 3%, aronia berry), citric acid, aroma, sugar, carbonic acid (< 0,1%). Total sugars/sodium (per 100 gr): 8.5gr/0.001gr.\n\nDubbelFrisss Apple-Peach:\nwater, fruit juices from concentrated fruit juices, (apple 14%, peach 1.1%), citric acid, aroma, sugar, carbonic acid (< 0,1%). Total sugars/sodium (per 100gr): 8.6gr/0.001gr.\n\nDubbelFrisss Orange-Tangerine:\nwater, fruit juices from concentrated fruit juices, (orange 7%, apple, tangerine 2.4%), citric acid, aroma, sugar, carbonic acid (< 0,1%). Total sugars/sodium (per 100 gr): 8.6gr/0.001gr\n\nOptimel general:\nYogurt from skimmed milk, 5% fruit juices (see below), corn starch, calcium, sucralose. Proteins/Sugars/Sodium/Calcium (per 100gr): 3.1g/3.6g/0.04gr/120mg. Vitamins from the B complex (B2: 0,21mg; B6: 0,21mg; B12: 0,38 microgr).\n\nOptimel Raspberry: apple, 1% raspberry, aronia berry, lemon\nOptimel Coconut: apple, lemon, 1% coconut\nOptimel Lime: apple, 0.5% lemon, 0.5% lime\nOptimel Orange-Cinnamon: apple, 1% orange, cinnamon\n\n##General procedure per trial##\nPeriod\tDescription\nwarning_star\tWarning for upcomming flavour stimulus using a star on the screen (2s)\ntaste_and_swallow\tInstruction to first taste (3.5s) and then swallow (4s) the 2ml flavour stimulus\njudge\tPassivily judge the stimulus (22.5s) while watching a fixation cross.\nrate\tActively rate the stimulus on a 7 point liking scale (self paced)\nrinse\tRinsing procedure to rinse the palate using 2ml of a 5% artificial saliva solution (29s)\n\n##Stimulus labels##\nAll stimulus screens (except \"warning_star\" and \"rinse\") are coded as a combination of the general procedure and Flavour product as follows:\n\ntaste_and_swallow_appbos\njudge_appbos\nrate_appbos\n\ntaste_and_swallow_appper\njudge_appper\nrate_appper\n\ntaste_and_swallow_sinman\njudge_sinman\nrate_sinman\n\ntaste_and_swallow_anaman\njudge_anaman\nrate_anaman \n\ntaste_and_swallow_fra\njudge_fra\nrate_fra\n\ntaste_and_swallow_kok\njudge_kok\nrate_kok\n\ntaste_and_swallow_lim\njudge_lim\nrate_lim\n\ntaste_and_swallow_ska\njudge_ska\nrate_ska \n\n\n————————————————————————————————\nSCANNER & PRESTO SEQUENCE DETAILS\n————————————————————————————————\n\n3T Philips Intera MRI Scanner\n32 channel head coil \nVariable number of TRs per run (depending on answering times)\n\n————————————————————————————————\nSCANNER PRESTO EXAM CARD\n————————————————————————————————\nCoil selection 1 =\t\t\"SENSE-Head-32P\";\n     element selection =\t\"selection 1\";\nCoil selection 2 =\t\t\"SENSE-Head-32AH\";\n     element selection =\t\"selection 1\";\nDual coil =\t\t\t\"yes\";\nCLEAR =\t\t\t\t\"yes\";\n    body tuned =\t\t\"no\";\nFOV          FH (mm) =\t\t230;\n             AP (mm) =\t\t230;\n             RL (mm) =\t\t153;\nVoxel size   FH (mm) =\t\t3;\n             AP (mm) =\t\t3;\n             RL (mm) =\t\t3;\nRecon voxel size (mm) =\t\t2.875;\nFold-over suppression =\t\t\"no\";\nSlice oversampling =\t\t\"default\";\nReconstruction matrix =\t\t80;\nSENSE =\t\t\t\t\"yes\";\n    P reduction (AP) =\t\t1.89999998;\n    P os factor =\t\t1;\n    S reduction (RL) =\t\t1.89999998;\nOvercontiguous slices =\t\t\"no\";\nStacks =\t\t\t1;\n    slices =\t\t\t51;\n    slice orientation =\t\t\"sagittal\";\n    fold-over direction =\t\"AP\";\n    fat shift direction =\t\"P\";\nStack Offc. AP (P=+mm) =\t-8.07165337;\n            RL (L=+mm) =\t-2.93776155;\n            FH (H=+mm) =\t21.0553951;\n      Ang.  AP (deg) =\t\t0.122744754;\n            RL (deg) =\t\t1.3835777;\n            FH (deg) =\t\t-0.273202777;\nChunks =\t\t\t1;\nLarge table movement =\t\t\"no\";\nPlanAlign =\t\t\t\"no\";\nREST slabs =\t\t\t0;\nInteractive positioning =\t\"no\";\nPatient position =\t\t\"head first\";\n        orientation =\t\t\"supine\";\nScan type =\t\t\t\"Imaging\";\nScan mode =\t\t\t\"3D\";\n    technique =\t\t\t\"FFE\";\nContrast enhancement =\t\t\"T1\";\nAcquisition mode =\t\t\"cartesian\";\nFast Imaging mode =\t\t\"EPI\";\n    3D non-selective =\t\t\"no\";\n    shot mode =\t\t\t\"multishot\";\nEPI factor =\t\t\t17;\nEchoes =\t\t\t1;\n    partial echo =\t\t\"no\";\n    shifted echo =\t\t\"yes\";\n        TE>TR shift =\t\t1;\n        M add factor =\t\t-4;\n        P add factor =\t\t-4;\n        S add factor =\t\t-4;\nTE =\t\t\t\t\"user defined\";\n    (ms) =\t\t\t10;\nFlip angle (deg) =\t\t7;\nTR =\t\t\t\t\"user defined\";\n    (ms) =\t\t\t20;\nHalfscan =\t\t\t\"no\";\nWater-fat shift =\t\t\"minimum\";\nShim =\t\t\t\t\"auto\";\nFat suppression =\t\t\"no\";\nWater suppression =\t\t\"no\";\nMTC =\t\t\t\t\"no\";\nResearch prepulse =\t\t\"no\";\nDiffusion mode =\t\t\"no\";\nSAR mode =\t\t\t\"high\";\nB1 mode =\t\t\t\"default\";\nPNS mode =\t\t\t\"low\";\nGradient mode =\t\t\t\"default\";\nSofTone mode =\t\t\t\"no\";\nCardiac synchronization =\t\"no\";\nRespiratory compensation =\t\"no\";\nNavigator respiratory comp =\t\"no\";\nFlow compensation =\t\t\"no\";\nfMRI echo stabilisation =\t\"no\";\nNSA =\t\t\t\t1;\nAngio / Contrast enh. =\t\t\"no\";\nQuantitative flow =\t\t\"no\";\nManual start =\t\t\t\"yes\";\nDynamic study =\t\t\t\"individual\";\n    dyn scans =\t\t\t700;\n    dyn scan times =\t\t\"shortest\";\n    FOV time mode =\t\t\"default\";\n    dummy scans =\t\t2;\n    immediate subtraction =\t\"no\";\n    fast next scan =\t\t\"no\";\n    synch. ext. device =\t\"yes\";\n        start at dyn. =\t\t1;\n        interval (dyn) =\t1;\n    dyn stabilization =\t\t\"yes\";\n    prospect. motion corr. =\t\"no\";\nKeyhole =\t\t\t\"no\";\nArterial Spin labeling =\t\"no\";\nPreparation phases =\t\t\"full\";\nInteractive F0 =\t\t\"no\";\nB0 field map =\t\t\t\"no\";\nB1 field map =\t\t\t\"no\";\nMIP/MPR =\t\t\t\"no\";\nImages =\t\t\t\" M\", (3) \" no\";\nAutoview image =\t\t\" M\";\nCalculated images =\t\t(4) \" no\";\nReference tissue =\t\t\"Grey matter\";\nPreset window contrast =\t\"soft\";\nReconstruction mode =\t\t\"real time\";\n    reuse memory =\t\t\"no\";\nSave raw data =\t\t\t\"no\";\nHardcopy protocol =\t\t\"no\";\nRinging filtering =\t\t\"default\";\nGeometry correction =\t\t\"default\";\nElliptical k-space shutter =\t\"default\";\nIF_info_seperator =\t\t1634755923;\nTotal scan duration =\t\t\"17:56.5\";\nRel. signal level (%) =\t\t100;\nAct. TR/TE (shifted) (ms) =\t\"20 / 30\";\nDyn. scan time =\t\t\"00:01.5\";\nTime to k0 =\t\t\t\"0.750\";\nACQ matrix M x P =\t\t\"76 x 58\";\nACQ voxel MPS (mm) =\t\t\"3.03 / 3.92 / 3.00\";\nREC voxel MPS (mm) =\t\t\"2.88 / 2.88 / 3.00\";\nScan percentage (%) =\t\t77.272728;\nAct. WFS (pix) / BW (Hz) =\t\"4.999 / 86.9\";\nBW in EPI freq. dir. (Hz) =\t\"2654.6\";\nMin. WFS (pix) / Max. BW (Hz) =\t\"4.976 / 87.3\";\nMin. TR/TE (ms) =\t\t\"19 / 7.4\";\nES-FFE: added M area =\t\t-15.5215797;\nES-FFE: added P area =\t\t-15.5215797;\nES-FFE: added S area =\t\t-15.5215797;\nSAR / head =\t\t\t\"<  2 %\";\nWhole body / level =\t\t\"0.0 W/kg / normal\";\nB1 rms =\t\t\t\"0.33 uT\";\nPNS / level =\t\t\t\"46 % / normal\";\nSound Pressure Level (dB) =\t14.8522921;\n\n————————————————————————————————\nPUBLICATIONS\n————————————————————————————————\nDalenberg, J.R., Weitkamp, L., Renken, R.J., Nanetti, L., ter Horst G.J., (2017). Flavor pleasantness processing in the ventral emotion network. Plos One _____, doi: ______\n\n\n\n### Comments added by Openfmri Curators ###\n===========================================\n\nGeneral Comments\n----------------\n\nThis is second set of dataset(first set of dataset for Flavor Plesantness processing is ds000218 ) for Flavor Plesantness processing study.\n\nDefacing\n--------\nPydeface was used on all anatomical images to ensure deindentification of subjects. The code\ncan be found at https://github.com/poldracklab/pydeface\n\nWhere to discuss the dataset\n----------------------------\n1) www.openfmri.org/dataset/ds000219/ See the comments section at the bottom of the dataset\npage.\n2) www.neurostars.org Please tag any discussion topics with the tags openfmri and ds000219\naccession number.\n3) Send an email to submissions@openfmri.org. Please include the ds000219 accession number in\nyour email.\n\nKnown Issues\n------------\nN/A\n\nBids-validator Output\n---------------------\n\n\t1: You should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. (code: 13 - SLICE_TIMING_NOT_DEFINED)\n       \t\t/sub-01/func/sub-01_task-RPflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-01/sub-01_task-RPflavourtask_bold.json, /sub-01/func/sub-01_task-RPflavourtask_run-01_bold.json\n       \t\t/sub-01/func/sub-01_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-01/sub-01_task-RPflavourtask_bold.json, /sub-01/func/sub-01_task-RPflavourtask_run-02_bold.json\n       \t\t/sub-01/func/sub-01_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-01/sub-01_task-RPflavourtask_bold.json, /sub-01/func/sub-01_task-RPflavourtask_run-03_bold.json\n       \t\t/sub-01/func/sub-01_task-RPflavourtask_run-04_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-01/sub-01_task-RPflavourtask_bold.json, /sub-01/func/sub-01_task-RPflavourtask_run-04_bold.json\n       \t\t/sub-02/func/sub-02_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-02/sub-02_task-RPflavourtask_bold.json, /sub-02/func/sub-02_task-RPflavourtask_run-02_bold.json\n       \t\t/sub-02/func/sub-02_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-02/sub-02_task-RPflavourtask_bold.json, /sub-02/func/sub-02_task-RPflavourtask_run-03_bold.json\n       \t\t/sub-02/func/sub-02_task-RPflavourtask_run-04_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-02/sub-02_task-RPflavourtask_bold.json, /sub-02/func/sub-02_task-RPflavourtask_run-04_bold.json\n       \t\t/sub-03/func/sub-03_task-RPflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-03/sub-03_task-RPflavourtask_bold.json, /sub-03/func/sub-03_task-RPflavourtask_run-01_bold.json\n       \t\t/sub-03/func/sub-03_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-03/sub-03_task-RPflavourtask_bold.json, /sub-03/func/sub-03_task-RPflavourtask_run-03_bold.json\n       \t\t/sub-03/func/sub-03_task-RPflavourtask_run-04_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-03/sub-03_task-RPflavourtask_bold.json, /sub-03/func/sub-03_task-RPflavourtask_run-04_bold.json\n       \t\t/sub-04/func/sub-04_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-04/sub-04_task-RPflavourtask_bold.json, /sub-04/func/sub-04_task-RPflavourtask_run-02_bold.json\n       \t\t/sub-04/func/sub-04_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-04/sub-04_task-RPflavourtask_bold.json, /sub-04/func/sub-04_task-RPflavourtask_run-03_bold.json\n       \t\t/sub-04/func/sub-04_task-RPflavourtask_run-04_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-04/sub-04_task-RPflavourtask_bold.json, /sub-04/func/sub-04_task-RPflavourtask_run-04_bold.json\n       \t\t/sub-05/func/sub-05_task-RPflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-05/sub-05_task-RPflavourtask_bold.json, /sub-05/func/sub-05_task-RPflavourtask_run-01_bold.json\n       \t\t/sub-05/func/sub-05_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-05/sub-05_task-RPflavourtask_bold.json, /sub-05/func/sub-05_task-RPflavourtask_run-02_bold.json\n       \t\t/sub-05/func/sub-05_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-05/sub-05_task-RPflavourtask_bold.json, /sub-05/func/sub-05_task-RPflavourtask_run-03_bold.json\n       \t\t/sub-05/func/sub-05_task-RPflavourtask_run-04_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-05/sub-05_task-RPflavourtask_bold.json, /sub-05/func/sub-05_task-RPflavourtask_run-04_bold.json\n       \t\t/sub-06/func/sub-06_task-RPflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-06/sub-06_task-RPflavourtask_bold.json, /sub-06/func/sub-06_task-RPflavourtask_run-01_bold.json\n       \t\t/sub-06/func/sub-06_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-06/sub-06_task-RPflavourtask_bold.json, /sub-06/func/sub-06_task-RPflavourtask_run-02_bold.json\n       \t\t/sub-06/func/sub-06_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-06/sub-06_task-RPflavourtask_bold.json, /sub-06/func/sub-06_task-RPflavourtask_run-03_bold.json\n       \t\t/sub-06/func/sub-06_task-RPflavourtask_run-04_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-06/sub-06_task-RPflavourtask_bold.json, /sub-06/func/sub-06_task-RPflavourtask_run-04_bold.json\n       \t\t/sub-07/func/sub-07_task-RPflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-07/sub-07_task-RPflavourtask_bold.json, /sub-07/func/sub-07_task-RPflavourtask_run-01_bold.json\n       \t\t/sub-07/func/sub-07_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-07/sub-07_task-RPflavourtask_bold.json, /sub-07/func/sub-07_task-RPflavourtask_run-02_bold.json\n       \t\t/sub-07/func/sub-07_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-07/sub-07_task-RPflavourtask_bold.json, /sub-07/func/sub-07_task-RPflavourtask_run-03_bold.json\n       \t\t/sub-07/func/sub-07_task-RPflavourtask_run-04_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-07/sub-07_task-RPflavourtask_bold.json, /sub-07/func/sub-07_task-RPflavourtask_run-04_bold.json\n       \t\t/sub-08/func/sub-08_task-RPflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-08/sub-08_task-RPflavourtask_bold.json, /sub-08/func/sub-08_task-RPflavourtask_run-01_bold.json\n       \t\t/sub-08/func/sub-08_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-08/sub-08_task-RPflavourtask_bold.json, /sub-08/func/sub-08_task-RPflavourtask_run-02_bold.json\n       \t\t/sub-08/func/sub-08_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-08/sub-08_task-RPflavourtask_bold.json, /sub-08/func/sub-08_task-RPflavourtask_run-03_bold.json\n       \t\t/sub-08/func/sub-08_task-RPflavourtask_run-04_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-08/sub-08_task-RPflavourtask_bold.json, /sub-08/func/sub-08_task-RPflavourtask_run-04_bold.json\n       \t\t/sub-09/func/sub-09_task-RPflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-09/sub-09_task-RPflavourtask_bold.json, /sub-09/func/sub-09_task-RPflavourtask_run-01_bold.json\n       \t\t/sub-09/func/sub-09_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-09/sub-09_task-RPflavourtask_bold.json, /sub-09/func/sub-09_task-RPflavourtask_run-02_bold.json\n       \t\t/sub-09/func/sub-09_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-09/sub-09_task-RPflavourtask_bold.json, /sub-09/func/sub-09_task-RPflavourtask_run-03_bold.json\n       \t\t/sub-09/func/sub-09_task-RPflavourtask_run-04_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-09/sub-09_task-RPflavourtask_bold.json, /sub-09/func/sub-09_task-RPflavourtask_run-04_bold.json\n       \t\t/sub-10/func/sub-10_task-RPflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-10/sub-10_task-RPflavourtask_bold.json, /sub-10/func/sub-10_task-RPflavourtask_run-01_bold.json\n       \t\t/sub-10/func/sub-10_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-10/sub-10_task-RPflavourtask_bold.json, /sub-10/func/sub-10_task-RPflavourtask_run-02_bold.json\n       \t\t/sub-10/func/sub-10_task-RPflavourtask_run-04_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-10/sub-10_task-RPflavourtask_bold.json, /sub-10/func/sub-10_task-RPflavourtask_run-04_bold.json\n       \t\t/sub-11/func/sub-11_task-RPflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-11/sub-11_task-RPflavourtask_bold.json, /sub-11/func/sub-11_task-RPflavourtask_run-01_bold.json\n       \t\t/sub-11/func/sub-11_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-11/sub-11_task-RPflavourtask_bold.json, /sub-11/func/sub-11_task-RPflavourtask_run-02_bold.json\n       \t\t/sub-11/func/sub-11_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-11/sub-11_task-RPflavourtask_bold.json, /sub-11/func/sub-11_task-RPflavourtask_run-03_bold.json\n       \t\t/sub-11/func/sub-11_task-RPflavourtask_run-04_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-11/sub-11_task-RPflavourtask_bold.json, /sub-11/func/sub-11_task-RPflavourtask_run-04_bold.json\n       \t\t/sub-12/func/sub-12_task-RPflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-12/sub-12_task-RPflavourtask_bold.json, /sub-12/func/sub-12_task-RPflavourtask_run-01_bold.json\n       \t\t/sub-12/func/sub-12_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-12/sub-12_task-RPflavourtask_bold.json, /sub-12/func/sub-12_task-RPflavourtask_run-02_bold.json\n       \t\t/sub-12/func/sub-12_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-12/sub-12_task-RPflavourtask_bold.json, /sub-12/func/sub-12_task-RPflavourtask_run-03_bold.json\n       \t\t/sub-12/func/sub-12_task-RPflavourtask_run-04_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-12/sub-12_task-RPflavourtask_bold.json, /sub-12/func/sub-12_task-RPflavourtask_run-04_bold.json\n       \t\t/sub-13/func/sub-13_task-RPflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-13/sub-13_task-RPflavourtask_bold.json, /sub-13/func/sub-13_task-RPflavourtask_run-01_bold.json\n       \t\t/sub-13/func/sub-13_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-13/sub-13_task-RPflavourtask_bold.json, /sub-13/func/sub-13_task-RPflavourtask_run-02_bold.json\n       \t\t/sub-13/func/sub-13_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-13/sub-13_task-RPflavourtask_bold.json, /sub-13/func/sub-13_task-RPflavourtask_run-03_bold.json\n       \t\t/sub-13/func/sub-13_task-RPflavourtask_run-04_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-13/sub-13_task-RPflavourtask_bold.json, /sub-13/func/sub-13_task-RPflavourtask_run-04_bold.json\n       \t\t/sub-14/func/sub-14_task-RPflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-14/sub-14_task-RPflavourtask_bold.json, /sub-14/func/sub-14_task-RPflavourtask_run-01_bold.json\n       \t\t/sub-14/func/sub-14_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-14/sub-14_task-RPflavourtask_bold.json, /sub-14/func/sub-14_task-RPflavourtask_run-02_bold.json\n       \t\t/sub-14/func/sub-14_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-14/sub-14_task-RPflavourtask_bold.json, /sub-14/func/sub-14_task-RPflavourtask_run-03_bold.json\n       \t\t/sub-14/func/sub-14_task-RPflavourtask_run-04_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-14/sub-14_task-RPflavourtask_bold.json, /sub-14/func/sub-14_task-RPflavourtask_run-04_bold.json\n       \t\t/sub-15/func/sub-15_task-RPflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-15/sub-15_task-RPflavourtask_bold.json, /sub-15/func/sub-15_task-RPflavourtask_run-01_bold.json\n       \t\t/sub-15/func/sub-15_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-15/sub-15_task-RPflavourtask_bold.json, /sub-15/func/sub-15_task-RPflavourtask_run-02_bold.json\n       \t\t/sub-15/func/sub-15_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-15/sub-15_task-RPflavourtask_bold.json, /sub-15/func/sub-15_task-RPflavourtask_run-03_bold.json\n       \t\t/sub-15/func/sub-15_task-RPflavourtask_run-04_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-15/sub-15_task-RPflavourtask_bold.json, /sub-15/func/sub-15_task-RPflavourtask_run-04_bold.json\n       \t\t/sub-17/func/sub-17_task-RPflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-17/sub-17_task-RPflavourtask_bold.json, /sub-17/func/sub-17_task-RPflavourtask_run-01_bold.json\n       \t\t/sub-17/func/sub-17_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-17/sub-17_task-RPflavourtask_bold.json, /sub-17/func/sub-17_task-RPflavourtask_run-02_bold.json\n       \t\t/sub-17/func/sub-17_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-17/sub-17_task-RPflavourtask_bold.json, /sub-17/func/sub-17_task-RPflavourtask_run-03_bold.json\n       \t\t/sub-17/func/sub-17_task-RPflavourtask_run-04_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-17/sub-17_task-RPflavourtask_bold.json, /sub-17/func/sub-17_task-RPflavourtask_run-04_bold.json\n       \t\t/sub-18/func/sub-18_task-RPflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-18/sub-18_task-RPflavourtask_bold.json, /sub-18/func/sub-18_task-RPflavourtask_run-01_bold.json\n       \t\t/sub-18/func/sub-18_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-18/sub-18_task-RPflavourtask_bold.json, /sub-18/func/sub-18_task-RPflavourtask_run-02_bold.json\n       \t\t/sub-18/func/sub-18_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-18/sub-18_task-RPflavourtask_bold.json, /sub-18/func/sub-18_task-RPflavourtask_run-03_bold.json\n       \t\t/sub-18/func/sub-18_task-RPflavourtask_run-04_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-18/sub-18_task-RPflavourtask_bold.json, /sub-18/func/sub-18_task-RPflavourtask_run-04_bold.json\n       \t\t/sub-19/func/sub-19_task-RPflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-19/sub-19_task-RPflavourtask_bold.json, /sub-19/func/sub-19_task-RPflavourtask_run-01_bold.json\n       \t\t/sub-19/func/sub-19_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-19/sub-19_task-RPflavourtask_bold.json, /sub-19/func/sub-19_task-RPflavourtask_run-03_bold.json\n       \t\t/sub-19/func/sub-19_task-RPflavourtask_run-04_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-19/sub-19_task-RPflavourtask_bold.json, /sub-19/func/sub-19_task-RPflavourtask_run-04_bold.json\n       \t\t/sub-20/func/sub-20_task-RPflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-20/sub-20_task-RPflavourtask_bold.json, /sub-20/func/sub-20_task-RPflavourtask_run-01_bold.json\n       \t\t/sub-20/func/sub-20_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-20/sub-20_task-RPflavourtask_bold.json, /sub-20/func/sub-20_task-RPflavourtask_run-02_bold.json\n       \t\t/sub-20/func/sub-20_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-20/sub-20_task-RPflavourtask_bold.json, /sub-20/func/sub-20_task-RPflavourtask_run-03_bold.json\n       \t\t/sub-20/func/sub-20_task-RPflavourtask_run-04_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-20/sub-20_task-RPflavourtask_bold.json, /sub-20/func/sub-20_task-RPflavourtask_run-04_bold.json\n       \t\t/sub-21/func/sub-21_task-RPflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-21/sub-21_task-RPflavourtask_bold.json, /sub-21/func/sub-21_task-RPflavourtask_run-01_bold.json\n       \t\t/sub-21/func/sub-21_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-21/sub-21_task-RPflavourtask_bold.json, /sub-21/func/sub-21_task-RPflavourtask_run-02_bold.json\n       \t\t/sub-21/func/sub-21_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-21/sub-21_task-RPflavourtask_bold.json, /sub-21/func/sub-21_task-RPflavourtask_run-03_bold.json\n       \t\t/sub-21/func/sub-21_task-RPflavourtask_run-04_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-21/sub-21_task-RPflavourtask_bold.json, /sub-21/func/sub-21_task-RPflavourtask_run-04_bold.json\n       \t\t/sub-22/func/sub-22_task-RPflavourtask_run-01_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-22/sub-22_task-RPflavourtask_bold.json, /sub-22/func/sub-22_task-RPflavourtask_run-01_bold.json\n       \t\t/sub-22/func/sub-22_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-22/sub-22_task-RPflavourtask_bold.json, /sub-22/func/sub-22_task-RPflavourtask_run-02_bold.json\n       \t\t/sub-22/func/sub-22_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\tYou should define 'SliceTiming' for this file. If you don't provide this information slice time correction will not be possible. It can be included one of the following locations: /task-RPflavourtask_bold.json, /sub-22/sub-22_task-RPflavourtask_bold.json, /sub-22/func/sub-22_task-RPflavourtask_run-03_bold.json\n\n       \t2: Not all subjects contain the same files. Each subject should contain the same number of files with the same naming unless some files are known to be missing. (code: 38 - INCONSISTENT_SUBJECTS)\n       \t\t/sub-02/func/sub-02_task-RPflavourtask_run-01_bold.json\n       \t\t\tThis file is missing for subject sub-02, but is present for most other subjects.\n       \t\t/sub-02/func/sub-02_task-RPflavourtask_run-01_bold.nii.gz\n       \t\t\tThis file is missing for subject sub-02, but is present for most other subjects.\n       \t\t/sub-02/func/sub-02_task-RPflavourtask_run-01_events.tsv\n       \t\t\tThis file is missing for subject sub-02, but is present for most other subjects.\n       \t\t/sub-03/func/sub-03_task-RPflavourtask_run-02_bold.json\n       \t\t\tThis file is missing for subject sub-03, but is present for most other subjects.\n       \t\t/sub-03/func/sub-03_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\tThis file is missing for subject sub-03, but is present for most other subjects.\n       \t\t/sub-03/func/sub-03_task-RPflavourtask_run-02_events.tsv\n       \t\t\tThis file is missing for subject sub-03, but is present for most other subjects.\n       \t\t/sub-04/func/sub-04_task-RPflavourtask_run-01_bold.json\n       \t\t\tThis file is missing for subject sub-04, but is present for most other subjects.\n       \t\t/sub-04/func/sub-04_task-RPflavourtask_run-01_bold.nii.gz\n       \t\t\tThis file is missing for subject sub-04, but is present for most other subjects.\n       \t\t/sub-04/func/sub-04_task-RPflavourtask_run-01_events.tsv\n       \t\t\tThis file is missing for subject sub-04, but is present for most other subjects.\n       \t\t/sub-10/func/sub-10_task-RPflavourtask_run-03_bold.json\n       \t\t\tThis file is missing for subject sub-10, but is present for most other subjects.\n       \t\t/sub-10/func/sub-10_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\tThis file is missing for subject sub-10, but is present for most other subjects.\n       \t\t/sub-10/func/sub-10_task-RPflavourtask_run-03_events.tsv\n       \t\t\tThis file is missing for subject sub-10, but is present for most other subjects.\n       \t\t/sub-19/func/sub-19_task-RPflavourtask_run-02_bold.json\n       \t\t\tThis file is missing for subject sub-19, but is present for most other subjects.\n       \t\t/sub-19/func/sub-19_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\tThis file is missing for subject sub-19, but is present for most other subjects.\n       \t\t/sub-19/func/sub-19_task-RPflavourtask_run-02_events.tsv\n       \t\t\tThis file is missing for subject sub-19, but is present for most other subjects.\n       \t\t/sub-22/func/sub-22_task-RPflavourtask_run-04_bold.json\n       \t\t\tThis file is missing for subject sub-22, but is present for most other subjects.\n       \t\t/sub-22/func/sub-22_task-RPflavourtask_run-04_bold.nii.gz\n       \t\t\tThis file is missing for subject sub-22, but is present for most other subjects.\n       \t\t/sub-22/func/sub-22_task-RPflavourtask_run-04_events.tsv\n       \t\t\tThis file is missing for subject sub-22, but is present for most other subjects.\n\n       \t3: Not all subjects/sessions/runs have the same scanning parameters. (code: 39 - INCONSISTENT_PARAMETERS)\n       \t\t/sub-01/func/sub-01_task-RPflavourtask_run-01_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,570 (voxels).\n       \t\t/sub-01/func/sub-01_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,566 (voxels).\n       \t\t/sub-01/func/sub-01_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,558 (voxels).\n       \t\t/sub-01/func/sub-01_task-RPflavourtask_run-04_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,558 (voxels).\n       \t\t/sub-02/func/sub-02_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,570 (voxels).\n       \t\t/sub-02/func/sub-02_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,561 (voxels).\n       \t\t/sub-02/func/sub-02_task-RPflavourtask_run-04_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,559 (voxels).\n       \t\t/sub-03/func/sub-03_task-RPflavourtask_run-01_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,512 (voxels).\n       \t\t/sub-03/func/sub-03_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,558 (voxels).\n       \t\t/sub-03/func/sub-03_task-RPflavourtask_run-04_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,557 (voxels).\n       \t\t/sub-04/func/sub-04_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,557 (voxels).\n       \t\t/sub-04/func/sub-04_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,555 (voxels).\n       \t\t/sub-04/func/sub-04_task-RPflavourtask_run-04_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,552 (voxels).\n       \t\t/sub-05/func/sub-05_task-RPflavourtask_run-01_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,561 (voxels).\n       \t\t/sub-05/func/sub-05_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,560 (voxels).\n       \t\t/sub-05/func/sub-05_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,565 (voxels).\n       \t\t/sub-05/func/sub-05_task-RPflavourtask_run-04_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,560 (voxels).\n       \t\t/sub-06/func/sub-06_task-RPflavourtask_run-01_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,568 (voxels).\n       \t\t/sub-06/func/sub-06_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,555 (voxels).\n       \t\t/sub-06/func/sub-06_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,556 (voxels).\n       \t\t/sub-06/func/sub-06_task-RPflavourtask_run-04_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,557 (voxels).\n       \t\t/sub-07/func/sub-07_task-RPflavourtask_run-01_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,561 (voxels).\n       \t\t/sub-07/func/sub-07_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,558 (voxels).\n       \t\t/sub-07/func/sub-07_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,555 (voxels).\n       \t\t/sub-08/func/sub-08_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,559 (voxels).\n       \t\t/sub-08/func/sub-08_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,558 (voxels).\n       \t\t/sub-08/func/sub-08_task-RPflavourtask_run-04_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,547 (voxels).\n       \t\t/sub-09/func/sub-09_task-RPflavourtask_run-01_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,559 (voxels).\n       \t\t/sub-09/func/sub-09_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,562 (voxels).\n       \t\t/sub-09/func/sub-09_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,557 (voxels).\n       \t\t/sub-09/func/sub-09_task-RPflavourtask_run-04_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,565 (voxels).\n       \t\t/sub-10/func/sub-10_task-RPflavourtask_run-01_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,559 (voxels).\n       \t\t/sub-10/func/sub-10_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,560 (voxels).\n       \t\t/sub-10/func/sub-10_task-RPflavourtask_run-04_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,561 (voxels).\n       \t\t/sub-11/func/sub-11_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,550 (voxels).\n       \t\t/sub-12/func/sub-12_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,557 (voxels).\n       \t\t/sub-12/func/sub-12_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,555 (voxels).\n       \t\t/sub-13/func/sub-13_task-RPflavourtask_run-01_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,562 (voxels).\n       \t\t/sub-13/func/sub-13_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,565 (voxels).\n       \t\t/sub-13/func/sub-13_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,568 (voxels).\n       \t\t/sub-13/func/sub-13_task-RPflavourtask_run-04_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,570 (voxels).\n       \t\t/sub-14/func/sub-14_task-RPflavourtask_run-01_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,574 (voxels).\n       \t\t/sub-14/func/sub-14_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,578 (voxels).\n       \t\t/sub-14/func/sub-14_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,567 (voxels).\n       \t\t/sub-14/func/sub-14_task-RPflavourtask_run-04_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,568 (voxels).\n       \t\t/sub-15/func/sub-15_task-RPflavourtask_run-01_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,556 (voxels).\n       \t\t/sub-15/func/sub-15_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,555 (voxels).\n       \t\t/sub-15/func/sub-15_task-RPflavourtask_run-04_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,553 (voxels).\n       \t\t/sub-17/func/sub-17_task-RPflavourtask_run-01_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,562 (voxels).\n       \t\t/sub-17/func/sub-17_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,556 (voxels).\n       \t\t/sub-18/func/sub-18_task-RPflavourtask_run-01_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,558 (voxels).\n       \t\t/sub-18/func/sub-18_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,568 (voxels).\n       \t\t/sub-19/func/sub-19_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,553 (voxels).\n       \t\t/sub-19/func/sub-19_task-RPflavourtask_run-04_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,555 (voxels).\n       \t\t/sub-20/func/sub-20_task-RPflavourtask_run-01_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,593 (voxels).\n       \t\t/sub-20/func/sub-20_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,582 (voxels).\n       \t\t/sub-20/func/sub-20_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,572 (voxels).\n       \t\t/sub-20/func/sub-20_task-RPflavourtask_run-04_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,563 (voxels).\n       \t\t/sub-21/func/sub-21_task-RPflavourtask_run-01_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,565 (voxels).\n       \t\t/sub-21/func/sub-21_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,553 (voxels).\n       \t\t/sub-21/func/sub-21_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,552 (voxels).\n       \t\t/sub-21/func/sub-21_task-RPflavourtask_run-04_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,553 (voxels).\n       \t\t/sub-22/func/sub-22_task-RPflavourtask_run-01_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,569 (voxels).\n       \t\t/sub-22/func/sub-22_task-RPflavourtask_run-02_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,561 (voxels).\n       \t\t/sub-22/func/sub-22_task-RPflavourtask_run-03_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 51,80,80,554 (voxels), This file has the dimensions: 51,80,80,563 (voxels).\n\n        Summary:                  Available Tasks:        Available Modalities:\n        281 Files, 14.92GB        RP flavour task         T1w\n        21 - Subjects                                     bold\n        1 - Session",
+    "foaf:fundedBy": "TIFN SL001",
+    "license": "CC0",
+    "name": "Flavour Pleasantness - Regular Products dataset"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "76b23082-f24e-11e6-ba84-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "e5ec5fc2-01c1-11e7-85ca-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "9a096d1a-4437-4d18-a997-c8f27eb17c5c",
+        "description": "yoh@smaug:/mnt/datasets/datalad/crawl/openfmri/ds000217"
+      },
+      {
+        "@id": "f07cee1e-5b33-4aba-8615-c28fe55e757d",
+        "description": "[datalad-archives]"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
+    "dcterms:modified": "2017-03-15T09:12:35-04:00",
+    "type": "Dataset",
+    "version": "b6a4a12b125d8696507d7a8612f69e9197b4c7f6"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "e5ec5fc2-01c1-11e7-85ca-002590f97d84",
+    "author": [
+      "Avi J H Chanales",
+      "Ashima Oza",
+      "Serra E Favila",
+      "Brice A Kuhl"
+    ],
+    "citation": "http://biorxiv.org/content/early/2017/01/10/099226",
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io/bids_spec1.0.0.pdf"
+    ],
+    "description": "### Comments added by Openfmri Curators ###\n===========================================\n\nDefacing\n--------\nDefacing was performed by the submitter.\n\nQuality Control\n---------------\nMriqc was run on the dataset. Results are located in derivatives/mriqc. Learn more about it \nhere: https://mriqc.readthedocs.io/en/latest/\n\nWhere to discuss the dataset\n----------------------------\n1) www.openfmri.org/dataset/ds000217/ See the comments section at the bottom of the dataset\npage.\n2) www.neurostars.org Please tag any discussion topics with the tags openfmri and ds000217\naccession number.\n3) Send an email to submissions@openfmri.org. Please include the ds000217 accession number in\nyour email.\n\nBids-validator Output\n---------------------\n\n\n        Summary:                    Available Tasks:        Available Modalities:\n        3095 Files, 102.19GB        localizer               T1w\n        41 - Subjects               route learning          inplaneT1\n        1 - Session                                         inplaneT2\n                                                            bold\n                                                            fieldmap",
+    "foaf:fundedBy": "National Institutes of Health Grant (1RO1NS089729) to B.A.K",
+    "license": "PDDL",
+    "name": "Route Learning"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "e5ec5fc2-01c1-11e7-85ca-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "f25940fe-7df5-11e6-8103-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "0cf80801-7ac4-469e-9e51-1acdddb73e62",
+        "description": "yoh@smaug:/mnt/datasets/datalad/crawl/openfmri/ds000017B [ds000017B]"
+      },
+      {
+        "@id": "3799aa5c-b6db-4be8-a5bd-fb3febd04ee2",
+        "description": "[datalad-archives]"
+      },
+      {
+        "@id": "898043f3-f90f-4095-8bc4-ed53573e5497",
+        "description": "datalad"
+      },
+      {
+        "@id": "9ea6f867-c01d-493c-b865-4e82b462b812",
+        "description": "yoh@smaug:/mnt/datasets/datalad/crawl/openfmri/ds000017"
+      },
+      {
+        "@id": "a65d3625-0836-4ffb-a6d9-4a2f59e3c969",
+        "description": "datalad"
+      },
+      {
+        "@id": "aff40fd1-2dda-408a-a657-b54b940c08e2",
+        "description": "yoh@smaug:/mnt/datasets/datalad/crawl/openfmri/ds000017A [ds000017A]"
+      },
+      {
+        "@id": "b8660dc2-d7e6-4f24-93c6-d7b0a1052a16",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000017A"
+      },
+      {
+        "@id": "ca79a23a-1f6c-4108-a3c6-155ebbf0431b",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000017B"
+      },
+      {
+        "@id": "ffde95aa-3525-4d06-99af-3ae8da1571ca",
+        "description": "datalad-archives"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
+    "dcterms:modified": "2017-03-17T17:26:15-04:00",
+    "type": "Dataset",
+    "version": "a57a51cca0972d0ffbe20e7b262a2584e9150731"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "f25940fe-7df5-11e6-8103-002590f97d84",
+    "author": [
+      "Rizk-Jackson",
+      "Aron",
+      "Russell A. Poldrack"
+    ],
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io/bids_spec1.0.0rc4.pdf"
+    ],
+    "description": "This dataset was obtained from the OpenfMRI project (http://www.openfmri.org).\nAccession #: ds017A\nDescription: Classification learning and stop-signal (1 year test-retest)\n\nRelease history:\n10/06/2011: initial release\n3/21/2013: Updated release with QA information\n\nThis dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.\n\nKnown Issues\n------------\n\n\nDefacing\n--------\nPydeface was used on all anatomical images to ensure deindentification of subjects. The code\ncan be found at https://github.com/poldracklab/pydeface\n\n\nWhere to discuss the dataset\n----------------------------\n1) www.openfmri.org/dataset/ds******/ See the comments section at the bottom of the dataset\npage.\n2) www.neurostars.org Please tag any discussion topics with the tags openfmri and dsXXXXXX\naccession number.\n3) Send an email to submissions@openfmri.org. Please include the dsXXXXXX accession number in\nyour email.",
+    "license": "This dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and NSF Grant \nOCI-1131441 (R. Poldrack, PI) in any publications.",
+    "name": "Classification learning and stop-signal (1 year test-retest)"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "f25940fe-7df5-11e6-8103-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
   }
 ]
