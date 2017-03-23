@@ -22,3 +22,6 @@
 [submodule "nidm"]
 	path = nidm
 	url = ./nidm
+[submodule "workshops"]
+	path = workshops
+	url = ./workshops
