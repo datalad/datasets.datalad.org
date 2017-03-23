@@ -1,0 +1,76 @@
+[
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "4cef299e-0fc7-11e7-adc9-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
+    "dcterms:modified": "2017-03-23T08:57:59-04:00",
+    "type": "Dataset",
+    "version": "56259265472a5e9b4ad0e08f93be182d135210da"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "4cef299e-0fc7-11e7-adc9-002590f97d84",
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io"
+    ],
+    "license": "PDDL (dataset itself), subdatasets -- various",
+    "name": "Datasets for various workshops"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "4cef299e-0fc7-11e7-adc9-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:hasPart": {
+      "@id": "15060a9a-0f7f-11e7-a58b-002590f97d84",
+      "location": "nipype-2017"
+    }
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "15060a9a-0f7f-11e7-a58b-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "4cef299e-0fc7-11e7-adc9-002590f97d84",
+    "dcterms:modified": "2017-03-23T08:56:39-04:00",
+    "type": "Dataset",
+    "version": "53a5b8f3278f8ea8b522d5dc60979ab05b8945dd"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "15060a9a-0f7f-11e7-a58b-002590f97d84",
+    "author": [
+      "Satrajit Ghosh",
+      "Yaroslav O. Halchenko"
+    ],
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io"
+    ],
+    "license": "PDDL",
+    "name": "NiPype 2017 (April) workshop"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "15060a9a-0f7f-11e7-a58b-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  }
+]
