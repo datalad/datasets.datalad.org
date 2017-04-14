@@ -25,3 +25,6 @@
 [submodule "workshops"]
 	path = workshops
 	url = ./workshops
+[submodule "dbic"]
+	path = dbic
+	url = ./dbic
