@@ -1,0 +1,78 @@
+[
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "5cd71620-20b9-11e7-bb27-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
+    "dcterms:modified": "2017-04-24T18:28:53-04:00",
+    "type": "Dataset",
+    "version": "07797be9617d5291c6366a4baa93e6a87181fe9f"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "5cd71620-20b9-11e7-bb27-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:hasPart": {
+      "@id": "c794e6e8-194a-11e7-99f0-ac162d79559c",
+      "location": "QA"
+    }
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "c794e6e8-194a-11e7-99f0-ac162d79559c",
+    "availableFrom": [
+      {
+        "@id": "6384a551-a41d-4290-b186-9258befede97",
+        "description": "bids@rolando:/inbox/BIDS/dbic/QA [origin]"
+      },
+      {
+        "@id": "ba8f2cea-f229-422c-82be-6580e5e07ed5",
+        "description": "yoh@smaug:/mnt/datasets/datalad/crawl/dbic/QA"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "5cd71620-20b9-11e7-bb27-002590f97d84",
+    "dcterms:modified": "2017-04-24T18:28:53-04:00",
+    "type": "Dataset",
+    "version": "ab21d9af3ce6fae3996d74b46e7167f757254b2e"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "c794e6e8-194a-11e7-99f0-ac162d79559c",
+    "author": [
+      "Chandana Kodiweera",
+      "Terry Sacket",
+      "Yaroslav O. Halchenko"
+    ],
+    "citation": [
+      "http://dbic.dartmouth.edu"
+    ],
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io/bids_spec1.0.1.pdf"
+    ],
+    "description": "DBIC (Dartmouth Brain Imaging Dataset)\n--------------------------------------\n\nThis dataset contains sample data obtained on the Siemens Prisma 3T scanner\nfor quality assurance of its operation, and investigation of sample scanning\nparameters and auxilirary data (e.g. physiological recordings) acquisition.\n\nIt was automagically converted from DICOMs into BIDS using heudiconv with custom heuristic\nand feature improvements, see https://github.com/nipy/heudiconv/pull/32 for more\ninformation.  You can find original DICOMs under sourcedata/ in a hierarchy\nmimicing main hierarchy of the dataset.\n\nNew data samples are acquired pretty regularly (weekly) on an Agar gel phantom,\nso that data is not subject for any privacy consideration.  \nA few human scans were done on volunteer investigators, not subjects to facilitate\ncreation and testing of tools for processing physiological recordings.",
+    "license": "PDDL (http://opendatacommons.org/licenses/pddl/)",
+    "name": "dbic-qa"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "c794e6e8-194a-11e7-99f0-ac162d79559c",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  }
+]
