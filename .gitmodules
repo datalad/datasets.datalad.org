@@ -28,3 +28,6 @@
 [submodule "dbic"]
 	path = dbic
 	url = ./dbic
+[submodule "hbnssi"]
+	path = hbnssi
+	url = ./hbnssi
