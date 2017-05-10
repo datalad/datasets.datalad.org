@@ -7,9 +7,31 @@
     "@id": "5cd71620-20b9-11e7-bb27-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2017-04-24T18:28:53-04:00",
+    "dcterms:modified": "2017-05-09T21:34:12-04:00",
     "type": "Dataset",
-    "version": "07797be9617d5291c6366a4baa93e6a87181fe9f"
+    "version": "08aedf42fa22526e2a6f2a0e9440dbdada34cfa5"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "5cd71620-20b9-11e7-bb27-002590f97d84",
+    "author": "DataLad Team <team@datalad.org>",
+    "contributors": [
+      "Yaroslav Halchenko <debian@onerussian.com>"
+    ],
+    "dcterms:conformsTo": [
+      "http://specs.frictionlessdata.io/data-packages",
+      "http://docs.datalad.org/metadata.html#v0-1"
+    ],
+    "homepage": "http://datasets.datalad.org/?dir=/dbic",
+    "keywords": [
+      "DICOM",
+      "NeuroImaging"
+    ],
+    "license": "http://opendatacommons.org/licenses/pddl/",
+    "title": "Dartmouth Brain Imaging Center (DBIC) datasets"
   },
   {
     "@context": {
@@ -32,7 +54,11 @@
     "availableFrom": [
       {
         "@id": "6384a551-a41d-4290-b186-9258befede97",
-        "description": "bids@rolando:/inbox/BIDS/dbic/QA [origin]"
+        "description": "bids@rolando:/inbox/BIDS/dbic/QA"
+      },
+      {
+        "@id": "7d9ed214-3e5f-4cc8-ac88-f397145b2d4c",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/dbic/QA"
       },
       {
         "@id": "ba8f2cea-f229-422c-82be-6580e5e07ed5",
@@ -41,9 +67,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "5cd71620-20b9-11e7-bb27-002590f97d84",
-    "dcterms:modified": "2017-04-24T18:28:53-04:00",
+    "dcterms:modified": "2017-05-09T21:34:11-04:00",
     "type": "Dataset",
-    "version": "ab21d9af3ce6fae3996d74b46e7167f757254b2e"
+    "version": "9529efa47157e5e941381b22ae5bf8372befe74c"
   },
   {
     "@context": {
@@ -65,7 +91,7 @@
     ],
     "description": "DBIC (Dartmouth Brain Imaging Dataset)\n--------------------------------------\n\nThis dataset contains sample data obtained on the Siemens Prisma 3T scanner\nfor quality assurance of its operation, and investigation of sample scanning\nparameters and auxilirary data (e.g. physiological recordings) acquisition.\n\nIt was automagically converted from DICOMs into BIDS using heudiconv with custom heuristic\nand feature improvements, see https://github.com/nipy/heudiconv/pull/32 for more\ninformation.  You can find original DICOMs under sourcedata/ in a hierarchy\nmimicing main hierarchy of the dataset.\n\nNew data samples are acquired pretty regularly (weekly) on an Agar gel phantom,\nso that data is not subject for any privacy consideration.  \nA few human scans were done on volunteer investigators, not subjects to facilitate\ncreation and testing of tools for processing physiological recordings.",
     "license": "PDDL (http://opendatacommons.org/licenses/pddl/)",
-    "name": "dbic-qa"
+    "name": "DBIC QA data (weekly QA scans etc.)"
   },
   {
     "@context": {

@@ -1,0 +1,81 @@
+[
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "b4c90076-2c23-11e7-8221-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
+    "dcterms:modified": "2017-05-09T21:46:09-04:00",
+    "type": "Dataset",
+    "version": "b5f10f700468e5e09a87b14612159d79e42b4fc9"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "b4c90076-2c23-11e7-8221-002590f97d84",
+    "author": "The HBN-SSI Team",
+    "dcterms:conformsTo": [
+      "http://specs.frictionlessdata.io/data-packages",
+      "http://docs.datalad.org/metadata.html#v0-1"
+    ],
+    "description": "The primary goal of the Child Mind Institute Healthy Brain Network-Serial Scanning Initiative (HBN-SSI) was to assess and compare test-retest reliabilities for full-brain connectivity patterns derived from functional MRI data obtained during different scan conditions. The data resource was generated in preparation for the launch of the Child Mind Institute Healthy Brain Network (HBN) - a large-scale data collection effort focused on the generation of an open resource for the study child and adolescent mental health.  For the HBN-SSI, 13 adult participants (ages: 21-42) were repeatedly scanned under each of four scan conditions across 12 sessions. The specific conditions were intended to differ with respect to level of engagement, and included: 1) rest, 2) naturalistic viewing of a sequence of abstract shapes (i.e., 'Inscapes', Vanderwal, 2015), 3) naturalistic viewing of highly engaging movies (Betti, 2013), and 4) performance of an active task (i.e., an Erickson flanker task, with no-Go trials included). For each of the non-rest conditions, three different stimuli were used repeated four times across the 12 sessions to allow for consideration of repetition effects.  Given the focus on naturalistic viewing, an additional scan session containing a full viewing of “Raiders of the Lost Ark” was included; this data can be used to facilitate explorations of hyper-alignment approaches (see the works of Haxby J. and colleagues). Additionally, although not a primary focus of the data collection, structural imaging data was collected, which are being shared as well: 1) MPRAGE, 2) diffusion kurtosis imaging, 3) quantitative T1/T2 anatomical imaging, 4) magnetization transfer.  The Child Mind Institute Healthy Brain Network (CMI-HBN) is an open science data generation initiative that aims to provide the scientific community with a large-scale multimodal imaging dataset focused on child and adolescent mental health and learning disorders (n = 10,000; ages 5-21). In addition to connectomics-focused functional and structural MR imaging scanning, research participation includes extensive mental health, learning and behavioral assessments carried out by a licensed team of clinicians. To maximize the value of participation for individuals, participants and their families are provided a comprehensive evaluation report, which includes testing results, a diagnostic assessment, and treatment recommendations.  ",
+    "homepage": "http://fcon_1000.projects.nitrc.org/indi/hbn_ssi/",
+    "keywords": [
+      "NeuroImaging",
+      "MRI",
+      "fMRI",
+      "raiders",
+      "flanker task",
+      "inscapes",
+      "resting state"
+    ],
+    "name": "HBNSSI",
+    "title": "Healthy Brain Network Serial Scanning Initiative (HBN-SSI)"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "b4c90076-2c23-11e7-8221-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:hasPart": {
+      "@id": "b8f51f2e-2c26-11e7-ad49-002590f97d84",
+      "location": "RawData"
+    }
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "b8f51f2e-2c26-11e7-ad49-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "752c4754-a556-4180-9a49-dcd6b5e3f594",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/hbnssi/RawData"
+      },
+      {
+        "@id": "eaecc3af-5569-4dba-9a60-e04340df91f6",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/hbnssi/RawData"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "b4c90076-2c23-11e7-8221-002590f97d84",
+    "dcterms:modified": "2017-05-09T21:42:49-04:00",
+    "type": "Dataset",
+    "version": "941ca927548f86a2e8defedb48be38cd5b2f96f7"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "b8f51f2e-2c26-11e7-ad49-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  }
+]

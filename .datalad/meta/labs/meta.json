@@ -7,9 +7,9 @@
     "@id": "72e7a148-7af4-11e6-af5a-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2017-02-03T16:50:03-05:00",
+    "dcterms:modified": "2017-05-05T16:02:26-04:00",
     "type": "Dataset",
-    "version": "05da471e67161202546501fe92c0470d72e8fba3"
+    "version": "c75b2eb0ac2fc541fd1a238b53dc1a1ecc50a9f1"
   },
   {
     "@context": {
@@ -43,6 +43,10 @@
       {
         "@id": "0e7a2ee8-ea56-11e6-9e36-002590f97d84",
         "location": "tarr"
+      },
+      {
+        "@id": "7944fa62-301c-11e7-8784-002590f97d84",
+        "location": "gobbini"
       }
     ]
   },
@@ -54,9 +58,9 @@
     "@id": "72f7a0f2-7af4-11e6-af5a-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "72e7a148-7af4-11e6-af5a-002590f97d84",
-    "dcterms:modified": "2017-02-03T16:41:15-05:00",
+    "dcterms:modified": "2017-05-05T16:02:22-04:00",
     "type": "Dataset",
-    "version": "acc80560d93335ed05822ad5dc7b31f2f7d93309"
+    "version": "e3e4597d820aec5e92016dca4545cf4e30c17c2b"
   },
   {
     "@context": {
@@ -97,11 +101,11 @@
     "availableFrom": [
       {
         "@id": "254a8527-5210-480f-9f3b-8797fba2e9b8",
-        "description": "yoh@falkor:/srv/datasets.datalad.org/www/labs/mitchell/science2008 [datalad-public]"
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/labs/mitchell/science2008"
       },
       {
         "@id": "39d5df60-d193-455b-b2ec-9a5e8658f33a",
-        "description": "[datalad-archives]"
+        "description": "datalad-archives"
       },
       {
         "@id": "b95aad26-2da8-437c-b79a-b098543e618f",
@@ -110,9 +114,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "72f7a0f2-7af4-11e6-af5a-002590f97d84",
-    "dcterms:modified": "2017-02-03T16:41:14-05:00",
+    "dcterms:modified": "2017-05-05T16:02:21-04:00",
     "type": "Dataset",
-    "version": "514aa4adba188c468fbdcc2212599cbca27ca91f"
+    "version": "a0ae429f8e9d4c1924023c251562d794ffdc8f91"
   },
   {
     "@context": {
@@ -149,9 +153,9 @@
     "@id": "01cfb952-8439-11e6-af53-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "72e7a148-7af4-11e6-af5a-002590f97d84",
-    "dcterms:modified": "2017-02-03T16:41:13-05:00",
+    "dcterms:modified": "2017-05-05T16:02:20-04:00",
     "type": "Dataset",
-    "version": "f0f80c2114d9d67416c1d6a4a408914c73d83d73"
+    "version": "e4833d27196702af9a2a7622e36e3271029204ce"
   },
   {
     "@context": {
@@ -196,7 +200,7 @@
       },
       {
         "@id": "682d0106-0906-4847-9962-7c78356378ae",
-        "description": "yoh@falkor:/srv/datasets-restricted.datalad.org/www/labs/haxby/raiders [datalad-restricted]"
+        "description": "yoh@falkor:/srv/datasets-restricted.datalad.org/www/labs/haxby/raiders"
       },
       {
         "@id": "87d7db62-683d-43b2-b594-baeb420ae7a6",
@@ -204,14 +208,14 @@
       },
       {
         "@id": "de53ce43-2c07-4971-8de8-0445c596f7dc",
-        "description": "datalad-public-ro [datalad-public]"
+        "description": "datalad-public-ro"
       }
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "01cfb952-8439-11e6-af53-002590f97d84",
-    "dcterms:modified": "2017-02-03T16:41:13-05:00",
+    "dcterms:modified": "2017-05-05T16:02:19-04:00",
     "type": "Dataset",
-    "version": "07861d6b4b6a00e8ad1f2caffbf986987ce145c0"
+    "version": "2b279985fc4c793108a1db2cfee58d45f728ec8c"
   },
   {
     "@context": {
@@ -251,9 +255,9 @@
     "@id": "0e7a2ee8-ea56-11e6-9e36-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "72e7a148-7af4-11e6-af5a-002590f97d84",
-    "dcterms:modified": "2017-02-03T16:50:03-05:00",
+    "dcterms:modified": "2017-05-05T16:02:25-04:00",
     "type": "Dataset",
-    "version": "f96ebec7e1c68fdba4f5c99987273303407bee1a"
+    "version": "af2cb92baaef7d07743502d7a01f17a3a9b90bd8"
   },
   {
     "@context": {
@@ -292,7 +296,11 @@
     "availableFrom": [
       {
         "@id": "64841f3b-650b-4489-856e-aff3c6286af3",
-        "description": "[datalad-archives]"
+        "description": "datalad-archives"
+      },
+      {
+        "@id": "c005259f-1c91-4504-b603-c24b9ef89e6e",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/labs/tarr/face_place"
       },
       {
         "@id": "f189041e-bdbf-488a-961a-ea7b6dcec86b",
@@ -301,9 +309,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "0e7a2ee8-ea56-11e6-9e36-002590f97d84",
-    "dcterms:modified": "2017-02-03T16:50:02-05:00",
+    "dcterms:modified": "2017-05-05T16:02:24-04:00",
     "type": "Dataset",
-    "version": "b8ee88bc22004e612e314d3b7ea3b29d1147245f"
+    "version": "31261b48132167ec44c3bf43a1868dc531b97a01"
   },
   {
     "@context": {
@@ -332,6 +340,67 @@
       "doap": "http://usefulinc.com/ns/doap#"
     },
     "@id": "1ff928ae-ea56-11e6-92ba-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "7944fa62-301c-11e7-8784-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "72e7a148-7af4-11e6-af5a-002590f97d84",
+    "dcterms:modified": "2017-05-05T16:02:18-04:00",
+    "type": "Dataset",
+    "version": "61a9fddb1ad596d3b0484ffe6843d824ee132da1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "7944fa62-301c-11e7-8784-002590f97d84",
+    "author": [
+      "Yaroslav O. Halchenko",
+      "Matteo Visconti di Oleggio Castello"
+    ],
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io"
+    ],
+    "license": "PDDL",
+    "name": "Gobbini Lab (http://sites.dartmouth.edu/personperceptionlab/) Datasets"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "7944fa62-301c-11e7-8784-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:hasPart": {
+      "@id": "fe961fb6-301c-11e7-b6cc-002590f97d84",
+      "location": "gobbini/famface"
+    }
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "fe961fb6-301c-11e7-b6cc-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "7944fa62-301c-11e7-8784-002590f97d84",
+    "dcterms:modified": "2017-05-05T16:02:17-04:00",
+    "type": "Dataset",
+    "version": "b7726ae7485dbe828289ad0d18a840f22f5cd643"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "fe961fb6-301c-11e7-b6cc-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
   }
 ]
