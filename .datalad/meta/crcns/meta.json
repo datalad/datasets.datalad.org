@@ -7,9 +7,9 @@
     "@id": "76a53362-7ae6-11e6-a6c8-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2017-05-17T09:35:45-04:00",
+    "dcterms:modified": "2017-05-17T10:07:43-04:00",
     "type": "Dataset",
-    "version": "0eb0a4fba95f92ad11c13d82750bfeacb5467727"
+    "version": "e7a51a2940d5aa1b30cb4a2889cd82d193696b4a"
   },
   {
     "@context": {
@@ -341,9 +341,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-16T17:54:22-04:00",
+    "dcterms:modified": "2017-05-17T10:04:10-04:00",
     "type": "Dataset",
-    "version": "2741efedd0bb17f5466ae2367e381216f4005f44"
+    "version": "0802e0e1ee30b9f70fb950d774a9e273e92f0e35"
   },
   {
     "@context": {
@@ -384,8 +384,7 @@
     ],
     "name": "CRCNS.org aa-1",
     "sameAs": "10.6080/K0F769GP",
-    "title": "Single-unit recordings from two auditory areas in male zebra finches",
-    "type": "Dataset/Neurophysiology"
+    "title": "Single-unit recordings from two auditory areas in male zebra finches"
   },
   {
     "@context": {
@@ -421,9 +420,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-16T18:37:08-04:00",
+    "dcterms:modified": "2017-05-17T10:01:24-04:00",
     "type": "Dataset",
-    "version": "8dcc2d97b23ada03b65015426dcbf8a781681ef4"
+    "version": "d8baa4c9009ff20b66a809822302900c2d748962"
   },
   {
     "@context": {
@@ -455,8 +454,7 @@
     ],
     "name": "CRCNS.org aa-2",
     "sameAs": "10.6080/K0JW8BSC",
-    "title": "Single-unit recordings from multiple auditory areas in male zebra finches",
-    "type": "Dataset/Neurophysiology"
+    "title": "Single-unit recordings from multiple auditory areas in male zebra finches"
   },
   {
     "@context": {
@@ -492,9 +490,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-16T20:23:37-04:00",
+    "dcterms:modified": "2017-05-17T10:04:25-04:00",
     "type": "Dataset",
-    "version": "db85811d2897ace70594cee2f530f0140bebc37e"
+    "version": "cbd1214e901c702fa7046dd25cc45ccef1611c03"
   },
   {
     "@context": {
@@ -523,8 +521,7 @@
     ],
     "name": "CRCNS.org ac-1",
     "sameAs": "10.6080/K0KW5CXR",
-    "title": "Auditory cortex and thalamic neuronal responses to various natural and synthetic sounds",
-    "type": "Dataset/Neurophysiology"
+    "title": "Auditory cortex and thalamic neuronal responses to various natural and synthetic sounds"
   },
   {
     "@context": {
@@ -560,9 +557,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-16T20:24:02-04:00",
+    "dcterms:modified": "2017-05-17T10:04:26-04:00",
     "type": "Dataset",
-    "version": "54e4a87cb0ab6fda7799bec294045a3426324f93"
+    "version": "38db055edb607b67235c5494a8ea9956002e7817"
   },
   {
     "@context": {
@@ -590,8 +587,7 @@
     ],
     "name": "CRCNS.org ac-2",
     "sameAs": "10.6080/K0G44N6R",
-    "title": "Whole cell recordings from neurons in the primary auditory cortex of rat in response to pure tones of different frequency and amplitude, along with recordings of nearby local field potential (LFP).",
-    "type": "Dataset/Neurophysiology"
+    "title": "Whole cell recordings from neurons in the primary auditory cortex of rat in response to pure tones of different frequency and amplitude, along with recordings of nearby local field potential (LFP)."
   },
   {
     "@context": {
@@ -627,9 +623,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-16T22:17:26-04:00",
+    "dcterms:modified": "2017-05-17T10:04:35-04:00",
     "type": "Dataset",
-    "version": "5d2da26c65da0c6bec5b406612811de7b41da979"
+    "version": "bde53b2bb63f55acdfcbc5d1083900d586239934"
   },
   {
     "@context": {
@@ -659,8 +655,7 @@
     ],
     "name": "CRCNS.org alm-1",
     "sameAs": "10.6080/K0MS3QNT",
-    "title": "Extracellular recordings from anterior lateral motor cortex (ALM) neurons of adult mice  performing a tactile decision behavior",
-    "type": "Dataset/Neurophysiology"
+    "title": "Extracellular recordings from anterior lateral motor cortex (ALM) neurons of adult mice  performing a tactile decision behavior"
   },
   {
     "@context": {
@@ -696,9 +691,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-16T23:17:01-04:00",
+    "dcterms:modified": "2017-05-17T10:04:38-04:00",
     "type": "Dataset",
-    "version": "e925b6a6921767f25ed93305f60e39d8d8b8ed8d"
+    "version": "8c2c8152fd280854ada49c2fdf2a9a98d57ecc6c"
   },
   {
     "@context": {
@@ -731,8 +726,7 @@
     ],
     "name": "CRCNS.org alm-2",
     "sameAs": "10.6080/K04M92GX",
-    "title": "Calcium imaging responses from anterior lateral motor cortex (ALM) neurons of adult mice performing a tactile decision behavior.",
-    "type": "Dataset/Neurophysiology"
+    "title": "Calcium imaging responses from anterior lateral motor cortex (ALM) neurons of adult mice performing a tactile decision behavior."
   },
   {
     "@context": {
@@ -768,9 +762,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-16T23:46:03-04:00",
+    "dcterms:modified": "2017-05-17T10:04:48-04:00",
     "type": "Dataset",
-    "version": "166fc27580e288b701d5d703c811f8b45c5b11b7"
+    "version": "90327145dbe7cd0408ac992d92e3ef6f366f37dc"
   },
   {
     "@context": {
@@ -798,8 +792,7 @@
     ],
     "name": "CRCNS.org am-1",
     "sameAs": "10.6080/K0SF2T3M",
-    "title": "Development of a birdsong motor circuit with antidromically-identified neurons: Spontaneous spiking data from anesthetized juvenile and adult zebra finch HVC.",
-    "type": "Dataset/Neurophysiology"
+    "title": "Development of a birdsong motor circuit with antidromically-identified neurons: Spontaneous spiking data from anesthetized juvenile and adult zebra finch HVC."
   },
   {
     "@context": {
@@ -873,9 +866,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T00:00:05-04:00",
+    "dcterms:modified": "2017-05-17T10:04:57-04:00",
     "type": "Dataset",
-    "version": "fee044917297154ea6540ef1794a44c2d42ff8b6"
+    "version": "181f26c36e95e70a03d5a7263cb7bf2d57270a00"
   },
   {
     "@context": {
@@ -906,8 +899,7 @@
     ],
     "name": "CRCNS.org bst-1",
     "sameAs": "10.6080/K0HT2M77",
-    "title": "Activity of multiple neurons in the brain stem (Inferior colliculus and Pontine Nucleus) of anesthetized rats during white noise auditory stimulus",
-    "type": "Dataset/Neurophysiology"
+    "title": "Activity of multiple neurons in the brain stem (Inferior colliculus and Pontine Nucleus) of anesthetized rats during white noise auditory stimulus"
   },
   {
     "@context": {
@@ -943,9 +935,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T02:08:50-04:00",
+    "dcterms:modified": "2017-05-17T10:04:59-04:00",
     "type": "Dataset",
-    "version": "3a84e1378dc76be35449d75a8bf81c14be627d8d"
+    "version": "34caa4de56a75530ebcd9c7e9d27bb50216112cd"
   },
   {
     "@context": {
@@ -971,8 +963,7 @@
     ],
     "name": "CRCNS.org cai-1",
     "sameAs": "10.6080/K02R3PMN",
-    "title": "Simultaneous imaging and loose-seal cell-attached electrical recordings  from neurons expressing a variety of genetically encoded calcium indicators.",
-    "type": "Dataset/Neurophysiology"
+    "title": "Simultaneous imaging and loose-seal cell-attached electrical recordings  from neurons expressing a variety of genetically encoded calcium indicators."
   },
   {
     "@context": {
@@ -1008,9 +999,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T00:00:53-04:00",
+    "dcterms:modified": "2017-05-17T10:05:00-04:00",
     "type": "Dataset",
-    "version": "033e5ddc5cbbe99c35e6866a7df813e932f4b8e5"
+    "version": "efadb0478fdacd0134d5b543c9bbb9ab1d75dae0"
   },
   {
     "@context": {
@@ -1040,8 +1031,7 @@
     ],
     "name": "CRCNS.org cai-2",
     "sameAs": "10.6080/K0W37T87",
-    "title": "jRGECO1a and jRCaMP1a characterization in the intact mouse visual cortex, using AAV-based gene transfer, 2-photon imaging and loose-seal cell attached recordings, as described in Dana et al 2016",
-    "type": "Dataset/Neurophysiology"
+    "title": "jRGECO1a and jRCaMP1a characterization in the intact mouse visual cortex, using AAV-based gene transfer, 2-photon imaging and loose-seal cell attached recordings, as described in Dana et al 2016"
   },
   {
     "@context": {
@@ -1077,9 +1067,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T00:01:12-04:00",
+    "dcterms:modified": "2017-05-17T10:05:03-04:00",
     "type": "Dataset",
-    "version": "d96cb050d0246d8ca8ffa49698cf0c1df531faef"
+    "version": "94be650fe564855d352413b8261e26d549b61a31"
   },
   {
     "@context": {
@@ -1114,8 +1104,7 @@
     ],
     "name": "CRCNS.org ch-epfl-2009",
     "sameAs": "10.6080/K0PN93H3",
-    "title": "Quantitative Single-Neuron Modeling Competition for year 2009, developed by researchers at EPFL. Data from Wistar rat cortical neurons and rhesus monkey lateral geniculate nucleus and retinal ganglion cells.",
-    "type": "Dataset/Neurophysiology"
+    "title": "Quantitative Single-Neuron Modeling Competition for year 2009, developed by researchers at EPFL. Data from Wistar rat cortical neurons and rhesus monkey lateral geniculate nucleus and retinal ganglion cells."
   },
   {
     "@context": {
@@ -1189,9 +1178,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T00:06:07-04:00",
+    "dcterms:modified": "2017-05-17T10:05:06-04:00",
     "type": "Dataset",
-    "version": "0c033ef3259fec9c2a30131c5e1c9e593552090f"
+    "version": "5e15f9e9b8e22086c596d9214e4e12da1473bb15"
   },
   {
     "@context": {
@@ -1217,8 +1206,7 @@
     ],
     "name": "CRCNS.org eye-1",
     "sameAs": "10.6080/K0TD9V7F",
-    "title": "Eye-tracking data from human volunteers watching complex video stimuli.",
-    "type": "Dataset/Neurophysiology"
+    "title": "Eye-tracking data from human volunteers watching complex video stimuli."
   },
   {
     "@context": {
@@ -1254,9 +1242,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T02:19:05-04:00",
+    "dcterms:modified": "2017-05-17T10:05:08-04:00",
     "type": "Dataset",
-    "version": "26da4a7a42f2468b173b6170f051cf81d00a8060"
+    "version": "4b5f8f7423c411a59a073f28aa7e4932e6cbfd3b"
   },
   {
     "@context": {
@@ -1288,8 +1276,7 @@
     ],
     "name": "CRCNS.org fcx-1",
     "sameAs": "10.6080/K02N506Q",
-    "title": "Multi-unit spiking activity recorded from rat frontal cortex (brain regions mPFC, OFC, ACC, and M2) during wake-sleep episode wherein at least 7 minutes of wake are followed by 20 minutes of sleep.",
-    "type": "Dataset/Neurophysiology"
+    "title": "Multi-unit spiking activity recorded from rat frontal cortex (brain regions mPFC, OFC, ACC, and M2) during wake-sleep episode wherein at least 7 minutes of wake are followed by 20 minutes of sleep."
   },
   {
     "@context": {
@@ -1325,9 +1312,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T01:08:52-04:00",
+    "dcterms:modified": "2017-05-17T10:05:10-04:00",
     "type": "Dataset",
-    "version": "140bea3e9617229d415cc3407578ddb95b7c674f"
+    "version": "dfd54e01dd7f0c40098df58ce537e6ed577ae45c"
   },
   {
     "@context": {
@@ -1361,8 +1348,7 @@
     ],
     "name": "CRCNS.org hc-1",
     "sameAs": "10.6080/K02Z13FP",
-    "title": "Simultaneous intracellular and extracellular recordings from hippocampus region CA1 of anesthetized rats.",
-    "type": "Dataset/Neurophysiology"
+    "title": "Simultaneous intracellular and extracellular recordings from hippocampus region CA1 of anesthetized rats."
   },
   {
     "@context": {
@@ -1436,9 +1422,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T04:29:12-04:00",
+    "dcterms:modified": "2017-05-17T10:05:24-04:00",
     "type": "Dataset",
-    "version": "2c5a4cc11be8f156320a8ac362585dc21f25b2a7"
+    "version": "1be92977ceb0a1ae887c5be84093020badb10b95"
   },
   {
     "@context": {
@@ -1469,8 +1455,7 @@
     ],
     "name": "CRCNS.org hc-3",
     "sameAs": "10.6080/K09G5JRZ",
-    "title": "Multiple single unit recordings from different rat hippocampal and entorhinal regions while the animals were performing multiple behavioral tasks.",
-    "type": "Dataset/Neurophysiology"
+    "title": "Multiple single unit recordings from different rat hippocampal and entorhinal regions while the animals were performing multiple behavioral tasks."
   },
   {
     "@context": {
@@ -1506,9 +1491,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T00:54:51-04:00",
+    "dcterms:modified": "2017-05-17T10:05:25-04:00",
     "type": "Dataset",
-    "version": "a9e99cc3ee2e8710b7e5bff8964701e20df87362"
+    "version": "e52bec2e1d70dac515e7785a843878f47529eb6f"
   },
   {
     "@context": {
@@ -1540,8 +1525,7 @@
     ],
     "name": "CRCNS.org hc-4",
     "sameAs": "10.6080/K0QJ7F75",
-    "title": "Extracellular recordings from multi-site silicon probes used for clustering of neuron responses in rat hippocampal and entorhinal regions.",
-    "type": "Dataset/Neurophysiology"
+    "title": "Extracellular recordings from multi-site silicon probes used for clustering of neuron responses in rat hippocampal and entorhinal regions."
   },
   {
     "@context": {
@@ -1577,9 +1561,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T02:58:43-04:00",
+    "dcterms:modified": "2017-05-17T10:05:27-04:00",
     "type": "Dataset",
-    "version": "57d75cfb9f1e645a215bb070b7f51488b7ece1b3"
+    "version": "d9ad9eba33e3409a0d032b120ef53954ea84df42"
   },
   {
     "@context": {
@@ -1609,8 +1593,7 @@
     ],
     "name": "CRCNS.org hc-5",
     "sameAs": "10.6080/K0KS6PHF",
-    "title": "Simultaneous extracellular recordings from left and right hippocampal areas CA1 and right entorhinal cortex from a rat performing a  left / right alternation task and other behaviors.",
-    "type": "Dataset/Neurophysiology"
+    "title": "Simultaneous extracellular recordings from left and right hippocampal areas CA1 and right entorhinal cortex from a rat performing a  left / right alternation task and other behaviors."
   },
   {
     "@context": {
@@ -1646,9 +1629,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T00:20:19-04:00",
+    "dcterms:modified": "2017-05-17T10:05:30-04:00",
     "type": "Dataset",
-    "version": "24458e3178695b220e8d1f4ba1c01acc1fcd149a"
+    "version": "c2087446c24feed34b1abdfd80118cd87d87e677"
   },
   {
     "@context": {
@@ -1678,8 +1661,7 @@
     ],
     "name": "CRCNS.org hc-6",
     "sameAs": "10.6080/K0NK3BZJ",
-    "title": "Simultaneous extracellular recordings from hippocampal areas CA1 and CA3 (or MEC and CA1) from rats performing an alternation task in two W-shaped tracks that are geometrically identically but visually distinct.",
-    "type": "Dataset/Neurophysiology"
+    "title": "Simultaneous extracellular recordings from hippocampal areas CA1 and CA3 (or MEC and CA1) from rats performing an alternation task in two W-shaped tracks that are geometrically identically but visually distinct."
   },
   {
     "@context": {
@@ -1715,9 +1697,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T00:21:32-04:00",
+    "dcterms:modified": "2017-05-17T10:05:39-04:00",
     "type": "Dataset",
-    "version": "235103a2a757bcd37e73e9d692d574ff40a30491"
+    "version": "e7ede0c0c151eade119e374637e8041393f64686"
   },
   {
     "@context": {
@@ -1749,8 +1731,7 @@
     ],
     "name": "CRCNS.org ia-1",
     "sameAs": "10.6080/K0BG2KWB",
-    "title": "Recordings from grasshopper (Locusta Migratoria) auditory receptor cells.",
-    "type": "Dataset/Neurophysiology"
+    "title": "Recordings from grasshopper (Locusta Migratoria) auditory receptor cells."
   },
   {
     "@context": {
@@ -1853,9 +1834,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T00:22:01-04:00",
+    "dcterms:modified": "2017-05-17T10:05:41-04:00",
     "type": "Dataset",
-    "version": "5da554654fc3bda683f4db1574a35af357dbaadc"
+    "version": "1073d7481211b408db1d10b47a88d99da3328d13"
   },
   {
     "@context": {
@@ -1884,8 +1865,7 @@
     ],
     "name": "CRCNS.org lgn-1",
     "sameAs": "10.6080/K05Q4T1N",
-    "title": "Spiking responses of LGN neurons in the mouse to drifting grating",
-    "type": "Dataset/Neurophysiology"
+    "title": "Spiking responses of LGN neurons in the mouse to drifting grating"
   },
   {
     "@context": {
@@ -1921,9 +1901,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T00:22:30-04:00",
+    "dcterms:modified": "2017-05-17T10:05:43-04:00",
     "type": "Dataset",
-    "version": "8d159008763c5edb3eb0a2dcb9c85ef9f37ae28b"
+    "version": "711690ae27978b3928ff93f6247ecaa335c4875b"
   },
   {
     "@context": {
@@ -1954,8 +1934,7 @@
     ],
     "name": "CRCNS.org mt-1",
     "sameAs": "10.6080/K0X63JTX",
-    "title": "Spiking activity in area MT of awake adult macaques in response to complex motion features.",
-    "type": "Dataset/Neurophysiology"
+    "title": "Spiking activity in area MT of awake adult macaques in response to complex motion features."
   },
   {
     "@context": {
@@ -1991,9 +1970,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T00:22:49-04:00",
+    "dcterms:modified": "2017-05-17T10:05:45-04:00",
     "type": "Dataset",
-    "version": "a9b4016d0df072645d58b57cd18ae5c1c414d926"
+    "version": "faf1ba0e0186c982acb8ea3efed33d48db4a3952"
   },
   {
     "@context": {
@@ -2024,8 +2003,7 @@
     ],
     "name": "CRCNS.org ofc-1",
     "sameAs": "10.6080/K0QC01D2",
-    "title": "Single-neuron spike train recordings from rat orbitofrontal cortex during an odor discrimination task.",
-    "type": "Dataset/Neurophysiology"
+    "title": "Single-neuron spike train recordings from rat orbitofrontal cortex during an odor discrimination task."
   },
   {
     "@context": {
@@ -2061,9 +2039,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T00:23:08-04:00",
+    "dcterms:modified": "2017-05-17T10:05:47-04:00",
     "type": "Dataset",
-    "version": "d03cf4703505d0ab2bd29bffe743bbd989f0a75e"
+    "version": "26257b4322f997e457592ada52c31a4701d5610d"
   },
   {
     "@context": {
@@ -2093,8 +2071,7 @@
     ],
     "name": "CRCNS.org ofc-2",
     "sameAs": "10.6080/K0FT8HZ2",
-    "title": "Single-neuron spike train recordings from rat orbitofrontal cortex during an odor classification task.",
-    "type": "Dataset/Neurophysiology"
+    "title": "Single-neuron spike train recordings from rat orbitofrontal cortex during an odor classification task."
   },
   {
     "@context": {
@@ -2130,9 +2107,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T00:23:46-04:00",
+    "dcterms:modified": "2017-05-17T10:05:48-04:00",
     "type": "Dataset",
-    "version": "7b647f4567e6e9ddd1f5c2911d665fde5e6a1d77"
+    "version": "2f9fac659619c69196ca2b7d6d8ac24b39231e32"
   },
   {
     "@context": {
@@ -2161,8 +2138,7 @@
     ],
     "name": "CRCNS.org pfc-1",
     "sameAs": "10.6080/K0W66HPJ",
-    "title": "Spiking responses of neurons in rodent prefrontal cortex and auditory cortex during a novel stimulus selection task.",
-    "type": "Dataset/Neurophysiology"
+    "title": "Spiking responses of neurons in rodent prefrontal cortex and auditory cortex during a novel stimulus selection task."
   },
   {
     "@context": {
@@ -2198,9 +2174,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T01:59:41-04:00",
+    "dcterms:modified": "2017-05-17T10:05:51-04:00",
     "type": "Dataset",
-    "version": "715c4f86397148807505ed0777d83f1942ba9721"
+    "version": "99208eec0f87b894581dc5a33769c92f770efe0a"
   },
   {
     "@context": {
@@ -2233,8 +2209,7 @@
     ],
     "name": "CRCNS.org pfc-2",
     "sameAs": "10.6080/K01V5BWK",
-    "title": "Simultaneous electrophysiological recordings of ensembles of isolated neurons in rat medial prefrontal cortex and intermediate CA1 area of the hippocampus during a working memory task.",
-    "type": "Dataset/Neurophysiology"
+    "title": "Simultaneous electrophysiological recordings of ensembles of isolated neurons in rat medial prefrontal cortex and intermediate CA1 area of the hippocampus during a working memory task."
   },
   {
     "@context": {
@@ -2270,9 +2245,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T00:28:01-04:00",
+    "dcterms:modified": "2017-05-17T10:05:54-04:00",
     "type": "Dataset",
-    "version": "c9275a6cb9bc9e9e93fe3aef8d0b26229967e0d0"
+    "version": "f81ce50c148890a6252440843bb6ac4407587ea2"
   },
   {
     "@context": {
@@ -2301,8 +2276,7 @@
     ],
     "name": "CRCNS.org pfc-3",
     "sameAs": "10.6080/K0ZW1HVD",
-    "title": "Single-neuron spike train recordings from macaque prefrontal cortex during a visual working memory task before and after training.",
-    "type": "Dataset/Neurophysiology"
+    "title": "Single-neuron spike train recordings from macaque prefrontal cortex during a visual working memory task before and after training."
   },
   {
     "@context": {
@@ -2338,9 +2312,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T00:52:37-04:00",
+    "dcterms:modified": "2017-05-17T10:05:56-04:00",
     "type": "Dataset",
-    "version": "de291130257c7ba6f71225b57c8a0f71dabaeabc"
+    "version": "988a56ff118b71107b30be34f68a7c343d973797"
   },
   {
     "@context": {
@@ -2370,8 +2344,7 @@
     ],
     "name": "CRCNS.org pfc-4",
     "sameAs": "10.6080/K0V40S4D",
-    "title": "Single-neuron spike train recordings from macaque prefrontal cortex during a somatosensory working memory task.",
-    "type": "Dataset/Neurophysiology"
+    "title": "Single-neuron spike train recordings from macaque prefrontal cortex during a somatosensory working memory task."
   },
   {
     "@context": {
@@ -2407,9 +2380,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T02:19:21-04:00",
+    "dcterms:modified": "2017-05-17T10:06:23-04:00",
     "type": "Dataset",
-    "version": "00f08f6e4531c3ba3a8f8c7dae13294a0355d844"
+    "version": "ae11fb3d8aae7df8683e938dd8bfff2bfeae38f9"
   },
   {
     "@context": {
@@ -2438,8 +2411,7 @@
     ],
     "name": "CRCNS.org pvc-1",
     "sameAs": "10.6080/K0WD3XH6",
-    "title": "Single- and multi-unit recordings from monkey primary visual cortex",
-    "type": "Dataset/Neurophysiology"
+    "title": "Single- and multi-unit recordings from monkey primary visual cortex"
   },
   {
     "@context": {
@@ -2475,9 +2447,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T00:54:38-04:00",
+    "dcterms:modified": "2017-05-17T10:06:24-04:00",
     "type": "Dataset",
-    "version": "669c466790b5d4d8e45d0b56eae187c4123bf0af"
+    "version": "97c7c52f983638be88d8c7e9a1fc47a2ea5181ca"
   },
   {
     "@context": {
@@ -2507,8 +2479,7 @@
     ],
     "name": "CRCNS.org pvc-10",
     "sameAs": "10.6080/K0GT5K3V",
-    "title": "Disparity selectivity in mouse V1 measured using two-photon calcium imaging",
-    "type": "Dataset/Neurophysiology"
+    "title": "Disparity selectivity in mouse V1 measured using two-photon calcium imaging"
   },
   {
     "@context": {
@@ -2544,9 +2515,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T00:54:00-04:00",
+    "dcterms:modified": "2017-05-17T10:06:28-04:00",
     "type": "Dataset",
-    "version": "d2dcc7328bc74e298fb6e8f5ef62898a94f3cfd9"
+    "version": "209dafc34a86b70a9c16add0ced1a129c8f407a4"
   },
   {
     "@context": {
@@ -2573,8 +2544,7 @@
     ],
     "name": "CRCNS.org pvc-2",
     "sameAs": "10.6080/K0RN35SV",
-    "title": "Extracellular recording from cells in cat primary visual cortex",
-    "type": "Dataset/Neurophysiology"
+    "title": "Extracellular recording from cells in cat primary visual cortex"
   },
   {
     "@context": {
@@ -2610,9 +2580,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T00:54:54-04:00",
+    "dcterms:modified": "2017-05-17T10:06:29-04:00",
     "type": "Dataset",
-    "version": "4155c1a1526f58f01df335790a033b865a6ab29c"
+    "version": "e5d206f5f87df8e7dbebacf695875d72e1ef40bc"
   },
   {
     "@context": {
@@ -2638,8 +2608,7 @@
     ],
     "name": "CRCNS.org pvc-3",
     "sameAs": "10.6080/K0MW2F2J",
-    "title": "Multi-neuron recordings in primary visual cortex",
-    "type": "Dataset/Neurophysiology"
+    "title": "Multi-neuron recordings in primary visual cortex"
   },
   {
     "@context": {
@@ -2675,9 +2644,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T00:56:47-04:00",
+    "dcterms:modified": "2017-05-17T10:06:31-04:00",
     "type": "Dataset",
-    "version": "fbfcc152878ed454d797b8d643a2fd996ce849f2"
+    "version": "bbd327c3e7afd1f73e4627529c4c67b668468b2c"
   },
   {
     "@context": {
@@ -2705,8 +2674,7 @@
     ],
     "name": "CRCNS.org pvc-4",
     "sameAs": "10.6080/K0CC0XMD",
-    "title": "Single electrode recordings from primary visual cortex",
-    "type": "Dataset/Neurophysiology"
+    "title": "Single electrode recordings from primary visual cortex"
   },
   {
     "@context": {
@@ -2742,9 +2710,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T00:55:45-04:00",
+    "dcterms:modified": "2017-05-17T10:06:32-04:00",
     "type": "Dataset",
-    "version": "086652ec516cfb1f0031d35cc6f0b55dfafecc78"
+    "version": "799b958c38d9dcacba8df2857dc8df2771f8d946"
   },
   {
     "@context": {
@@ -2772,8 +2740,7 @@
     ],
     "name": "CRCNS.org pvc-5",
     "sameAs": "10.6080/K0J1012K",
-    "title": "Multi-electrode recordings of ongoing activity  and responses to parametric stimuli in macaque V1.",
-    "type": "Dataset/Neurophysiology"
+    "title": "Multi-electrode recordings of ongoing activity  and responses to parametric stimuli in macaque V1."
   },
   {
     "@context": {
@@ -2809,9 +2776,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T09:16:02-04:00",
+    "dcterms:modified": "2017-05-17T10:06:34-04:00",
     "type": "Dataset",
-    "version": "e65e53726dcc815228313192ad0d7df684ee46a8"
+    "version": "ced1b258900bb4b7a326d1762864b44f20c96c1f"
   },
   {
     "@context": {
@@ -2837,8 +2804,7 @@
     ],
     "name": "CRCNS.org pvc-6",
     "sameAs": "10.6080/K0H12ZXD",
-    "title": "In vitro whole-cell patch clamp recordings from visual cortex neurons in the adult mouse.",
-    "type": "Dataset/Neurophysiology"
+    "title": "In vitro whole-cell patch clamp recordings from visual cortex neurons in the adult mouse."
   },
   {
     "@context": {
@@ -2874,9 +2840,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T09:18:09-04:00",
+    "dcterms:modified": "2017-05-17T10:06:35-04:00",
     "type": "Dataset",
-    "version": "b5795331e3944fc37bde7be62e7504d0e590a553"
+    "version": "3cf29b956d65bb02afca5be314f237154541f964"
   },
   {
     "@context": {
@@ -2902,8 +2868,7 @@
     ],
     "name": "CRCNS.org pvc-7",
     "sameAs": "10.6080/K0C8276G",
-    "title": "In vivo calcium imaging of layer 4 cells in the mouse using sinusoidal grating stimuli",
-    "type": "Dataset/Neurophysiology"
+    "title": "In vivo calcium imaging of layer 4 cells in the mouse using sinusoidal grating stimuli"
   },
   {
     "@context": {
@@ -2939,9 +2904,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T09:30:41-04:00",
+    "dcterms:modified": "2017-05-17T10:06:37-04:00",
     "type": "Dataset",
-    "version": "17dd68b218fb5485b87780ae95cd310e7a3e6881"
+    "version": "30eec9a8f6e3ff5c14633885d831a9bb603b25c2"
   },
   {
     "@context": {
@@ -2968,8 +2933,7 @@
     ],
     "name": "CRCNS.org pvc-8",
     "sameAs": "10.6080/K0SB43P8",
-    "title": "Multi-electrode recordings of anesthetized macaque V1 responses to static natural images and gratings",
-    "type": "Dataset/Neurophysiology"
+    "title": "Multi-electrode recordings of anesthetized macaque V1 responses to static natural images and gratings"
   },
   {
     "@context": {
@@ -3005,9 +2969,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T00:57:23-04:00",
+    "dcterms:modified": "2017-05-17T10:06:38-04:00",
     "type": "Dataset",
-    "version": "a707fd7f49ae7f22ca9d21600793118f32427f76"
+    "version": "c108f6c4632c28e75f0c90b9b3bdb0bdea6e4768"
   },
   {
     "@context": {
@@ -3037,8 +3001,7 @@
     ],
     "name": "CRCNS.org pvc-9",
     "sameAs": "10.6080/K00V89R6",
-    "title": "Patch-clamp recordings from layer 4 pyramidal cells in guinea pig V1 acute slices showing synaptic plasticity induced by paired extracellular stimulation and spiking under both normal conditions and pharmacological GABAA blockage.",
-    "type": "Dataset/Neurophysiology"
+    "title": "Patch-clamp recordings from layer 4 pyramidal cells in guinea pig V1 acute slices showing synaptic plasticity induced by paired extracellular stimulation and spiking under both normal conditions and pharmacological GABAA blockage."
   },
   {
     "@context": {
@@ -3074,9 +3037,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T00:56:17-04:00",
+    "dcterms:modified": "2017-05-17T10:06:40-04:00",
     "type": "Dataset",
-    "version": "d9136c837e6af3ca51085b9a3fa0963785fbb05c"
+    "version": "e5727be72e2c17a34657c78636db28bf2b0f0200"
   },
   {
     "@context": {
@@ -3105,8 +3068,7 @@
     ],
     "name": "CRCNS.org ret-1",
     "sameAs": "10.6080/K0RF5RZT",
-    "title": "Multi-electrode recordings from retinal ganglion cells",
-    "type": "Dataset/Neurophysiology"
+    "title": "Multi-electrode recordings from retinal ganglion cells"
   },
   {
     "@context": {
@@ -3142,9 +3104,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T02:15:24-04:00",
+    "dcterms:modified": "2017-05-17T10:07:04-04:00",
     "type": "Dataset",
-    "version": "facafb5a90543d1052c1d8bd143760e374ed10c1"
+    "version": "1f3a0ab5ac3c14d922b59fa750a8ca843c3c2e8d"
   },
   {
     "@context": {
@@ -3177,8 +3139,7 @@
     ],
     "name": "CRCNS.org sim-1",
     "sameAs": "10.6080/K05H7D60",
-    "title": "Simulation results from full scale and rationally reduced network models of the isolated hippocampal CA1 subfield in rat",
-    "type": "Dataset/Neurophysiology"
+    "title": "Simulation results from full scale and rationally reduced network models of the isolated hippocampal CA1 subfield in rat"
   },
   {
     "@context": {
@@ -3214,9 +3175,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T03:05:25-04:00",
+    "dcterms:modified": "2017-05-17T10:07:09-04:00",
     "type": "Dataset",
-    "version": "1e9cd7f6b6af9bedcdad70db20f1b83745a26a71"
+    "version": "a5dbf25ac509e3acb66dcf73889bc17eacdb2d89"
   },
   {
     "@context": {
@@ -3246,8 +3207,7 @@
     ],
     "name": "CRCNS.org ssc-1",
     "sameAs": "10.6080/K000001D",
-    "title": "Calcium imaging data from vibrissal S1 neurons in adult mice performing a pole localization task.",
-    "type": "Dataset/Neurophysiology"
+    "title": "Calcium imaging data from vibrissal S1 neurons in adult mice performing a pole localization task."
   },
   {
     "@context": {
@@ -3283,9 +3243,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T03:52:42-04:00",
+    "dcterms:modified": "2017-05-17T10:07:13-04:00",
     "type": "Dataset",
-    "version": "38bc48c3970907f19a66e1ca4721733eb0bc5b98"
+    "version": "2a263eaec0951e0ed591c6bb23c6f150cf4d1339"
   },
   {
     "@context": {
@@ -3316,8 +3276,7 @@
     ],
     "name": "CRCNS.org ssc-2",
     "sameAs": "10.6080/K0TB14TN",
-    "title": "Volumetric calcium imaging data recorded during performance of a single whisker object localization task, sampling activity in the majority of the relevant superficial barrel cortex neurons (75 %, 12,000 neurons per mouse).",
-    "type": "Dataset/Neurophysiology"
+    "title": "Volumetric calcium imaging data recorded during performance of a single whisker object localization task, sampling activity in the majority of the relevant superficial barrel cortex neurons (75 %, 12,000 neurons per mouse)."
   },
   {
     "@context": {
@@ -3353,9 +3312,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T00:58:01-04:00",
+    "dcterms:modified": "2017-05-17T10:07:15-04:00",
     "type": "Dataset",
-    "version": "815e66895ee181db642e91b80a93d85df4d868e5"
+    "version": "a35695d197298747ac657a0d4c2c6c0bb702ff1a"
   },
   {
     "@context": {
@@ -3386,8 +3345,7 @@
     ],
     "name": "CRCNS.org ssc-3",
     "sameAs": "10.6080/K07D2S2F",
-    "title": "Spontaneous spiking activity of hundreds of neurons in mouse somatosensory cortex slice cultures recorded using a dense 512 electrode array.",
-    "type": "Dataset/Neurophysiology"
+    "title": "Spontaneous spiking activity of hundreds of neurons in mouse somatosensory cortex slice cultures recorded using a dense 512 electrode array."
   },
   {
     "@context": {
@@ -3423,9 +3381,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T04:32:07-04:00",
+    "dcterms:modified": "2017-05-17T10:07:23-04:00",
     "type": "Dataset",
-    "version": "2f05197761b879c42d6525a6b3c98359d4651931"
+    "version": "c013d8327f30e91e13fa533798badc57bd5e37bb"
   },
   {
     "@context": {
@@ -3454,8 +3412,7 @@
     ],
     "name": "CRCNS.org th-1",
     "sameAs": "10.6080/K0G15XS1",
-    "title": "Extracellular recordings from multi-site silicon probes in the anterior thalamus and subicular formation of freely moving mice.",
-    "type": "Dataset/Neurophysiology"
+    "title": "Extracellular recordings from multi-site silicon probes in the anterior thalamus and subicular formation of freely moving mice."
   },
   {
     "@context": {
@@ -3491,9 +3448,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T01:34:47-04:00",
+    "dcterms:modified": "2017-05-17T10:07:25-04:00",
     "type": "Dataset",
-    "version": "d8da836712ba3fdc5aa8283edd5c9d20a4cf824b"
+    "version": "22c645b2b4e1bea3525f86a1027af603acf7582a"
   },
   {
     "@context": {
@@ -3521,8 +3478,7 @@
     ],
     "name": "CRCNS.org v2-1",
     "sameAs": "10.6080/K07P8W9V",
-    "title": "Extracellular recordings from area V2 of awake behaving rhesus monkey",
-    "type": "Dataset/Neurophysiology"
+    "title": "Extracellular recordings from area V2 of awake behaving rhesus monkey"
   },
   {
     "@context": {
@@ -3558,9 +3514,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T01:12:59-04:00",
+    "dcterms:modified": "2017-05-17T10:07:27-04:00",
     "type": "Dataset",
-    "version": "87228a18c6fc5ec7f30d816639ce93131ce55cc3"
+    "version": "544a27a6659a70bd6c6183f3520933af3d5ff7bc"
   },
   {
     "@context": {
@@ -3592,8 +3548,7 @@
     ],
     "name": "CRCNS.org vim-1",
     "sameAs": "10.6080/K0QN64NG",
-    "title": "fMRI of human visual areas in response to natural images",
-    "type": "Dataset/Neurophysiology"
+    "title": "fMRI of human visual areas in response to natural images"
   },
   {
     "@context": {
@@ -3629,9 +3584,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T01:33:05-04:00",
+    "dcterms:modified": "2017-05-17T10:07:31-04:00",
     "type": "Dataset",
-    "version": "f1fc517b390e7e92495450e1bc6299e5d6acc481"
+    "version": "cceedacacb6204e14b4f2596771616375d16a26d"
   },
   {
     "@context": {
@@ -3665,8 +3620,7 @@
     ],
     "name": "CRCNS.org vim-2",
     "sameAs": "10.6080/K00Z715X",
-    "title": "Gallant Lab Natural Movie 4T fMRI Data",
-    "type": "Dataset/Neurophysiology"
+    "title": "Gallant Lab Natural Movie 4T fMRI Data"
   },
   {
     "@context": {
@@ -3702,9 +3656,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T01:22:45-04:00",
+    "dcterms:modified": "2017-05-17T10:07:32-04:00",
     "type": "Dataset",
-    "version": "a1336d585e904160f95c10034bd5ceaaeed51e3c"
+    "version": "426e66bd92055b7cc71e06609c5589a8dddad5eb"
   },
   {
     "@context": {
@@ -3731,8 +3685,7 @@
     ],
     "name": "CRCNS.org vim-3",
     "sameAs": "10.6080/K0JS9NC2",
-    "title": "fMRI responses of human visual cortex (v1, v2, v3) to natural image patches obtained from above and below the centre of gaze of an observer freely-navigating an outdoor environment.",
-    "type": "Dataset/Neurophysiology"
+    "title": "fMRI responses of human visual cortex (v1, v2, v3) to natural image patches obtained from above and below the centre of gaze of an observer freely-navigating an outdoor environment."
   },
   {
     "@context": {
@@ -3910,9 +3863,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T00:57:57-04:00",
+    "dcterms:modified": "2017-05-17T10:05:58-04:00",
     "type": "Dataset",
-    "version": "193490a245d287573f1ee21121b2c1417a83300f"
+    "version": "179ec7e8e43081e79c00996da33967a3054388b8"
   },
   {
     "@context": {
@@ -3943,8 +3896,7 @@
     ],
     "name": "CRCNS.org ppc-1",
     "sameAs": "10.6080/K0CZ353K",
-    "title": "Multimodal spike data recorded from posterior parietal cortex of non-human primates  performing a reaction-time task involving combined eye and arm movements while in  a virtual reality environment.",
-    "type": "Dataset/Neurophysiology"
+    "title": "Multimodal spike data recorded from posterior parietal cortex of non-human primates  performing a reaction-time task involving combined eye and arm movements while in  a virtual reality environment."
   },
   {
     "@context": {
@@ -3980,9 +3932,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T01:19:33-04:00",
+    "dcterms:modified": "2017-05-17T10:07:20-04:00",
     "type": "Dataset",
-    "version": "1ca1b8e540fc10a01d49d1e2c3b58f4ff3a55a5a"
+    "version": "5c7dae16ab74d6d8d3a13a9f60fcd2504de7420d"
   },
   {
     "@context": {
@@ -4012,8 +3964,7 @@
     ],
     "name": "CRCNS.org ssc-6",
     "sameAs": "10.6080/K0T43R01",
-    "title": "Data related to: Layer 4 fast-spiking interneurons filter thalamocortical signals during active somatosensation.  Yu, Gutnisky, Hires, Svoboda, Nature Neurosci. 2016.",
-    "type": "Dataset/Neurophysiology"
+    "title": "Data related to: Layer 4 fast-spiking interneurons filter thalamocortical signals during active somatosensation.  Yu, Gutnisky, Hires, Svoboda, Nature Neurosci. 2016."
   },
   {
     "@context": {
@@ -4049,9 +4000,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T00:53:04-04:00",
+    "dcterms:modified": "2017-05-17T10:05:14-04:00",
     "type": "Dataset",
-    "version": "710e93efcdc79d70aebed9f8c97c4ca6a07ef3fa"
+    "version": "12bd7482d3e4cebf07a64afc6ba06f6d0d26377f"
   },
   {
     "@context": {
@@ -4080,8 +4031,7 @@
     ],
     "name": "CRCNS.org hc-12",
     "sameAs": "10.6080/K0R49NQV",
-    "title": "Extracellular recordings from monkey hippocampus performing a virtual navigation task",
-    "type": "Dataset/Neurophysiology"
+    "title": "Extracellular recordings from monkey hippocampus performing a virtual navigation task"
   },
   {
     "@context": {
@@ -4117,9 +4067,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T00:42:36-04:00",
+    "dcterms:modified": "2017-05-17T10:05:11-04:00",
     "type": "Dataset",
-    "version": "5b8fc2d76b163cfb595a89d6005ec08a6ace74af"
+    "version": "99931bd02b93750eb9f1d64d1d5805e7f2b16e26"
   },
   {
     "@context": {
@@ -4151,8 +4101,7 @@
     ],
     "name": "CRCNS.org hc-10",
     "sameAs": "10.6080/K00P0WXQ",
-    "title": "Intracellular, in vitro somatic membrane potential recordings from whole cell patch clamped rodent hippocampal CA1 neurons.",
-    "type": "Dataset/Neurophysiology"
+    "title": "Intracellular, in vitro somatic membrane potential recordings from whole cell patch clamped rodent hippocampal CA1 neurons."
   },
   {
     "@context": {
@@ -4188,9 +4137,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T03:09:22-04:00",
+    "dcterms:modified": "2017-05-17T10:05:13-04:00",
     "type": "Dataset",
-    "version": "783208b20ae060f6ebcefe8570f73bb1dd84b4ea"
+    "version": "2de539554f6afd298c5102b7560fc5ea4d007f83"
   },
   {
     "@context": {
@@ -4219,8 +4168,7 @@
     ],
     "name": "CRCNS.org hc-11",
     "sameAs": "10.6080/K0862DC5",
-    "title": "Recordings from hippocampal area CA1, PRE, during and POST novel spatial learning.",
-    "type": "Dataset/Neurophysiology"
+    "title": "Recordings from hippocampal area CA1, PRE, during and POST novel spatial learning."
   },
   {
     "@context": {
@@ -4256,9 +4204,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T00:56:48-04:00",
+    "dcterms:modified": "2017-05-17T10:05:34-04:00",
     "type": "Dataset",
-    "version": "033d0934fd1594fed3fa84b51c2b8fb3a9e8f0de"
+    "version": "314d92cff664380c109821e0c814759f784147c8"
   },
   {
     "@context": {
@@ -4287,8 +4235,7 @@
     ],
     "name": "CRCNS.org hc-7",
     "sameAs": "10.6080/K0MK69T5",
-    "title": "Temporal properties of mouse hippocampal CA3 area PV and CCK inhibitory neuron transmission measured by physiologically relevant action potential sequences.",
-    "type": "Dataset/Neurophysiology"
+    "title": "Temporal properties of mouse hippocampal CA3 area PV and CCK inhibitory neuron transmission measured by physiologically relevant action potential sequences."
   },
   {
     "@context": {
@@ -4324,9 +4271,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T00:37:30-04:00",
+    "dcterms:modified": "2017-05-17T10:05:36-04:00",
     "type": "Dataset",
-    "version": "389af6118dc7216df128535d58e5c34025587e95"
+    "version": "e0b081dc3e8eb35f91efb20de429a8a2a7208180"
   },
   {
     "@context": {
@@ -4357,8 +4304,7 @@
     ],
     "name": "CRCNS.org hc-8",
     "sameAs": "10.6080/K0PC308P",
-    "title": "Spontaneous spiking activity of thousands of neurons in rat hippocampal dissociated cultures.",
-    "type": "Dataset/Neurophysiology"
+    "title": "Spontaneous spiking activity of thousands of neurons in rat hippocampal dissociated cultures."
   },
   {
     "@context": {
@@ -4394,9 +4340,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T00:43:09-04:00",
+    "dcterms:modified": "2017-05-17T10:05:37-04:00",
     "type": "Dataset",
-    "version": "783a8d462913691d5c081ff4943497522594d46d"
+    "version": "66d7eb31c190e95ad2bc87c0246a90c828754f76"
   },
   {
     "@context": {
@@ -4425,8 +4371,7 @@
     ],
     "name": "CRCNS.org hc-9",
     "sameAs": "10.6080/K0HQ3WTH",
-    "title": "Firing pattern of O-LM cells in mouse hippocampal CA1",
-    "type": "Dataset/Neurophysiology"
+    "title": "Firing pattern of O-LM cells in mouse hippocampal CA1"
   },
   {
     "@context": {
@@ -4462,9 +4407,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T00:58:33-04:00",
+    "dcterms:modified": "2017-05-17T10:07:21-04:00",
     "type": "Dataset",
-    "version": "621958fddfb42909eae123339197a0d79b7e4d17"
+    "version": "0472c855df1c77385d8c61ad82f6697b1b5570b5"
   },
   {
     "@context": {
@@ -4501,8 +4446,7 @@
     ],
     "name": "CRCNS.org tes-1",
     "sameAs": "10.6080/K0XW4GQ1",
-    "title": "Recordings of electrical potentials in the in vivo human brain induced by transcranial electrical stimulation",
-    "type": "Dataset/Neurophysiology"
+    "title": "Recordings of electrical potentials in the in vivo human brain induced by transcranial electrical stimulation"
   },
   {
     "@context": {
@@ -4538,9 +4482,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T00:59:21-04:00",
+    "dcterms:modified": "2017-05-17T10:07:18-04:00",
     "type": "Dataset",
-    "version": "4da700458ce86a83f11efdd5426d74926466e6fb"
+    "version": "18bd7b629da55d69d121b6615b8828e54d666da7"
   },
   {
     "@context": {
@@ -4569,8 +4513,7 @@
     ],
     "name": "CRCNS.org ssc-5",
     "sameAs": "10.6080/K0MG7MDV",
-    "title": "Juxtacellular recordings from primary somatosensory cortex (vS1) neurons of adult mice  performing whisker-mediated object localization.",
-    "type": "Dataset/Neurophysiology"
+    "title": "Juxtacellular recordings from primary somatosensory cortex (vS1) neurons of adult mice  performing whisker-mediated object localization."
   },
   {
     "@context": {
@@ -4606,9 +4549,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T09:26:02-04:00",
+    "dcterms:modified": "2017-05-17T10:07:16-04:00",
     "type": "Dataset",
-    "version": "59613d3490c7dabee3b1f6a419f34b239379deab"
+    "version": "c6bb407b6af7d597957f8dfd0b715a05ec5da979"
   },
   {
     "@context": {
@@ -4640,8 +4583,7 @@
     ],
     "name": "CRCNS.org ssc-4",
     "sameAs": "10.6080/K06D5QXN",
-    "title": "Extracellular recordings in rat barrel cortex during a whisker based discrimination task of tactile stimuli that  varied in whisker deflection speed at short and fast time scales.",
-    "type": "Dataset/Neurophysiology"
+    "title": "Extracellular recordings in rat barrel cortex during a whisker based discrimination task of tactile stimuli that  varied in whisker deflection speed at short and fast time scales."
   },
   {
     "@context": {
@@ -4677,9 +4619,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-16T23:59:40-04:00",
+    "dcterms:modified": "2017-05-17T10:04:56-04:00",
     "type": "Dataset",
-    "version": "73b65316bfddd5e2f9da92fd5dc831d07f62a717"
+    "version": "4aea3c787fb3c7290c5e6c3bc96fe743d0148f36"
   },
   {
     "@context": {
@@ -4710,8 +4652,7 @@
     ],
     "name": "CRCNS.org am-3",
     "sameAs": "10.6080/K01N7Z2Z",
-    "title": "Single-unit extracellular recordings of projection neurons in the premotor cortical area HVC of juvenile male zebra finches during singing.",
-    "type": "Dataset/Neurophysiology"
+    "title": "Single-unit extracellular recordings of projection neurons in the premotor cortical area HVC of juvenile male zebra finches during singing."
   },
   {
     "@context": {
@@ -4747,9 +4688,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T04:17:57-04:00",
+    "dcterms:modified": "2017-05-17T10:04:45-04:00",
     "type": "Dataset",
-    "version": "2e904ccd4bdbc9d60be1bdfaa8d1187b7e52beed"
+    "version": "12e89d12fdd047a8116574862a115339d218ec5a"
   },
   {
     "@context": {
@@ -4780,8 +4721,7 @@
     ],
     "name": "CRCNS.org alm-3",
     "sameAs": "10.6080/K0RB72JW",
-    "title": "Data and simulations related to: Robust neuronal dynamics in premotor cortex during motor planning. Li, Daie, Svoboda, Druckman, Nature 2016.",
-    "type": "Dataset/Neurophysiology"
+    "title": "Data and simulations related to: Robust neuronal dynamics in premotor cortex during motor planning. Li, Daie, Svoboda, Druckman, Nature 2016."
   },
   {
     "@context": {
@@ -4817,9 +4757,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T00:53:46-04:00",
+    "dcterms:modified": "2017-05-17T10:06:26-04:00",
     "type": "Dataset",
-    "version": "c29de6c52b0d1bf35aeefce1659ad4e7b8062615"
+    "version": "5124e0d0ac3f52273c81ea12cc004908f2588081"
   },
   {
     "@context": {
@@ -4845,8 +4785,7 @@
     ],
     "name": "CRCNS.org pvc-11",
     "sameAs": "10.6080/K0NC5Z4X",
-    "title": "Utah array extracellular recordings of spontaneous and visually evoked activity from anesthetized macaque primary visual cortex (V1).",
-    "type": "Dataset/Neurophysiology"
+    "title": "Utah array extracellular recordings of spontaneous and visually evoked activity from anesthetized macaque primary visual cortex (V1)."
   },
   {
     "@context": {
@@ -4878,9 +4817,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-16T18:19:11-04:00",
+    "dcterms:modified": "2017-05-17T10:04:22-04:00",
     "type": "Dataset",
-    "version": "77008cb427e064c31bed75e20601d5cdba25df44"
+    "version": "b4a6cbc0397e8749705c5c5bf8da96e0e224970b"
   },
   {
     "@context": {
@@ -4910,8 +4849,7 @@
     ],
     "name": "CRCNS.org aa-3",
     "sameAs": "10.6080/K0GQ6VP4",
-    "title": "Behavioral and electrophysiological studies of the avian thalamic song nucleus Uvaeformis including multiunit recordings in awake, behaving birds and song recordings from adult birds pre- and post-lesion of Uva.",
-    "type": "Dataset/Neurophysiology"
+    "title": "Behavioral and electrophysiological studies of the avian thalamic song nucleus Uvaeformis including multiunit recordings in awake, behaving birds and song recordings from adult birds pre- and post-lesion of Uva."
   },
   {
     "@context": {
