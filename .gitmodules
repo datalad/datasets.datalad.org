@@ -31,3 +31,6 @@
 [submodule "hbnssi"]
 	path = hbnssi
 	url = ./hbnssi
+[submodule "corr"]
+	path = corr
+	url = ./corr
