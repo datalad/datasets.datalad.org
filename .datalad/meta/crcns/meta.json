@@ -7,9 +7,9 @@
     "@id": "76a53362-7ae6-11e6-a6c8-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2017-05-17T10:07:43-04:00",
+    "dcterms:modified": "2017-05-23T08:47:47-04:00",
     "type": "Dataset",
-    "version": "e7a51a2940d5aa1b30cb4a2889cd82d193696b4a"
+    "version": "2268f655d10977ff09b5867e8eac8cb0979f82fb"
   },
   {
     "@context": {
@@ -3825,9 +3825,46 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-04-13T13:33:56-04:00",
+    "dcterms:modified": "2017-05-18T09:15:12-04:00",
     "type": "Dataset",
-    "version": "655ac536b67fd70f944b0cc44aa1dba60f7070ac"
+    "version": "e2b5f8616bdf26f00769a4c57abcd8171974a50b"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "ca988f7e-ab96-11e6-85b3-002590f97d84",
+    "author": [
+      "Berens, P",
+      "Theis, L.",
+      "Froudarakis, E.",
+      "Reimer, J.",
+      "Rosón, M. R.",
+      "Baden, T.",
+      "Euler T.",
+      "Tolias, A.S.",
+      "Bethge, M."
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "description": "This dataset provides data from N=50 neurons measured simultaneously using two-photon calcium imaging and electrophysiology in the mouse retina and visual cortex using different recording techniques, scanning rates and indicators. Importantly, all data has been acquired under typical population recording conditions in anesthetized and awake animals.  This dataset has been assembled for benchmarking spike inference algorithms described in: Theis, L., Berens, P., Froudarakis, E., Reimer, J., Rosón, M. R., Baden, T., Euler T., Tolias, A.S. and Bethge, M. (2016). Benchmarking spike rate inference in population calcium imaging. Neuron, 90(3), 471-482. doi: http://dx.doi.org/10.1016/j.neuron.2016.04.014",
+    "doap:Version": "1.0",
+    "doap:shortdesc": "Simultaneous two-photon imaging and electrophysiological recordings from neurons in the mouse retina and primary visual cortex using OGB and GCamp6",
+    "formats": [
+      "application/matlab",
+      "application/python"
+    ],
+    "keywords": [
+      "Neuroscience",
+      "Electrophysiology",
+      "retina",
+      "visual cortex",
+      "mice (Mus Musculus)",
+      "two-photon imaging"
+    ],
+    "name": "CRCNS.org cai-3",
+    "sameAs": "10.6080/K05D8PS8",
+    "title": "Simultaneous two-photon imaging and electrophysiological recordings from neurons in the mouse retina and primary visual cortex using OGB and GCamp6"
   },
   {
     "@context": {
@@ -4807,6 +4844,10 @@
         "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/aa-3"
       },
       {
+        "@id": "79fa140f-5834-45cc-a405-7ab8f831b076",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/crcns/aa-3"
+      },
+      {
         "@id": "c04eb54b-4b4e-5755-8436-866b043170fa",
         "description": "datalad-archives"
       },
@@ -4817,9 +4858,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T10:04:22-04:00",
+    "dcterms:modified": "2017-05-18T09:16:57-04:00",
     "type": "Dataset",
-    "version": "b4a6cbc0397e8749705c5c5bf8da96e0e224970b"
+    "version": "b07df59b6b23a4c84120b42cabb9ba7d4b1b73b9"
   },
   {
     "@context": {
