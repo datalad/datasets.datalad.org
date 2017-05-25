@@ -1,0 +1,39 @@
+[
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "c4536ea0-4154-11e7-8061-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
+    "dcterms:modified": "2017-05-25T10:20:09-04:00",
+    "type": "Dataset",
+    "version": "cc5f3e1eb7e8e25eeb935e0609445e650f453c1e"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "c4536ea0-4154-11e7-8061-002590f97d84",
+    "author": "The DataLad Team",
+    "dcterms:conformsTo": [
+      "http://specs.frictionlessdata.io/data-packages",
+      "http://docs.datalad.org/metadata.html#v0-1"
+    ],
+    "keywords": [
+      "devel"
+    ],
+    "name": "DataLad-devel",
+    "title": "Various datasets used for development"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "c4536ea0-4154-11e7-8061-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  }
+]

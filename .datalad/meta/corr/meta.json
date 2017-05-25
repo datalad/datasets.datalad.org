@@ -5,15 +5,21 @@
       "doap": "http://usefulinc.com/ns/doap#"
     },
     "@id": "8feac8e0-2c30-11e7-aa9b-002590f97d84",
-    "availableFrom": {
-      "@id": "6758c0f2-e227-4b08-9436-4faffeae28a2",
-      "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl-misc/indi/corr"
-    },
+    "availableFrom": [
+      {
+        "@id": "6758c0f2-e227-4b08-9436-4faffeae28a2",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl-misc/indi/corr"
+      },
+      {
+        "@id": "cd8281f8-4b23-48de-a71d-f281045f92dd",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/corr"
+      }
+    ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2017-05-24T13:16:46-04:00",
+    "dcterms:modified": "2017-05-25T11:29:04-04:00",
     "type": "Dataset",
-    "version": "018d9a0679c72720052d52b87e52e75958c1abae"
+    "version": "5680b6775c28aeedc65a227fed67a8096962f4d0"
   },
   {
     "@context": {
