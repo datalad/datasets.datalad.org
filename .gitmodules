@@ -34,3 +34,6 @@
 [submodule "corr"]
 	path = corr
 	url = ./corr
+[submodule "devel"]
+	path = devel
+	url = ./devel
