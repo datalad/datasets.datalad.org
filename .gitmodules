@@ -37,3 +37,6 @@
 [submodule "devel"]
 	path = devel
 	url = ./devel
+[submodule "adhd200"]
+	path = adhd200
+	url = ./adhd200
