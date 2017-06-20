@@ -7,9 +7,9 @@
     "@id": "76a53362-7ae6-11e6-a6c8-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2017-05-23T08:47:47-04:00",
+    "dcterms:modified": "2017-06-20T17:59:25-04:00",
     "type": "Dataset",
-    "version": "2268f655d10977ff09b5867e8eac8cb0979f82fb"
+    "version": "f70f9822a166ae7b3d2714f222ce0df265bae4d0"
   },
   {
     "@context": {
@@ -3969,9 +3969,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-05-17T10:07:20-04:00",
+    "dcterms:modified": "2017-06-01T22:52:42-04:00",
     "type": "Dataset",
-    "version": "5c7dae16ab74d6d8d3a13a9f60fcd2504de7420d"
+    "version": "82d858dc2d1a25fff9f6579f98b47d6885d4f118"
   },
   {
     "@context": {
@@ -3980,18 +3980,17 @@
     },
     "@id": "91953a60-1fa9-11e7-956e-002590f97d84",
     "author": [
-      "Jianing Yu",
-      "Diego Gutnisky",
-      "Samuel Andrew Hires",
-      "Karel Svoboda"
+      "Francisco J. Martini",
+      "Manuel Molano-Mazón",
+      "Miguel Maravall"
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
-    "description": "(This data is not yet available but will be sometime during 2017). This data set includes behavioral data, whole cell measurements of stellate cells and fast-spiking interneurons in L4, and silicon probe single unit measurements in VPM.",
+    "description": "The data contain 2-photon calcium population recordings of responses to controlled whisker stimulation in the barrel cortex of anesthetized mice. The aim was to investigate how neurons with sensitivity to different dynamic features of whisker stimuli are distributed locally across the barrel cortex. We found that nearby neurons represent diverse kinematic features, providing a rich population representation at the local scale. The results are compatible with randomly distributed selectivity to stimulus features, with no systematic additional map or ordering scheme superimposed upon the whisker map. Our data can be usefully contrasted to similar results in mouse visual and auditory cortex, and to data collected by other groups in the barrel cortex. Publication using the data: Interspersed Distribution of Selectivity to Kinematic Stimulus Features in Supragranular Layers of Mouse Barrel Cortex. Francisco J. Martini, Manuel Molano-Mazón and Miguel Maravall. Cerebral Cortex, 2017. DOI:10.1093/cercor/bhx019.",
     "doap:Version": "0.5",
-    "doap:shortdesc": "Data related to: Layer 4 fast-spiking interneurons filter thalamocortical signals during active somatosensation.  Yu, Gutnisky, Hires, Svoboda, Nature Neurosci. 2016.",
+    "doap:shortdesc": "Interspersed Distribution of Selectivity to Kinematic Stimulus Features in Supragranular Layers of Mouse Barrel Cortex.",
     "formats": [
-      "HDF5",
-      "NWB"
+      "TIFF",
+      "Matlab"
     ],
     "keywords": [
       "Neuroscience",
@@ -4000,8 +3999,8 @@
       "Mouse"
     ],
     "name": "CRCNS.org ssc-6",
-    "sameAs": "10.6080/K0T43R01",
-    "title": "Data related to: Layer 4 fast-spiking interneurons filter thalamocortical signals during active somatosensation.  Yu, Gutnisky, Hires, Svoboda, Nature Neurosci. 2016."
+    "sameAs": "10.6080/K02F7KCP",
+    "title": "Interspersed Distribution of Selectivity to Kinematic Stimulus Features in Supragranular Layers of Mouse Barrel Cortex."
   },
   {
     "@context": {

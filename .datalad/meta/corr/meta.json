@@ -60,12 +60,12 @@
         "location": "RawData"
       },
       {
-        "@id": "05f0c288-2c31-11e7-9d89-002590f97d84",
-        "location": "Resources"
-      },
-      {
         "@id": "51596e78-314a-11e7-8fe0-002590f97d84",
         "location": "RawDataBIDS"
+      },
+      {
+        "@id": "05f0c288-2c31-11e7-9d89-002590f97d84",
+        "location": "Resources"
       }
     ]
   },
@@ -2898,30 +2898,6 @@
       "@vocab": "http://schema.org/",
       "doap": "http://usefulinc.com/ns/doap#"
     },
-    "@id": "05f0c288-2c31-11e7-9d89-002590f97d84",
-    "availableFrom": {
-      "@id": "66a42ed9-ca78-4dc8-ab0a-dc74fff42097",
-      "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl-misc/indi/corr/Resources"
-    },
-    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
-    "dcterms:isPartOf": "8feac8e0-2c30-11e7-aa9b-002590f97d84",
-    "dcterms:modified": "2017-05-24T13:16:41-04:00",
-    "type": "Dataset",
-    "version": "e9e25a9f23d05b98b28d8b5b28ad32f1e843d799"
-  },
-  {
-    "@context": {
-      "@vocab": "http://schema.org/",
-      "doap": "http://usefulinc.com/ns/doap#"
-    },
-    "@id": "05f0c288-2c31-11e7-9d89-002590f97d84",
-    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
-  },
-  {
-    "@context": {
-      "@vocab": "http://schema.org/",
-      "doap": "http://usefulinc.com/ns/doap#"
-    },
     "@id": "51596e78-314a-11e7-8fe0-002590f97d84",
     "availableFrom": {
       "@id": "9a6985bf-e382-4f82-ba78-effb6e789364",
@@ -3921,6 +3897,30 @@
       "doap": "http://usefulinc.com/ns/doap#"
     },
     "@id": "c1bb5582-314a-11e7-ac1f-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "05f0c288-2c31-11e7-9d89-002590f97d84",
+    "availableFrom": {
+      "@id": "66a42ed9-ca78-4dc8-ab0a-dc74fff42097",
+      "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl-misc/indi/corr/Resources"
+    },
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "8feac8e0-2c30-11e7-aa9b-002590f97d84",
+    "dcterms:modified": "2017-05-24T13:16:41-04:00",
+    "type": "Dataset",
+    "version": "e9e25a9f23d05b98b28d8b5b28ad32f1e843d799"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "05f0c288-2c31-11e7-9d89-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
   }
 ]
