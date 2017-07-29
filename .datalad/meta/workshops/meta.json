@@ -7,9 +7,9 @@
     "@id": "4cef299e-0fc7-11e7-adc9-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2017-03-23T08:57:59-04:00",
+    "dcterms:modified": "2017-07-28T15:18:02-04:00",
     "type": "Dataset",
-    "version": "56259265472a5e9b4ad0e08f93be182d135210da"
+    "version": "526cd21eb9c9e2fb174e4e78fad9a311e9002797"
   },
   {
     "@context": {
@@ -18,11 +18,21 @@
     },
     "@id": "4cef299e-0fc7-11e7-adc9-002590f97d84",
     "dcterms:conformsTo": [
-      "http://docs.datalad.org/metadata.html#v0-1",
-      "http://bids.neuroimaging.io"
+      "http://specs.frictionlessdata.io/data-packages",
+      "http://docs.datalad.org/metadata.html#v0-1"
     ],
-    "license": "PDDL (dataset itself), subdatasets -- various",
-    "name": "Datasets for various workshops"
+    "license": [
+      {
+        "name": "ODC-PDDL-1.0",
+        "path": "http://opendatacommons.org/licenses/pddl/",
+        "title": "Open Data Commons Public Domain Dedication and License v1.0"
+      },
+      {
+        "title": "varying per each dataset"
+      }
+    ],
+    "name": "datalad-workshops",
+    "title": "Datasets for various workshops"
   },
   {
     "@context": {
@@ -44,9 +54,9 @@
     "@id": "15060a9a-0f7f-11e7-a58b-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "4cef299e-0fc7-11e7-adc9-002590f97d84",
-    "dcterms:modified": "2017-03-23T08:56:39-04:00",
+    "dcterms:modified": "2017-07-28T15:17:29-04:00",
     "type": "Dataset",
-    "version": "53a5b8f3278f8ea8b522d5dc60979ab05b8945dd"
+    "version": "c549e3046e0d3e77618d02095d64765185cc61df"
   },
   {
     "@context": {
@@ -59,11 +69,18 @@
       "Yaroslav O. Halchenko"
     ],
     "dcterms:conformsTo": [
-      "http://docs.datalad.org/metadata.html#v0-1",
-      "http://bids.neuroimaging.io"
+      "http://specs.frictionlessdata.io/data-packages",
+      "http://docs.datalad.org/metadata.html#v0-1"
     ],
-    "license": "PDDL",
-    "name": "NiPype 2017 (April) workshop"
+    "license": [
+      {
+        "name": "ODC-PDDL-1.0",
+        "path": "http://opendatacommons.org/licenses/pddl/",
+        "title": "Open Data Commons Public Domain Dedication and License v1.0"
+      }
+    ],
+    "name": "nipype-workshop-2017",
+    "title": "NiPype 2017 (April) workshop"
   },
   {
     "@context": {
@@ -71,6 +88,79 @@
       "doap": "http://usefulinc.com/ns/doap#"
     },
     "@id": "15060a9a-0f7f-11e7-a58b-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:hasPart": {
+      "@id": "2a0c3726-73c9-11e7-9bf3-002590f97d84",
+      "location": "nipype-2017/ds000114"
+    }
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "2a0c3726-73c9-11e7-9bf3-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "03030b7b-99e3-409b-a7ac-bdf8b7bb2ef4",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl-misc/nipype-workshop-2017/ds000114"
+      },
+      {
+        "@id": "135caf6c-5166-45e8-8d46-4ff5e08985b3",
+        "description": "datalad"
+      },
+      {
+        "@id": "1a7dad34-a60c-474d-9b2d-d792136beb81",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000114"
+      },
+      {
+        "@id": "30a3fc48-d8bf-4c77-9b0b-975a9008b2bb",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000114"
+      },
+      {
+        "@id": "4554a6aa-3346-4092-a88c-202f1681d95f",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/workshops/nipype-2017/ds000114"
+      },
+      {
+        "@id": "b2096681-bbfc-4e3a-a832-30d7bbf373a0",
+        "description": "datalad-archives"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "15060a9a-0f7f-11e7-a58b-002590f97d84",
+    "dcterms:modified": "2017-07-28T15:16:11-04:00",
+    "type": "Dataset",
+    "version": "a68d826ecd89ee86c2ab6500d6e831d4317bc449"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "2a0c3726-73c9-11e7-9bf3-002590f97d84",
+    "author": [
+      "Gorgolewski KJ",
+      "Storkey A",
+      "Bastin ME",
+      "Whittle IR",
+      "Wardlaw JM",
+      "Pernet CR",
+      "Ghosh S"
+    ],
+    "citation": "A test-retest fMRI dataset for motor, language and spatial attention functions, http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3641991/",
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io/bids_spec1.0.0rc2.pdf"
+    ],
+    "description": "This is just a subset of the original ds000114 distributed by openfmri (///openfmri/ds000114 on datalad) with FreeSurfer surfaces pre-computed",
+    "name": "ds114"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "2a0c3726-73c9-11e7-9bf3-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
   }
 ]

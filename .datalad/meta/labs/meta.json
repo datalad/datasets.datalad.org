@@ -7,9 +7,9 @@
     "@id": "72e7a148-7af4-11e6-af5a-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2017-06-20T17:51:06-04:00",
+    "dcterms:modified": "2017-07-29T02:40:32-04:00",
     "type": "Dataset",
-    "version": "d6dd295614b162e9d35150c6b8c4442420914566"
+    "version": "a85f1438c2cc55707aa23c4db7ad52bff8862a02"
   },
   {
     "@context": {
@@ -17,12 +17,7 @@
       "doap": "http://usefulinc.com/ns/doap#"
     },
     "@id": "72e7a148-7af4-11e6-af5a-002590f97d84",
-    "dcterms:conformsTo": [
-      "http://docs.datalad.org/metadata.html#v0-1",
-      "http://bids.neuroimaging.io"
-    ],
-    "license": "PDDL (dataset itself), subdatasets -- various",
-    "name": "Datasets from various labs"
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
   },
   {
     "@context": {
