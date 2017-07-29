@@ -1,2 +1,4 @@
 [datalad "dataset"]
 	id = 6d69ca68-7e85-11e6-904c-002590f97d84
+[metadata]
+	nativetype = frictionless_datapackage
