@@ -7,9 +7,9 @@
     "@id": "4cef299e-0fc7-11e7-adc9-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2017-07-28T15:18:02-04:00",
+    "dcterms:modified": "2017-07-29T22:53:14-04:00",
     "type": "Dataset",
-    "version": "526cd21eb9c9e2fb174e4e78fad9a311e9002797"
+    "version": "c4d8b1f0e51920edcd48314045d8e69d71747deb"
   },
   {
     "@context": {
@@ -41,10 +41,16 @@
     },
     "@id": "4cef299e-0fc7-11e7-adc9-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
-    "dcterms:hasPart": {
-      "@id": "15060a9a-0f7f-11e7-a58b-002590f97d84",
-      "location": "nipype-2017"
-    }
+    "dcterms:hasPart": [
+      {
+        "@id": "15060a9a-0f7f-11e7-a58b-002590f97d84",
+        "location": "nipype-2017"
+      },
+      {
+        "@id": "7f988eae-747a-11e7-abbe-002590f97d84",
+        "location": "nih-2017"
+      }
+    ]
   },
   {
     "@context": {
@@ -161,6 +167,96 @@
       "doap": "http://usefulinc.com/ns/doap#"
     },
     "@id": "2a0c3726-73c9-11e7-9bf3-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "7f988eae-747a-11e7-abbe-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "4cef299e-0fc7-11e7-adc9-002590f97d84",
+    "dcterms:modified": "2017-07-29T22:51:13-04:00",
+    "type": "Dataset",
+    "version": "0a7e709ea50ed240e7cec1b33a0233c33beb2ee6"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "7f988eae-747a-11e7-abbe-002590f97d84",
+    "author": [
+      "Satrajit Ghosh",
+      "Yaroslav O. Halchenko"
+    ],
+    "dcterms:conformsTo": [
+      "http://specs.frictionlessdata.io/data-packages",
+      "http://docs.datalad.org/metadata.html#v0-1"
+    ],
+    "license": [
+      {
+        "name": "ODC-PDDL-1.0",
+        "path": "http://opendatacommons.org/licenses/pddl/",
+        "title": "Open Data Commons Public Domain Dedication and License v1.0"
+      }
+    ],
+    "name": "nih-workshop-2017",
+    "title": "NIH workshop on reproducible neuroimaging 2017 (Aug)"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "7f988eae-747a-11e7-abbe-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:hasPart": {
+      "@id": "b130214a-7df7-11e6-887b-002590f97d84",
+      "location": "nih-2017/ds000114"
+    }
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "b130214a-7df7-11e6-887b-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "135caf6c-5166-45e8-8d46-4ff5e08985b3",
+        "description": "datalad"
+      },
+      {
+        "@id": "1a7dad34-a60c-474d-9b2d-d792136beb81",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000114"
+      },
+      {
+        "@id": "1c550dfc-7b39-4005-a056-13d3abc203b5",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/workshops/nih-workshop-2017/ds000114"
+      },
+      {
+        "@id": "30a3fc48-d8bf-4c77-9b0b-975a9008b2bb",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000114"
+      },
+      {
+        "@id": "b2096681-bbfc-4e3a-a832-30d7bbf373a0",
+        "description": "datalad-archives"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "7f988eae-747a-11e7-abbe-002590f97d84",
+    "dcterms:modified": "2017-07-29T22:51:13-04:00",
+    "type": "Dataset",
+    "version": "324ebf4382d421aa20848c25be796c5f8e67748e"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "b130214a-7df7-11e6-887b-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
   }
 ]
