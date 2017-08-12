@@ -1,0 +1,15 @@
+{
+  "name": "datalad-datasets",
+  "datapackage_version": "3",
+  "title": "The Ultimate DataLad collection of datasets",
+  "licenses": [{
+    "name": "ODC-PDDL-1.0",
+    "path": "http://opendatacommons.org/licenses/pddl/",
+    "title": "Open Data Commons Public Domain Dedication and License v1.0"
+   },
+   {
+    "title": "varying per each dataset"
+   }
+  ]
+}
+
