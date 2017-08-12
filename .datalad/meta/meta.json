@@ -14,6 +14,21 @@
       "doap": "http://usefulinc.com/ns/doap#"
     },
     "@id": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+    "dcterms:conformsTo": [
+      "http://specs.frictionlessdata.io/data-packages",
+      "http://docs.datalad.org/metadata.html#v0-1"
+    ],
+    "license": [
+      {
+        "name": "ODC-PDDL-1.0",
+        "path": "http://opendatacommons.org/licenses/pddl/",
+        "title": "Open Data Commons Public Domain Dedication and License v1.0"
+      },
+      {
+        "title": "varying per each dataset"
+      }
+    ],
+    "name": "datalad-datasets",
+    "title": "The Ultimate DataLad collection of datasets"
   }
 ]
