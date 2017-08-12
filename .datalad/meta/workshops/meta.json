@@ -7,9 +7,9 @@
     "@id": "4cef299e-0fc7-11e7-adc9-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2017-07-29T22:53:14-04:00",
+    "dcterms:modified": "2017-08-12T11:55:31-04:00",
     "type": "Dataset",
-    "version": "c4d8b1f0e51920edcd48314045d8e69d71747deb"
+    "version": "cf3d00f52697654a533e9d45880f471794e2037d"
   },
   {
     "@context": {
@@ -49,6 +49,10 @@
       {
         "@id": "7f988eae-747a-11e7-abbe-002590f97d84",
         "location": "nih-2017"
+      },
+      {
+        "@id": "3bb104b2-7d37-11e7-84a4-002590f97d84",
+        "location": "mind-2017"
       }
     ]
   },
@@ -177,9 +181,9 @@
     "@id": "7f988eae-747a-11e7-abbe-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "4cef299e-0fc7-11e7-adc9-002590f97d84",
-    "dcterms:modified": "2017-07-29T22:51:13-04:00",
+    "dcterms:modified": "2017-08-12T11:55:28-04:00",
     "type": "Dataset",
-    "version": "0a7e709ea50ed240e7cec1b33a0233c33beb2ee6"
+    "version": "9ecdb62f0d580a184dbd7884b19c04969c8c32f2"
   },
   {
     "@context": {
@@ -241,15 +245,19 @@
         "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000114"
       },
       {
+        "@id": "64336297-0331-404e-ac5e-b90ef55478e6",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/workshops/nih-2017/ds000114"
+      },
+      {
         "@id": "b2096681-bbfc-4e3a-a832-30d7bbf373a0",
         "description": "datalad-archives"
       }
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "7f988eae-747a-11e7-abbe-002590f97d84",
-    "dcterms:modified": "2017-07-29T22:51:13-04:00",
+    "dcterms:modified": "2017-08-12T11:55:27-04:00",
     "type": "Dataset",
-    "version": "324ebf4382d421aa20848c25be796c5f8e67748e"
+    "version": "f763908b65026185cd838faea30e2c8508a8035c"
   },
   {
     "@context": {
@@ -257,6 +265,251 @@
       "doap": "http://usefulinc.com/ns/doap#"
     },
     "@id": "b130214a-7df7-11e6-887b-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:hasPart": [
+      {
+        "@id": "87e1ad34-747a-11e7-8c0e-002590f97d84",
+        "location": "nih-2017/ds000114/derivatives/fmriprep"
+      },
+      {
+        "@id": "8b58e608-747a-11e7-bfee-002590f97d84",
+        "location": "nih-2017/ds000114/derivatives/freesurfer"
+      }
+    ]
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "87e1ad34-747a-11e7-8c0e-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "4e4fe810-5fe4-4eb8-8e7d-1ef6067fc35e",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/workshops/nih-2017/ds000114/derivatives/fmriprep"
+      },
+      {
+        "@id": "b8b7bab3-c978-4f50-8ed4-e77900198eb9",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/workshops/nih-workshop-2017/ds000114/derivatives/fmriprep"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "b130214a-7df7-11e6-887b-002590f97d84",
+    "dcterms:modified": "2017-08-12T11:55:23-04:00",
+    "type": "Dataset",
+    "version": "8b1e128e22a1d54e7a3e7ab6b7342b9319f94188"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "87e1ad34-747a-11e7-8c0e-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "8b58e608-747a-11e7-bfee-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "5e47b3f3-f09c-4969-8885-920a49ff8a45",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/workshops/nih-workshop-2017/ds000114/derivatives/freesurfer"
+      },
+      {
+        "@id": "e84e37ee-ba43-4268-8eae-49a2d52c08b0",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/workshops/nih-2017/ds000114/derivatives/freesurfer"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "b130214a-7df7-11e6-887b-002590f97d84",
+    "dcterms:modified": "2017-08-12T11:55:25-04:00",
+    "type": "Dataset",
+    "version": "76fc61231730044da07ae0cee3660d4c9a35536b"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "8b58e608-747a-11e7-bfee-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "3bb104b2-7d37-11e7-84a4-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "4cef299e-0fc7-11e7-adc9-002590f97d84",
+    "dcterms:modified": "2017-08-12T11:55:21-04:00",
+    "type": "Dataset",
+    "version": "ffda1df4fb46608aab41887d79bf202c47c93e96"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "3bb104b2-7d37-11e7-84a4-002590f97d84",
+    "author": [
+      "Yaroslav O. Halchenko"
+    ],
+    "dcterms:conformsTo": [
+      "http://specs.frictionlessdata.io/data-packages",
+      "http://docs.datalad.org/metadata.html#v0-1"
+    ],
+    "license": [
+      {
+        "name": "ODC-PDDL-1.0",
+        "path": "http://opendatacommons.org/licenses/pddl/",
+        "title": "Open Data Commons Public Domain Dedication and License v1.0"
+      }
+    ],
+    "name": "mind-2017",
+    "title": "Datasets for Methods in Neuroscience at Dartmouth (MIND) 2017 Computational Summer School"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "3bb104b2-7d37-11e7-84a4-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:hasPart": [
+      {
+        "@id": "7931c4c8-7de8-11e7-9a6d-005056a26148",
+        "location": "mind-2017/MotivationalT"
+      },
+      {
+        "@id": "4a7a4422-7d37-11e7-b9e2-002590f97d84",
+        "location": "mind-2017/sherlock"
+      }
+    ]
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "7931c4c8-7de8-11e7-9a6d-005056a26148",
+    "availableFrom": [
+      {
+        "@id": "4aea7059-851d-4633-8690-d86384f2b4a0",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/workshops/mind-2017/MotivationalT"
+      },
+      {
+        "@id": "6734efb7-3855-4a8a-9329-32e39b3364eb",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/workshops/mind-2017/MotivationalT"
+      },
+      {
+        "@id": "aaa0bc14-51fc-45c8-81c2-76dff067755b",
+        "description": "mvdm@atlantis.hpcc.dartmouth.edu:~/data/mind-2017/MotivationalT_"
+      },
+      {
+        "@id": "c04eb54b-4b4e-5755-8436-866b043170fa",
+        "description": "datalad-archives"
+      },
+      {
+        "@id": "f7f97046-ea49-4af1-9f5a-8475a5ea1e0a",
+        "description": "yhalchen@atlantis.hpcc.dartmouth.edu:~/mind-2017/MotivationalT"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "3bb104b2-7d37-11e7-84a4-002590f97d84",
+    "dcterms:modified": "2017-08-12T11:55:18-04:00",
+    "type": "Dataset",
+    "version": "edefe4a299cbf92dd8a6e148f495ec806801712e"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "7931c4c8-7de8-11e7-9a6d-005056a26148",
+    "author": [
+      "van der Meer"
+    ],
+    "dcterms:conformsTo": [
+      "http://specs.frictionlessdata.io/data-packages",
+      "http://docs.datalad.org/metadata.html#v0-1"
+    ],
+    "description": "For a description of the experimental procedures, including the behavioral task, see van der Meer, Carey, Tanaka (2017) Optimizing for generalization in the decoding of internally generated activity in the hippocampus. Hippocampus 27(5), pp. 580--595",
+    "license": [
+      {
+        "name": "ODC-PDDL-1.0",
+        "path": "http://opendatacommons.org/licenses/pddl/",
+        "title": "Open Data Commons Public Domain Dedication and License v1.0"
+      }
+    ],
+    "name": "MotivationalT",
+    "title": "Extracellular tetrode recordings from the dorsal CA1 area of the hippocampus in behaving rats"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "7931c4c8-7de8-11e7-9a6d-005056a26148",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "4a7a4422-7d37-11e7-b9e2-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "4bd0ea65-0270-4509-8360-93e447a2290d",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/workshops/mind-2017/sherlock"
+      },
+      {
+        "@id": "c04eb54b-4b4e-5755-8436-866b043170fa",
+        "description": "datalad-archives"
+      },
+      {
+        "@id": "f87f1b63-f36a-4be8-8581-716afcc489c8",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/workshops/mind-2017/sherlock"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "3bb104b2-7d37-11e7-84a4-002590f97d84",
+    "dcterms:modified": "2017-08-12T00:34:10-04:00",
+    "type": "Dataset",
+    "version": "936cbf6760f2349566a39e8e41b90e963645b14d"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "4a7a4422-7d37-11e7-b9e2-002590f97d84",
+    "author": "Janice Chen, Yuan Chang Leong, Christopher J. Honey, Chung H. Yong, Kenneth A. Norman, and Uri Hasson",
+    "dcterms:conformsTo": [
+      "http://specs.frictionlessdata.io/data-packages",
+      "http://docs.datalad.org/metadata.html#v0-1"
+    ],
+    "description": "This dataset is described in the paper: 'Shared memories reveal shared structure in neural activity across individuals' Janice Chen, Yuan Chang Leong, Christopher J. Honey, Chung H. Yong, Kenneth A. Norman, and Uri Hasson.  Nature Neuroscience 20, no. 1 (January 2017): 115-25. doi:10.1038/nn.4450  All data are preprocessed and transformed to MNI space as described in the paper ",
+    "homepage": "http://dataspace.princeton.edu/jspui/handle/88435/dsp01nz8062179",
+    "keywords": [
+      "NeuroImaging",
+      "MRI",
+      "fMRI",
+      "matlab"
+    ],
+    "name": "sherlock-preprocessed",
+    "title": "Preprocessed data for 'Shared memories reveal shared structure in neural activity across individuals'"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "4a7a4422-7d37-11e7-b9e2-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
   }
 ]
