@@ -7,9 +7,9 @@
     "@id": "14114028-7d08-11e6-9ce4-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2017-09-08T13:44:59-04:00",
+    "dcterms:modified": "2017-09-12T10:53:23-04:00",
     "type": "Dataset",
-    "version": "914255f579b77f2b90f868cc096dc8449d8b01ef"
+    "version": "91fba5582b14647264dfd90bdf42c84e5f21a501"
   },
   {
     "@context": {
@@ -357,6 +357,18 @@
       {
         "@id": "71a0f666-7e51-11e7-bfed-002590f97d84",
         "location": "ds000239"
+      },
+      {
+        "@id": "54e04736-94d9-11e7-b861-002590f97d84",
+        "location": "ds000243"
+      },
+      {
+        "@id": "5a27824a-94d9-11e7-b861-002590f97d84",
+        "location": "ds000220"
+      },
+      {
+        "@id": "5f19dece-94d9-11e7-b861-002590f97d84",
+        "location": "ds000228"
       }
     ]
   },
@@ -390,9 +402,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:04-04:00",
+    "dcterms:modified": "2017-08-15T16:30:19-04:00",
     "type": "Dataset",
-    "version": "1790eeb616da1afb02d39d52d62d0969fee0defa"
+    "version": "716660ec612854e8d3a1c27458975393f7e33320"
   },
   {
     "@context": {
@@ -451,9 +463,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:04-04:00",
+    "dcterms:modified": "2017-08-15T16:16:07-04:00",
     "type": "Dataset",
-    "version": "b98c69ff35a0393d55bc957f0f419800d8b649f7"
+    "version": "4f2be86d6d79139191971113d66aefc9b8e8621e"
   },
   {
     "@context": {
@@ -509,9 +521,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:05-04:00",
+    "dcterms:modified": "2017-08-15T16:33:15-04:00",
     "type": "Dataset",
-    "version": "d63310d5798a0bce729894f31a70c0a42f5c8ac4"
+    "version": "7178ca712bf4b1e2f7a5047cd2e9ff0efd815af8"
   },
   {
     "@context": {
@@ -565,9 +577,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:05-04:00",
+    "dcterms:modified": "2017-09-08T16:40:14-04:00",
     "type": "Dataset",
-    "version": "c527cf3d1225294db846e6ea55bc77f0dfb90b57"
+    "version": "18346e7de60f68016a3575568eaba77097bb741e"
   },
   {
     "@context": {
@@ -4888,15 +4900,19 @@
         "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000237"
       },
       {
+        "@id": "ade28225-96a0-4ce0-94b0-9ad6a0855c8c",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000237"
+      },
+      {
         "@id": "c04eb54b-4b4e-5755-8436-866b043170fa",
         "description": "datalad-archives"
       }
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-08-11T16:25:32-04:00",
+    "dcterms:modified": "2017-09-12T09:36:51-04:00",
     "type": "Dataset",
-    "version": "926242c2efeb38f3665a1f0975608862e3b20f2f"
+    "version": "79f7a88219e34a595d40b149e1b3c4ad531f2b28"
   },
   {
     "@context": {
@@ -4936,6 +4952,10 @@
     "@id": "71a0f666-7e51-11e7-bfed-002590f97d84",
     "availableFrom": [
       {
+        "@id": "88f85cc7-01f7-40e4-b3c9-1396c6932549",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000239"
+      },
+      {
         "@id": "8a6ef558-c5bc-4247-8440-4b57b2f2e07a",
         "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000239"
       },
@@ -4946,9 +4966,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-08-11T17:09:46-04:00",
+    "dcterms:modified": "2017-09-12T09:36:55-04:00",
     "type": "Dataset",
-    "version": "a56225851183e698adcf92512bef4e782fff75cf"
+    "version": "f0ebbc30c81ef96fd7b168a80984e57526f1103f"
   },
   {
     "@context": {
@@ -4978,6 +4998,151 @@
       "doap": "http://usefulinc.com/ns/doap#"
     },
     "@id": "71a0f666-7e51-11e7-bfed-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "54e04736-94d9-11e7-b861-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "5b737866-37e4-4861-b71e-d500014bed26",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000243"
+      },
+      {
+        "@id": "c04eb54b-4b4e-5755-8436-866b043170fa",
+        "description": "datalad-archives"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
+    "dcterms:modified": "2017-09-08T17:31:42-04:00",
+    "type": "Dataset",
+    "version": "54b2e94e5d19fb73ef14facab9bd5eea5f9ef713"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "54e04736-94d9-11e7-b861-002590f97d84",
+    "citation": "http://www.jonathanpower.net/paper-despiking.html",
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io/bids_spec1.0.2.pdf"
+    ],
+    "description": "These 120 MRI datasets are being released to the public along as part of the materials for “Temporal interpolation alters motion in fMRI scans: magnitudes and consequences for artifact detection” by Power et al. in PLOS ONE.\n\nIncluded for each subject is a T1-weighted anatomical image (MP-RAGE) and one or more T2*-weighted scans (resting state BOLD scans)\n\nAll subjects\n\t- were “typical” young adults that reported no significant neurological or psychiatric history\n\t- were right-handed and reported that English was their first language\n\t- were scanned at Washington University in Saint Louis on a Siemens MAGNETOM Tim Trio 3T scanner with a Siemens 12-channel head coil\n\t- were scanned using interleaved ascending product sequences for T2* data\n\t- were scanned in the eyes-open resting state fixating a white crosshair on a black background\n\nThe data have been described in multiple publications from the Petersen/Schlaggar group,\n\t- beginning with Power et al., 2013 “Evidence for hubs in human brain networks” in Neuron\n\t- and most comprehensively in Power et al., 2014 “Methods to detect, characterize, and remove motion artifact in resting state fMRI” in Neuroimage\n\t- as well as several other publications\n\t- see these publications for further details on acquisitions and demographics\n\n\nBecky Coalson of the Petersen/Schlaggar group collated these scans and de-identified them for public release\n\t- the accompanying file “WU120_subject_information.txt” contains for each subject\n\t\t- the release subject number (1-120)\n\t\t\t- the same number used in the present publication\n\t\t- the subject number used in Power et al., 2014\n\t\t\t- see the WU120_Supplememtal_Cohort_Illustration.pdf from Power et al., 2014\n\t\t- the subject number to publicly reference the subject\n\t\t\t- for question/communication purposes with Becky or the Petersen/Schlaggar group\n\t\t- the owner/contributor of the data\n\t\t- age of subject at scanning\n\t\t- sex\n\t\t- handedness\n\t\t- English only speaker\n\t\t- paradigm of the resting state scans\n\t\t- total scan time in resting state\n\t\t- number of rest runs\n\t\t- number of volumes per run\n\t\t- TR of the runs\n\t\t- scanner used (Siemens Tim Trio was in bay3)\n\t\t- slice order (AFNI convention); sequences were ascending interleaved\n\nIf there are questions about the scans, please contact Becky Coalson (becky@npg.wustl.edu) or contact the Petersen/Schlaggar group via their website.\n\nJDP 12/23/15\n\n\n### Comments added by Openfmri Curators ###\n===========================================\n\nGeneral Comments\n----------------\n\n\nDefacing\n--------\nPydeface was used on all anatomical images to ensure deindentification of subjects. The code\ncan be found at https://github.com/poldracklab/pydeface\n\nQuality Control\n---------------\nMriqc was run on the dataset. Results are located in derivatives/mriqc. Learn more about it here: https://mriqc.readthedocs.io/en/latest/\n\nWhere to discuss the dataset\n----------------------------\n1) www.openfmri.org/dataset/ds000243/ See the comments section at the bottom of the dataset\npage.\n2) www.neurostars.org Please tag any discussion topics with the tags openfmri and ds000243.\n3) Send an email to submissions@openfmri.org. Please include the accession number in\nyour email.\n\nKnown Issues\n------------\n- As per one of the published paper explaining the dataset, its is noted that 2 subjects out of all have different TR for functional runs. However, when checked with submitter, they confirmed that all subjects data shared here have same TR.",
+    "name": "Washington_University_120"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "54e04736-94d9-11e7-b861-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "5a27824a-94d9-11e7-b861-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "94a70be5-2731-4414-865f-ed051f9503d7",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000220"
+      },
+      {
+        "@id": "c04eb54b-4b4e-5755-8436-866b043170fa",
+        "description": "datalad-archives"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
+    "dcterms:modified": "2017-09-08T17:18:45-04:00",
+    "type": "Dataset",
+    "version": "a2c87038244e209657d004db8b14ae0f9ee2b1af"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "5a27824a-94d9-11e7-b861-002590f97d84",
+    "author": [
+      "Roy, A., Bernier, R. A., Wang, J., Benson, M., French, J., Good, D., & Hillary, F.G."
+    ],
+    "citation": "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0170541",
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io/bids_spec1.0.2.pdf"
+    ],
+    "description": "This dataset was obtained from the OpenfMRI project (http:www.openfmri.org).\nAccession #: ds00220\nDescription: The evolution of cost-efficiency in neural networks furing recovery from \ntraumatic brain injury\n\nPlease cite the following references if you use these data:\nRoy, A., Bernier, R. A., Wang, J., Benson, M., French, J., Good, D., & Hillary, F.G. The \nevolution of cost-efficiency in neural networks furing recovery from traumatic brain injury. \nPLOS ONE (2017).\n\n\n### Comments added by Openfmri Curators ###\n===========================================\n\nGeneral Comments\n----------------\nFor each subject, sessions occured approximately three months apart.\n\nDefacing\n--------\nDefacing for the anatomical images for subjects control01-control06 was \nperformed by the submitter.\nPydeface was used on the anatomical images for the rest of the subjects. The code\ncan be found at https://github.com/poldracklab/pydeface\n\nQuality Control\n---------------\nMriqc was run on the dataset. Results are located in derivatives/mriqc. Learn more about it here: \nhttps://mriqc.readthedocs.io/en/stable/\n\nWhere to discuss the dataset\n----------------------------\n1) www.openfmri.org/dataset/ds000220/ See the comments section at the bottom of the dataset\npage.\n2) www.neurostars.org Please tag any discussion topics with the tags openfmri and ds000220.\n3) Send an email to submissions@openfmri.org. Please include the accession number in\nyour email.\n\nKnown Issues\n------------\nn/a",
+    "foaf:fundedBy": "This research was supported by the Social Sciences Research Institute at the Pennsylvania State University, University Park, PA-16801 and CTSI funding via the NIH",
+    "license": "CC0",
+    "name": "The evolution of cost-efficiency in neural networks furing recovery from traumatic brain injury"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "5a27824a-94d9-11e7-b861-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "5f19dece-94d9-11e7-b861-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "a319c0f4-21f9-4c62-b5ab-a5c07392eda5",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000228"
+      },
+      {
+        "@id": "c04eb54b-4b4e-5755-8436-866b043170fa",
+        "description": "datalad-archives"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
+    "dcterms:modified": "2017-09-08T18:01:08-04:00",
+    "type": "Dataset",
+    "version": "c1373a35ceffb20fe3f3db34ec6b9727dc921b33"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "5f19dece-94d9-11e7-b861-002590f97d84",
+    "author": [
+      "Richardson, Hilary",
+      "Lisandrelli, Grace",
+      "Riobueno-Naylor, Alexa",
+      "Saxe, Rebecca"
+    ],
+    "citation": "Paper currently revised and resubmitted",
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io/bids_spec1.0.2.pdf"
+    ],
+    "description": "Experiment Details\nParticipants watched Disney Pixar’s “Partly Cloudy” while lying in the scanner. There was no task; participants were simply instructed to lie still and watch the movie. The movie began after 10s of rest (black screen; TRs 0-5). The first 10s of the movie are the opening credits (disney castle, pixar logo; TRs 6-10). \n\nIPS = 168 TRs\nTR = 2s\nExperiment length: 5.6 minutes\n\nPixar Movie Reverse Correlation Events\nEvents defined by conducting reverse correlation analysis in two separate adult samples, using the average response in ToM brain regions (ToM events) and in the pain matrix (Pain events). Events listed are those that replicated across the two samples.  Onsets and Durations are noted in TRs (1 TR = 2s). \n\nEvent types: Theory of Mind (ToM), Physical Sensation/Pain (Pain)\nToM Event Onsets; Durations \n46; 2\n52; 3\n63; 2\n91; 8\n122; 3\n129; 4\n153; 3\n\nPain Event Onsets; Durations\n38; 2\n49; 1\n56; 2\n71; 5\n100; 2\n108; 6\n117; 3\n134; 3\n159; 2\n\n\n### Comments added by Openfmri Curators ###\n===========================================\n\nGeneral Comments\n----------------\n\n\nDefacing\n--------\nDefacing was performed by submitter\n\nQuality Control\n---------------\nMriqc was run on the dataset. Results are located in derivatives/mriqc. Learn more about it here: https://mriqc.readthedocs.io/en/latest/\n\nWhere to discuss the dataset\n----------------------------\n1) www.openfmri.org/dataset/ds000228/ See the comments section at the bottom of the dataset\npage.\n2) www.neurostars.org Please tag any discussion topics with the tags openfmri and ds000228.\n3) Send an email to submissions@openfmri.org. Please include the accession number in\nyour email.\n\nKnown Issues\n------------\nN/A",
+    "foaf:fundedBy": "This project was supported by a NSF Graduate Research Fellowship (#1122374 to HR), and an NSF CAREER award (#095518 to RS), NIH R01-MH096914-05, a Middleton Chair grant (RS), and support from the David and Lucile Packard Foundation (to RS)",
+    "license": "PDDL",
+    "name": "MRI data of 3-12 year old children and adults during viewing of a short animated film"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "5f19dece-94d9-11e7-b861-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
   }
 ]
