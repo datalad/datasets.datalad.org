@@ -7,9 +7,9 @@
     "@id": "72e7a148-7af4-11e6-af5a-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2017-11-06T14:59:46-05:00",
+    "dcterms:modified": "2017-11-06T15:16:50-05:00",
     "type": "Dataset",
-    "version": "b4d2c0ad5d76e4ee4c5d208a3fefe63d925c4197"
+    "version": "ec4f88b21c4b7a3de6379b6606e9d5ecedd7fd12"
   },
   {
     "@context": {
@@ -163,9 +163,9 @@
     "@id": "01cfb952-8439-11e6-af53-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "72e7a148-7af4-11e6-af5a-002590f97d84",
-    "dcterms:modified": "2017-11-06T14:59:37-05:00",
+    "dcterms:modified": "2017-11-06T15:16:42-05:00",
     "type": "Dataset",
-    "version": "22af17d16085d44a9e2f8efd6a7e738c9f4cab39"
+    "version": "54b75cfa68494931c2585be4e2324cf06f318db7"
   },
   {
     "@context": {
@@ -338,15 +338,19 @@
         "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/labs/haxby/life"
       },
       {
+        "@id": "57e05ce3-db57-4ee0-beb8-64cf23941c7a",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/labs/haxby/life"
+      },
+      {
         "@id": "87341ad8-eb65-477a-b536-69980e6b0d77",
         "description": "nastase@head1:~/BIDS/haxby/life-datalad"
       }
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "01cfb952-8439-11e6-af53-002590f97d84",
-    "dcterms:modified": "2017-11-06T14:59:24-05:00",
+    "dcterms:modified": "2017-11-06T15:16:40-05:00",
     "type": "Dataset",
-    "version": "0e17b63acb5b842166bbe748e6b4c3db5790f7d3"
+    "version": "84aed6aa5ebbd4a3c230b7ba67a8bdd43ba39af8"
   },
   {
     "@context": {
