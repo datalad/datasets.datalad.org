@@ -7,9 +7,9 @@
     "@id": "72e7a148-7af4-11e6-af5a-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2017-11-06T15:16:50-05:00",
+    "dcterms:modified": "2017-11-06T15:57:08-05:00",
     "type": "Dataset",
-    "version": "ec4f88b21c4b7a3de6379b6606e9d5ecedd7fd12"
+    "version": "2ff05bebaec7170fd331a5588bc8649e15eb0f39"
   },
   {
     "@context": {
@@ -163,9 +163,9 @@
     "@id": "01cfb952-8439-11e6-af53-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "72e7a148-7af4-11e6-af5a-002590f97d84",
-    "dcterms:modified": "2017-11-06T15:16:42-05:00",
+    "dcterms:modified": "2017-11-06T15:56:45-05:00",
     "type": "Dataset",
-    "version": "54b75cfa68494931c2585be4e2324cf06f318db7"
+    "version": "55b3ceee40b9d3e1d651ed511aabad64e9f0629b"
   },
   {
     "@context": {
@@ -348,9 +348,33 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "01cfb952-8439-11e6-af53-002590f97d84",
-    "dcterms:modified": "2017-11-06T15:16:40-05:00",
+    "dcterms:modified": "2017-11-06T15:56:43-05:00",
     "type": "Dataset",
-    "version": "84aed6aa5ebbd4a3c230b7ba67a8bdd43ba39af8"
+    "version": "bd8b3f8161b7f189dd52343d6eb65dd8db7c1ccc"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "4119bc6c-c32a-11e7-8fe5-003048ce7f90",
+    "author": [
+      "Samuel A. Nastase",
+      "Yaroslav O. Halchenko",
+      "Andrew C. Connolly",
+      "James V. Haxby"
+    ],
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io/bids_spec1.0.1.pdf"
+    ],
+    "foaf:fundedBy": [
+      "5R01MH075706",
+      "F32MH085433-01A1",
+      "NSF1129764"
+    ],
+    "license": "PDDL",
+    "name": "Neural responses to naturalistic clips of animals"
   },
   {
     "@context": {
