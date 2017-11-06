@@ -7,9 +7,9 @@
     "@id": "72e7a148-7af4-11e6-af5a-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2017-09-29T08:58:10-04:00",
+    "dcterms:modified": "2017-11-06T14:59:46-05:00",
     "type": "Dataset",
-    "version": "47bb39fe2667fec10330e781f545579fccce6af9"
+    "version": "b4d2c0ad5d76e4ee4c5d208a3fefe63d925c4197"
   },
   {
     "@context": {
@@ -68,9 +68,9 @@
     "@id": "72f7a0f2-7af4-11e6-af5a-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "72e7a148-7af4-11e6-af5a-002590f97d84",
-    "dcterms:modified": "2017-08-12T13:27:59-04:00",
+    "dcterms:modified": "2017-09-19T16:29:24-04:00",
     "type": "Dataset",
-    "version": "d19b96813db4822387d62befd408a42cf7d60c95"
+    "version": "a7ee322ba7f645b71d007404f453c8bd940cf1ad"
   },
   {
     "@context": {
@@ -163,9 +163,9 @@
     "@id": "01cfb952-8439-11e6-af53-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "72e7a148-7af4-11e6-af5a-002590f97d84",
-    "dcterms:modified": "2017-08-12T13:29:57-04:00",
+    "dcterms:modified": "2017-11-06T14:59:37-05:00",
     "type": "Dataset",
-    "version": "704c550e33a18cbd2de22562adf97c6ad5fb1b7f"
+    "version": "22af17d16085d44a9e2f8efd6a7e738c9f4cab39"
   },
   {
     "@context": {
@@ -200,6 +200,10 @@
       {
         "@id": "73f3d2f6-49f1-11e7-bf68-003048ce7f90",
         "location": "haxby/attention"
+      },
+      {
+        "@id": "4119bc6c-c32a-11e7-8fe5-003048ce7f90",
+        "location": "haxby/life"
       }
     ]
   },
@@ -229,9 +233,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "01cfb952-8439-11e6-af53-002590f97d84",
-    "dcterms:modified": "2017-08-12T13:29:36-04:00",
+    "dcterms:modified": "2017-09-19T16:31:02-04:00",
     "type": "Dataset",
-    "version": "c0c50911f13dac30429cec5c8294989df188cacc"
+    "version": "a5b83378f3e0b7294c85a86f29c8892d4c0d9a15"
   },
   {
     "@context": {
@@ -327,12 +331,42 @@
       "@vocab": "http://schema.org/",
       "doap": "http://usefulinc.com/ns/doap#"
     },
+    "@id": "4119bc6c-c32a-11e7-8fe5-003048ce7f90",
+    "availableFrom": [
+      {
+        "@id": "14e73b06-ffe2-494c-b840-4539ce8db094",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/labs/haxby/life"
+      },
+      {
+        "@id": "87341ad8-eb65-477a-b536-69980e6b0d77",
+        "description": "nastase@head1:~/BIDS/haxby/life-datalad"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "01cfb952-8439-11e6-af53-002590f97d84",
+    "dcterms:modified": "2017-11-06T14:59:24-05:00",
+    "type": "Dataset",
+    "version": "0e17b63acb5b842166bbe748e6b4c3db5790f7d3"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "4119bc6c-c32a-11e7-8fe5-003048ce7f90",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
     "@id": "0e7a2ee8-ea56-11e6-9e36-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "72e7a148-7af4-11e6-af5a-002590f97d84",
-    "dcterms:modified": "2017-08-12T13:26:58-04:00",
+    "dcterms:modified": "2017-09-29T08:58:10-04:00",
     "type": "Dataset",
-    "version": "a86c2645d01bbb65ffaf0995839ce9ec03b00818"
+    "version": "fad43cbe786c6b036763615011f3e0663f486609"
   },
   {
     "@context": {
@@ -425,9 +459,9 @@
     "@id": "7944fa62-301c-11e7-8784-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "72e7a148-7af4-11e6-af5a-002590f97d84",
-    "dcterms:modified": "2017-08-12T13:29:00-04:00",
+    "dcterms:modified": "2017-09-25T13:41:31-04:00",
     "type": "Dataset",
-    "version": "73e9ff8d58d041bfe1c6a114c2b833958ff8acb9"
+    "version": "6580109d3d29b67718a4f2ae853802cf18aeeecc"
   },
   {
     "@context": {
