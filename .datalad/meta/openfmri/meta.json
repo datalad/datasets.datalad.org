@@ -7,9 +7,9 @@
     "@id": "14114028-7d08-11e6-9ce4-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2017-11-13T01:03:01-05:00",
+    "dcterms:modified": "2017-11-28T13:03:49-05:00",
     "type": "Dataset",
-    "version": "0a66317c1d1c439a87ab181c8582c99a914d84e1"
+    "version": "4d0a18889aa23319b361d265f7b6f618b7255026"
   },
   {
     "@context": {
@@ -430,9 +430,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-08-15T16:30:19-04:00",
+    "dcterms:modified": "2017-11-21T01:08:07-05:00",
     "type": "Dataset",
-    "version": "716660ec612854e8d3a1c27458975393f7e33320"
+    "version": "4739c14bd77fd72e591d70faa2281ff01517958c"
   },
   {
     "@context": {
@@ -491,9 +491,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-08-15T16:16:07-04:00",
+    "dcterms:modified": "2017-11-21T01:09:54-05:00",
     "type": "Dataset",
-    "version": "4f2be86d6d79139191971113d66aefc9b8e8621e"
+    "version": "573da033949101b07fc0fd8f3dec8b28aa340ab2"
   },
   {
     "@context": {
@@ -549,9 +549,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-08-15T16:33:15-04:00",
+    "dcterms:modified": "2017-11-20T23:41:06-05:00",
     "type": "Dataset",
-    "version": "7178ca712bf4b1e2f7a5047cd2e9ff0efd815af8"
+    "version": "68531fe8af039e109f90f097c948344bc49e52a1"
   },
   {
     "@context": {
@@ -605,9 +605,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-09-08T16:40:14-04:00",
+    "dcterms:modified": "2017-11-21T00:34:10-05:00",
     "type": "Dataset",
-    "version": "18346e7de60f68016a3575568eaba77097bb741e"
+    "version": "ed2ff4fce55dafbc0eb591043875306549050597"
   },
   {
     "@context": {
@@ -660,9 +660,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-09-08T17:04:24-04:00",
+    "dcterms:modified": "2017-11-21T01:14:30-05:00",
     "type": "Dataset",
-    "version": "4da3965b6be0bc7ad567cb5eaf7f72cef9016b4c"
+    "version": "53a12cdc9f90e7c03f6445018541a218e6f6a315"
   },
   {
     "@context": {
@@ -718,9 +718,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-10T11:30:32-05:00",
+    "dcterms:modified": "2017-11-21T00:12:50-05:00",
     "type": "Dataset",
-    "version": "f1290d58388dbc292be243eb6ad1d0ee9d417c5f"
+    "version": "9c1ee4ce9815ca23facf75d051d674068050118b"
   },
   {
     "@context": {
@@ -779,9 +779,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-10T11:58:43-05:00",
+    "dcterms:modified": "2017-11-21T01:59:27-05:00",
     "type": "Dataset",
-    "version": "204f07d318cb25c6e4cbb6e64238289e20ced56a"
+    "version": "a8799400e95b9decc406653e3e0705f8a80e6491"
   },
   {
     "@context": {
@@ -832,9 +832,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-10T17:39:38-05:00",
+    "dcterms:modified": "2017-11-21T05:09:07-05:00",
     "type": "Dataset",
-    "version": "c500dc3c9e1671f75023a7148d3d83c254f4a5e7"
+    "version": "4426bc0aa7e60a63549248cff7e319bbbc078085"
   },
   {
     "@context": {
@@ -893,9 +893,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-07T23:27:54-05:00",
+    "dcterms:modified": "2017-11-21T02:06:27-05:00",
     "type": "Dataset",
-    "version": "806b135bc57955bd15f0dfa7dfe628ff377726d0"
+    "version": "96d0052551ebbd5956aa6e729b3cadad68641962"
   },
   {
     "@context": {
@@ -975,9 +975,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-11T11:15:23-05:00",
+    "dcterms:modified": "2017-11-24T14:34:13-05:00",
     "type": "Dataset",
-    "version": "f61db72a85dcd7db8750386d8d586af1dbb859c1"
+    "version": "849f8951f61cdddf28689c5f6ec43be8cdfa1ade"
   },
   {
     "@context": {
@@ -1029,9 +1029,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-08T00:12:58-05:00",
+    "dcterms:modified": "2017-11-24T14:34:27-05:00",
     "type": "Dataset",
-    "version": "c3b674a882ce58d32c2b7c23a5000118fa214945"
+    "version": "155aabf3d0a146c4f527b1d3cee73cbe8efe3738"
   },
   {
     "@context": {
@@ -1138,9 +1138,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:06-04:00",
+    "dcterms:modified": "2017-11-25T00:19:38-05:00",
     "type": "Dataset",
-    "version": "f2856eebde48a0f7fa6911e1cc280a70503cbcb9"
+    "version": "0ce016955427653c3a3873c91700b7cb07a4267d"
   },
   {
     "@context": {
@@ -1196,9 +1196,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-08T00:46:16-05:00",
+    "dcterms:modified": "2017-11-22T13:02:50-05:00",
     "type": "Dataset",
-    "version": "e606429b78221a2b16063a0610fb10d37e727b06"
+    "version": "c40ecdd84d3b03fd4d917f9678911fe4c42fd90c"
   },
   {
     "@context": {
@@ -1252,9 +1252,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-08T00:54:28-05:00",
+    "dcterms:modified": "2017-11-22T01:29:10-05:00",
     "type": "Dataset",
-    "version": "bd6a2781f23518d8a250f2b573bd6ecc3cc5c4b8"
+    "version": "5eee44fba50bc6699065b1376b16c1225eb252cd"
   },
   {
     "@context": {
@@ -1312,9 +1312,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-12T01:42:28-05:00",
+    "dcterms:modified": "2017-11-22T20:23:06-05:00",
     "type": "Dataset",
-    "version": "5311203d41172ed03e7417dc5ab84c0ff77133e7"
+    "version": "0196b537618de6ba7ce82faa19f1c54132636821"
   },
   {
     "@context": {
@@ -1378,9 +1378,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-08T06:01:30-05:00",
+    "dcterms:modified": "2017-11-21T04:06:52-05:00",
     "type": "Dataset",
-    "version": "068f245189a805b2cc9e263b0099a452e2ccec5d"
+    "version": "d6e0438eeafd0dc6059a591d0ea5a1eab41c90c9"
   },
   {
     "@context": {
@@ -1437,9 +1437,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-08T06:03:24-05:00",
+    "dcterms:modified": "2017-11-21T04:37:00-05:00",
     "type": "Dataset",
-    "version": "017ba54c026ec84941bfe842fb2612797a1fdde2"
+    "version": "a98f834fa9cc731347fe9e7321ca2a69d1f59171"
   },
   {
     "@context": {
@@ -1501,9 +1501,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-08T06:07:58-05:00",
+    "dcterms:modified": "2017-11-21T05:26:00-05:00",
     "type": "Dataset",
-    "version": "0ce0b0c4c4ec7c713ff0c93fe92ba5d33f7e8f82"
+    "version": "8c0a61dab74b226f8f39ee272723c35fe251840c"
   },
   {
     "@context": {
@@ -1562,9 +1562,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:07-04:00",
+    "dcterms:modified": "2017-11-27T08:51:18-05:00",
     "type": "Dataset",
-    "version": "746a43c686398b5314e681d4957a101ba27d5723"
+    "version": "1ac64298088423997ad34d20a47b780e752d1297"
   },
   {
     "@context": {
@@ -1621,9 +1621,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:07-04:00",
+    "dcterms:modified": "2017-11-24T16:19:23-05:00",
     "type": "Dataset",
-    "version": "8bbf66b881db306052b16a8e58d1fb526056853e"
+    "version": "47eb3b40d244046703898e561fa3545d9d1e8d81"
   },
   {
     "@context": {
@@ -1681,9 +1681,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:07-04:00",
+    "dcterms:modified": "2017-11-21T06:13:49-05:00",
     "type": "Dataset",
-    "version": "93c5d98cb12531b686e521a5e36e502a78fabaf4"
+    "version": "4d3d974982449e2e7621d9dc5b52f925649bb395"
   },
   {
     "@context": {
@@ -1737,9 +1737,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:07-04:00",
+    "dcterms:modified": "2017-11-21T21:37:29-05:00",
     "type": "Dataset",
-    "version": "97525963481f12be515a7ea6042416a08cd7544e"
+    "version": "ce5f73ffe585659671ed835ae9c3e5143043f8b0"
   },
   {
     "@context": {
@@ -1795,9 +1795,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-05-19T13:24:16-04:00",
+    "dcterms:modified": "2017-11-24T11:46:34-05:00",
     "type": "Dataset",
-    "version": "d499653f9a5e9269e4a2669fbe942331d52947dd"
+    "version": "fc39a33e3722ae9df867a50fd80d828fd91e976f"
   },
   {
     "@context": {
@@ -1829,9 +1829,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:07-04:00",
+    "dcterms:modified": "2017-11-23T23:29:48-05:00",
     "type": "Dataset",
-    "version": "fb8f2892165f5d4f1e939df2a8940317b51e9414"
+    "version": "b15a0f0836b3d2badaed5ed8c21f0c27049dc75b"
   },
   {
     "@context": {
@@ -1887,9 +1887,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:08-04:00",
+    "dcterms:modified": "2017-11-24T00:42:47-05:00",
     "type": "Dataset",
-    "version": "905a0127d111a8a0ee264d32ecdded90732e9004"
+    "version": "ee0f4d8c6eb0d42880a8b7bc41744663d5dc3391"
   },
   {
     "@context": {
@@ -1950,9 +1950,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:08-04:00",
+    "dcterms:modified": "2017-11-26T20:21:25-05:00",
     "type": "Dataset",
-    "version": "9d029f631fb7efe8acee7fd5e474e43110ee8f4e"
+    "version": "7da7da5747834fe5b0c4535a6320e628572b55af"
   },
   {
     "@context": {
@@ -2018,9 +2018,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:08-04:00",
+    "dcterms:modified": "2017-11-26T19:06:00-05:00",
     "type": "Dataset",
-    "version": "3f4efd35fadb8c7b6fac255e80b740c57c3759a5"
+    "version": "c077215c4a536987a030781eb49c5e8c746e2483"
   },
   {
     "@context": {
@@ -2077,9 +2077,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:08-04:00",
+    "dcterms:modified": "2017-11-27T22:58:10-05:00",
     "type": "Dataset",
-    "version": "360bac7e80079d7fd0dbe125c1eff98c7c8e4c26"
+    "version": "ef3492fbe26fc0115c97cebfabd2d12a12a575e5"
   },
   {
     "@context": {
@@ -2133,9 +2133,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:09-04:00",
+    "dcterms:modified": "2017-11-27T22:52:46-05:00",
     "type": "Dataset",
-    "version": "40facab78741b06604a276b6c3484b3c84aa49c7"
+    "version": "8d590c11ace091bb0d32f2ba5c50aaf40e9e1c6e"
   },
   {
     "@context": {
@@ -2187,9 +2187,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-13T01:01:00-05:00",
+    "dcterms:modified": "2017-11-28T01:36:22-05:00",
     "type": "Dataset",
-    "version": "6767b1c99114abc634df9a3275c40acf318223d7"
+    "version": "25d57f8ed5cdfba6fef635be5f3eeceb8049d930"
   },
   {
     "@context": {
@@ -2247,9 +2247,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:09-04:00",
+    "dcterms:modified": "2017-11-28T00:36:46-05:00",
     "type": "Dataset",
-    "version": "ffb21e4c7ceebf51fb4219a800bc619b008440a5"
+    "version": "bbc409e89eeb929a1cf78266c3eaafe2392a4cff"
   },
   {
     "@context": {
@@ -2303,9 +2303,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-08T06:57:28-05:00",
+    "dcterms:modified": "2017-11-27T23:11:18-05:00",
     "type": "Dataset",
-    "version": "65fc602d8415a3d2a5cb7eadd135112f8866640f"
+    "version": "6a3be3044a33c451583f234540166979883a2f71"
   },
   {
     "@context": {
@@ -2362,9 +2362,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-08T07:11:09-05:00",
+    "dcterms:modified": "2017-11-28T00:19:02-05:00",
     "type": "Dataset",
-    "version": "83b2d43e3a4bed10eeb81e8222b6229a5930885a"
+    "version": "8646285cbbe61d02f9e672cedba0fdfe235369b0"
   },
   {
     "@context": {
@@ -2422,9 +2422,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:09-04:00",
+    "dcterms:modified": "2017-11-28T00:23:59-05:00",
     "type": "Dataset",
-    "version": "ef656508f8e1caa8354fc99cad7e0fdb388f77d7"
+    "version": "b600f745283686ad9599468378ecaaca21ec7cb2"
   },
   {
     "@context": {
@@ -2478,9 +2478,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:09-04:00",
+    "dcterms:modified": "2017-11-27T12:53:07-05:00",
     "type": "Dataset",
-    "version": "a10e8be457bc6460ec664f1e4ff820f9476270e0"
+    "version": "ab2fd4af8980f1ad58dff388c110c16ae1c0dec8"
   },
   {
     "@context": {
@@ -2590,9 +2590,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:10-04:00",
+    "dcterms:modified": "2017-11-27T13:39:58-05:00",
     "type": "Dataset",
-    "version": "ccfc01cdb8b0946379e92578620aaa3474014994"
+    "version": "2872a953503bd043dde93cb525f995e6530330b3"
   },
   {
     "@context": {
@@ -2644,9 +2644,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-05-19T13:35:33-04:00",
+    "dcterms:modified": "2017-11-27T10:14:06-05:00",
     "type": "Dataset",
-    "version": "a3627ea02070830a7a51e98aa76acfd33973a279"
+    "version": "6b22c5f9997df6e1a24ff4e7d5f95147978d181a"
   },
   {
     "@context": {
@@ -2678,9 +2678,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:10-04:00",
+    "dcterms:modified": "2017-11-27T10:12:39-05:00",
     "type": "Dataset",
-    "version": "3d630e08b3933083ab6ac983cf16f39fcc37f02c"
+    "version": "23dbff0bb71a89698946a807dc4838018c833273"
   },
   {
     "@context": {
@@ -2735,9 +2735,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:10-04:00",
+    "dcterms:modified": "2017-11-27T10:54:44-05:00",
     "type": "Dataset",
-    "version": "aaa3510372ffb312b92ea4ec6420851c481a2549"
+    "version": "ce015cfb54cabcea4c4f3f48196a644818f4132e"
   },
   {
     "@context": {
@@ -2799,9 +2799,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-12T06:38:02-05:00",
+    "dcterms:modified": "2017-11-27T10:06:44-05:00",
     "type": "Dataset",
-    "version": "535748d49ede56c60c45ff433ce0210bb6576ddd"
+    "version": "c6b681282a0f17fb2048dd08faf89beac79b0233"
   },
   {
     "@context": {
@@ -2854,9 +2854,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:10-04:00",
+    "dcterms:modified": "2017-11-27T09:35:20-05:00",
     "type": "Dataset",
-    "version": "f88669db8891882bf118425a3bffa71c7a17ac11"
+    "version": "d104ea1230749047b566a192eb11d7fa4a97348c"
   },
   {
     "@context": {
@@ -2913,9 +2913,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:11-04:00",
+    "dcterms:modified": "2017-11-27T09:36:18-05:00",
     "type": "Dataset",
-    "version": "4b028f3341a06ef323c973af83b671c2bd41e517"
+    "version": "ad37275ef07d2c10a95771bedbed86ed34030856"
   },
   {
     "@context": {
@@ -2980,9 +2980,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-12T06:39:08-05:00",
+    "dcterms:modified": "2017-11-27T09:34:58-05:00",
     "type": "Dataset",
-    "version": "66af7cb02cfc00d2a478ff1725e242b5de54f65a"
+    "version": "90dc4f607f125d88a053a2ea7d45cf3f3e00a6b9"
   },
   {
     "@context": {
@@ -3042,9 +3042,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:11-04:00",
+    "dcterms:modified": "2017-11-27T09:39:17-05:00",
     "type": "Dataset",
-    "version": "242ce5b771ec81351cd4b532b6dab6aa84097587"
+    "version": "d00b6b12a40468796768705afa96da4886956096"
   },
   {
     "@context": {
@@ -3102,9 +3102,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-08T07:44:12-05:00",
+    "dcterms:modified": "2017-11-26T18:11:58-05:00",
     "type": "Dataset",
-    "version": "806bcc47fb699b17d7d74ccfa1e84a2688b15273"
+    "version": "b1d8f9294c3513a66254858324040d157096ea8e"
   },
   {
     "@context": {
@@ -3162,9 +3162,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:11-04:00",
+    "dcterms:modified": "2017-11-21T22:54:01-05:00",
     "type": "Dataset",
-    "version": "ae3e5d7b06af7b8c91ab3ee6b38b55f23764caa5"
+    "version": "a942559976ccdd16a659136cd11f3e03fe0b9b6b"
   },
   {
     "@context": {
@@ -3216,9 +3216,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-12T07:10:54-05:00",
+    "dcterms:modified": "2017-11-24T12:05:09-05:00",
     "type": "Dataset",
-    "version": "4f6f222be29fafa30e20b131a7e0fc693ba05ceb"
+    "version": "25ac9342db8d634396ecc21f12527d42e3169eaa"
   },
   {
     "@context": {
@@ -3285,9 +3285,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:12-04:00",
+    "dcterms:modified": "2017-11-21T23:08:27-05:00",
     "type": "Dataset",
-    "version": "c621920a598c0f8a151015ad940a7315c4ae48bc"
+    "version": "898c568922328f0ba019deadeda32ac8b7016924"
   },
   {
     "@context": {
@@ -3339,9 +3339,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-12T07:15:00-05:00",
+    "dcterms:modified": "2017-11-23T02:39:47-05:00",
     "type": "Dataset",
-    "version": "3f6824bf6ab16bfebc5e6dbae92ef7d5d0f235ee"
+    "version": "dee1bd34d1de88b3bf3f1f15689856deaa4769f0"
   },
   {
     "@context": {
@@ -3397,9 +3397,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-12T07:15:26-05:00",
+    "dcterms:modified": "2017-11-24T12:30:53-05:00",
     "type": "Dataset",
-    "version": "30aa82d62ec7cbaf9909f90180dd463231cb82c4"
+    "version": "a359e5b79156e8d4f1ff3a7aec83a7d1ecd35a6d"
   },
   {
     "@context": {
@@ -3466,9 +3466,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:12-04:00",
+    "dcterms:modified": "2017-11-24T12:38:48-05:00",
     "type": "Dataset",
-    "version": "0b0f1766329ed18874f77328c88fba7f56c5b162"
+    "version": "9f9138ee1ac52e8649f88fb6531b4d5be901c031"
   },
   {
     "@context": {
@@ -3520,9 +3520,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:12-04:00",
+    "dcterms:modified": "2017-11-24T13:14:06-05:00",
     "type": "Dataset",
-    "version": "2691b79fa61a1efc753bdd05ecd53ad9e58af826"
+    "version": "04b8fef9c2e4ed78e65c182a4d55a288a5398693"
   },
   {
     "@context": {
@@ -3577,9 +3577,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:13-04:00",
+    "dcterms:modified": "2017-11-24T12:42:02-05:00",
     "type": "Dataset",
-    "version": "4c196de492d2a26bdbca7e02f7fdec8d0ec4f99c"
+    "version": "d3658b90b98f8b0eb5d43e543f1280b096f655a2"
   },
   {
     "@context": {
@@ -3629,9 +3629,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-12T07:18:43-05:00",
+    "dcterms:modified": "2017-11-22T12:49:24-05:00",
     "type": "Dataset",
-    "version": "e406cfb93fac9f4a3163b78e5b9c880f005bb813"
+    "version": "03c876ce44c72cd40d236eb9aa7717754a664b1b"
   },
   {
     "@context": {
@@ -3682,9 +3682,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:10-04:00",
+    "dcterms:modified": "2017-11-27T09:57:18-05:00",
     "type": "Dataset",
-    "version": "56f9a791d2c39db074c1e094708d160641896c2e"
+    "version": "094a7c27c2df8c48d1c6c6dc6a38b029b27a0d2b"
   },
   {
     "@context": {
@@ -3737,9 +3737,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-12T07:20:34-05:00",
+    "dcterms:modified": "2017-11-22T12:34:29-05:00",
     "type": "Dataset",
-    "version": "925c98f59f56f773ec6c45182d69099159b8afb1"
+    "version": "4a136aecee0d1878b5fb70cd9d1883857052eba1"
   },
   {
     "@context": {
@@ -3866,9 +3866,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-12T07:24:58-05:00",
+    "dcterms:modified": "2017-11-22T14:39:51-05:00",
     "type": "Dataset",
-    "version": "26e9c2c5f6d71ad43316e1cd09d6dd3501c827b2"
+    "version": "06cf291b39fec9b8e490ffee02bc63ba24f843c6"
   },
   {
     "@context": {
@@ -3922,9 +3922,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-12T07:21:30-05:00",
+    "dcterms:modified": "2017-11-22T12:49:46-05:00",
     "type": "Dataset",
-    "version": "5d1babb75becdc3dd9d32e097b26fde9d76e98e3"
+    "version": "f57cb635db9723ef16709daf8bffb83b5e3c7e3f"
   },
   {
     "@context": {
@@ -3987,9 +3987,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-12T07:22:35-05:00",
+    "dcterms:modified": "2017-11-22T14:02:19-05:00",
     "type": "Dataset",
-    "version": "7904830bfb24374a4f838a89c8d8b58258a78663"
+    "version": "2917b74de709be923fe14a47971e6ce846a26dba"
   },
   {
     "@context": {
@@ -4040,9 +4040,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:14-04:00",
+    "dcterms:modified": "2017-11-22T15:05:25-05:00",
     "type": "Dataset",
-    "version": "18a1226e7c03d591c3173568fd9e53c753645620"
+    "version": "82e305f49b5606d88fb9329d54fb89e70f7fceb5"
   },
   {
     "@context": {
@@ -4096,9 +4096,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:13-04:00",
+    "dcterms:modified": "2017-11-22T16:05:15-05:00",
     "type": "Dataset",
-    "version": "d5b22c429bb2c98aacf5facee546933e4a7fcec6"
+    "version": "dfc5d0ac43ee908f9432d9c9e4010cc431043be0"
   },
   {
     "@context": {
@@ -4180,9 +4180,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-11T11:05:09-05:00",
+    "dcterms:modified": "2017-11-25T11:02:41-05:00",
     "type": "Dataset",
-    "version": "9cc56f13d68072e6c739fe8d436dc075d51029ac"
+    "version": "89eb79822e1d2bc71ebb90d6494ec67c11a0fc28"
   },
   {
     "@context": {
@@ -4233,9 +4233,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-12T07:27:48-05:00",
+    "dcterms:modified": "2017-11-22T22:27:14-05:00",
     "type": "Dataset",
-    "version": "dcb45f2a9bb583a734bea4fa605d70dcaf5f0295"
+    "version": "cc4a1ed1f86101b64fafb4128d257f96e4ecedca"
   },
   {
     "@context": {
@@ -4290,9 +4290,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-08T15:25:07-05:00",
+    "dcterms:modified": "2017-11-22T21:57:20-05:00",
     "type": "Dataset",
-    "version": "f3016880bde52fecd5299248d2b64ab8fcd7c489"
+    "version": "31372cb4c483e83e2e8f759eb21e1955e98f697f"
   },
   {
     "@context": {
@@ -4345,9 +4345,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:14-04:00",
+    "dcterms:modified": "2017-11-23T09:09:43-05:00",
     "type": "Dataset",
-    "version": "28879758aa3fd1ce6eed76ba978d92866cad3ec5"
+    "version": "a1bc14a2525403197d3c1d3aba5321d881b60734"
   },
   {
     "@context": {
@@ -4427,9 +4427,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:09-04:00",
+    "dcterms:modified": "2017-11-27T12:45:51-05:00",
     "type": "Dataset",
-    "version": "3a95e7fe36ab5b8bb3b44a5135bc549a8dbc5803"
+    "version": "676301a8cec58e6fc64e2e730172c323a4c4b875"
   },
   {
     "@context": {
@@ -4486,9 +4486,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-08-11T17:25:49-04:00",
+    "dcterms:modified": "2017-11-23T09:52:43-05:00",
     "type": "Dataset",
-    "version": "daf11a9930486d63f8d22aaf9259b92b5887c1c3"
+    "version": "a416722c4b1ce5c1e193b637ba2600bdd2e3ee5f"
   },
   {
     "@context": {
@@ -4548,9 +4548,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-08T17:54:15-05:00",
+    "dcterms:modified": "2017-11-23T08:30:15-05:00",
     "type": "Dataset",
-    "version": "a4b99e89f60f32c188418afd07ebd2d126e5a9d1"
+    "version": "a144ac70a63c20ac32fe8d71d34813af93658f55"
   },
   {
     "@context": {
@@ -4620,9 +4620,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-08-11T17:26:18-04:00",
+    "dcterms:modified": "2017-11-23T10:23:57-05:00",
     "type": "Dataset",
-    "version": "f7136ab491a20fc5b0be878b2c151a9460b4e010"
+    "version": "27245a05a7f9d2ce3f93d16b2aae7fab2c148193"
   },
   {
     "@context": {
@@ -4677,9 +4677,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-08-11T17:26:25-04:00",
+    "dcterms:modified": "2017-11-23T10:25:05-05:00",
     "type": "Dataset",
-    "version": "a6c9352f8971ced2cd0aeee6e7b0f86cb45ce8d0"
+    "version": "c410534a79655f96cc079819a0d4bc1276379986"
   },
   {
     "@context": {
@@ -4734,9 +4734,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-08T19:03:26-05:00",
+    "dcterms:modified": "2017-11-23T10:28:05-05:00",
     "type": "Dataset",
-    "version": "f9915c4379ebd2bbbd1671bc27e65ce312fb7ff1"
+    "version": "f74a019f49296058018a93fecbf169e7e1cf47ad"
   },
   {
     "@context": {
@@ -4791,9 +4791,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-08-11T17:25:56-04:00",
+    "dcterms:modified": "2017-11-23T10:05:29-05:00",
     "type": "Dataset",
-    "version": "31444fc2fc919a105b8b04f199fa51c8ecb2c8f8"
+    "version": "a04a8cbf1ce364663d531f578643359978dcb674"
   },
   {
     "@context": {
@@ -4850,9 +4850,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-12T07:35:05-05:00",
+    "dcterms:modified": "2017-11-23T11:35:11-05:00",
     "type": "Dataset",
-    "version": "2e505e5ac6f75a9b8e16fbd6e247541b384d5669"
+    "version": "1d047e042fea3d1911530d0d196adcc1b55e55e9"
   },
   {
     "@context": {
@@ -4918,9 +4918,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-08-11T17:26:11-04:00",
+    "dcterms:modified": "2017-11-23T10:22:43-05:00",
     "type": "Dataset",
-    "version": "da1216285c75243e75fcf2fe7ab27a59397d9a78"
+    "version": "977e6d6dddd8fe3d752050a11e1fb3b868712af1"
   },
   {
     "@context": {
@@ -4973,9 +4973,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-09-12T09:36:51-04:00",
+    "dcterms:modified": "2017-11-23T10:44:31-05:00",
     "type": "Dataset",
-    "version": "79f7a88219e34a595d40b149e1b3c4ad531f2b28"
+    "version": "3418d60e06cb20f3ca051021216c200da83d89dc"
   },
   {
     "@context": {
@@ -5029,9 +5029,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-08T20:38:58-05:00",
+    "dcterms:modified": "2017-11-23T11:43:09-05:00",
     "type": "Dataset",
-    "version": "6c40811ec49694753336a3b96c1c24f7ab5f25cd"
+    "version": "192ead1be0d9c6fb38f013e3147ce87f568c8149"
   },
   {
     "@context": {
@@ -5085,9 +5085,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-08T21:02:54-05:00",
+    "dcterms:modified": "2017-11-23T22:48:03-05:00",
     "type": "Dataset",
-    "version": "d8f513d7b3c6489f42a4e9c559f0fbaf2f676981"
+    "version": "de4731dee12bef5f4863556938ffb2b1763b849d"
   },
   {
     "@context": {
@@ -5133,9 +5133,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-08T15:23:38-05:00",
+    "dcterms:modified": "2017-11-22T21:48:25-05:00",
     "type": "Dataset",
-    "version": "e62a526f478ff9c2499787650c2725183dc168aa"
+    "version": "9b3b1c52aafdd59083b7d2c6ee029caa6cac6523"
   },
   {
     "@context": {
@@ -5186,9 +5186,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-12T07:28:59-05:00",
+    "dcterms:modified": "2017-11-23T22:18:34-05:00",
     "type": "Dataset",
-    "version": "a70ae911488786709f0839d41f6b438bd964da2c"
+    "version": "7bf047c015b978b87400075bad9979d2541d93f0"
   },
   {
     "@context": {
@@ -5228,6 +5228,10 @@
     "@id": "f7ccf78c-c436-11e7-af7c-002590f97d84",
     "availableFrom": [
       {
+        "@id": "077dc942-bc6b-444d-a3b6-1133dceead2f",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000241"
+      },
+      {
         "@id": "bd61a791-f159-4dd8-9871-eea0b36f8fd1",
         "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000241"
       },
@@ -5238,9 +5242,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-13T01:02:34-05:00",
+    "dcterms:modified": "2017-11-23T22:35:31-05:00",
     "type": "Dataset",
-    "version": "dcef3ee23a2ad702a0e32ab2e3e0f0794412e1d0"
+    "version": "5f2a8a55f3a3675c75b54eca499ddafbcb37a250"
   },
   {
     "@context": {
@@ -5284,6 +5288,10 @@
     "@id": "fbdd8bde-c436-11e7-af7c-002590f97d84",
     "availableFrom": [
       {
+        "@id": "2fb4f357-14f6-4793-b868-199f5b406004",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000240"
+      },
+      {
         "@id": "5419b15a-d377-442c-861e-ae7b521ba658",
         "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000240"
       },
@@ -5294,9 +5302,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-13T01:02:32-05:00",
+    "dcterms:modified": "2017-11-23T22:29:20-05:00",
     "type": "Dataset",
-    "version": "d24c5475ba61c2640eb4440ceb48eb36b1f29add"
+    "version": "c2cafbe73dc22571a57095dd5d377da26e5e2735"
   },
   {
     "@context": {
@@ -5338,6 +5346,10 @@
     "@id": "0053af0e-c437-11e7-af7c-002590f97d84",
     "availableFrom": [
       {
+        "@id": "a8ea3d91-9901-47a0-9fa8-ad53a44c934f",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000245"
+      },
+      {
         "@id": "c04eb54b-4b4e-5755-8436-866b043170fa",
         "description": "datalad-archives"
       },
@@ -5348,9 +5360,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-13T01:02:40-05:00",
+    "dcterms:modified": "2017-11-23T22:43:45-05:00",
     "type": "Dataset",
-    "version": "79881dbc8e7ad6b32fd1b948654d60ec11c17ccf"
+    "version": "43fae2fbb8cd30c58a37aa4e97579ae60b56ddd3"
   },
   {
     "@context": {
@@ -5412,13 +5424,17 @@
       {
         "@id": "c8a560d3-2e6a-4d1a-a849-ec320686380a",
         "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000244"
+      },
+      {
+        "@id": "f4de8e89-c9e2-41fc-a722-679f202651e4",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000244"
       }
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-13T01:02:38-05:00",
+    "dcterms:modified": "2017-11-24T03:17:11-05:00",
     "type": "Dataset",
-    "version": "65400e8b2eca17a1f0b4b00c3d7eac28208bab4d"
+    "version": "3499f64d55f9d6cf36a34c9ff8fc12a601710eb4"
   },
   {
     "@context": {
@@ -5459,6 +5475,10 @@
     "@id": "09c5d9d4-c77c-11e7-bb11-002590f97d84",
     "availableFrom": [
       {
+        "@id": "1adf3ace-47b9-4b78-b094-1680458b9ac3",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000246"
+      },
+      {
         "@id": "8c7ce089-e092-411d-82ff-54832b23ffc6",
         "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000246"
       },
@@ -5469,9 +5489,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-13T01:02:42-05:00",
+    "dcterms:modified": "2017-11-21T22:21:29-05:00",
     "type": "Dataset",
-    "version": "4e631d95b4cbff68b982d055915312518a7d1721"
+    "version": "6930a9d3b42037b045173d77b63f2452b0eb5c06"
   },
   {
     "@context": {
@@ -5517,6 +5537,10 @@
     "@id": "162329ca-c77c-11e7-bb11-002590f97d84",
     "availableFrom": [
       {
+        "@id": "04f86df9-5419-4eae-94e8-57ea76844805",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000248"
+      },
+      {
         "@id": "6968c89b-613d-465f-9dc3-3868c6a0456a",
         "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000248"
       },
@@ -5527,9 +5551,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-13T01:02:43-05:00",
+    "dcterms:modified": "2017-11-23T22:44:30-05:00",
     "type": "Dataset",
-    "version": "4fabc1744f7fcc3cbcd3f4cabc563206ea32f772"
+    "version": "5aa6f3964fbb14fe96b0fd5df0c451ebfca468c7"
   },
   {
     "@context": {
@@ -5588,13 +5612,17 @@
       {
         "@id": "c04eb54b-4b4e-5755-8436-866b043170fa",
         "description": "datalad-archives"
+      },
+      {
+        "@id": "d1daafd5-1a89-4054-b709-62f0ee5033d4",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000238"
       }
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-13T01:02:28-05:00",
+    "dcterms:modified": "2017-11-23T12:03:58-05:00",
     "type": "Dataset",
-    "version": "979a6c558e24b5c49abe371846445438f5d96d5e"
+    "version": "dcbe5d8bc3794a6833612ad36cd4ba3c456f1f31"
   },
   {
     "@context": {

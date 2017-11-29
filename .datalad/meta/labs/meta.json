@@ -7,9 +7,9 @@
     "@id": "72e7a148-7af4-11e6-af5a-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2017-11-06T16:18:04-05:00",
+    "dcterms:modified": "2017-11-29T09:58:46-05:00",
     "type": "Dataset",
-    "version": "4804996043707314a5ed7311b55fa8aecb6b8645"
+    "version": "7e7379381cab2938d14f9ea76a10d26d642a0533"
   },
   {
     "@context": {
@@ -163,9 +163,9 @@
     "@id": "01cfb952-8439-11e6-af53-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "72e7a148-7af4-11e6-af5a-002590f97d84",
-    "dcterms:modified": "2017-11-06T15:56:45-05:00",
+    "dcterms:modified": "2017-11-06T16:18:03-05:00",
     "type": "Dataset",
-    "version": "55b3ceee40b9d3e1d651ed511aabad64e9f0629b"
+    "version": "be890a11fa4633833f4e9c4412a8abc18f35d9f4"
   },
   {
     "@context": {
@@ -487,9 +487,9 @@
     "@id": "7944fa62-301c-11e7-8784-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "72e7a148-7af4-11e6-af5a-002590f97d84",
-    "dcterms:modified": "2017-09-25T13:41:31-04:00",
+    "dcterms:modified": "2017-11-29T09:58:35-05:00",
     "type": "Dataset",
-    "version": "6580109d3d29b67718a4f2ae853802cf18aeeecc"
+    "version": "9b4296dd6ef684d673a9d4f97ea1c351704ab6dd"
   },
   {
     "@context": {
@@ -528,9 +528,9 @@
     "@id": "fe961fb6-301c-11e7-b6cc-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "7944fa62-301c-11e7-8784-002590f97d84",
-    "dcterms:modified": "2017-05-12T15:35:08-04:00",
+    "dcterms:modified": "2017-11-29T09:58:06-05:00",
     "type": "Dataset",
-    "version": "13475aefeddae253774d872a954870f996022e98"
+    "version": "2569ab436501a832d35afbbe9cc20ffeb6077eb1"
   },
   {
     "@context": {
@@ -538,6 +538,72 @@
       "doap": "http://usefulinc.com/ns/doap#"
     },
     "@id": "fe961fb6-301c-11e7-b6cc-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:hasPart": {
+      "@id": "699b6994-97f9-11e7-bf68-003048ce7f90",
+      "location": "gobbini/famface/data"
+    }
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "699b6994-97f9-11e7-bf68-003048ce7f90",
+    "availableFrom": [
+      {
+        "@id": "0a17f3cb-49df-47fe-a68a-001a4a8fe0b2",
+        "description": "contematto@head1:/data/famface/bids"
+      },
+      {
+        "@id": "55bb55bc-52c0-4790-b344-46036c1fc7db",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/labs/gobbini/famface/data"
+      },
+      {
+        "@id": "5df2aa82-b0d8-4c33-b566-c7daaf8d6a81",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/labs/gobbini/famface/data"
+      },
+      {
+        "@id": "a994004d-170d-4d96-8d6e-f47366963305",
+        "description": "yoh@head1:/data/famface/openfmri/data"
+      },
+      {
+        "@id": "bd0cc375-643c-4713-83f2-f88269cab01b",
+        "description": "contematto@head1:/data/famface/bids"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "fe961fb6-301c-11e7-b6cc-002590f97d84",
+    "dcterms:modified": "2017-11-29T09:58:06-05:00",
+    "type": "Dataset",
+    "version": "f1e8c9b8b025c311424283b9711efc6bc906ba2b"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "699b6994-97f9-11e7-bf68-003048ce7f90",
+    "author": [
+      "Matteo Visconti di Oleggio Castello",
+      "Yaroslav O. Halchenko",
+      "J. Swaroop Guntupalli",
+      "Jason D. Gors",
+      "M. Ida Gobbini"
+    ],
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io/bids_spec1.0.2.pdf"
+    ],
+    "license": "PDDL",
+    "name": "The neural representation of personally familiar and unfamiliar faces in the distributed system for face perception"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "699b6994-97f9-11e7-bf68-003048ce7f90",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
   }
 ]
