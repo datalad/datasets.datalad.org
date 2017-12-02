@@ -7,9 +7,9 @@
     "@id": "76a53362-7ae6-11e6-a6c8-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2017-11-29T10:02:46-05:00",
+    "dcterms:modified": "2017-12-01T20:33:38-05:00",
     "type": "Dataset",
-    "version": "ee144135a6b5a36762a43c6a147f05defd6e83f9"
+    "version": "8baadda3e83a0ec7c1ae124a226bf6b18ed4ac4d"
   },
   {
     "@context": {
@@ -336,6 +336,10 @@
       {
         "@id": "751b0590-ae33-11e7-b20e-002590f97d84",
         "location": "nwb-1"
+      },
+      {
+        "@id": "861f7ce8-d383-11e7-8de6-002590f97d84",
+        "location": "ssc-8"
       }
     ]
   },
@@ -5265,6 +5269,10 @@
     "@id": "751b0590-ae33-11e7-b20e-002590f97d84",
     "availableFrom": [
       {
+        "@id": "27ca2f7c-a770-4e4a-a22f-04b7f5ff2eec",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/crcns/nwb-1"
+      },
+      {
         "@id": "a78842f6-b7a0-4016-8be2-dabf7ec54e57",
         "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/nwb-1"
       },
@@ -5279,9 +5287,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
-    "dcterms:modified": "2017-10-11T00:17:28-04:00",
+    "dcterms:modified": "2017-12-01T20:31:37-05:00",
     "type": "Dataset",
-    "version": "d1d36ed08bbfcd2c3f52329d9a554e2d5a9ac075"
+    "version": "f84891612abff1095601fc9dc05922bcf90f2c52"
   },
   {
     "@context": {
@@ -5297,6 +5305,44 @@
       "doap": "http://usefulinc.com/ns/doap#"
     },
     "@id": "751b0590-ae33-11e7-b20e-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "861f7ce8-d383-11e7-8de6-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "094a043a-3be3-4e1a-87a0-2cc519d6c133",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/crcns/ssc-8"
+      },
+      {
+        "@id": "c04eb54b-4b4e-5755-8436-866b043170fa",
+        "description": "datalad-archives"
+      },
+      {
+        "@id": "cf13d535-b47c-5df6-8590-0793cb08a90a",
+        "description": "datalad"
+      },
+      {
+        "@id": "d863a349-c94c-4f60-8faa-df9ee11f0dc4",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/crcns/ssc-8"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "76a53362-7ae6-11e6-a6c8-002590f97d84",
+    "dcterms:modified": "2017-12-01T20:32:57-05:00",
+    "type": "Dataset",
+    "version": "33b469253e0aec3db1062506fb3e384affd85033"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "861f7ce8-d383-11e7-8de6-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
   }
 ]
