@@ -40,3 +40,6 @@
 [submodule "adhd200"]
 	path = adhd200
 	url = ./adhd200
+[submodule "abide2"]
+	path = abide2
+	url = ./abide2
