@@ -1,0 +1,54 @@
+[
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "268c4ea8-dad8-11e7-8a40-002590f97d84",
+    "availableFrom": {
+      "@id": "e2f4c136-db3a-4dd6-b1ff-9180ef9762aa",
+      "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/abide2"
+    },
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
+    "dcterms:modified": "2017-12-07T23:01:35-05:00",
+    "type": "Dataset",
+    "version": "9d9c1471657f2cc85b787f21f55f1f8cf48ba357"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "268c4ea8-dad8-11e7-8a40-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:hasPart": {
+      "@id": "a8684db0-daff-11e7-a407-002590f97d84",
+      "location": "RawData"
+    }
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "a8684db0-daff-11e7-a407-002590f97d84",
+    "availableFrom": {
+      "@id": "7d5a7926-28ae-446d-be6e-139d091f4b60",
+      "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/abide2/RawData"
+    },
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "268c4ea8-dad8-11e7-8a40-002590f97d84",
+    "dcterms:modified": "2017-12-07T09:37:41-05:00",
+    "type": "Dataset",
+    "version": "4313d7af6c6b2f3df587ea8d27684628258b8cff"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "a8684db0-daff-11e7-a407-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  }
+]
