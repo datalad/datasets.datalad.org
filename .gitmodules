@@ -43,3 +43,6 @@
 [submodule "abide2"]
 	path = abide2
 	url = ./abide2
+[submodule "abide"]
+	path = abide
+	url = ./abide
