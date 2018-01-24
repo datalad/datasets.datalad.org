@@ -7,9 +7,9 @@
     "@id": "14114028-7d08-11e6-9ce4-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2017-12-08T00:18:18-05:00",
+    "dcterms:modified": "2018-01-23T16:14:19-05:00",
     "type": "Dataset",
-    "version": "738714cf9daf789d4ea47b46c071498d2144ba51"
+    "version": "94a0fdf676dfda4cc20076f99093515df7518dba"
   },
   {
     "@context": {
@@ -397,6 +397,38 @@
       {
         "@id": "f41ea46e-c436-11e7-af7c-002590f97d84",
         "location": "ds000238"
+      },
+      {
+        "@id": "95859b68-0079-11e8-9777-002590f97d84",
+        "location": "ds000258"
+      },
+      {
+        "@id": "917dca90-0079-11e8-9777-002590f97d84",
+        "location": "ds000256"
+      },
+      {
+        "@id": "8cd97ade-0079-11e8-9777-002590f97d84",
+        "location": "ds000254"
+      },
+      {
+        "@id": "87995922-0079-11e8-9777-002590f97d84",
+        "location": "ds000255"
+      },
+      {
+        "@id": "7d872900-0079-11e8-9777-002590f97d84",
+        "location": "ds000253"
+      },
+      {
+        "@id": "827eb018-0079-11e8-9777-002590f97d84",
+        "location": "ds000144"
+      },
+      {
+        "@id": "7999bb8c-0079-11e8-9777-002590f97d84",
+        "location": "ds000247"
+      },
+      {
+        "@id": "70146ea4-0079-11e8-9777-002590f97d84",
+        "location": "ds000249"
       }
     ]
   },
@@ -430,9 +462,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-21T01:08:07-05:00",
+    "dcterms:modified": "2017-12-06T10:18:53-05:00",
     "type": "Dataset",
-    "version": "4739c14bd77fd72e591d70faa2281ff01517958c"
+    "version": "ea98f90157459b3e70a7d7768ce1a0a6bf767746"
   },
   {
     "@context": {
@@ -3987,9 +4019,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-22T14:02:19-05:00",
+    "dcterms:modified": "2018-01-11T11:44:11-05:00",
     "type": "Dataset",
-    "version": "2917b74de709be923fe14a47971e6ce846a26dba"
+    "version": "06af21ae2328e49b4523e7c8a5457191395d0c83"
   },
   {
     "@context": {
@@ -4003,11 +4035,13 @@
       "R. Marc Lebel",
       "Yang Wang"
     ],
+    "citation": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5333818/",
     "dcterms:conformsTo": [
       "http://docs.datalad.org/metadata.html#v0-1",
-      "http://bids.neuroimaging.io/bids_spec1.0.0.pdf"
+      "http://bids.neuroimaging.io/bids_spec1.0.2.pdf"
     ],
     "description": "This dataset contains resting state data collected using a multiband, multiecho simultaneous pseudocontinous ASL (pCASL) and BOLD acquisition. Additional information regarding the sequence is as follows:\n\nThe sequence consists of an unbalanced pseudo-continuous ASL (pCASL) tagging module, followed by a post labeling delay period (PLD). Following the PLD, a multiband excitation and multi-echo, gradient-echo EPI readout was implemented. Blipped-CAIPI was also applied to reduce g-factor noise amplification caused by the slice-unaliasing in MB imaging. Each echo in the multi-echo acquisition was obtained consecutively as part of one shot. The last repetition is the M0 image collected for quantification of CBF.\nEach subject underwent one resting-state MBME ASL/BOLD scan, which utilized an unbalanced pCASL labeling scheme with labeling time=1.5 s and PLD=1.0 s. A partial k-space acquisition was employed with 20 overscan lines. To keep the later TEs within reasonable ranges and reduce total readout time, in-plane acceleration was employed with R=2. Additional parameters for the MBME ASL/BOLD run were as follows: number of echoes=4, TE=9.1, 25, 39.6, 54.3 ms, TR=3.5 s, MB-factor=4, number of excitations=9 (total slices=9×4=36), FOV=240 mm, resolution=3×3×3 mm, FA=90°, RF pulse width=6400 ms. Scans lasted 644 seconds resulting in 167 acquisitions excluding calibration reps. Subjects were instructed to lie awake with their eyes closed.\n\n### Comments added by Openfmri Curators ###\n===========================================\n\nGeneral Comments\n----------------\n\n\nDefacing\n--------\nPydeface was used on all anatomical images to ensure deindentification of subjects. The code\ncan be found at https://github.com/poldracklab/pydeface\n\nWhere to discuss the dataset\n----------------------------\n1) www.openfmri.org/dataset/ds000216/ See the comments section at the bottom of the dataset\npage.\n2) www.neurostars.org Please tag any discussion topics with the tags openfmri and ds000216\naccession number.\n3) Send an email to submissions@openfmri.org. Please include the ds000216 accession number in\nyour email.\n\nKnown Issues\n------------\nN/A\n\nBids-validator Output\n---------------------\ns file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: .zip\n       \t\t/sub-01/func/sub-01_task-rest_acq-echo-1_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-01_task-rest_acq-echo-1_bold.nii.gz\n       \t\t/sub-01/func/sub-01_task-rest_acq-echo-2_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-01_task-rest_acq-echo-2_bold.nii.gz\n       \t\t/sub-01/func/sub-01_task-rest_acq-echo-3_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-01_task-rest_acq-echo-3_bold.nii.gz\n       \t\t/sub-01/func/sub-01_task-rest_acq-echo-4_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-01_task-rest_acq-echo-4_bold.nii.gz\n       \t\t/sub-02/func/sub-02_task-rest_acq-echo-1_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-02_task-rest_acq-echo-1_bold.nii.gz\n       \t\t/sub-02/func/sub-02_task-rest_acq-echo-2_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-02_task-rest_acq-echo-2_bold.nii.gz\n       \t\t/sub-02/func/sub-02_task-rest_acq-echo-3_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-02_task-rest_acq-echo-3_bold.nii.gz\n       \t\t/sub-02/func/sub-02_task-rest_acq-echo-4_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-02_task-rest_acq-echo-4_bold.nii.gz\n       \t\t/sub-03/func/sub-03_task-rest_acq-echo-1_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-03_task-rest_acq-echo-1_bold.nii.gz\n       \t\t/sub-03/func/sub-03_task-rest_acq-echo-2_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-03_task-rest_acq-echo-2_bold.nii.gz\n       \t\t/sub-03/func/sub-03_task-rest_acq-echo-3_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-03_task-rest_acq-echo-3_bold.nii.gz\n       \t\t/sub-03/func/sub-03_task-rest_acq-echo-4_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-03_task-rest_acq-echo-4_bold.nii.gz\n       \t\t/sub-04/func/sub-04_task-rest_acq-echo-1_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-04_task-rest_acq-echo-1_bold.nii.gz\n       \t\t/sub-04/func/sub-04_task-rest_acq-echo-2_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-04_task-rest_acq-echo-2_bold.nii.gz\n       \t\t/sub-04/func/sub-04_task-rest_acq-echo-3_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-04_task-rest_acq-echo-3_bold.nii.gz\n       \t\t/sub-04/func/sub-04_task-rest_acq-echo-4_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-04_task-rest_acq-echo-4_bold.nii.gz\n       \t\t/sub-05/func/sub-05_task-rest_acq-echo-1_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-05_task-rest_acq-echo-1_bold.nii.gz\n       \t\t/sub-05/func/sub-05_task-rest_acq-echo-2_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-05_task-rest_acq-echo-2_bold.nii.gz\n       \t\t/sub-05/func/sub-05_task-rest_acq-echo-3_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-05_task-rest_acq-echo-3_bold.nii.gz\n       \t\t/sub-05/func/sub-05_task-rest_acq-echo-4_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-05_task-rest_acq-echo-4_bold.nii.gz\n       \t\t/sub-06/func/sub-06_task-rest_acq-echo-1_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-06_task-rest_acq-echo-1_bold.nii.gz\n       \t\t/sub-06/func/sub-06_task-rest_acq-echo-2_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-06_task-rest_acq-echo-2_bold.nii.gz\n       \t\t/sub-06/func/sub-06_task-rest_acq-echo-3_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-06_task-rest_acq-echo-3_bold.nii.gz\n       \t\t/sub-06/func/sub-06_task-rest_acq-echo-4_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-06_task-rest_acq-echo-4_bold.nii.gz\n       \t\t/sub-07/func/sub-07_task-rest_acq-echo-1_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-07_task-rest_acq-echo-1_bold.nii.gz\n       \t\t/sub-07/func/sub-07_task-rest_acq-echo-2_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-07_task-rest_acq-echo-2_bold.nii.gz\n       \t\t/sub-07/func/sub-07_task-rest_acq-echo-3_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-07_task-rest_acq-echo-3_bold.nii.gz\n       \t\t/sub-07/func/sub-07_task-rest_acq-echo-4_bold.nii.gz\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: sub-07_task-rest_acq-echo-4_bold.nii.gz\n       \t\t/task-rest_acq-echo-1_bold.json\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: task-rest_acq-echo-1_bold.json\n       \t\t/task-rest_acq-echo-2_bold.json\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: task-rest_acq-echo-2_bold.json\n       \t\t/task-rest_acq-echo-3_bold.json\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: task-rest_acq-echo-3_bold.json\n       \t\t/task-rest_acq-echo-4_bold.json\n       \t\t\tThis file is not part of the BIDS specification, make sure it isn't included in the dataset by accident. Data derivatives (processed data) should be placed in /derivatives folder.\n       \t\t\tEvidence: task-rest_acq-echo-4_bold.json\n\n        Summary:                Available Tasks:        Available Modalities:\n        44 Files, 1.97GB                                T1w\n        7 - Subjects\n        1 - Session",
+    "license": "CC0",
     "name": "Multiband Multi-Echo Imaging of Simultaneous Oxygenation and Flow Timeseries for Resting State Connectivity"
   },
   {
@@ -5652,6 +5686,246 @@
       "doap": "http://usefulinc.com/ns/doap#"
     },
     "@id": "f41ea46e-c436-11e7-af7c-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "95859b68-0079-11e8-9777-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "38748436-3553-41a9-a8de-fb738d999cb2",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000258"
+      },
+      {
+        "@id": "c04eb54b-4b4e-5755-8436-866b043170fa",
+        "description": "datalad-archives"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
+    "dcterms:modified": "2018-01-23T16:14:05-05:00",
+    "type": "Dataset",
+    "version": "85f84b6fa73a70771f88e975041ab01ea9a6e747"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "95859b68-0079-11e8-9777-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "917dca90-0079-11e8-9777-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "440c0f0e-839e-4570-beb5-63945040a6e4",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000256"
+      },
+      {
+        "@id": "c04eb54b-4b4e-5755-8436-866b043170fa",
+        "description": "datalad-archives"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
+    "dcterms:modified": "2018-01-23T16:14:00-05:00",
+    "type": "Dataset",
+    "version": "d75ee29b2118ab5c653b58cf28972a90d00e9e7b"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "917dca90-0079-11e8-9777-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "8cd97ade-0079-11e8-9777-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "9ea4143e-b07e-4831-b5c2-6a1ec8fd6d2f",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000254"
+      },
+      {
+        "@id": "c04eb54b-4b4e-5755-8436-866b043170fa",
+        "description": "datalad-archives"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
+    "dcterms:modified": "2018-01-23T16:13:51-05:00",
+    "type": "Dataset",
+    "version": "bf4fd91789c0158cd97702b4bc3c4fac63fe5182"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "8cd97ade-0079-11e8-9777-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "87995922-0079-11e8-9777-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "7bd278eb-2623-4d57-8586-428deaa5d386",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000255"
+      },
+      {
+        "@id": "c04eb54b-4b4e-5755-8436-866b043170fa",
+        "description": "datalad-archives"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
+    "dcterms:modified": "2018-01-23T16:13:55-05:00",
+    "type": "Dataset",
+    "version": "1aa4a22ae12d3be9ad715cbb9281cbb19f39e82e"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "87995922-0079-11e8-9777-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "7d872900-0079-11e8-9777-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "39d1a264-b088-4730-9934-3cf6634c5dd7",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000253"
+      },
+      {
+        "@id": "c04eb54b-4b4e-5755-8436-866b043170fa",
+        "description": "datalad-archives"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
+    "dcterms:modified": "2018-01-23T16:13:46-05:00",
+    "type": "Dataset",
+    "version": "d65bcfbfeb028652f526da971518f0020a5ec938"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "7d872900-0079-11e8-9777-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "827eb018-0079-11e8-9777-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "b47aa55a-c5ad-41d8-be56-17eccd13d42e",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000144"
+      },
+      {
+        "@id": "c04eb54b-4b4e-5755-8436-866b043170fa",
+        "description": "datalad-archives"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
+    "dcterms:modified": "2018-01-23T16:11:21-05:00",
+    "type": "Dataset",
+    "version": "82dd9210b69e9ee4f054c15bbc01cbfcbe6030d2"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "827eb018-0079-11e8-9777-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "7999bb8c-0079-11e8-9777-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "735789c1-0bff-493d-af25-629cb0323205",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000247"
+      },
+      {
+        "@id": "c04eb54b-4b4e-5755-8436-866b043170fa",
+        "description": "datalad-archives"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
+    "dcterms:modified": "2018-01-23T16:13:35-05:00",
+    "type": "Dataset",
+    "version": "ea3f99fcd2c6ebe7290d3212cbba52f1a17130e5"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "7999bb8c-0079-11e8-9777-002590f97d84",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "70146ea4-0079-11e8-9777-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "c04eb54b-4b4e-5755-8436-866b043170fa",
+        "description": "datalad-archives"
+      },
+      {
+        "@id": "cde68bde-4b18-46c2-9dbb-df816a12acbf",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000249"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
+    "dcterms:modified": "2018-01-23T16:13:42-05:00",
+    "type": "Dataset",
+    "version": "07678fafe71d8b9780221ac5fe7f7de5ef736d7f"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "70146ea4-0079-11e8-9777-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
   }
 ]

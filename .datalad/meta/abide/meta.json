@@ -5,10 +5,16 @@
       "doap": "http://usefulinc.com/ns/doap#"
     },
     "@id": "064527ea-92b3-11e7-8836-002590f97d84",
-    "availableFrom": {
-      "@id": "b6bb1655-279a-4a90-b296-1eea7f1807a6",
-      "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/abide"
-    },
+    "availableFrom": [
+      {
+        "@id": "b6bb1655-279a-4a90-b296-1eea7f1807a6",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/abide"
+      },
+      {
+        "@id": "e7a6e884-a622-4300-9e21-d2a933483811",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/abide"
+      }
+    ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
     "dcterms:modified": "2017-12-07T22:54:46-05:00",
