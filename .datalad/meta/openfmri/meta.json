@@ -7,9 +7,9 @@
     "@id": "14114028-7d08-11e6-9ce4-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2018-01-23T16:14:19-05:00",
+    "dcterms:modified": "2018-02-13T09:08:26-05:00",
     "type": "Dataset",
-    "version": "94a0fdf676dfda4cc20076f99093515df7518dba"
+    "version": "e9427d6b350e3c04dc043da46db0950d07456f3b"
   },
   {
     "@context": {
@@ -462,9 +462,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-12-06T10:18:53-05:00",
+    "dcterms:modified": "2018-02-12T10:07:22-05:00",
     "type": "Dataset",
-    "version": "ea98f90157459b3e70a7d7768ce1a0a6bf767746"
+    "version": "f47099a5124e8f619f763f44f70e1faf5154d41a"
   },
   {
     "@context": {
@@ -523,9 +523,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-21T01:09:54-05:00",
+    "dcterms:modified": "2018-02-12T10:07:21-05:00",
     "type": "Dataset",
-    "version": "573da033949101b07fc0fd8f3dec8b28aa340ab2"
+    "version": "e1b7df06da8dd8f1d8802d699d9ad7781fad8bb6"
   },
   {
     "@context": {
@@ -581,9 +581,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-20T23:41:06-05:00",
+    "dcterms:modified": "2018-02-12T10:07:21-05:00",
     "type": "Dataset",
-    "version": "68531fe8af039e109f90f097c948344bc49e52a1"
+    "version": "767dbe7e035393d410e239cbac2a8189e093447b"
   },
   {
     "@context": {
@@ -637,9 +637,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-21T00:34:10-05:00",
+    "dcterms:modified": "2018-02-12T10:07:21-05:00",
     "type": "Dataset",
-    "version": "ed2ff4fce55dafbc0eb591043875306549050597"
+    "version": "474a9b412bc14cb186cb1c01c981529315b4580b"
   },
   {
     "@context": {
@@ -692,9 +692,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-21T01:14:30-05:00",
+    "dcterms:modified": "2018-02-12T10:07:20-05:00",
     "type": "Dataset",
-    "version": "53a12cdc9f90e7c03f6445018541a218e6f6a315"
+    "version": "e24244a819ab04a85a3d44d04960d27ecbd1a537"
   },
   {
     "@context": {
@@ -750,9 +750,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-21T00:12:50-05:00",
+    "dcterms:modified": "2018-02-12T10:07:20-05:00",
     "type": "Dataset",
-    "version": "9c1ee4ce9815ca23facf75d051d674068050118b"
+    "version": "8750bb6075644d0ef0e88bee73c80eba7b15ce4e"
   },
   {
     "@context": {
@@ -811,9 +811,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-21T01:59:27-05:00",
+    "dcterms:modified": "2018-02-12T10:07:20-05:00",
     "type": "Dataset",
-    "version": "a8799400e95b9decc406653e3e0705f8a80e6491"
+    "version": "916314bcf79d5a9db4be75cfd423d40d5c1c650e"
   },
   {
     "@context": {
@@ -864,9 +864,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-21T05:09:07-05:00",
+    "dcterms:modified": "2018-02-12T10:07:19-05:00",
     "type": "Dataset",
-    "version": "4426bc0aa7e60a63549248cff7e319bbbc078085"
+    "version": "81a2721635f9bff21beb047582f50e09e9d47279"
   },
   {
     "@context": {
@@ -925,9 +925,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-21T02:06:27-05:00",
+    "dcterms:modified": "2018-02-12T10:07:19-05:00",
     "type": "Dataset",
-    "version": "96d0052551ebbd5956aa6e729b3cadad68641962"
+    "version": "ad7164791e522eacbec80723962555fb830ae45f"
   },
   {
     "@context": {
@@ -1007,9 +1007,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-24T14:34:13-05:00",
+    "dcterms:modified": "2018-02-12T10:07:18-05:00",
     "type": "Dataset",
-    "version": "849f8951f61cdddf28689c5f6ec43be8cdfa1ade"
+    "version": "0c173f4f739a4d38ef9e16ad3b29fad50ab033aa"
   },
   {
     "@context": {
@@ -1061,9 +1061,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-24T14:34:27-05:00",
+    "dcterms:modified": "2018-02-12T10:07:18-05:00",
     "type": "Dataset",
-    "version": "155aabf3d0a146c4f527b1d3cee73cbe8efe3738"
+    "version": "573253747b3fcabd6f0aa42aaa219f1acbbd0142"
   },
   {
     "@context": {
@@ -1095,9 +1095,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:06-04:00",
+    "dcterms:modified": "2018-02-12T10:07:17-05:00",
     "type": "Dataset",
-    "version": "5092f6b839a89c093d03acf31d5aa013f4018a48"
+    "version": "5a480d496d9ddba18ce0f9ecbbbf2a69e8b86e12"
   },
   {
     "@context": {
@@ -1170,9 +1170,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-25T00:19:38-05:00",
+    "dcterms:modified": "2018-02-12T10:07:17-05:00",
     "type": "Dataset",
-    "version": "0ce016955427653c3a3873c91700b7cb07a4267d"
+    "version": "30efce337c4f69817eeec5fa215220808826cf24"
   },
   {
     "@context": {
@@ -1228,9 +1228,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-22T13:02:50-05:00",
+    "dcterms:modified": "2018-02-12T10:07:16-05:00",
     "type": "Dataset",
-    "version": "c40ecdd84d3b03fd4d917f9678911fe4c42fd90c"
+    "version": "602fb332cdca6dd8a17af7eaf09ae8042a355773"
   },
   {
     "@context": {
@@ -1284,9 +1284,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-22T01:29:10-05:00",
+    "dcterms:modified": "2018-02-12T10:07:16-05:00",
     "type": "Dataset",
-    "version": "5eee44fba50bc6699065b1376b16c1225eb252cd"
+    "version": "75395abf12c70ff38e992e491d31af3aeef34832"
   },
   {
     "@context": {
@@ -1344,9 +1344,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-22T20:23:06-05:00",
+    "dcterms:modified": "2018-02-12T10:07:15-05:00",
     "type": "Dataset",
-    "version": "0196b537618de6ba7ce82faa19f1c54132636821"
+    "version": "87216817e6864813b0a9a9f80a1a02e9e3eb2e66"
   },
   {
     "@context": {
@@ -1410,9 +1410,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-21T04:06:52-05:00",
+    "dcterms:modified": "2018-02-12T10:07:15-05:00",
     "type": "Dataset",
-    "version": "d6e0438eeafd0dc6059a591d0ea5a1eab41c90c9"
+    "version": "c5ac7461e1628f0fb4e8f96842c0311b13079948"
   },
   {
     "@context": {
@@ -1469,9 +1469,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-21T04:37:00-05:00",
+    "dcterms:modified": "2018-02-12T10:07:14-05:00",
     "type": "Dataset",
-    "version": "a98f834fa9cc731347fe9e7321ca2a69d1f59171"
+    "version": "8995e05b864f42bc3198480972372c8c4550c126"
   },
   {
     "@context": {
@@ -1533,9 +1533,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-21T05:26:00-05:00",
+    "dcterms:modified": "2018-02-12T10:07:14-05:00",
     "type": "Dataset",
-    "version": "8c0a61dab74b226f8f39ee272723c35fe251840c"
+    "version": "1f2b535cf90c5905230c4b0bc0743f35a73b8b77"
   },
   {
     "@context": {
@@ -1594,9 +1594,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-27T08:51:18-05:00",
+    "dcterms:modified": "2018-02-12T10:07:14-05:00",
     "type": "Dataset",
-    "version": "1ac64298088423997ad34d20a47b780e752d1297"
+    "version": "572ea71caa54e1a2f8608be54d178a870aa55b63"
   },
   {
     "@context": {
@@ -1653,9 +1653,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-24T16:19:23-05:00",
+    "dcterms:modified": "2018-02-12T10:07:13-05:00",
     "type": "Dataset",
-    "version": "47eb3b40d244046703898e561fa3545d9d1e8d81"
+    "version": "ec972b04e2c39bf8e05910a680c990266e505350"
   },
   {
     "@context": {
@@ -1713,9 +1713,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-21T06:13:49-05:00",
+    "dcterms:modified": "2018-02-12T10:07:13-05:00",
     "type": "Dataset",
-    "version": "4d3d974982449e2e7621d9dc5b52f925649bb395"
+    "version": "9d21ace07b6989cecb6faa39654d56a59c3f6832"
   },
   {
     "@context": {
@@ -1769,9 +1769,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-21T21:37:29-05:00",
+    "dcterms:modified": "2018-02-12T10:07:13-05:00",
     "type": "Dataset",
-    "version": "ce5f73ffe585659671ed835ae9c3e5143043f8b0"
+    "version": "5bb0df34ed18826e28f7c55765a7f6b661796cd9"
   },
   {
     "@context": {
@@ -1827,9 +1827,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-24T11:46:34-05:00",
+    "dcterms:modified": "2018-02-12T10:07:12-05:00",
     "type": "Dataset",
-    "version": "fc39a33e3722ae9df867a50fd80d828fd91e976f"
+    "version": "eaa43f0b8d6fc716368bd932dc6df7b5455b047a"
   },
   {
     "@context": {
@@ -1861,9 +1861,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-23T23:29:48-05:00",
+    "dcterms:modified": "2018-02-12T10:07:12-05:00",
     "type": "Dataset",
-    "version": "b15a0f0836b3d2badaed5ed8c21f0c27049dc75b"
+    "version": "eaf43f3b315240e2405c8ac0989131726b4cabeb"
   },
   {
     "@context": {
@@ -1919,9 +1919,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-24T00:42:47-05:00",
+    "dcterms:modified": "2018-02-12T10:07:11-05:00",
     "type": "Dataset",
-    "version": "ee0f4d8c6eb0d42880a8b7bc41744663d5dc3391"
+    "version": "7594ef13438bbc6300226ed78ec9abcfee3ce06e"
   },
   {
     "@context": {
@@ -1982,9 +1982,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-26T20:21:25-05:00",
+    "dcterms:modified": "2018-02-12T10:07:11-05:00",
     "type": "Dataset",
-    "version": "7da7da5747834fe5b0c4535a6320e628572b55af"
+    "version": "7853eef62debd68ca974928bb5033234181ca412"
   },
   {
     "@context": {
@@ -2050,9 +2050,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-26T19:06:00-05:00",
+    "dcterms:modified": "2018-02-12T10:07:10-05:00",
     "type": "Dataset",
-    "version": "c077215c4a536987a030781eb49c5e8c746e2483"
+    "version": "048201e0448a84cbe610d710273e9c568a163eec"
   },
   {
     "@context": {
@@ -2109,9 +2109,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-27T22:58:10-05:00",
+    "dcterms:modified": "2018-02-12T10:07:10-05:00",
     "type": "Dataset",
-    "version": "ef3492fbe26fc0115c97cebfabd2d12a12a575e5"
+    "version": "ecfbccdf64160ffe9ffe1ab158b376ba993b01e4"
   },
   {
     "@context": {
@@ -2165,9 +2165,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-27T22:52:46-05:00",
+    "dcterms:modified": "2018-02-12T10:07:09-05:00",
     "type": "Dataset",
-    "version": "8d590c11ace091bb0d32f2ba5c50aaf40e9e1c6e"
+    "version": "898967247c4bbbc8835b97fcee8633840e2617a9"
   },
   {
     "@context": {
@@ -2219,9 +2219,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-28T01:36:22-05:00",
+    "dcterms:modified": "2018-02-12T10:07:09-05:00",
     "type": "Dataset",
-    "version": "25d57f8ed5cdfba6fef635be5f3eeceb8049d930"
+    "version": "88e29fe711debe95a0fe565b8cd4557c474d612c"
   },
   {
     "@context": {
@@ -2279,9 +2279,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-28T00:36:46-05:00",
+    "dcterms:modified": "2018-02-12T10:07:08-05:00",
     "type": "Dataset",
-    "version": "bbc409e89eeb929a1cf78266c3eaafe2392a4cff"
+    "version": "fc3bc3620478c0ea328b04299a6e1a69370c5727"
   },
   {
     "@context": {
@@ -2335,9 +2335,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-27T23:11:18-05:00",
+    "dcterms:modified": "2018-02-12T10:07:08-05:00",
     "type": "Dataset",
-    "version": "6a3be3044a33c451583f234540166979883a2f71"
+    "version": "ebaebe60a8b947b2d4f4ab98dc8a40aa91d88768"
   },
   {
     "@context": {
@@ -2394,9 +2394,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-28T00:19:02-05:00",
+    "dcterms:modified": "2018-02-12T10:07:08-05:00",
     "type": "Dataset",
-    "version": "8646285cbbe61d02f9e672cedba0fdfe235369b0"
+    "version": "4367f55cff0cb3dac58802bcf6850c05ffd5cca0"
   },
   {
     "@context": {
@@ -2454,9 +2454,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-28T00:23:59-05:00",
+    "dcterms:modified": "2018-02-12T10:07:07-05:00",
     "type": "Dataset",
-    "version": "b600f745283686ad9599468378ecaaca21ec7cb2"
+    "version": "a9d4e0e5f827e55b531f7c61f94c0dbfee6a429b"
   },
   {
     "@context": {
@@ -2510,9 +2510,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-27T12:53:07-05:00",
+    "dcterms:modified": "2018-02-12T10:07:07-05:00",
     "type": "Dataset",
-    "version": "ab2fd4af8980f1ad58dff388c110c16ae1c0dec8"
+    "version": "26c3577dbad8f609a16e86fcce47fa5daa2a06e7"
   },
   {
     "@context": {
@@ -2567,9 +2567,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:10-04:00",
+    "dcterms:modified": "2018-02-12T10:07:06-05:00",
     "type": "Dataset",
-    "version": "acb97a7a06cd74ae40e67fc3cf6a6f3affa5c498"
+    "version": "515ea3fc9bdd0fd2226831cb99665aa0ad317497"
   },
   {
     "@context": {
@@ -2622,9 +2622,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-27T13:39:58-05:00",
+    "dcterms:modified": "2018-02-12T10:07:06-05:00",
     "type": "Dataset",
-    "version": "2872a953503bd043dde93cb525f995e6530330b3"
+    "version": "8695b1e5fb5d2652d3d3a3c98f01acbf8f1c93bd"
   },
   {
     "@context": {
@@ -2676,9 +2676,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-27T10:14:06-05:00",
+    "dcterms:modified": "2018-02-12T10:07:05-05:00",
     "type": "Dataset",
-    "version": "6b22c5f9997df6e1a24ff4e7d5f95147978d181a"
+    "version": "dad5d137d9427c1515d5f9821697ed8c7f07fe77"
   },
   {
     "@context": {
@@ -2710,9 +2710,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-27T10:12:39-05:00",
+    "dcterms:modified": "2018-02-12T10:07:05-05:00",
     "type": "Dataset",
-    "version": "23dbff0bb71a89698946a807dc4838018c833273"
+    "version": "26f559ac55a312325d7df2097419cf0cd5f5539e"
   },
   {
     "@context": {
@@ -2767,9 +2767,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-27T10:54:44-05:00",
+    "dcterms:modified": "2018-02-12T10:07:05-05:00",
     "type": "Dataset",
-    "version": "ce015cfb54cabcea4c4f3f48196a644818f4132e"
+    "version": "86d1319f8d042dcaac5cb0b2557a3751ff58cead"
   },
   {
     "@context": {
@@ -2831,9 +2831,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-27T10:06:44-05:00",
+    "dcterms:modified": "2018-02-12T10:07:04-05:00",
     "type": "Dataset",
-    "version": "c6b681282a0f17fb2048dd08faf89beac79b0233"
+    "version": "e37010691505505eb232fa80270f00c554b25e60"
   },
   {
     "@context": {
@@ -2886,9 +2886,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-27T09:35:20-05:00",
+    "dcterms:modified": "2018-02-12T10:07:04-05:00",
     "type": "Dataset",
-    "version": "d104ea1230749047b566a192eb11d7fa4a97348c"
+    "version": "02b5b8ac5a8084cd46249de7768304e550d55d27"
   },
   {
     "@context": {
@@ -2945,9 +2945,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-27T09:36:18-05:00",
+    "dcterms:modified": "2018-02-12T10:07:04-05:00",
     "type": "Dataset",
-    "version": "ad37275ef07d2c10a95771bedbed86ed34030856"
+    "version": "c473853e546f6f3714766b3b639821aaab44f18b"
   },
   {
     "@context": {
@@ -3012,9 +3012,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-27T09:34:58-05:00",
+    "dcterms:modified": "2018-02-12T10:07:03-05:00",
     "type": "Dataset",
-    "version": "90dc4f607f125d88a053a2ea7d45cf3f3e00a6b9"
+    "version": "34a5b09ab205cf0f864c33d485e33a7a74a7765b"
   },
   {
     "@context": {
@@ -3074,9 +3074,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-27T09:39:17-05:00",
+    "dcterms:modified": "2018-02-12T10:07:03-05:00",
     "type": "Dataset",
-    "version": "d00b6b12a40468796768705afa96da4886956096"
+    "version": "dc69d6c11b9836f6ab2ec63c8dcec1e7bb142091"
   },
   {
     "@context": {
@@ -3134,9 +3134,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-26T18:11:58-05:00",
+    "dcterms:modified": "2018-02-12T10:07:03-05:00",
     "type": "Dataset",
-    "version": "b1d8f9294c3513a66254858324040d157096ea8e"
+    "version": "0aab3117a6edfbe15a9674eebf028b1f3a64b753"
   },
   {
     "@context": {
@@ -3194,9 +3194,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-21T22:54:01-05:00",
+    "dcterms:modified": "2018-02-12T10:07:02-05:00",
     "type": "Dataset",
-    "version": "a942559976ccdd16a659136cd11f3e03fe0b9b6b"
+    "version": "1ff5bd7daf0e89c589e99c6bcc6984385baca51e"
   },
   {
     "@context": {
@@ -3248,9 +3248,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-24T12:05:09-05:00",
+    "dcterms:modified": "2018-02-13T07:49:19-05:00",
     "type": "Dataset",
-    "version": "25ac9342db8d634396ecc21f12527d42e3169eaa"
+    "version": "916b932cbec8297718e03bf17b6ea70429dc2cb5"
   },
   {
     "@context": {
@@ -3281,9 +3281,9 @@
     ],
     "dcterms:conformsTo": [
       "http://docs.datalad.org/metadata.html#v0-1",
-      "http://bids.neuroimaging.io/bids_spec1.0.0rc3.pdf"
+      "http://bids.neuroimaging.io/bids_spec1.0.2.pdf"
     ],
-    "description": "# The Stockholm SleepyBrain Project #\n\n## Background and Aim ## \n\nSleepiness is a brain state with pervasive effects on cognitive and\naffective functioning. However, little is known about the functional\nmechanisms and correlates of sleepiness in the awake brain. This project\naimed to investigate overall effects of sleepiness on brain function \nwith particular regard to emotional processing.\n\n## Method and Design ##  \n\nWe investigated the effects of sleep deprivation using a randomized\ncross-over design. Resting state functional connectivity was \ninvestigated using functional magnetic resonance imaging (fMRI). \nEmotional contagion was studied using concurrent fMRI and \nelectromyography (EMG) of facial muscles in response to emotional \nexpressions and empathy for pain was investigated using pictures \nof others receiving pain stimuli. To study emotional reappraisal, \nparticipants were instructed to actively up-regulate or \ndown-regulate their emotional responses to picture stimuli. \nThe participants were characterized using several rating scales, \nbiometric information, and blood sampling.\n\n## Specific Notes ##\n\n### participants.tsv File ###\nSubject ID list and subject-level variables. Please refer to the\nparticipants_codebook.tsv guidance on how to interpret specific \ncolumns in the participants.tsv file.\n\n### BIDS dataset ###\nData were converted from DICOM source files using dcm2niix. The\nparameters were further extracted from the DICOM files using pydicom\nand converted to .json format. SeriesDates were anonymized and\nshifted to pre-1900's years and a subject-based offset added to\nthe month/year that preserves time difference between initial\nand follow-up visit.\n\nT1- and T2-anatomical scans (anat/*_T{1,2}w.nii.gz) were defaced using \nthe pydeface.py software: \n  https://github.com/poldracklab/pydeface (c1ceeb2)\n\n### derivatives Folder ###\nThis folder contains the processed output from the MRIQC protocol.\nMRIQC is an automated processing pipeline designed to compute many\nimage quality metrics for T1 weighted anatomical and T2* weighted\nfunctional scans. For more information please see:\n\n  https://github.com/poldracklab/mriqc (a5f68f5)\n\nAdditional derivatives include:\n\n  - Plots of the fMRI event logs\n  - thumbnail mosaics of the high-resolution T1w and T2w scans used\n    to confirm defacing process.\n\n### rawsource Folder ###\nThis folder contains the as-provided source files used to create the\nBIDS dataset files. The only changes made to these source files were\nto remove any information that could potentially be used to identify\nthe study participants. Specifically:\n\n  - EyeTrackingLogFiles: Files renamed, \"TimeValues\" and \"TimeStamp\" \n    entries changed to \"REMOVED\" within each file.\n  - PresentationLogFiles: Files renamed, scrubbed of Dates, Subject\n    IDs. These files were used to create the\n       sub-9XXX_ses-{1,2}_task-<taskname>_events.tsv\n    files.\n  - PulseGatingFiles: Files renamed to remove original IDs.\n  - WorkingMemoryTestResults: Files renamed to remove original IDs.,\n    subject IDs altered to 9XXX series randomized IDs. Dates removed.\n    Times-of-day left intact.\n\nOther data that could not be included in raw form due to its binary nature:\n\n  - Physiological recordings (EMG): Converted from raw Acknowledge format\n    to compressed .tsv files using the \"convert_physio_files.py\" script\n    located in the code/ directory within the dataset. The output data are \n    located within the dataset as *_physio.tsv.gz and *_physio.json pairs.\n\n### Diffusion Imaging - use these data with caution ###\nDiffusion imaging from the following subjects should be used with\ncaution due to suspicious bval/bvecs tables extracted from the source\nDICOM files:\n\n    sub-9019  sub-9070  sub-9057  sub-9091  sub-9090  sub-9013  sub-9044\n    sub-9050  sub-9067  sub-9035  sub-9035  sub-9073  sub-9083  sub-9037\n    sub-9007  sub-9053  sub-9066  sub-9012  sub-9082  sub-9077  sub-9076\n    sub-9099  sub-9001\n\n### Raw Polysomnography Data ###\nRaw polysomnography data is available upon request. Please contact Gustav Nilsonne at \ngustav.nilsonne@ki.se to request this data.",
+    "description": "# The Stockholm SleepyBrain Project #\n\n## Background and Aim ## \n\nSleepiness is a brain state with pervasive effects on cognitive and\naffective functioning. However, little is known about the functional\nmechanisms and correlates of sleepiness in the awake brain. This project\naimed to investigate overall effects of sleepiness on brain function \nwith particular regard to emotional processing.\n\n## Method and Design ##  \n\nWe investigated the effects of sleep deprivation using a randomized\ncross-over design. Resting state functional connectivity was \ninvestigated using functional magnetic resonance imaging (fMRI). \nEmotional contagion was studied using concurrent fMRI and \nelectromyography (EMG) of facial muscles in response to emotional \nexpressions and empathy for pain was investigated using pictures \nof others receiving pain stimuli. To study emotional reappraisal, \nparticipants were instructed to actively up-regulate or \ndown-regulate their emotional responses to picture stimuli. \nThe participants were characterized using several rating scales, \nbiometric information, and blood sampling.\n\n## Specific Notes ##\n\n### participants.tsv File ###\nSubject ID list and subject-level variables. Please refer to the\nparticipants.json for guidance on how to interpret specific \ncolumns in the participants.tsv file.\n\n### BIDS dataset ###\nData were converted from DICOM source files using dcm2niix. The\nparameters were further extracted from the DICOM files using pydicom\nand converted to .json format. SeriesDates were anonymized and\nshifted to pre-1900's years and a subject-based offset added to\nthe month/year that preserves time difference between initial\nand follow-up visit.\n\nT1- and T2-anatomical scans (anat/*_T{1,2}w.nii.gz) were defaced using \nthe pydeface.py software: \n  https://github.com/poldracklab/pydeface (c1ceeb2)\n\n### derivatives Folder ###\nThis folder contains the processed output from the MRIQC protocol.\nMRIQC is an automated processing pipeline designed to compute many\nimage quality metrics for T1 weighted anatomical and T2* weighted\nfunctional scans. For more information please see:\n\n  https://github.com/poldracklab/mriqc (a5f68f5)\n\nAdditional derivatives include:\n\n  - Plots of the fMRI event logs\n  - thumbnail mosaics of the high-resolution T1w and T2w scans used\n    to confirm defacing process.\n\n### sourcedata Folder ###\nThis folder contains the as-provided source files used to create the\nBIDS dataset files. The only changes made to these source files were\nto remove any information that could potentially be used to identify\nthe study participants. Specifically:\n\n  - EyeTrackingLogFiles: Files renamed, \"TimeValues\" and \"TimeStamp\" \n    entries changed to \"REMOVED\" within each file.\n  - PresentationLogFiles: Files renamed, scrubbed of Dates, Subject\n    IDs. These files were used to create the\n       sub-9XXX_ses-{1,2}_task-<taskname>_events.tsv\n    files.\n  - PulseGatingFiles: Files renamed to remove original IDs.\n  - WorkingMemoryTestResults: Files renamed to remove original IDs.,\n    subject IDs altered to 9XXX series randomized IDs. Dates removed.\n    Times-of-day left intact.\n\nOther data that could not be included in raw form due to its binary nature:\n\n  - Physiological recordings (EMG): Converted from raw Acknowledge format\n    to compressed .tsv files using the \"convert_physio_files.py\" script\n    located in the code/ directory within the dataset. The output data are \n    located within the dataset as *_physio.tsv.gz and *_physio.json pairs.\n\n### Diffusion Imaging - use these data with caution ###\nDiffusion imaging from the following subjects should be used with\ncaution due to suspicious bval/bvecs tables extracted from the source\nDICOM files:\n\n    sub-9019  sub-9070  sub-9057  sub-9091  sub-9090  sub-9013  sub-9044\n    sub-9050  sub-9067  sub-9035  sub-9035  sub-9073  sub-9083  sub-9037\n    sub-9007  sub-9053  sub-9066  sub-9012  sub-9082  sub-9077  sub-9076\n    sub-9099  sub-9001\n\n### Raw Polysomnography Data ###\nRaw polysomnography data is available upon request. Please contact Gustav Nilsonne at \ngustav.nilsonne@ki.se to request this data.\n\n### Known Issues ###\n-sub-9066/ses-1/func/sub-9066_ses-1_task-hands_events.tsv does not have all of the columns present in \nthe other events files. It only has 'onset', 'duration' and 'condition'.",
     "license": "PDDL",
     "name": "The Stockholm Sleepy Brain Study: Effects of Sleep Deprivation on Cognitive and Emotional Processing in Young and Old"
   },
@@ -3317,9 +3317,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-21T23:08:27-05:00",
+    "dcterms:modified": "2018-02-12T10:07:01-05:00",
     "type": "Dataset",
-    "version": "898c568922328f0ba019deadeda32ac8b7016924"
+    "version": "6a943997acc00988d041ad653673b737ab793c62"
   },
   {
     "@context": {
@@ -3371,9 +3371,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-23T02:39:47-05:00",
+    "dcterms:modified": "2018-02-12T10:07:01-05:00",
     "type": "Dataset",
-    "version": "dee1bd34d1de88b3bf3f1f15689856deaa4769f0"
+    "version": "654fc380bd1effdf3d8e95db350a8668450eaa0f"
   },
   {
     "@context": {
@@ -3429,9 +3429,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-24T12:30:53-05:00",
+    "dcterms:modified": "2018-02-12T10:07:00-05:00",
     "type": "Dataset",
-    "version": "a359e5b79156e8d4f1ff3a7aec83a7d1ecd35a6d"
+    "version": "a2e805ed34d6431ebe39095b1ec06dad5e611340"
   },
   {
     "@context": {
@@ -3498,9 +3498,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-24T12:38:48-05:00",
+    "dcterms:modified": "2018-02-12T10:06:59-05:00",
     "type": "Dataset",
-    "version": "9f9138ee1ac52e8649f88fb6531b4d5be901c031"
+    "version": "6f78e20328e036dcdddc7a7274e1f657bcb7d8b7"
   },
   {
     "@context": {
@@ -3552,9 +3552,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-24T13:14:06-05:00",
+    "dcterms:modified": "2018-02-12T10:06:59-05:00",
     "type": "Dataset",
-    "version": "04b8fef9c2e4ed78e65c182a4d55a288a5398693"
+    "version": "ef7db7038d64d5fa0d4e73bff310a4904d2ef998"
   },
   {
     "@context": {
@@ -3609,9 +3609,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-24T12:42:02-05:00",
+    "dcterms:modified": "2018-02-12T10:06:58-05:00",
     "type": "Dataset",
-    "version": "d3658b90b98f8b0eb5d43e543f1280b096f655a2"
+    "version": "6ca87d9b5232165602e528228ac898cb691f1b51"
   },
   {
     "@context": {
@@ -3661,9 +3661,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-22T12:49:24-05:00",
+    "dcterms:modified": "2018-02-12T10:06:57-05:00",
     "type": "Dataset",
-    "version": "03c876ce44c72cd40d236eb9aa7717754a664b1b"
+    "version": "d5d5a7561779d24415c13425937d3ed3644f0964"
   },
   {
     "@context": {
@@ -3714,9 +3714,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-27T09:57:18-05:00",
+    "dcterms:modified": "2018-02-12T10:07:05-05:00",
     "type": "Dataset",
-    "version": "094a7c27c2df8c48d1c6c6dc6a38b029b27a0d2b"
+    "version": "9ab02c054bb1c062cbeeb97219aee5b0a9e06b13"
   },
   {
     "@context": {
@@ -3769,9 +3769,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-22T12:34:29-05:00",
+    "dcterms:modified": "2018-02-12T10:06:57-05:00",
     "type": "Dataset",
-    "version": "4a136aecee0d1878b5fb70cd9d1883857052eba1"
+    "version": "0f81a4a8c1231005ad65b15683a5af6b15fc240d"
   },
   {
     "@context": {
@@ -3840,9 +3840,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-07-28T13:21:13-04:00",
+    "dcterms:modified": "2018-02-12T10:06:56-05:00",
     "type": "Dataset",
-    "version": "f7482662539849ee46210dc82d82b923fa173c73"
+    "version": "f2222450c367c3e0fabc44d472e11a6a22a635c3"
   },
   {
     "@context": {
@@ -3898,9 +3898,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-22T14:39:51-05:00",
+    "dcterms:modified": "2018-02-12T16:50:22-05:00",
     "type": "Dataset",
-    "version": "06cf291b39fec9b8e490ffee02bc63ba24f843c6"
+    "version": "0fa53e31ce89369b07588c9fc0d38e3e14f9373e"
   },
   {
     "@context": {
@@ -3954,9 +3954,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-22T12:49:46-05:00",
+    "dcterms:modified": "2018-02-12T10:06:57-05:00",
     "type": "Dataset",
-    "version": "f57cb635db9723ef16709daf8bffb83b5e3c7e3f"
+    "version": "c601c63e5b97282c1a4edc0cc63d17afa9c252e4"
   },
   {
     "@context": {
@@ -4019,9 +4019,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2018-01-11T11:44:11-05:00",
+    "dcterms:modified": "2018-02-12T10:06:56-05:00",
     "type": "Dataset",
-    "version": "06af21ae2328e49b4523e7c8a5457191395d0c83"
+    "version": "e5d0fd73bd1dc692bfdb709028dd630de91b2def"
   },
   {
     "@context": {
@@ -4074,9 +4074,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-22T15:05:25-05:00",
+    "dcterms:modified": "2018-02-12T10:06:55-05:00",
     "type": "Dataset",
-    "version": "82e305f49b5606d88fb9329d54fb89e70f7fceb5"
+    "version": "47dcbcd363c2ca14d00f702f62bb46c752b13ee8"
   },
   {
     "@context": {
@@ -4130,9 +4130,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-22T16:05:15-05:00",
+    "dcterms:modified": "2018-02-12T10:06:56-05:00",
     "type": "Dataset",
-    "version": "dfc5d0ac43ee908f9432d9c9e4010cc431043be0"
+    "version": "689fdbadddc5986bb71ffbae85a3e9232bc277bc"
   },
   {
     "@context": {
@@ -4214,9 +4214,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-25T11:02:41-05:00",
+    "dcterms:modified": "2018-02-12T10:07:19-05:00",
     "type": "Dataset",
-    "version": "89eb79822e1d2bc71ebb90d6494ec67c11a0fc28"
+    "version": "33bc66e23a480b53a6413e8ecc03df1768072e8a"
   },
   {
     "@context": {
@@ -4267,9 +4267,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-22T22:27:14-05:00",
+    "dcterms:modified": "2018-02-12T10:06:53-05:00",
     "type": "Dataset",
-    "version": "cc4a1ed1f86101b64fafb4128d257f96e4ecedca"
+    "version": "5dda71f5985f57570d1d8489ffe9d9f4358b74ab"
   },
   {
     "@context": {
@@ -4324,9 +4324,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-22T21:57:20-05:00",
+    "dcterms:modified": "2018-02-12T10:06:54-05:00",
     "type": "Dataset",
-    "version": "31372cb4c483e83e2e8f759eb21e1955e98f697f"
+    "version": "63b23e4f85859ee9bd36a08300cf66580ed835d7"
   },
   {
     "@context": {
@@ -4379,9 +4379,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-23T09:09:43-05:00",
+    "dcterms:modified": "2018-02-12T17:39:48-05:00",
     "type": "Dataset",
-    "version": "a1bc14a2525403197d3c1d3aba5321d881b60734"
+    "version": "353c8a93b7d64bc80e0adfba98c19c6e18c02639"
   },
   {
     "@context": {
@@ -4461,9 +4461,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-27T12:45:51-05:00",
+    "dcterms:modified": "2018-02-12T10:07:07-05:00",
     "type": "Dataset",
-    "version": "676301a8cec58e6fc64e2e730172c323a4c4b875"
+    "version": "8dc2b952910e9fb338aa67cfce1adf3157fe95a0"
   },
   {
     "@context": {
@@ -4520,9 +4520,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-23T09:52:43-05:00",
+    "dcterms:modified": "2018-02-12T10:06:52-05:00",
     "type": "Dataset",
-    "version": "a416722c4b1ce5c1e193b637ba2600bdd2e3ee5f"
+    "version": "928996cb0ad77c391480f5a1c12ada3670646729"
   },
   {
     "@context": {
@@ -4582,9 +4582,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-23T08:30:15-05:00",
+    "dcterms:modified": "2018-02-12T10:06:53-05:00",
     "type": "Dataset",
-    "version": "a144ac70a63c20ac32fe8d71d34813af93658f55"
+    "version": "f3580171e6574312962fa88482cbb1b248b29e66"
   },
   {
     "@context": {
@@ -4654,9 +4654,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-23T10:23:57-05:00",
+    "dcterms:modified": "2018-02-12T10:06:51-05:00",
     "type": "Dataset",
-    "version": "27245a05a7f9d2ce3f93d16b2aae7fab2c148193"
+    "version": "f65bd3cf863162b0babf5006ab66832e4a961057"
   },
   {
     "@context": {
@@ -4711,9 +4711,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-23T10:25:05-05:00",
+    "dcterms:modified": "2018-02-12T10:06:50-05:00",
     "type": "Dataset",
-    "version": "c410534a79655f96cc079819a0d4bc1276379986"
+    "version": "b2a76ef3b10e5f7eac9168d499fdd46aacd541cd"
   },
   {
     "@context": {
@@ -4768,9 +4768,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-23T10:28:05-05:00",
+    "dcterms:modified": "2018-02-12T10:06:50-05:00",
     "type": "Dataset",
-    "version": "f74a019f49296058018a93fecbf169e7e1cf47ad"
+    "version": "52aff2c57f7a26293f3f3b30e4b72926bb4d4e56"
   },
   {
     "@context": {
@@ -4825,9 +4825,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-23T10:05:29-05:00",
+    "dcterms:modified": "2018-02-12T10:06:52-05:00",
     "type": "Dataset",
-    "version": "a04a8cbf1ce364663d531f578643359978dcb674"
+    "version": "5baf1cfb4ed0cb39fc00326f0ab98f905a6f3450"
   },
   {
     "@context": {
@@ -4884,9 +4884,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-23T11:35:11-05:00",
+    "dcterms:modified": "2018-02-12T10:06:51-05:00",
     "type": "Dataset",
-    "version": "1d047e042fea3d1911530d0d196adcc1b55e55e9"
+    "version": "aa89b52806a8273ca27debe79136f10f4a80589a"
   },
   {
     "@context": {
@@ -4952,9 +4952,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-23T10:22:43-05:00",
+    "dcterms:modified": "2018-02-12T10:06:51-05:00",
     "type": "Dataset",
-    "version": "977e6d6dddd8fe3d752050a11e1fb3b868712af1"
+    "version": "0450bf204a826ff170b5d44678281540ef1c7bb4"
   },
   {
     "@context": {
@@ -5007,9 +5007,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-23T10:44:31-05:00",
+    "dcterms:modified": "2018-02-12T10:06:50-05:00",
     "type": "Dataset",
-    "version": "3418d60e06cb20f3ca051021216c200da83d89dc"
+    "version": "f1ebd156a65b140994163c5cd51ee9d1b5f27e67"
   },
   {
     "@context": {
@@ -5063,9 +5063,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-23T11:43:09-05:00",
+    "dcterms:modified": "2018-02-12T10:06:49-05:00",
     "type": "Dataset",
-    "version": "192ead1be0d9c6fb38f013e3147ce87f568c8149"
+    "version": "f2140e3a7311e16d01bbc8cb37553eaaa2862225"
   },
   {
     "@context": {
@@ -5119,9 +5119,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-23T22:48:03-05:00",
+    "dcterms:modified": "2018-02-12T10:06:48-05:00",
     "type": "Dataset",
-    "version": "de4731dee12bef5f4863556938ffb2b1763b849d"
+    "version": "29337fe3faf7fcc1fb47663cb984f6dd9c73c286"
   },
   {
     "@context": {
@@ -5167,9 +5167,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-22T21:48:25-05:00",
+    "dcterms:modified": "2018-02-12T10:06:55-05:00",
     "type": "Dataset",
-    "version": "9b3b1c52aafdd59083b7d2c6ee029caa6cac6523"
+    "version": "26443f49be8c5160c35bda022a1c125ec2595d11"
   },
   {
     "@context": {
@@ -5220,9 +5220,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-23T22:18:34-05:00",
+    "dcterms:modified": "2018-02-12T10:06:52-05:00",
     "type": "Dataset",
-    "version": "7bf047c015b978b87400075bad9979d2541d93f0"
+    "version": "f690b500b47c14257e2d303c61fc97ff7879d790"
   },
   {
     "@context": {
@@ -5276,9 +5276,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-23T22:35:31-05:00",
+    "dcterms:modified": "2018-02-12T10:06:48-05:00",
     "type": "Dataset",
-    "version": "5f2a8a55f3a3675c75b54eca499ddafbcb37a250"
+    "version": "d647da023619a1ae0b15022b224588543faef2c4"
   },
   {
     "@context": {
@@ -5336,9 +5336,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-23T22:29:20-05:00",
+    "dcterms:modified": "2018-02-12T10:06:49-05:00",
     "type": "Dataset",
-    "version": "c2cafbe73dc22571a57095dd5d377da26e5e2735"
+    "version": "27ac3ce5f365ecd8a53f6b44b15b17dbb06298de"
   },
   {
     "@context": {
@@ -5394,9 +5394,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-23T22:43:45-05:00",
+    "dcterms:modified": "2018-02-12T10:06:48-05:00",
     "type": "Dataset",
-    "version": "43fae2fbb8cd30c58a37aa4e97579ae60b56ddd3"
+    "version": "bd1b9513bbd5eea9c4b4f9ffaeeedf1c94299318"
   },
   {
     "@context": {
@@ -5466,9 +5466,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-24T03:17:11-05:00",
+    "dcterms:modified": "2018-02-12T10:06:48-05:00",
     "type": "Dataset",
-    "version": "3499f64d55f9d6cf36a34c9ff8fc12a601710eb4"
+    "version": "5cf665e1b3ae3f237ca0f030167d7259868e5a70"
   },
   {
     "@context": {
@@ -5523,9 +5523,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-21T22:21:29-05:00",
+    "dcterms:modified": "2018-02-12T10:06:47-05:00",
     "type": "Dataset",
-    "version": "6930a9d3b42037b045173d77b63f2452b0eb5c06"
+    "version": "70b66d3ff02d8fef4d0c46be10b95fc5745bd942"
   },
   {
     "@context": {
@@ -5585,9 +5585,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-23T22:44:30-05:00",
+    "dcterms:modified": "2018-02-12T10:06:47-05:00",
     "type": "Dataset",
-    "version": "5aa6f3964fbb14fe96b0fd5df0c451ebfca468c7"
+    "version": "38dec764b0d8e24c7af3e60d55edbbf472dabfe8"
   },
   {
     "@context": {
@@ -5654,9 +5654,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2017-11-23T12:03:58-05:00",
+    "dcterms:modified": "2018-02-12T10:06:49-05:00",
     "type": "Dataset",
-    "version": "dcbe5d8bc3794a6833612ad36cd4ba3c456f1f31"
+    "version": "ab069516667abdc70f3f44953d6a7330c04ba8e4"
   },
   {
     "@context": {
@@ -5696,6 +5696,10 @@
     "@id": "95859b68-0079-11e8-9777-002590f97d84",
     "availableFrom": [
       {
+        "@id": "0c1abb01-e493-4947-b8fd-97216d27289e",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000258"
+      },
+      {
         "@id": "38748436-3553-41a9-a8de-fb738d999cb2",
         "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000258"
       },
@@ -5706,9 +5710,34 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2018-01-23T16:14:05-05:00",
+    "dcterms:modified": "2018-02-13T09:02:34-05:00",
     "type": "Dataset",
-    "version": "85f84b6fa73a70771f88e975041ab01ea9a6e747"
+    "version": "58882ccf9e03f445beb39ae624934e49fba63bf6"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "95859b68-0079-11e8-9777-002590f97d84",
+    "author": [
+      "Jonathan Power",
+      "Valerie Voon",
+      "Prantik Kundu",
+      "Peter Bandettini",
+      "Alex Martin"
+    ],
+    "citation": [
+      "https://www.jonathanpower.net/paper-multiecho.html"
+    ],
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io/bids_spec1.0.2.pdf"
+    ],
+    "description": "## Subjects\nThere are 89 subject datasets, collected from consenting neurotypical subjects with standard inclusion/exclusion criteria (English speaking, right handed, no history of neurological or psychiatric illness) and the protocol was approved by the Cambridge IRB (LREC 11/EE/0198). Collection of the data was funded by MRC P008747/1 (V.V.)\n\n## Experimental Tasks\nBOLD data were collected eyes open at rest looking at a white screen. 4 echoes of a single 9.84 min multi-echo BOLD run, the echos are each single volumes.\n\n## Data Acquisition\nData were acquired with a Siemens Trio 3T MRI Scanner and a 32-channel receive-only head coil. Functional images of 139 volumes (9.84 min) were acquired with an ME EPI sequence with online reconstruction [repetition time (TR), 2.47 s; flip angle, 78°; matrix size, 64 × 64; in-plane resolution, 3.75 mm; field of view (FOV), 240 mm; 32 oblique slices, alternating slice acquisition slice thickness 4.4 mm with 10% gap (ascending interleaved order, i.e., \"alt+z2\" in AFNI coding); iPAT factor, 3; bandwidth (BW) = 1,698 Hz/pixel; TE = 12, 28, 44, and 60 ms].\n\nAnatomical images were acquired using a T1-weighted magnetization prepared rapid gradient echo (MPRAGE) sequence [176 × 240 FOV; 1-mm in-plane resolution; inversion time (TI), 1,100 ms].\n\ni### Comments added by Openfmri Curators ###\n===========================================\n\nGeneral Comments\n----------------\n\n\nDefacing\n--------\nPydeface was used on all anatomical images to ensure de-identification of subjects. The code\ncan be found at https://github.com/poldracklab/pydeface\n\nQuality Control\n---------------\nMRIQC was run on the dataset. Results are located in derivatives/mriqc. Learn more about it here: https://mriqc.readthedocs.io/en/stable/\n\nWhere to discuss the dataset\n----------------------------\n1) www.openfmri.org/dataset/ds******/ See the comments section at the bottom of the dataset\npage.\n2) www.neurostars.org Please tag any discussion topics with the tags openfmri and dsXXXXXX.\n3) Send an email to submissions@openfmri.org. Please include the accession number in\nyour email.\n\nKnown Issues\n------------",
+    "foaf:fundedBy": "Supported by grants ZIAMH002920 (A.M.), NCT01031407 (A.M.) and the Sackler Institute for Developmental Psychobiology (J.P.).",
+    "license": "NIDO Terms and Conditions\n\nIn accessing data from one or more of the datasets within the NIMH Intramural Data-sharing with OpenNeuro repository (NIDO) for the purpose of scientific investigation or the planning of clinical research studies as described in the following Data Use Agreement (DUA). I, and my collaborating investigators at my institution, agree to the following terms:\n\n1. Non-Identification of Subjects\nData collected by the Submitters have been stripped of all individual identifiers, but the unique and intrinsically personal nature of genomics data, brain imaging, and other derivative data of which are included in these repositories, combined with the recent increase in the accessibility of conducting genotype and other sequence analyses (in terms of technological capacity and cost), has altered the framework through which “identify-ability” can be defined.To protect and assure the confidentiality and privacy of all participants, the Recipient who accesses these data is expected to adhere to the specifications of this DUA. Failure to do so could result in denial of further access to NIDO. Recipient agrees that data will not be used to establish the individual identities of any of the study participants from whom data were obtained and/or contact the individual study participant, except as permitted by law (e.g., in connection with a separately negotiated collaboration with the original research team or the enrollment of the consented subject in the Recipient’s study). Recipient agrees to notify the NIMH Data Science and Sharing Team at NIMHdsst@nih.gov as soon as possible if, upon use of NIDO data, the Recipient discovers identifying information in that data.\n\n2. GUID and Access to Submitted Data\nThe Global Unique Identifier (GUID) is a computer-generated alphanumeric code that is unique to each research participant. The GUID allows NIMH Data Repositories to link together all submitted information on a single participant, giving researchers access to information even if the data were collected at different locations or through different studies. If Recipients request access to data on individuals for whom they themselves have previously submitted data to NIMH Data Repositories, they may gain access to more data about an individual participant than they themselves collected. Consequently, these research activities may be considered “human subjects research” within the scope of 45 C.F.R. 46. Recipients Must comply with the requirements contained in 45 C.F.R. 46, as applicable, which may require that they obtain IRB approval of their Research Project. For more guidance, check with your local IRB and/or the Office for Human Research Protections (OHRP).\n\n3. Data Disclaimers\nRecipient acknowledges that the NIH does not and cannot warrant the results that may be obtained by using any data included therein. The NIH disclaims all warranties as to the accuracy of the data in NIDO or the performance or fitness of the data for any particular purpose.\n\n4. Notification to the NIH of Publication\nRecipient agrees to promptly notify the NIH via email at NIMHdsst@nih.gov as to when and where a publication (or other public disclosure) from the Research Project will appear, whether reporting positive or negative results. The notification will include the title, authors, place of publication, and publication date. \n\n5. Data Access for Research\nData in NIDO  are eligible for access by qualified researchers, pursuant to the terms set forth in this DUA. Recipients acknowledge that other researchers have access to the data and that downloading, utilization, and duplication of research is a distinct possibility.\n\n6. Acknowledgments\nNIDO is based on OpenNeuro from Stanford’s Center for Reproducible Neuroscience\nPlease cite the below reference in any publication using this data.\n\n7. Non-Governmental Endorsement; Liability\nRecipient agrees not to claim, infer, or imply endorsement by the United States Government,the Department of Health & Human Services, the National Institute of Health, or the National Institute of Mental Health of the Research Project, the entity, or personnel conducting the Research Project or any resulting commercial product(s). The United States Government assumes no liability except to the extent provided under the Federal Tort Claims Act (28U.S.C. § 2671-2680).\n\n8. Recipient's Compliance with Institutional Requirements\nRecipient acknowledges that access, is for research that is approved by the Institution, which must be operating under an Office of Human Research Protections-approved Federal-wide Assurance. Furthermore, Recipient agrees to comply with all applicable rules for the protection of human subjects, which may include Department of Health and Human Services regulations at 45 C.F.R. Part 46, and other federal and state laws for the use of this data. Recipient agrees to report promptly to the NIH any unanticipated problems involving risks to subjects or others. This DUA is made in addition to, and does not supersede, any of Recipient's institutional policies or any local, State, and/or Federal laws and regulations that provide additional protections for human subjects.\n\n9. Recipient’s Permission to Post Information Publicly\nRecipient agrees to permit the NIH to summarize, on the appropriate NIDO web site, the Recipient’s research use of data along with the Recipient’s name and organizational/institutional affiliation.\n\n10. Privacy Act Notification\nThe Recipient agrees that information collected from the Recipient, as part of registering for NIDO or accessing NIDO’s web pages, may be made public in part or in whole for tracking and reporting purposes. This Privacy Act Notification is provided pursuant to Public Law 93-579, Privacy Act of 1974, 5 U.S.C. Section 552a. Authority for the collection of the information requested below from the recipient comes from the authorities regarding the establishment of the National Institutes of Health, its general authority to conduct and fund research and to provide training assistance, and its general authority to maintain records in connection with these and its other functions (42U.S.C. 203, 241, 289l-1 and 44 U.S.C. 3101), and Section 301 and 493 of the Public Health Service Act. These records will be maintained in accordance with the Privacy Act System of Record Notice 09-25-0156 (http://oma.od.nih.gov/public/ms/privacy/pafiles/0156.htm) covering “Records of Participants in Programs and Respondents in Surveys Used to EvaluatePrograms of the Public Health Service, HHS/PHS/NIH/OD.” The primary uses of this information are to document, track, and monitor and evaluate the use of the NIDO  datasets, as well as to notify interested recipients of updates, corrections or other changes to the database. The Federal Privacy Act protects the confidentiality of some NIH records. The NIH and any sites that are provided access to the datasets will have access to the information collected by the NIH from the Recipient for the purposes described above. In addition, the Act allows the release of some information without the Recipient’s permission; for example, if it is requested by members of Congress or other authorized individuals. \n\n11. Security\nRecipient acknowledges the expectations set forth by the attached “Information Technology Security Best Practices and Security Standards” for the use and security of data. \n\n12. Amendments\nAmendments to this DUA will be posted on NIDO in future versions of this dataset..\n\n13. Accurate Representations\nRecipient expressly certifies that the contents of any statements made or reflected in this document are truthful and accurate. \n\nInformation Security Best Practices and Security Standards \nThe purpose of these Security Best Practices and Security Standards, which are subject to applicable law, are to provide minimum security standards and best practices for individuals who use the NIMH Data Repositories to submit, access, and analyze data. Keeping information from the NIMH Data Repositories secure through these best practices is important. Subject to applicable law, Recipients agree to immediately report breaches of data confidentiality to the NIMH Data Science and Sharing Team. \n\nSecurity Best Practices \nWe suggest that you:\n Do not attempt to override technical or management controls to access data for which you have not been expressly authorized.\n Do not use your trusted position and access rights to exploit system controls or access data for any reason other than in the performance of the proposed research.\n Do not allow others to use your account. Each user must obtain and use their own account.\n Ensure that anyone directed to use the system has access to, and is aware of, Information Security Best Practices and Security Standards as well as all existing policies and procedures relevant to the use of the NIDO\n Follow the password policy which includes:\n Choose passwords of at least seven characters including at least three of the following\ntypes of characters: capital letters, lower case letters, numeric characters and other\nspecial characters. \n Change your passwords every six months. \n Protect your password from access by other individuals—for example, store it electronically in a secure location.\n Notify NIMH Data Science and Sharing Teamf, as permitted by law, at NIMHdsst@nih.gov of security incidents, or any incidents of suspected fraud, waste or misuse of NIDO. \n\nSecurity Standards\n Protect the data, providing access solely to authorized researchers permitted access to such data by your institution or to others as required by law.\n When you download NIDO data, download the data to a secured computer or server with strong password protection.\n For the computers hosting NIDO data, ensure that they have the latest security patches and are running virus protection software.\n Make sure the data are protected from anonymous access over the Internet.\n If you leave your office, close out of data files or lock your computer. Consider the installation of a timed screen saver with password protection.\n Avoid storing data on a laptop or other portable medium. If storing data on such a device, consider encrypting the data.\n When finished using the data, destroy the data or otherwise dispose of it properly, as permitted by law.",
+    "name": "Multi-echo analysis"
   },
   {
     "@context": {
@@ -5732,13 +5761,52 @@
       {
         "@id": "c04eb54b-4b4e-5755-8436-866b043170fa",
         "description": "datalad-archives"
+      },
+      {
+        "@id": "ccd66182-e305-4d8f-a3d6-26e2e4202d47",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000256"
       }
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2018-01-23T16:14:00-05:00",
+    "dcterms:modified": "2018-02-13T09:02:28-05:00",
     "type": "Dataset",
-    "version": "d75ee29b2118ab5c653b58cf28972a90d00e9e7b"
+    "version": "8f92b89f8b54c884cd4f308f680072082b97982f"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "917dca90-0079-11e8-9777-002590f97d84",
+    "author": [
+      "Deanna J. Greene",
+      "Jonathan M. Koller",
+      "Jacqueline M. Hampton",
+      "Victoria Wesevich",
+      "Andrew N. Van",
+      "Annie L. Nguyen",
+      "Catherine R. Hoyt",
+      "Lindsey McIntyre",
+      "Eric A. Earl",
+      "Rachel L. Klein",
+      "Joshua S. Shimony",
+      "Steven E. Petersen",
+      "Bradley L. Schlaggar",
+      "Damien A. Fair",
+      "Nico U.F. Dosenbach"
+    ],
+    "citation": "https://www.sciencedirect.com/science/article/pii/S1053811918300235",
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io/bids_spec1.0.2.pdf"
+    ],
+    "description": "A major limitation to structural and functional MRI (fMRI) scans is their susceptibility to head motion artifacts. Even sub-millimeter movements can systematically distort functional connectivity, morphometric, and diffusion imaging results.\nIn patient care, sedation is often used to minimize head motion, but it incurs increased costs and risks. In research settings, sedation is typically not an ethical option. Therefore, safe methods that reduce head motion are critical for\nimproving MRI quality, especially in high movement individuals such as children and neuropsychiatric patients. We investigated the effects of (1) viewing movies and (2) receiving real-time visual feedback about head\nmovement in 24 children (5-15 years old). Children completed fMRI scans during which they viewed a fixation cross (i.e., rest) or a cartoon movie clip, and during some of the scans they also received real-time visual feedback\nabout head motion. Head motion was significantly reduced during movie watching compared to rest and when receiving feedback compared to receiving no feedback. However, these results depended largely on age, such that the effects\nwere driven by the younger children. Children older than 10 years showed no significant benefit. We also found that viewing movies significantly altered the functional connectivity of fMRI data, suggesting that fMRI scans during\nmovies cannot be equated to standard resting-state fMRI scans. The implications of these results are twofold: (1) given the reduction in head motion with behavioral interventions, these methods should be tried first for all\nclinical and structural MRIs in lieu of sedation; and (2) for fMRI research scans, these methods can reduce head motion in certain groups, but investigators must keep in mind the effects on functional MRI data.\n\n### Comments added by Open-fmri Curators ###\n===========================================\nGeneral Comments\n----------------\nDefacing\n--------\nPydeface was used on all anatomical images to ensure de-identification of subjects. The code\ncan be found at https://github.com/poldracklab/pydeface\nQuality Control\n---------------\nMRIQC was run on the dataset. Results are located in derivatives/mriqc. Learn more about it here: https://mriqc.readthedocs.io/en/stable/\nWhere to discuss the dataset\n----------------------------\n1) www.openfmri.org/dataset/ds000256/ See the comments section at the bottom of the dataset\npage.\n2) www.neurostars.org Please tag any discussion topics with the tags openfmri and ds000256.\n3) Send an email to submissions@openfmri.org. Please include the accession number in\nyour email.\nKnown Issues\n------------\n\n- Head motion",
+    "foaf:fundedBy": [
+      "Collection of these data was supported by National Institutes of Health Grants K01MH104592 (DJG), K23NS088590, UL1TR000448 (NUFD), R01MH096773, R00MH091238, UL1TR000128, MH110766, U01DA041148 (DAF), P30NS098577 (to the Neuroimaging Informatics and Analysis Center), and U54HD087011 (to the Eunice Kennedy Shriver National Institute Of Child Health & Human Development of the National Institutes of Health to the Intellectual and Developmental Disabilities Research Center at Washington University; BLS), the Tourette Association of America (DJG), the McDonnell Center for Systems Neuroscience, the Mallinckrodt Institute of Radiology (DJG, NUFD), the DeStefano Family Foundation (DAF), the Jacobs Foundation, and the Child Neurology Foundation (NUFD)."
+    ],
+    "license": "PDDL (http://opendatacommons.org/licenses/pddl/)",
+    "name": "Behavioral interventions for reducing head motion during MRI scans in children"
   },
   {
     "@context": {
@@ -5756,6 +5824,10 @@
     "@id": "8cd97ade-0079-11e8-9777-002590f97d84",
     "availableFrom": [
       {
+        "@id": "05a788f3-5a8d-4ffe-8837-a16d5df503b7",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000254"
+      },
+      {
         "@id": "9ea4143e-b07e-4831-b5c2-6a1ec8fd6d2f",
         "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000254"
       },
@@ -5766,9 +5838,28 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2018-01-23T16:13:51-05:00",
+    "dcterms:modified": "2018-02-13T09:02:16-05:00",
     "type": "Dataset",
-    "version": "bf4fd91789c0158cd97702b4bc3c4fac63fe5182"
+    "version": "07ed97656d298821d2fbbee06dd9143dbaaea0b1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "8cd97ade-0079-11e8-9777-002590f97d84",
+    "author": [
+      "Alexander D. Cohen",
+      "Andrew S. Nencka",
+      "Yang Wang"
+    ],
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io/bids_spec1.0.2.pdf"
+    ],
+    "description": "This dataset contains resting state data collected using a multiband, multiecho simultaneous pseudocontinous ASL (pCASL) and BOLD acquisition. Additional information regarding the sequence is as follows:\n\nThe sequence consists of an unbalanced pseudo-continuous ASL (pCASL) tagging module, followed by a post labeling delay period (PLD). Following the PLD, a multiband excitation and multi-echo, gradient-echo EPI readout was implemented. Blipped-CAIPI was also applied to reduce g-factor noise amplification caused by the slice-unaliasing in MB imaging. Each echo in the multi-echo acquisition was obtained consecutively as part of one shot. The last repetition is the M0 image collected for quantification of CBF.\nEach subject underwent one bilateral finger tapping task MBME ASL/BOLD scan, which utilized an unbalanced pCASL labeling scheme with labeling time=1.5 s and PLD=1.5 s. A partial k-space acquisition was employed with 20 overscan lines. To keep the later TEs within reasonable ranges and reduce total readout time, in-plane acceleration was employed with R=2. Additional parameters for the MBME ASL/BOLD run were as follows: number of echoes=4, TE=9.1, 25, 39.6, 54.3 ms, TR=3.5 s, MB-factor=4, number of excitations=11 (total slices=11×4=44), FOV=240 mm, resolution=3×3×3 mm, FA=90°, RF pulse width=6400 ms. Scans lasted 356s, which included 64s of calibration reps at the beginning of the scan. In total 73 repetitions were acquired.\n\n### Comments added by Openfmri Curators ###\n===========================================\n\nGeneral Comments\n----------------\nT2 data wasn’t used for any of the analysis in the paper though they were acquired as per the paper.\n\nDefacing\n--------\nPydeface was used on all anatomical images to ensure de-identification of subjects. The code\ncan be found at https://github.com/poldracklab/pydeface\n\nQuality Control\n---------------\nMRIQC was run on the dataset. Results are located in derivatives/mriqc. Learn more about it here: https://mriqc.readthedocs.io/en/stable/\n\nWhere to discuss the dataset\n----------------------------\n1) www.openfmri.org/dataset/ds******/ See the comments section at the bottom of the dataset\npage.\n2) www.neurostars.org Please tag any discussion topics with the tags openfmri and dsXXXXXX.\n3) Send an email to submissions@openfmri.org. Please include the accession number in\nyour email.\n\nKnown Issues\n------------",
+    "foaf:fundedBy": "This work was supported by a Daniel M. Soref Charitable Trust Grant (to YW)",
+    "name": "Multiband Multi-Echo Simultaneous ASL/BOLD for task-induced functional MRI"
   },
   {
     "@context": {
@@ -5790,15 +5881,46 @@
         "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000255"
       },
       {
+        "@id": "ac43720a-b53c-4eb9-8a41-4842d9d38358",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000255"
+      },
+      {
         "@id": "c04eb54b-4b4e-5755-8436-866b043170fa",
         "description": "datalad-archives"
       }
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2018-01-23T16:13:55-05:00",
+    "dcterms:modified": "2018-02-13T09:02:22-05:00",
     "type": "Dataset",
-    "version": "1aa4a22ae12d3be9ad715cbb9281cbb19f39e82e"
+    "version": "3dc4dabc08ff007222c7a5a4e7d4d37a65a20a86"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "87995922-0079-11e8-9777-002590f97d84",
+    "author": [
+      "Yoichi Miyawaki",
+      "Hajime Uchida",
+      "Okito Yamashita",
+      "Masa-aki Sato",
+      "Yusuke Morito",
+      "Hiroki C. Tanabe",
+      "Norihiro Sadato",
+      "Yukiyasu Kamitani"
+    ],
+    "citation": [
+      "Miyawaki Y, Uchida H, Yamashita O, Sato M, Morito Y, Tanabe HC, Sadato Norihiro & Kamitani Y (2008) Visual Image Reconstruction from Human Brain Activity using a Combination of Multiscale Local Image Decoders. Neuron 60:915-929."
+    ],
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io/bids_spec1.0.2.pdf"
+    ],
+    "description": "# Visual image reconstruction\n\nOriginal paper: Miyawaki Y, Uchida H, Yamashita O, Sato M, Morito Y, Tanabe HC, Sadato N & Kamitani Y (2008) Visual Image Reconstruction from Human Brain Activity using a Combination of Multiscale Local Image Decoders. Neuron 60:915-929.\n\n## Overview\n\nThis is the fMRI data from Miyawaki et al. (2008) \"Visual image reconstruction from human brain activity using a combination of multiscale local image decoders\". Neuron 60:915-29. In this study, we collected fMRI activity from subjects viewing images, and constructed decoders predicting local image contrast at multiple spatial scales. The combined decoders based on a linear model successfully reconstructed presented stimuli from fMRI activity.\n\n## Task\n\nThe experiment consisted of human subjects viewing contrast-based images of 12 x 12 flickering patches. There were two types of image viewing tasks: (1) random image viewing and (2) figure image (geometric shape or alphabet letter) viewing. For image presentation, a block design was used with rest periods between the presentation of each image. For random image patch presentation, images were presented for 6 s, followed by 6 s rest. For figure image presentation, images were presented for 12 s, followed by 12 s rest. The data from random image viewing runs were used to train the decoding models, and the trained model were evaluated with the data from figure image viewing runs.\n\n## Dataset\n\nThis dataset contains two subjects ('sub-01' and 'sub-02'). The subjects performed two sessions of fMRI experiments ('ses-01' and 'ses-02'). Each session is composed of several EPI runs (TR, 2000 ms; TE, 30 ms; flip angle, 80°; voxel size, 3 × 3 × 3 mm; FOV, 192 × 192 mm; number of slices, 30, slice gap, 0 mm) and inplane T2-weighted imaging (TR, 6000 ms; TE, 57 ms; flip angle, 90°; voxel size, 0.75 × 0.75 × 3.0 mm; FOV, 192 × 192 mm). The EPI images covered the entire occipital lobe. The dataset also includes a T1-weighted anatomical reference image for each subject (TR, 2250 ms; TE, 2.98 ms for sub-01 and 3.06 ms for sub-02; TI, 900 ms; flip angle, 9°; voxel size, 1.0 × 1.0 × 1.0 mm; FOV, 256 × 256 mm). The T1w images were obtained in sessions different from the fMRI experiment sessions and stored in 'ses-anat' directories. The T1w images were defaced by pydeface (<https://pypi.python.org/pypi/pydeface>). All DICOM files are converted to Nifti-1 files by mri_convert in FreeSurfer. In addition, the dataset contains mask images of manually defined ROIs for each subjects in `sourcedata` directory (See `README` in `sourcedata` for more details).\n\nDuring fMRI runs, the subject viewed contrast-based images of 12 × 12 flickering image patches. Two types of runs ('viewRandom' and 'viewFigure') were included in the experiment. In 'viewRandom' runs, random images were presented as visual stimuli. Each 'viewRandom' runs consisted of 22 stimulus presentation trials and lasted for 298 s (149 volumes). The two subjects performed 20 'viewRandom' runs. In 'viewFigure' runs, either geometric shape pattern (square, small frame, large frame, plus, X) or alphabet letter pattern (n, e, u, r, o) was presented in each trial. In addition, data while the subject viewed thin and large alphabet letter patterns (n, e, u, r, o) are included in the dataset (they are not included in the results of the original study). Each 'viewFigure' run consisted of 10 stimulus presentation trials and lasted for 268 s (134 volumes). The 'sub-01' and 'sub-02' performed 12 and 10 'viewFigure' runs, respectively.\n\nTo help subjects suppress eye blinks and firmly fixate the eyes, the color of the fixation spot changed from white to red 2 s before each stimulus block started. To ensure alertness, subjects were instructed to detect the color change of the fixation (red to green, 100 ms) that occurred after a random interval of 3–5 s from the beginning of each stimulus block. Performances of the subject was monitored online during experiments, but were not recorded and omitted from the dataset.\n\n### Task event files\n\nThe value of `trial_type` in the task event files (`*_events.tsv`) indicates the type of each trial (block) as below.\n\n- `rest`: Rest trial (no visual stimulus).\n- `stimulus_random`: Random pattern.\n- `stimulus_shape`: Geometric shape pattern (square, small frame, large frame, plus, X).\n- `stimulus_alphabet`: Alphabet pattern (n, e, u, r, o).\n- `stimulus_alphabet_thin`: Thin alphabet pattern (n, e, u, r, o).\n- `stimulus_alphabet_long`: Long alphabet pattern (n, e, u, r, o).\n\nNote that the results from thin and long alphabet patterns are not included in the original paper although the data were obtained in the same sessions.\n\nAdditional column `stimulus_pattern` contains the pattern of stimuli (12 × 12) presented in each stimulus trial. It is vectorized in row-major order. Each element in the vector corresponds to a patch (1.15° × 1.15°) in a stimulus pattern. `1` and `0` represnets a flickering checkerboard and a gray area, respectively. For example, stimulus pattern of\n\n    000000000000000000000000000000000000000111111000000111111000000110011000000110011000000110011000000110011000000000000000000000000000000000000000\n\nrepresents the following stimulus.\n\n    000000000000\n    000000000000\n    000000000000\n    000111111000\n    000111111000\n    000110011000\n    000110011000\n    000110011000\n    000110011000\n    000000000000\n    000000000000\n    000000000000\n\nThe column holds 'null' for rest trials.\n\n\n### Comments added by Openfmri Curators ###\n===========================================\n\nGeneral Comments\n----------------\n\n\nDefacing\n--------\nPydeface was used on all anatomical images to ensure de-identification of subjects. The code\ncan be found at https://github.com/poldracklab/pydeface\n\nQuality Control\n---------------\nMRIQC was run on the dataset. Results are located in derivatives/mriqc. Learn more about it here: https://mriqc.readthedocs.io/en/stable/\n\nWhere to discuss the dataset\n----------------------------\n1) www.openfmri.org/dataset/ds******/ See the comments section at the bottom of the dataset\npage.\n2) www.neurostars.org Please tag any discussion topics with the tags openfmri and dsXXXXXX.\n3) Send an email to submissions@openfmri.org. Please include the accession number in\nyour email.\n\nKnown Issues\n------------\n-behavioral performance data is not accompanied this dataset as submitter didn't submit.",
+    "license": "PDDL",
+    "name": "Visual image reconstruction"
   },
   {
     "@context": {
@@ -5822,13 +5944,35 @@
       {
         "@id": "c04eb54b-4b4e-5755-8436-866b043170fa",
         "description": "datalad-archives"
+      },
+      {
+        "@id": "d15b30fb-2634-42c6-966a-6419c7d58f1a",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000253"
       }
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2018-01-23T16:13:46-05:00",
+    "dcterms:modified": "2018-02-13T09:02:10-05:00",
     "type": "Dataset",
-    "version": "d65bcfbfeb028652f526da971518f0020a5ec938"
+    "version": "907df36cae0efbcea8e4ac9b723afff33fef3268"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "7d872900-0079-11e8-9777-002590f97d84",
+    "author": [
+      "Diana Gorbet",
+      "Lauren Sergio"
+    ],
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io/bids_spec1.0.2.pdf"
+    ],
+    "description": "### Comments added by Openfmri Curators ###\n===========================================\n\nGeneral Comments\n----------------\n\n\nDefacing\n--------\nPydeface was used on all anatomical images to ensure de-identification of subjects. The code\ncan be found at https://github.com/poldracklab/pydeface\n\nQuality Control\n---------------\nMRIQC was run on the dataset. Results are located in derivatives/mriqc. Learn more about it here: https://mriqc.readthedocs.io/en/stable/\n\nWhere to discuss the dataset\n----------------------------\n1) www.openfmri.org/dataset/ds******/ See the comments section at the bottom of the dataset\npage.\n2) www.neurostars.org Please tag any discussion topics with the tags openfmri and dsXXXXXX.\n3) Send an email to submissions@openfmri.org. Please include the accession number in\nyour email.\n\nBIDS-Validator output:\n----------------------\n\n1: Not all subjects/sessions/runs have the same scanning parameters. (code: 39 - INCONSISTENT_PARAMETERS)\n       \t\t./sub-01/func/sub-01_task-localizer_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 96,96,39,316 (voxels), This file has the dimensions: 96,96,39,260 (voxels).\n       \t\t./sub-02/func/sub-02_task-localizer_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 96,96,39,316 (voxels), This file has the dimensions: 96,96,39,388 (voxels).\n\n        Summary:                  Available Tasks:          Available Modalities:\n        327 Files, 10.44GB        Experimental Run 1        T1w\n        20 - Subjects             Experimental Run 2        bold\n        1 - Session               Experimental Run 3\n                                  Experimental Run 4\n                                  Localizer\n\nKnown Issues\n------------",
+    "license": "PDDL",
+    "name": "This dataset was used in Gorbet, DJ and Sergio, LE 2017 Move Faster, Think Later: Women Who Play Action Video Games Have Quicker Visually-Guided Responses With Later Onset Visuomotor-Related Brain Activity.  PLOS One (in press). The data were collected at York University, Toronto, Ontario. The dataset contains functional images from 20, right-handed women: 10 who play action video games more than 10 hours per week and 10 who play little to no action video games.  Functional data were collected using two, slow event-related visually-guided hand movement tasks. In the Standard task, the eyes and hand moved to the same cued spatial location.  In the Non-Standard or Dissociated task the eyes moved to the cued spatial location and the hand moved 180 degrees in the opposite direction.  All trials were structured with a cue period (2.5 seconds), followed by an instructed delay period (10 seconds), followed by a go signal and movement period (2.5 seconds).  Four experimental runs containing both conditions (in random order) with 10 trials per condition were collected.  A separate but similarly structured run was used for independent functional localization."
   },
   {
     "@context": {
@@ -5846,6 +5990,10 @@
     "@id": "827eb018-0079-11e8-9777-002590f97d84",
     "availableFrom": [
       {
+        "@id": "77ef8cb6-9dc1-4e7a-b77b-eb9f6717d828",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000144"
+      },
+      {
         "@id": "b47aa55a-c5ad-41d8-be56-17eccd13d42e",
         "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/openfmri/ds000144"
       },
@@ -5856,9 +6004,34 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2018-01-23T16:11:21-05:00",
+    "dcterms:modified": "2018-02-13T09:01:51-05:00",
     "type": "Dataset",
-    "version": "82dd9210b69e9ee4f054c15bbc01cbfcbe6030d2"
+    "version": "60888249930197ffa4a8b7aaea615eae9ae1155e"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "827eb018-0079-11e8-9777-002590f97d84",
+    "author": [
+      "Kimberly L. H. Carpenter",
+      "Adrian Angold",
+      "Nan-Kuei Chen",
+      "William E. Copeland",
+      "Pooja Gaur",
+      "Kevin Pelphrey",
+      "Allen W. Song",
+      "Helen L. Egger"
+    ],
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io/bids_spec1.0.2.pdf"
+    ],
+    "description": "### Comments added by Openfmri Curators ###\n===========================================\n\nGeneral Comments\n----------------\n\n\nDefacing\n--------\nDefacing was performed by the submitter.\n\nQuality Control\n---------------\nMriqc was run on the dataset. Results are located in derivatives/mriqc. Learn more about it \nhere: https://mriqc.readthedocs.io/en/latest/\n\nWhere to discuss the dataset\n----------------------------\n1) www.openfmri.org/dataset/ds000144/ See the comments section at the bottom of the dataset\npage.\n2) www.neurostars.org Please tag any discussion topics with the tags openfmri and ds000144.\n3) Send an email to submissions@openfmri.org. Please include the accession number in\nyour email.\n\nKnown Issues\n------------\n  - A number of the BOLD runs were unusable due to motion and thus were left out of this dataset.\n  - The defacing software may have removed small amounts of brain in a few anatomical images \n(see sub-40 and sub-41)",
+    "foaf:fundedBy": "This work was supported by National Institutes of Mental Health (http://www.nimh.nih.gov/) grant R01-MH-081025 and a National Alliance for Research in Schizophrenia and Affective Disorders Young Investigator Award (http://bbrfoundation.org/) awarded to HLE, National Institute of Mental Health (http://www.nimh.nih.gov/) grant R01-MH-075766 awarded to AA, and National Institute for Neurological Disorders and Stroke (http://www.ninds.nih.gov/) grant R01-NS074045 awarded to NC.",
+    "license": "CCO",
+    "name": "Preschool Anxiety Disorders"
   },
   {
     "@context": {
@@ -5882,13 +6055,46 @@
       {
         "@id": "c04eb54b-4b4e-5755-8436-866b043170fa",
         "description": "datalad-archives"
+      },
+      {
+        "@id": "f8b20452-6418-42b1-8413-6666d6034a18",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000247"
       }
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2018-01-23T16:13:35-05:00",
+    "dcterms:modified": "2018-02-13T09:01:57-05:00",
     "type": "Dataset",
-    "version": "ea3f99fcd2c6ebe7290d3212cbba52f1a17130e5"
+    "version": "90d96061944736164cbd5cb1c55d25c9f8364799"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "7999bb8c-0079-11e8-9777-002590f97d84",
+    "author": [
+      "Guiomar Niso",
+      "Jeremy Moreau",
+      "Elizabeth Bock",
+      "Francois Tadel",
+      "Sylvain Baillet"
+    ],
+    "citation": [
+      "Niso G, Rogers C, Moreau JT, Chen LY, Madjar C, Das S, Bock E, Tadel F, Evans A, Jolicoeur P, Baillet S. OMEGA: The Open MEG Archive. Neuroimage. 2015; Available from: http://dx.doi.org/10.1016/j.neuroimage.2015.04.028",
+      "https://openfmri.org/dataset/ds000247/",
+      "https://www.mcgill.ca/bic/resources/omega"
+    ],
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io/bids_spec1.0.2.pdf"
+    ],
+    "description": "This dataset was obtained from The Open MEG Archive (OMEGA, https://omega.bic.mni.mcgill.ca).\n\nYou are free to use all data in OMEGA for research purposes; please aknowledge its authors and cite the following reference in your publications if you have used data from OMEGA: \n\nNiso G, Rogers C, Moreau JT, Chen LY, Madjar C, Das S, Bock E, Tadel F, Evans A, Jolicoeur P, Baillet S. OMEGA: The Open MEG Archive. Neuroimage. 2015; Available from: http://dx.doi.org/10.1016/j.neuroimage.2015.04.028\n\n\n\nDESCRIPTION\n\n# Experiment\n\n    - 5 subjects x 5 minute resting sessions, eyes open \n\n\n# MEG acquisition\n\n    - Acquisition at 2400Hz, with a CTF 275 MEG system,\n    - Recorded at the Montreal Neurological Institute in 2012-2016.\n    - Anti-aliasing low-pass filter at 600Hz, files may be saved with or without the CTF 3rd order gradient compensation.\n    - Recorded channels (at least 297):\n        * 26 MEG reference sensors (#2-#27)\n        * 270 MEG axial gradiometers (#28-#297)\n        * 1 ECG bipolar (EEG057/#298) - Not available in the empty room recordings\n        * 1 vertical EOG bipolar (EEG058/#299) - Not available in the empty room recordings\n        * 1 horizontal EOG bipolar (EEG059/#300) - Not available in the empty room recordings \n  \n\n# Head shape and fiducial points\n\n    - 3D digitization using a Polhemus Fastrak device driven by Brainstorm. The .pos files contain:\n        * The center of the CTF coils,\n        * The anatomical references we use in Brainstorm: nasion and ears as illustrated here,\n\t* Around 100 head points distributed on the hard parts of the head (no soft tissues). \n\n\n# Subject anatomy\n\n    - Structural T1 image (defaced for anonymization purposes)\n    - Processed with FreeSurfer 5.3\n    - The anatomical fiducials (NAS, LPA, RPA) have already been marked and saved in the files fiducials.m \n\n\n\n\nThe data in this dataset has been organized according to the BIDS specifications (Brain Imaging Data Structure, http://bids.neuroimaging.io) \n\n\nRelease history:\n2016-12-01: initial release\n\n### Comments added by Openfmri Curators ###\n===========================================\n\nGeneral Comments\n----------------\n\n\nDefacing\n--------\nPydeface was used on all anatomical images to ensure de-identification of subjects. The code\ncan be found at https://github.com/poldracklab/pydeface\nmri_deface was used on all T1.mgz images located in derivatives. Learn more about it here:\nhttps://surfer.nmr.mgh.harvard.edu/fswiki/mri_deface\n\nQuality Control\n---------------\nMRIQC could not be run on this dataset. It will be included in a future revision.\n\nWhere to discuss the dataset\n----------------------------\n1) www.openfmri.org/dataset/ds000247/ See the comments section at the bottom of the dataset\npage.\n2) www.neurostars.org Please tag any discussion topics with the tags openfmri and ds000247.\n3) Send an email to submissions@openfmri.org. Please include the accession number in\nyour email.\n\nKnown Issues\n------------",
+    "foaf:fundedBy": [
+      "Quebec Bioimaging Network Strategic Initiative (QBIN 5886)"
+    ],
+    "license": "CC0",
+    "name": "MEG-BIDS OMEGA sample"
   },
   {
     "@context": {
@@ -5906,6 +6112,10 @@
     "@id": "70146ea4-0079-11e8-9777-002590f97d84",
     "availableFrom": [
       {
+        "@id": "57bbdba3-8866-461b-a57d-641663858f49",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/openfmri/ds000249"
+      },
+      {
         "@id": "c04eb54b-4b4e-5755-8436-866b043170fa",
         "description": "datalad-archives"
       },
@@ -5916,9 +6126,31 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2018-01-23T16:13:42-05:00",
+    "dcterms:modified": "2018-02-13T09:02:03-05:00",
     "type": "Dataset",
-    "version": "07678fafe71d8b9780221ac5fe7f7de5ef736d7f"
+    "version": "e91dfa98ad24e1507784417ec4c7bccb5d9abf03"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "70146ea4-0079-11e8-9777-002590f97d84",
+    "author": [
+      "Agnes Norbury",
+      "Ben Seymour"
+    ],
+    "citation": [
+      ""
+    ],
+    "dcterms:conformsTo": [
+      "http://docs.datalad.org/metadata.html#v0-1",
+      "http://bids.neuroimaging.io/bids_spec1.0.2.pdf"
+    ],
+    "description": "### Comments added by Openfmri Curators ###\n===========================================\n\nGeneral Comments\n----------------\n\n\nDefacing\n--------\nPydeface was used on all anatomical images to ensure de-identification of subjects. The code\ncan be found at https://github.com/poldracklab/pydeface\n\nQuality Control\n---------------\nMRIQC was run on the dataset. Results are located in derivatives/mriqc. Learn more about it here: https://mriqc.readthedocs.io/en/stable/\n\nWhere to discuss the dataset\n----------------------------\n1) www.openfmri.org/dataset/ds000249/ See the comments section at the bottom of the dataset\npage.\n2) www.neurostars.org Please tag any discussion topics with the tags openfmri and ds000249.\n3) Send an email to submissions@openfmri.org. Please include the accession number in\nyour email.\n\nBIDS validator output:\n---------------------\n1: Not all subjects/sessions/runs have the same scanning parameters. (code: 39 - INCONSISTENT_PARAMETERS)\n       \t\t./sub-02/func/sub-02_task-genInstrAv_run-01_bold.nii.gz\n       \t\t./sub-22/anat/sub-22_T1w.nii.gz\n\n        Summary:                 Available Tasks:        Available Modalities:\n        577 Files, 3.45GB        genInstrAv              T1w\n        26 - Subjects                                    bold\n        1 - Session                                      fieldmap\nKnown Issues:\n------------",
+    "foaf:fundedBy": "The Wellcome Trust",
+    "license": "This dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/",
+    "name": "Generalisation in avoidance learning"
   },
   {
     "@context": {

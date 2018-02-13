@@ -17,9 +17,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2017-12-07T22:54:46-05:00",
+    "dcterms:modified": "2018-02-12T23:07:26-05:00",
     "type": "Dataset",
-    "version": "2ab5ea376967b424ff32665bc8ea48808dbfa3f0"
+    "version": "2bf92d481844d7532b0ba065279b7f4f2677b181"
   },
   {
     "@context": {
