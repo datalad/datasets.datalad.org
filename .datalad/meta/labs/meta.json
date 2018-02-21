@@ -7,9 +7,9 @@
     "@id": "72e7a148-7af4-11e6-af5a-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2018-02-12T10:11:52-05:00",
+    "dcterms:modified": "2018-02-21T16:42:38-05:00",
     "type": "Dataset",
-    "version": "e2fca7a616c5dd1319c87002105435c426f93d3a"
+    "version": "b594910ee26e62395c86c0b714eefc16cbb892aa"
   },
   {
     "@context": {
@@ -68,9 +68,9 @@
     "@id": "72f7a0f2-7af4-11e6-af5a-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "72e7a148-7af4-11e6-af5a-002590f97d84",
-    "dcterms:modified": "2017-09-19T16:29:24-04:00",
+    "dcterms:modified": "2018-02-12T10:11:50-05:00",
     "type": "Dataset",
-    "version": "a7ee322ba7f645b71d007404f453c8bd940cf1ad"
+    "version": "592656f63da10cff6f5dcdbaa7bb4c6640a138e8"
   },
   {
     "@context": {
@@ -163,9 +163,9 @@
     "@id": "01cfb952-8439-11e6-af53-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "72e7a148-7af4-11e6-af5a-002590f97d84",
-    "dcterms:modified": "2017-11-06T16:18:03-05:00",
+    "dcterms:modified": "2018-02-21T16:41:42-05:00",
     "type": "Dataset",
-    "version": "be890a11fa4633833f4e9c4412a8abc18f35d9f4"
+    "version": "996ba58cdd2f121906f5d4ebf73c371fb35c6676"
   },
   {
     "@context": {
@@ -227,15 +227,19 @@
         "description": "."
       },
       {
+        "@id": "afde6679-1f2f-41f2-935a-93e7e3d70274",
+        "description": "nastase@head1:~/BIDS/haxby/raiders"
+      },
+      {
         "@id": "de53ce43-2c07-4971-8de8-0445c596f7dc",
         "description": "datalad-public-ro"
       }
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "01cfb952-8439-11e6-af53-002590f97d84",
-    "dcterms:modified": "2017-09-19T16:31:02-04:00",
+    "dcterms:modified": "2018-02-21T16:41:42-05:00",
     "type": "Dataset",
-    "version": "a5b83378f3e0b7294c85a86f29c8892d4c0d9a15"
+    "version": "d05edae37b7d9e9bbb3ab918df6342492a3413f0"
   },
   {
     "@context": {
@@ -253,7 +257,7 @@
     ],
     "dcterms:conformsTo": [
       "http://docs.datalad.org/metadata.html#v0-1",
-      "http://bids.neuroimaging.io"
+      "http://bids.neuroimaging.io/bids_spec1.0.1.pdf"
     ],
     "foaf:fundedBy": "Funding was provided by National Institutes of Mental Health grant 5R01MH075706 (Haxby), and by a graduate fellowship from the Neukom Institute for Computational Sciences at Dartmouth (Guntupalli).",
     "license": "PDDL",
@@ -289,9 +293,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "01cfb952-8439-11e6-af53-002590f97d84",
-    "dcterms:modified": "2017-08-12T13:29:18-04:00",
+    "dcterms:modified": "2018-02-21T16:41:16-05:00",
     "type": "Dataset",
-    "version": "b4d4e072d6922a64a2e5db1253483cda4e32ea9d"
+    "version": "156dd0f8b7e2dbefd7bfa128f43c3a2322f0c979"
   },
   {
     "@context": {
@@ -303,6 +307,7 @@
       "Samuel A. Nastase",
       "Yaroslav O. Halchenko",
       "Andrew C. Connolly",
+      "M. Ida Gobbini",
       "James V. Haxby"
     ],
     "dcterms:conformsTo": [
@@ -324,6 +329,160 @@
       "doap": "http://usefulinc.com/ns/doap#"
     },
     "@id": "73f3d2f6-49f1-11e7-bf68-003048ce7f90",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:hasPart": [
+      {
+        "@id": "a872eae0-15a6-11e8-8fe5-003048ce7f90",
+        "location": "haxby/attention/derivatives/freesurfer/fsaverage6"
+      },
+      {
+        "@id": "88d5a2f0-15a5-11e8-8fe5-003048ce7f90",
+        "location": "haxby/attention/derivatives/pymvpa"
+      },
+      {
+        "@id": "b5570440-15a5-11e8-8fe5-003048ce7f90",
+        "location": "haxby/attention/derivatives/afni"
+      },
+      {
+        "@id": "cf0c0066-15a5-11e8-8fe5-003048ce7f90",
+        "location": "haxby/attention/derivatives/fmriprep"
+      }
+    ]
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "a872eae0-15a6-11e8-8fe5-003048ce7f90",
+    "availableFrom": [
+      {
+        "@id": "bd8fbbcf-4ce3-4f84-a372-cddf4dd691cf",
+        "description": "nastase@head1:~/attention/raw_bids/derivatives/freesurfer/fsaverage6"
+      },
+      {
+        "@id": "c851e79f-1106-4974-a178-97ec0818205f",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/labs/haxby/attention/derivatives/freesurfer/fsaverage6"
+      },
+      {
+        "@id": "dcf4210b-189d-4926-b650-747ab278641f",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/labs/haxby/attention/derivatives/freesurfer/fsaverage6"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "73f3d2f6-49f1-11e7-bf68-003048ce7f90",
+    "dcterms:modified": "2018-02-21T16:41:11-05:00",
+    "type": "Dataset",
+    "version": "81d36cbf6254a3736750585d4301f86c604fe8a5"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "a872eae0-15a6-11e8-8fe5-003048ce7f90",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "88d5a2f0-15a5-11e8-8fe5-003048ce7f90",
+    "availableFrom": [
+      {
+        "@id": "924846f5-3927-4672-a2d0-732745f6279b",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/labs/haxby/attention/derivatives/pymvpa"
+      },
+      {
+        "@id": "a9f71c50-1920-4633-bba1-b260710cf7f9",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/labs/haxby/attention/derivatives/pymvpa"
+      },
+      {
+        "@id": "faf15f86-f724-422d-86a5-71e9757afba0",
+        "description": "nastase@head1:~/attention/raw_bids/derivatives/pymvpa"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "73f3d2f6-49f1-11e7-bf68-003048ce7f90",
+    "dcterms:modified": "2018-02-21T16:41:15-05:00",
+    "type": "Dataset",
+    "version": "e8ee60bdb7e0a91cdf0b32ecf4479fbd5123df14"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "88d5a2f0-15a5-11e8-8fe5-003048ce7f90",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "b5570440-15a5-11e8-8fe5-003048ce7f90",
+    "availableFrom": [
+      {
+        "@id": "699b8506-8ee6-46b4-b401-cd137171f710",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/labs/haxby/attention/derivatives/afni"
+      },
+      {
+        "@id": "8721b219-176d-458d-b564-30fcb1ec3d93",
+        "description": "nastase@head1:~/attention/raw_bids/derivatives/afni"
+      },
+      {
+        "@id": "ba6e0e3e-c641-406a-94bf-591eed923b54",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/labs/haxby/attention/derivatives/afni"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "73f3d2f6-49f1-11e7-bf68-003048ce7f90",
+    "dcterms:modified": "2018-02-21T16:41:09-05:00",
+    "type": "Dataset",
+    "version": "4994f821e3eee9d177f60c3c1a035eebe45d341d"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "b5570440-15a5-11e8-8fe5-003048ce7f90",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "cf0c0066-15a5-11e8-8fe5-003048ce7f90",
+    "availableFrom": [
+      {
+        "@id": "13078b0f-403f-43b7-b75b-6c9820608fc8",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/labs/haxby/attention/derivatives/fmriprep"
+      },
+      {
+        "@id": "40ee56a7-ce25-4a51-bf6e-a293d7b6f521",
+        "description": "nastase@head1:~/attention/raw_bids/derivatives/fmriprep"
+      },
+      {
+        "@id": "bb3e2f55-5acf-4bca-a163-df233739936f",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/labs/haxby/attention/derivatives/fmriprep"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "73f3d2f6-49f1-11e7-bf68-003048ce7f90",
+    "dcterms:modified": "2018-02-21T16:41:10-05:00",
+    "type": "Dataset",
+    "version": "6e37cb3109f62583d7df76efe7c8dde295446495"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "cf0c0066-15a5-11e8-8fe5-003048ce7f90",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
   },
   {
@@ -348,9 +507,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "01cfb952-8439-11e6-af53-002590f97d84",
-    "dcterms:modified": "2017-11-06T15:56:43-05:00",
+    "dcterms:modified": "2018-02-12T10:11:51-05:00",
     "type": "Dataset",
-    "version": "bd8b3f8161b7f189dd52343d6eb65dd8db7c1ccc"
+    "version": "c193a5951807742e0e0f77aa2516f0f1bf62ea1b"
   },
   {
     "@context": {
@@ -487,9 +646,9 @@
     "@id": "7944fa62-301c-11e7-8784-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "72e7a148-7af4-11e6-af5a-002590f97d84",
-    "dcterms:modified": "2017-11-29T09:58:35-05:00",
+    "dcterms:modified": "2018-02-12T10:11:52-05:00",
     "type": "Dataset",
-    "version": "9b4296dd6ef684d673a9d4f97ea1c351704ab6dd"
+    "version": "9612f96f3789f73a8e73a1d96c449e4af1de806c"
   },
   {
     "@context": {

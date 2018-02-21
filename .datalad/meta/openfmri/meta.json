@@ -7,9 +7,9 @@
     "@id": "14114028-7d08-11e6-9ce4-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2018-02-13T09:08:26-05:00",
+    "dcterms:modified": "2018-02-13T12:57:50-05:00",
     "type": "Dataset",
-    "version": "e9427d6b350e3c04dc043da46db0950d07456f3b"
+    "version": "ac569182daac50be26cb9e7b8270b77df65ac15f"
   },
   {
     "@context": {
@@ -3134,9 +3134,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2018-02-12T10:07:03-05:00",
+    "dcterms:modified": "2018-02-13T12:47:02-05:00",
     "type": "Dataset",
-    "version": "0aab3117a6edfbe15a9674eebf028b1f3a64b753"
+    "version": "a9a42987e34d122eefab3ed69f4f3bcb452a9d2f"
   },
   {
     "@context": {
@@ -3714,9 +3714,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2018-02-12T10:07:05-05:00",
+    "dcterms:modified": "2018-02-13T12:33:23-05:00",
     "type": "Dataset",
-    "version": "9ab02c054bb1c062cbeeb97219aee5b0a9e06b13"
+    "version": "fe4eff869c02bb07e3f9e6fabc22f288358f1540"
   },
   {
     "@context": {
@@ -3898,9 +3898,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2018-02-12T16:50:22-05:00",
+    "dcterms:modified": "2018-02-13T12:10:21-05:00",
     "type": "Dataset",
-    "version": "0fa53e31ce89369b07588c9fc0d38e3e14f9373e"
+    "version": "f21448e391082c3ab150087ae545c043af90a73f"
   },
   {
     "@context": {
@@ -5952,9 +5952,9 @@
     ],
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "14114028-7d08-11e6-9ce4-002590f97d84",
-    "dcterms:modified": "2018-02-13T09:02:10-05:00",
+    "dcterms:modified": "2018-02-13T12:16:10-05:00",
     "type": "Dataset",
-    "version": "907df36cae0efbcea8e4ac9b723afff33fef3268"
+    "version": "3304735fdd886ed253290a50e2e60296eb003652"
   },
   {
     "@context": {
@@ -5970,9 +5970,9 @@
       "http://docs.datalad.org/metadata.html#v0-1",
       "http://bids.neuroimaging.io/bids_spec1.0.2.pdf"
     ],
-    "description": "### Comments added by Openfmri Curators ###\n===========================================\n\nGeneral Comments\n----------------\n\n\nDefacing\n--------\nPydeface was used on all anatomical images to ensure de-identification of subjects. The code\ncan be found at https://github.com/poldracklab/pydeface\n\nQuality Control\n---------------\nMRIQC was run on the dataset. Results are located in derivatives/mriqc. Learn more about it here: https://mriqc.readthedocs.io/en/stable/\n\nWhere to discuss the dataset\n----------------------------\n1) www.openfmri.org/dataset/ds******/ See the comments section at the bottom of the dataset\npage.\n2) www.neurostars.org Please tag any discussion topics with the tags openfmri and dsXXXXXX.\n3) Send an email to submissions@openfmri.org. Please include the accession number in\nyour email.\n\nBIDS-Validator output:\n----------------------\n\n1: Not all subjects/sessions/runs have the same scanning parameters. (code: 39 - INCONSISTENT_PARAMETERS)\n       \t\t./sub-01/func/sub-01_task-localizer_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 96,96,39,316 (voxels), This file has the dimensions: 96,96,39,260 (voxels).\n       \t\t./sub-02/func/sub-02_task-localizer_bold.nii.gz\n       \t\t\t The most common set of dimensions is: 96,96,39,316 (voxels), This file has the dimensions: 96,96,39,388 (voxels).\n\n        Summary:                  Available Tasks:          Available Modalities:\n        327 Files, 10.44GB        Experimental Run 1        T1w\n        20 - Subjects             Experimental Run 2        bold\n        1 - Session               Experimental Run 3\n                                  Experimental Run 4\n                                  Localizer\n\nKnown Issues\n------------",
+    "description": "This dataset was used in Gorbet, DJ and Sergio, LE 2017 Move Faster, Think Later: Women Who Play Action Video Games Have Quicker Visually-Guided Responses With Later Onset Visuomotor-Related Brain Activity.  PLOS One (in press). The data were collected at York University, Toronto, Ontario. The dataset contains functional images from 20, right-handed women: 10 who play action video games more than 10 hours per week and 10 who play little to no action video games.  Functional data were collected using two, slow event-related visually-guided hand movement tasks. In the Standard task, the eyes and hand moved to the same cued spatial location.  In the Non-Standard or Dissociated task the eyes moved to the cued spatial location and the hand moved 180 degrees in the opposite direction.  All trials were structured with a cue period (2.5 seconds), followed by an instructed delay period (10 seconds), followed by a go signal and movement period (2.5 seconds).  Four experimental runs containing both conditions (in random order) with 10 trials per condition were collected.  A separate but similarly structured run was used for independent functional localization.",
     "license": "PDDL",
-    "name": "This dataset was used in Gorbet, DJ and Sergio, LE 2017 Move Faster, Think Later: Women Who Play Action Video Games Have Quicker Visually-Guided Responses With Later Onset Visuomotor-Related Brain Activity.  PLOS One (in press). The data were collected at York University, Toronto, Ontario. The dataset contains functional images from 20, right-handed women: 10 who play action video games more than 10 hours per week and 10 who play little to no action video games.  Functional data were collected using two, slow event-related visually-guided hand movement tasks. In the Standard task, the eyes and hand moved to the same cued spatial location.  In the Non-Standard or Dissociated task the eyes moved to the cued spatial location and the hand moved 180 degrees in the opposite direction.  All trials were structured with a cue period (2.5 seconds), followed by an instructed delay period (10 seconds), followed by a go signal and movement period (2.5 seconds).  Four experimental runs containing both conditions (in random order) with 10 trials per condition were collected.  A separate but similarly structured run was used for independent functional localization."
+    "name": "Female action video game players"
   },
   {
     "@context": {
