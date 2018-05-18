@@ -7,9 +7,9 @@
     "@id": "72e7a148-7af4-11e6-af5a-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "6d69ca68-7e85-11e6-904c-002590f97d84",
-    "dcterms:modified": "2018-02-21T16:42:38-05:00",
+    "dcterms:modified": "2018-05-18T10:47:55-04:00",
     "type": "Dataset",
-    "version": "b594910ee26e62395c86c0b714eefc16cbb892aa"
+    "version": "1588943b1f286da602623ce8850c6e10a3f8389d"
   },
   {
     "@context": {
@@ -57,6 +57,10 @@
       {
         "@id": "7944fa62-301c-11e7-8784-002590f97d84",
         "location": "gobbini"
+      },
+      {
+        "@id": "daae98c2-1670-11e8-93d9-002590f97d84",
+        "location": "openneurolab"
       }
     ]
   },
@@ -163,9 +167,9 @@
     "@id": "01cfb952-8439-11e6-af53-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
     "dcterms:isPartOf": "72e7a148-7af4-11e6-af5a-002590f97d84",
-    "dcterms:modified": "2018-02-21T16:41:42-05:00",
+    "dcterms:modified": "2018-05-01T01:24:13-04:00",
     "type": "Dataset",
-    "version": "996ba58cdd2f121906f5d4ebf73c371fb35c6676"
+    "version": "bc249505c7b5f400f3b8ec29419e7ebe3a663a9f"
   },
   {
     "@context": {
@@ -763,6 +767,36 @@
       "doap": "http://usefulinc.com/ns/doap#"
     },
     "@id": "699b6994-97f9-11e7-bf68-003048ce7f90",
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "daae98c2-1670-11e8-93d9-002590f97d84",
+    "availableFrom": [
+      {
+        "@id": "2e942ec6-a39d-4bc8-9c04-20218d405c9b",
+        "description": "yoh@smaug:/mnt/btrfs/datasets/datalad/crawl/labs/openneurolab"
+      },
+      {
+        "@id": "beef7289-2f8c-44a8-b984-b96015ddbe5a",
+        "description": "yoh@falkor:/srv/datasets.datalad.org/www/labs/openneurolab"
+      }
+    ],
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "dcterms:isPartOf": "72e7a148-7af4-11e6-af5a-002590f97d84",
+    "dcterms:modified": "2018-05-18T10:47:51-04:00",
+    "type": "Dataset",
+    "version": "468ffb9dc2864d8fd9026c368a1cede5c1571493"
+  },
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "daae98c2-1670-11e8-93d9-002590f97d84",
     "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1"
   }
 ]
