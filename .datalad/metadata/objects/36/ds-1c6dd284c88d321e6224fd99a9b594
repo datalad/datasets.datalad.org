@@ -1,0 +1,52 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Rodgers, Chris C.",
+"Deweese, Michael R."
+],
+"description":
+"The data consists of in vivo extracellular recordings from 121 neurons in the medial prefrontal cortex (mPFC) and 99 neurion in auditory cortex (A1) in rats while they were performing either of two stimulus selection tasks. The two stimulus selection tasks used the same set of auditory stimuli, but required the rats to respond differently depending on which task they were performing. To respond correctly, the rats had to select the appropriate aspect of the stimulus, similar to a human a cocktail party paying attention to only one voice.",
+"formats":
+[
+"application/matlab"
+],
+"name":
+"CRCNS.org pfc-1",
+"sameas":
+"10.6080/K0W66HPJ",
+"shortdescription":
+"Spiking responses of neurons in rodent prefrontal cortex and auditory cortex during a novel stimulus selection task.",
+"tag":
+[
+"Neuroscience",
+"Electrophysiology",
+"medial prefrontal cortex",
+"auditory cortex",
+"rat",
+"Single unit recordings"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"86e55342-7ae6-11e6-a6c8-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"8312ff264379c186d73a0ce0f1b9ccc61ebbf557"
+}
+}

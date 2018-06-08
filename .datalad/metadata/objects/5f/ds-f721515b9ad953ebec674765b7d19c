@@ -1,0 +1,52 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"S. Andrew Hires",
+"Diego Gutnisky",
+"Jianing Yu",
+"Karel Svoboda"
+],
+"description":
+"These experiments probe neural dynamics in the mouse vibrissal primary somatosensory cortex (S1) and its relationship to active touch. The data contain 52 juxtacellular loose-seal recording sessions from 21 adult mice performing a tactile decision behavior. Juxtacellular loose-seal recording are critical for recording in L4 because they fire synchronously and sparsely in time. The data also contain a complete record of the sensory and motor variables used to solve the task recorded at one millisecond resolution. The following paper describes the experiments in detail: Hires SA, Gutnisky DA, Yu J, O'connor DH, Svoboda K. Low-noise encoding of active touch by layer 4 in the somatosensory cortex. eLIFE. 2015;4  PMID: 12701550 doi: 10.7554/eLife.06619",
+"formats":
+[
+"Matlab"
+],
+"name":
+"CRCNS.org ssc-5",
+"sameas":
+"10.6080/K0MG7MDV",
+"shortdescription":
+"Juxtacellular recordings from primary somatosensory cortex (vS1) neurons of adult mice  performing whisker-mediated object localization.",
+"tag":
+[
+"Neuroscience",
+"Somatosensory Cortex",
+"barrel cortex",
+"Mouse"
+],
+"version":
+"0.5"
+},
+"datalad_core":
+{
+"@id":
+"9033fbfc-1fa9-11e7-956e-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"d1106d0940ffc1b50dddb4ad11b94650b8f3f603"
+}
+}

@@ -1,0 +1,53 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Ranulfo Romo",
+"Carlos D. Brody",
+"Adrián Hernández",
+"Luis Lemus"
+],
+"description":
+"This dataset contains the recordings from prefrontal cortex of two monkeys. Both monkeys experienced the following F1 frequencies: 10 14 18 24 30 34 Hz, and each F1 frequency was paired with higher and lower F2. This dataset is published together with the following manuscript that performs dimensionality reduction of several PFC datasets: * Kobak, D., Brendel, W., Constantinidis, C., Feierstein, C. E., Kepecs, A., Mainen, Z. F.,  Romo, R., Qi, X.-L., Uchida, N., and Machens, C. K. (2016). Demixed principal component analysis of neural population data. eLife, in press. Original publications associated with the data are: * Romo, R., Brody, C. D., Hernández, A., and Lemus, L. (1999). Neuronal correlates of parametric working memory in the prefrontal cortex. Nature, 399(6735), 470-473. * Brody, C. D., Hernández, A., Zainos, A., and Romo, R. (2003). Timing and neural encoding of somatosensory parametric working memory in macaque prefrontal cortex. Cerebral cortex, 13(11), 1196-1207.",
+"formats":
+[
+"application/matlab"
+],
+"name":
+"CRCNS.org pfc-4",
+"sameas":
+"10.6080/K0V40S4D",
+"shortdescription":
+"Single-neuron spike train recordings from macaque prefrontal cortex during a somatosensory working memory task.",
+"tag":
+[
+"Neuroscience",
+"Electrophysiology",
+"prefrontal cortex",
+"macaque",
+"Single unit recordings"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"88804162-7ae6-11e6-a6c8-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"8c7918b564c31d9dfc522d61ad414a274e201514"
+}
+}

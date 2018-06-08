@@ -1,0 +1,51 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Willmore, Ben D.",
+"Prenger, Ryan J.",
+"Gallant, Jack L."
+],
+"description":
+"This data consists of extracellular recordings from well isolated neurons in area V2 in awake behaving macaque monkeys.",
+"formats":
+[
+"application/matlab"
+],
+"name":
+"CRCNS.org v2-1",
+"sameas":
+"10.6080/K07P8W9V",
+"shortdescription":
+"Extracellular recordings from area V2 of awake behaving rhesus monkey",
+"tag":
+[
+"Neuroscience",
+"Electrophysiology",
+"Visual Cortex (V2)",
+"Monkey (macaque)"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"9396d3e0-7ae6-11e6-a6c8-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"7f30f6c83818ef71c128f13994c7f279b8c171d4"
+}
+}

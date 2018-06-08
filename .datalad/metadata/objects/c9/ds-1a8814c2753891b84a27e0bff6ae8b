@@ -1,0 +1,52 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Ingmar Kanitscheider",
+"Ruben Coen-Cagli",
+"Adam Kohn",
+"Alexandre Pouget"
+],
+"description":
+"This package contains some MatLab tools for estimating linear Fisher information from population data.  Also included are two datasets (one synthetic, including the ground truth information; and one recorded in macaque primary visual cortex) to test the code. The code and the data sets are described in the associated paper: Ingmar Kanitscheider, Ruben Coen-Cagli, Adam Kohn, Alexandre Pouget \"Measuring Fisher information accurately in correlated neural populations\".  PLoS Comp. Biol. 2015",
+"formats":
+[
+"application/MATLAB"
+],
+"name":
+"CRCNS.org infe-1",
+"sameas":
+"10.6080/K0PK0D3B",
+"shortdescription":
+"MatLab tools for estimating linear Fisher information from population data along with synthetic data and recorded spike count responses from neurons in macaque primary visual cortex to grating images with different orientations and white noise.",
+"tag":
+[
+"Neuroscience",
+"Fisher Information",
+"Primary Visual Cortex",
+"monkey (macaque)"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"85d8ffbc-7ae6-11e6-a6c8-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"57074925cc9983912189d30b5b078bf3ba589dcc"
+}
+}

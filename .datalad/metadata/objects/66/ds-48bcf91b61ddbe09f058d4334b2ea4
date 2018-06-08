@@ -1,0 +1,49 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Garner, Aleena"
+],
+"description":
+"The data set consists of image data collected using a two-photon microscope with resonant and galvo scanners, and a MaiTai femtosecond laser. The mice, fitted with head-plates and a cranial window, ran on a freely-rotating disc while visual stimuli were presented to the eye contralateral to the imaged layer 4 region.",
+"formats":
+[
+"HDF5"
+],
+"name":
+"CRCNS.org pvc-7",
+"sameas":
+"10.6080/K0C8276G",
+"shortdescription":
+"In vivo calcium imaging of layer 4 cells in the mouse using sinusoidal grating stimuli",
+"tag":
+[
+"Neuroscience",
+"Electrophysiology",
+"Primary Visual Cortex (V1)",
+"Mouse"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"8fec0d78-7ae6-11e6-a6c8-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"ea0c1f67aa8328b542abe30f858fe2c1894a96c0"
+}
+}

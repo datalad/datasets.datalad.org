@@ -1,0 +1,56 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Shigeyoshi Fujisawa",
+"Asohan Amarasingham",
+"Matthew T Harrison",
+"György Buzsáki"
+],
+"description":
+"This dataset of multi single neuron recording was acquired in rats performing a working memory task. Neuronal activity was monitored simultaneously in the PFC (64 channels) and the intermediate area CA1 of the hippocampus (32 channels) in  three rats (EE, FF, GG). In one rat (EE), sleep was also recorded before and after the task.  Total duration of the recorded data from all three animals is approximately 23.37 hours.  Details of the task were described in the following paper:  Behavior-dependent short-term assembly dynamics in the medial prefrontal cortex. Fujisawa S, Amarasingham A, Harrison MT, Buzsáki G. Nature Neuroscience 2008 Jul;11(7):823-33.  doi: 10.1038/nn.2134.",
+"formats":
+[
+"application/neuroscope",
+"application/octet-stream",
+"application/matlab"
+],
+"name":
+"CRCNS.org pfc-2",
+"sameas":
+"10.6080/K01V5BWK",
+"shortdescription":
+"Simultaneous electrophysiological recordings of ensembles of isolated neurons in rat medial prefrontal cortex and intermediate CA1 area of the hippocampus during a working memory task.",
+"tag":
+[
+"Neuroscience",
+"Electrophysiology",
+"medial prefrontal cortex",
+"hippocampus (CA1)",
+"rat",
+"Single unit recordings"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"873a6eae-7ae6-11e6-a6c8-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"f3c31f9c4a25f4399dde62eede0915f064e714a7"
+}
+}

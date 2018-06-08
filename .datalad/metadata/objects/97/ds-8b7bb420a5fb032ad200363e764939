@@ -1,0 +1,52 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Ringach, Dario",
+"Nauhaus, Ian"
+],
+"description":
+"Responses of V1 populations of neurons to natural image sequences. Data was obtained using 10 x 10 extracellular electrode arrays from Old-world monkeys (Macaca fascicularis) in primary visual cortex (area V1). Visual stimuli were natural image sequences and are included with the data set.",
+"formats":
+[
+"application/matlab",
+"video/mpeg"
+],
+"name":
+"CRCNS.org pvc-1",
+"sameas":
+"10.6080/K0WD3XH6",
+"shortdescription":
+"Single- and multi-unit recordings from monkey primary visual cortex",
+"tag":
+[
+"Electrophysiology",
+"Intracellular recordings",
+"Utah array",
+"Monkey",
+"Macaca fascicularis"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"88e85018-7ae6-11e6-a6c8-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"0ec666096a08e7c209baacec91703c8bb659f934"
+}
+}

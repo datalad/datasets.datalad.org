@@ -1,0 +1,53 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Mattias Karlsson",
+"Margaret Carr",
+"Loren M. Frank"
+],
+"description":
+"The data was recorded in the lab of Loren Frank at UCSF from hippocampus regions in nine male Long-Evans rats before, during and after the animals performed an alternate choice task in one of two W-shaped tracks.  In two animals, recordings were from areas MEC and CA1; for the other seven animals, recordings were from CA1 and CA3.  The data was used to determine relationships between activity in hippocampus neurons to information representation, learning and decision making.",
+"formats":
+[
+"application/matlab",
+"application/octet-stream"
+],
+"name":
+"CRCNS.org hc-6",
+"sameas":
+"10.6080/K0NK3BZJ",
+"shortdescription":
+"Simultaneous extracellular recordings from hippocampal areas CA1 and CA3 (or MEC and CA1) from rats performing an alternation task in two W-shaped tracks that are geometrically identically but visually distinct.",
+"tag":
+[
+"Neuroscience",
+"Electrophysiology",
+"Hippocampus (CA1)",
+"Hippocampus (CA3)",
+"Rat"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"8461a1c0-7ae6-11e6-a6c8-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"6884a489bde1169de68a1af6fa2b720e4feca285"
+}
+}

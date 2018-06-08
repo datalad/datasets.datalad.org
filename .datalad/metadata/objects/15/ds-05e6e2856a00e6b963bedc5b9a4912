@@ -1,0 +1,51 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Elizabeth L. Johnson"
+],
+"description":
+"Human scalp EEG collected using a 64 + 8 channel BioSemi ActiveTwo amplifier with Ag-AgCl pin-type active electrodes mounted on an elastic cap according to the extended 10-20 system (BioSemi, Amsterdam, Netherlands), sampled at 1024 Hz. Individual data for 14 patients with unilateral prefrontal cortex lesions (mean ± SD [range]: 46 ± 16 [20-71] years of age, 15 ± 3 years of education, 6 males) and 20 age- and education-matched, healthy controls (44 ± 19 [19-70] years of age, 16 ± 3 years of education, 11 males). Primary (raw) and derived (preprocessed) EEG data, and analysis scripts included. Methods, participants, and results are described in: Johnson, E. L., Dewar, C. D., Solbakk, A-K., Endestad, T., Meling, T. R. & Knight, R. T. Bidirectional frontoparietal oscillatory systems support working memory. Current Biology (2017). doi:10.1016/j.cub.2017.05.046",
+"formats":
+[
+"application/matlab",
+".bdf (BioSemi)"
+],
+"name":
+"CRCNS.org pfc-5",
+"sameas":
+"10.6080/K0ZC811B",
+"shortdescription":
+"64-channel human scalp EEG from 14 unilateral PFC patients and 20 healthy controls performing a lateralized visuospatial working memory task.",
+"tag":
+[
+"Neuroscience",
+"Electrophysiology",
+"prefrontal cortex",
+"human",
+"EEG"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"d2f54c0a-7e51-11e7-93f8-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"3c63086c5aed6e21a848175725df64f4f5f997a5"
+}
+}

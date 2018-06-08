@@ -1,0 +1,52 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Sylvia Wirth",
+"Pierre Baraduc",
+"Aurélie Planté",
+"Serge Pinède",
+"Jean-René Duhamel"
+],
+"description":
+"(This data set is expected to be available sometime during early 2017.) The dataset is made of 189 cells recorded in the hippocampus from two Rhesus macaques. Recordings were made extracellularly with either single tungsten electrodes or 16 contact u-probes. Activity was recorded as animals were navigating via a joystick a virtual maze projected in stereo, searching for a reward.  A file contains the timestamps of the action potentials, the X,Y position and camera orientation in virtual coordinates, the left and right eye X,Y coordinates, state space coordinates and task relevant event codes. Each file corresponds to a recording session of approximatively 40 minutes.  We provide a few Matlab scripts and documentation that allow plotting heat maps according to position, camera orientation, state space as well as raster histograms and behavior.",
+"formats":
+[
+"application/matlab"
+],
+"name":
+"CRCNS.org hc-12",
+"sameas":
+"10.6080/K0R49NQV",
+"shortdescription":
+"Extracellular recordings from monkey hippocampus performing a virtual navigation task",
+"tag":
+[
+"Neuroscience",
+"Monkey",
+"Hippocampus"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"97bda44a-1fa9-11e7-956e-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"39f71d00da8dfe34edfbbc4e0feca4810038f659"
+}
+}

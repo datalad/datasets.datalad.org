@@ -1,0 +1,49 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Itti, Laurent",
+"Carmi, Ran"
+],
+"description":
+"This freely shared dataset consists of a body of 520 human eye-tracking data traces obtained while normal, young adult human volunteers freely watched complex video stimuli (TV programs, outdoors videos, video games). The dataset comprises eye movement recordings from eight distinct subjects watching 50 different video clips (~25 minutes of total playtime) and from another eight subjects watching the same set of video clips after scrambling them into randomly re-ordered sets of 1-3s clippets.",
+"formats":
+[
+"application/octet-stream",
+"video/mpeg"
+],
+"name":
+"CRCNS.org eye-1",
+"sameas":
+"10.6080/K0TD9V7F",
+"shortdescription":
+"Eye-tracking data from human volunteers watching complex video stimuli.",
+"tag":
+[
+"Human",
+"Eye tracking"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"7ffcf18e-7ae6-11e6-a6c8-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"4cab87906a25065e6eb0924234d5ad53fc8c726c"
+}
+}

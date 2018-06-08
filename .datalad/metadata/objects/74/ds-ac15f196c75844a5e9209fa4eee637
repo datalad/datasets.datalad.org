@@ -1,0 +1,54 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Cui, Yuwei",
+"Liu, Dave L.",
+"Khawaja, Farhan A.",
+"Pack, Chris C.",
+"Butts, Danial A."
+],
+"description":
+"The data set contains recordings of spiking response from 84 neurons in area MT of awake adult macaque monkeys in response to complex motion stimuli.",
+"formats":
+[
+"application/matlab"
+],
+"name":
+"CRCNS.org mt-1",
+"sameas":
+"10.6080/K0X63JTX",
+"shortdescription":
+"Spiking activity in area MT of awake adult macaques in response to complex motion features.",
+"tag":
+[
+"Neuroscience",
+"Electrophysiology",
+"Area MT (V5)",
+"Monkey",
+"Macaque"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"862c0112-7ae6-11e6-a6c8-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"34fecb89df53dd5f3c57f07df8613716a06a3e8a"
+}
+}

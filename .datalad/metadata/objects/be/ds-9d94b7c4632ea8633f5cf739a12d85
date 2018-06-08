@@ -1,0 +1,52 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Grosmark, A.D.",
+"Long J.",
+"Buzsáki, G."
+],
+"description":
+"This data set is composed of eight bilateral silicon-probe multi-cellular electrophysiological recordings performed on four male Long-Evans rats. These recordings were performed to assess the effect of novel spatial learning on hippocampal CA1 neural firing and LFP patterns in naïve animals. Each session consisted of a long (~4 hour) PRE rest/sleep epoch home-cage recordings performed in a familiar room, followed by a Novel MAZE running epoch (~45 minutes) in which the animals were transferred to a novel room, and water-rewarded to run on a novel maze. These mazes were either A) a wooden 1.6m linear platform, B) a wooden 1m diameter circular platform or C) a 2m metal linear platform. Animals were rewarded either at both ends of the linear platform, or at a predetermined location on the circular platform. The animal was gently encouraged to run unidirectionally on the circular platform. After the MAZE epochs the animals were transferred back to their home-cage in the familiar room where a long (~4 hour) POST rest/sleep was recorded. All eight sessions were concatenated from the PRE, MAZE, and POST recording epochs. In addition to hippocampal electrophysiological recordings, neck EMG and head-mounted accelerometer signals were recorded, and the animal’s position during MAZE running epochs was tracked via head-mounted LEDs.",
+"formats":
+[
+"application/matlab",
+"application/octet-stream"
+],
+"name":
+"CRCNS.org hc-11",
+"sameas":
+"10.6080/K0862DC5",
+"shortdescription":
+"Recordings from hippocampal area CA1, PRE, during and POST novel spatial learning.",
+"tag":
+[
+"Neuroscience",
+"Electrophysiology",
+"Hippocampus (CA1)",
+"Rat"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"965269f6-1fa9-11e7-956e-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"f5f337e1f459ac07c3b8b5b8e3c146dea351bd20"
+}
+}

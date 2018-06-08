@@ -1,0 +1,54 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Nir Nossenson",
+"Ari Magal",
+"Hagit Messer"
+],
+"description":
+"This data set consists of 20 recordings of multiunit activity from the Pontine Nucleus and Inferior Colliculus of eight anesthetized rats using either  TiN electrode with 8 tips or a twisted wire tetrode.  The auditory stimulus used was white noise.  The stereotaxic location of the electrode in each recording, as well as electrode type are provided.   The data was used to model neural activity and to compare the performance of the optimal Gaussian signal-in-Gaussian-noise (model-based) detector to that of an energy detector which is widely used in electrophysiology. The experiments, data and analysis are described in: Nir Nossenson, Ari Magal, Hagit Messer; \"Detection of Stimuli from Multi-Neuron Activity: Empirical Study and Theoretical Implications\", Neurocomputing (2015), http://dx.doi.org/10.1016/j.neucom.2015.10.007",
+"formats":
+[
+"application/matlab"
+],
+"name":
+"CRCNS.org bst-1",
+"sameas":
+"10.6080/K0HT2M77",
+"shortdescription":
+"Activity of multiple neurons in the brain stem (Inferior colliculus and Pontine Nucleus) of anesthetized rats during white noise auditory stimulus",
+"tag":
+[
+"Neuroscience",
+"Electrophysiology",
+"brain Stem",
+"Inferior colliculus",
+"Pontine Nucleus",
+"rat",
+"Single unit recordings"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"7e59d0d6-7ae6-11e6-a6c8-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"0cd3b563fcc99e0c90e53bb9e1fcc16711c7e647"
+}
+}

@@ -1,0 +1,53 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Jianing Yu",
+"Diego Gutnisky",
+"Samuel Andrew Hires",
+"Karel Svoboda"
+],
+"description":
+"These experiments measure spikes and membrane potential in the mouse somatosensory thalamocortical system (Yu, Gutnisky et al Nat. Neurosci. 2016). Mice performed an active object localizatiobn behavior (as in O’Connor, D JNS 2010). Importantly, whisker movements and touch forces were tracked with millisecond time-scale precision (as in Pammer et al JNS 2013; Hires, Gutnisky et al ELife 2015). Spikes were recorded in VPM, L4 excitatory neurons, and L4 fast-spiking, parvalbumin-expressing interneurons. Importantly, L4 recordings were made with loos-seal pipettes to avoid sampling bias. Membrane potential is in addition recorded in L4 excitatory neurons and L4 fast-spiking neurons. Various optogenetic manipulations were performed to identify neuron types and to analyze the flow of excitation in the circuit.",
+"formats":
+[
+"HDF5",
+"NWB"
+],
+"name":
+"CRCNS.org ssc-7",
+"sameas":
+"10.6080/K0T43R01",
+"shortdescription":
+"Data related to: Layer 4 fast-spiking interneurons filter thalamocortical signals during active somatosensation.  Yu, Gutnisky, Hires, Svoboda, Nature Neurosci. 2016.",
+"tag":
+[
+"Neuroscience",
+"Somatosensory Cortex",
+"barrel cortex",
+"Mouse"
+],
+"version":
+"0.5"
+},
+"datalad_core":
+{
+"@id":
+"d92ee158-7e51-11e7-93f8-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"492c16cff4ce04b9dd0e52f87478b6653e136b86"
+}
+}

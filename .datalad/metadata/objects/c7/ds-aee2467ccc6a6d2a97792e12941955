@@ -1,0 +1,52 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Scholl, Benjamin",
+"Tan, Andrew Y.Y.",
+"Corey, Joe",
+"Priebe, Nicholas"
+],
+"description":
+"This data consists of spiking responses of LGN neurons in the mouse to drifting gratings of different orientations.  Responses from 72 neurons included.",
+"formats":
+[
+"application/matlab"
+],
+"name":
+"CRCNS.org lgn-1",
+"sameas":
+"10.6080/K05Q4T1N",
+"shortdescription":
+"Spiking responses of LGN neurons in the mouse to drifting grating",
+"tag":
+[
+"Neuroscience",
+"Electrophysiology",
+"Lateral Geniculate Nucleus (LGN)",
+"Mouse"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"85ff61d4-7ae6-11e6-a6c8-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"1a8450b57572e7f598872f220b44a09f09bac2b4"
+}
+}

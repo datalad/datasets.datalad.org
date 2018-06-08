@@ -1,0 +1,55 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Mizuseki, K.",
+"Sirota, A.",
+"Pastalkova, E.",
+"Diba, K.",
+"Peyrache, A.",
+"Buzsáki, G."
+],
+"description":
+"The data set contains additional data that is associated with sessions in the CRCNS.org hc-3 data set, but not included in that data set.  Specifically, for a given electrode placement, this data set includes all of the sessions and broadband raw data used to detect putative spikes, as well as all of the derived data used to cluster neuron responses (spike sorting).",
+"formats":
+[
+"application/neuroscope",
+"application/octet-stream"
+],
+"name":
+"CRCNS.org hc-4",
+"sameas":
+"10.6080/K0QJ7F75",
+"shortdescription":
+"Extracellular recordings from multi-site silicon probes used for clustering of neuron responses in rat hippocampal and entorhinal regions.",
+"tag":
+[
+"Neuroscience",
+"Electrophysiology",
+"Hippocampus (CA1)",
+"Rat"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"8333c01c-7ae6-11e6-a6c8-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"97b245c51bc25ddea43fa185712a6bc08d8b1a85"
+}
+}

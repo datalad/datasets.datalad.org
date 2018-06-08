@@ -1,0 +1,50 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Kohn, Adam",
+"Coen-Cagli, Ruben"
+],
+"description":
+"This data consist of multi-electrode recordings from V1 in anesthetized macaque monkeys, while natural images and gratings were flashed on the screen. Recordings were performed using the “Utah” electrode array.  Natural images were presented at two sizes, 3-6.7 degrees and windowed to 1 degree, to quantify surround modulation.",
+"formats":
+[
+"MATLAB"
+],
+"name":
+"CRCNS.org pvc-8",
+"sameas":
+"10.6080/K0SB43P8",
+"shortdescription":
+"Multi-electrode recordings of anesthetized macaque V1 responses to static natural images and gratings",
+"tag":
+[
+"Neuroscience",
+"Electrophysiology",
+"Primary Visual Cortex (V1)",
+"Macaque"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"9014dfdc-7ae6-11e6-a6c8-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"015c4a2da73e8972c1382c8f2337d734e7e3d363"
+}
+}

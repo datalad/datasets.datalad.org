@@ -1,0 +1,57 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Henze, D.A.",
+"Harris, K.D.",
+"Borhegyi, Z.",
+"Csicsvari, J.",
+"Mamiya, A.",
+"Hirase, H.",
+"Sirota, A.",
+"Buzsáki, G."
+],
+"description":
+"The data set is recorded from the CA1 hippocampal region. They contain recordings from the same neuron recorded both intracellularly and extracellularly.  Part of this data set has been already tested by various laboratories to test the uniquely developed unit clustering algorithms.",
+"formats":
+[
+"application/neuroscope",
+"application/octet-stream"
+],
+"name":
+"CRCNS.org hc-1",
+"sameas":
+"10.6080/K02Z13FP",
+"shortdescription":
+"Simultaneous intracellular and extracellular recordings from hippocampus region CA1 of anesthetized rats.",
+"tag":
+[
+"Neuroscience",
+"Electrophysiology",
+"Hippocampus (CA1)",
+"Rat"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"8085c5c2-7ae6-11e6-a6c8-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"72ae37c5a205db689cfde7a9e6ff782512bad38f"
+}
+}

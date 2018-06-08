@@ -1,0 +1,54 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Nicholas M. Timme",
+"Najja Marshall",
+"Nicholas Bennett",
+"Monica Ripp",
+"Edward Lautzenhiser",
+"John M. Beggs"
+],
+"description":
+"These data contain a record of neuron spiking activity in rat hippocampal dissociated cultures. The recordings were performed for days in vitro (DIV) 6 through 35 with all cultures being recorded multiple times throughout development. The recordings were performed with a large multielectrode array (Multichannel Systems, square lattice, 60 electrodes, 200 μm interelectrode spacing, 30 μm electrode diameter, flat electrodes). The cultures were not stimulated, so these data represent spontaneous activity. In total, 435 recordings are provided, most of which possess about one hundred neurons (min: 3, max: 142, mean: 91, total: 39,529). The average firing rate of the neurons was 1.9 Hz. The data were binned at 20 kHz and are presented in units of bins (0.05 ms). The lengths of the recordings were approximately 1 hour.",
+"formats":
+[
+"application/Matlab"
+],
+"name":
+"CRCNS.org hc-8",
+"sameas":
+"10.6080/K0PC308P",
+"shortdescription":
+"Spontaneous spiking activity of thousands of neurons in rat hippocampal dissociated cultures.",
+"tag":
+[
+"Neuroscience",
+"Electrophysiology",
+"Hippocampus",
+"Rat"
+],
+"version":
+"0.8"
+},
+"datalad_core":
+{
+"@id":
+"c872b65c-ab96-11e6-85b3-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"cebe7afe9025b5f9484527ef555577d7e2aed8eb"
+}
+}

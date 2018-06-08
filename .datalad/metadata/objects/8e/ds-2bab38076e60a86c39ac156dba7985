@@ -1,0 +1,50 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Mannion, Damien J."
+],
+"description":
+"The data set contains functional magnetic resonance imaging (fMRI) measurements of the magnitude of evoked activity in the visual areas V1, V2, and V3 in seven humans in response to image patches, drawn from above or below the centre of gaze of an observer navigating a natural environment.  The data is described in the publication: \"Sensitivity to the visual field origin of natural image patches in human low-level visual cortex\" by Damien J. Mannion.",
+"formats":
+[
+"application/Python NumPy",
+"NIFTY"
+],
+"name":
+"CRCNS.org vim-3",
+"sameas":
+"10.6080/K0JS9NC2",
+"shortdescription":
+"fMRI responses of human visual cortex (v1, v2, v3) to natural image patches obtained from above and below the centre of gaze of an observer freely-navigating an outdoor environment.",
+"tag":
+[
+"Neuroscience",
+"Electrophysiology",
+"Human",
+"fMRI"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"95562fd2-7ae6-11e6-a6c8-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"93821410eb4eee9296fa10612fbe645708ca78ba"
+}
+}

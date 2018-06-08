@@ -1,0 +1,53 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Scholl, Benjamin",
+"Pattadkal JJ",
+"Dilly GA",
+"Priebe NJ",
+"Zemelman BV"
+],
+"description":
+"This dataset is composed of measurements of binocular disparity selectivity in mouse V1 neurons using two-photon calcium imaging. The experiments and results are described in: Local integration accounts for weak selectivity of mouse neocortical parvalbumin interneurons Ben Scholl, Jagruti J. Pattadkal, Geoff A. Dilly, Nicholas J. Priebe* and Boris V. Zemelman*, Neuron 87, 424-436 (July 15 2015) http://dx.doi.org/10.1016/j.neuron.2015.06.030 * co-senior authors",
+"formats":
+[
+"application/matlab"
+],
+"name":
+"CRCNS.org pvc-10",
+"sameas":
+"10.6080/K0GT5K3V",
+"shortdescription":
+"Disparity selectivity in mouse V1 measured using two-photon calcium imaging",
+"tag":
+[
+"Neuroscience",
+"Calcium imaging",
+"Primary visual cortex",
+"Mouse"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"8dc0324a-7ae6-11e6-a6c8-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"1f902df98063635d9a34264e64d6b02d200478f8"
+}
+}

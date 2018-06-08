@@ -1,0 +1,53 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Boaz Mohar",
+"Hod Dana",
+"Douglas S. Kim",
+"Karel Svoboda"
+],
+"description":
+"The data contain simultaneous loose-seal, cell-attached recordings and functional imaging using red genetically-encoded calcium indicators, jRGECO1a (11 cells) and jRCaMP1a (10 cells). We recorded cells in L2/3 of the primary visual cortex in anesthetized mice watching drifting grating movie. A small field of view was imaged to acquire the highest possible SNR. We include for each cell the raw fluorescence signal from the cell soma, neuropil signal from the cell surroundings, raw electrophysiological recording data, high-pass filtered electrophysiological recording data and spikes. The contrast of the visual stimulus and the drifting grating orientation were modified during each recording to produce variety of spike rates, and is not included in the data set. Results and full description of the experiments have been published in: Sensitive red protein calcium indicators for imaging neural activity. Dana et al., eLife 2016; 10.7554/eLife.12727",
+"formats":
+[
+"application/matlab"
+],
+"name":
+"CRCNS.org cai-2",
+"sameas":
+"10.6080/K0W37T87",
+"shortdescription":
+"jRGECO1a and jRCaMP1a characterization in the intact mouse visual cortex, using AAV-based gene transfer, 2-photon imaging and loose-seal cell attached recordings, as described in Dana et al 2016",
+"tag":
+[
+"Neuroscience",
+"Electrophysiology",
+"Calcium imaging",
+"mouse",
+"primary visual cortex"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"7f36ee44-7ae6-11e6-a6c8-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"30d25b1668483c5d06c79a95fdd5e0b95ccedc3f"
+}
+}

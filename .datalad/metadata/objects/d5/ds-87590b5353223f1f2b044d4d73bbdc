@@ -1,0 +1,64 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Theunissen, Frederic E.",
+"Hauber, ME",
+"Woolley, Sarah M. N.",
+"Gill, Patrick",
+"Shaevitz, SS",
+"Amin, Noopur",
+"Hsu, A",
+"Singh, NC",
+"Grace, GA",
+"Fremouw, Thane",
+"Zhang, Junli",
+"Cassey, P",
+"Doupe, AJ",
+"David, SV",
+"Vinje, WE"
+],
+"description":
+"Data consists of simultaneous single-unit recordings from two auditory areas in male zebra finches.",
+"formats":
+[
+"application/matlab",
+"audio/wav"
+],
+"name":
+"CRCNS.org aa-1",
+"sameas":
+"10.6080/K0F769GP",
+"shortdescription":
+"Single-unit recordings from two auditory areas in male zebra finches",
+"tag":
+[
+"Neuroscience",
+"Electrophysiology",
+"auditory area",
+"avian (zebra finch)"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"77271f9e-7ae6-11e6-a6c8-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"e61c8c7f56ccebf9c0e9be9f0db6912b80805139"
+}
+}

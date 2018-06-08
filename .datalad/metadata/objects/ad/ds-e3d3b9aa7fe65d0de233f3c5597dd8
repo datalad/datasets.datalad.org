@@ -1,0 +1,53 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Li, Nuo",
+"Gerfen, Charles R",
+"Svoboda, Karel"
+],
+"description":
+"These experiments probe neural dynamics in the anterior motor cortex (ALM) and its relationship to voluntary movement.  The data represent extracellular recordings from ALM neurons of adult mice performing a tactile decision behavior.  Mouse uses whisker to detect which of two possible positions a pole is in.  After a delay, the mice indicate the pole position by licking a sensor either on the right or left.  During the experiment extracellular recordings were made from ALM neurons using 32 channels.  Photostimulation was used to generate antidromic spikes in either layer 5 IT (Intratelencephalic) neuron axons through a cranial window over contra-lateral ALM or PT (Pyramidal Tract) neuron axons through an optical fiber in the ipsi-lateral brainstem.",
+"formats":
+[
+"application/matlab"
+],
+"name":
+"CRCNS.org alm-1",
+"sameas":
+"10.6080/K0MS3QNT",
+"shortdescription":
+"Extracellular recordings from anterior lateral motor cortex (ALM) neurons of adult mice  performing a tactile decision behavior",
+"tag":
+[
+"Neuroscience",
+"Electrophysiology",
+"anterior lateral motor cortex (ALM)",
+"motor cortex",
+"mice",
+"Extracellular recordings"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"7a010f40-7ae6-11e6-a6c8-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"3f3375d5520b44982b38784d3fe6c44afd5f5950"
+}
+}

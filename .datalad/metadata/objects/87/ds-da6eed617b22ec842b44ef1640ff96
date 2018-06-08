@@ -1,0 +1,52 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Zsolt Kohus",
+"Attila I Gulyás"
+],
+"description":
+"The data set contains raw data and values of inhibitory transmission parameters (IPSC rise, decay, amplitude and short-term plasticity) between interneurons and their interneuron/pyramidal cell targets in response to for different physiologically relevant firing patterns. We measured the parameters of transmission from pairs of  CA3 area PV positive basket and axo-axonic, as well as CCK positive basket and dendrite targeting neurons in mouse (postnatal 19-25 days) in vitro hippocampal slices.  Presynaptic cells were stimulated by a train of 10 action potentials at frequencies physiological in the hippocampus (1 Hz, 5 Hz, 10 Hz, 20 Hz, 40 Hz, 80 Hz, 160 Hz, 320 Hz). We also tested the response of connections to inputs reflecting the behavior of perisomatic-region targeting interneurons during sharp wave-ripples (RIP protocol - 4 APs at 160 Hz) and pathological interictal events (EPI protocol - 30 APs at 160 Hz followed by 4 APs at 320 Hz). The time constant of recovery from inhibition was calculated using stimuli, which consisted of two consecutive RIP protocols where the time between the two RIP patterns was systematically varied. The intervals used were 50 ms, 100 ms, 200 ms, 300 ms, 500 ms, 800 ms, and 1200 ms. We present the raw experimental data as well as data tables characterizing (amplitude, success rate, etc.) the transmission for all recorded cell pairs. A summary table helps orientation.",
+"formats":
+[
+"CSV",
+"application/octet-stream"
+],
+"name":
+"CRCNS.org hc-7",
+"sameas":
+"10.6080/K0MK69T5",
+"shortdescription":
+"Temporal properties of mouse hippocampal CA3 area PV and CCK inhibitory neuron transmission measured by physiologically relevant action potential sequences.",
+"tag":
+[
+"Neuroscience",
+"Electrophysiology",
+"Hippocampus (CA1)",
+"Hippocampus (CA3)",
+"Mouse"
+],
+"version":
+"0.7"
+},
+"datalad_core":
+{
+"@id":
+"c7bf3e92-ab96-11e6-85b3-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"53accb367fd707cedfc2197c635ed5c5f340d36b"
+}
+}

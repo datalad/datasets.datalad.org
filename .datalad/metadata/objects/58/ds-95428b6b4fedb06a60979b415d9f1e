@@ -1,0 +1,60 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Huang, Y.",
+"Liu, A.",
+"Lafon, B.",
+"Friedman, D.",
+"Dayan, M.",
+"Wang, X.",
+"Bikson, M.",
+"Devinsky, O.",
+"Parra, L."
+],
+"description":
+"The data set contains the voltage magnitudes at intracranial electrodes induced by transcranial electrical stimulation (tES). It is derived from the in vivo electrocorticography (ECoG) recordings of electrical potential on human subjects when weak alternating current (smaller than 2 mA) is applied transcranially from the scalp surface. 10 individuals are recorded with almost 1400 intracranial electrodes in total covering most cortical regions and some deep brain areas. They have been used to calibrate and validate our tES models which may be published in the manuscripts referenced in the data set description.  We hope these data can also be used in the future to facilitate the validation of newly developed modeling approaches for the study of tES. Also the magnetic resonance image (MRI) of each subject is included.  Note that the raw ECoG recordings are not included in this data set. The voltage values in this data set are estimated by fitting a sinusoid to the recordings at each intracranial electrode. They are therefore the electrical potentials in the brain induced by the stimulation, not the spontaneous brain activities.",
+"formats":
+[
+"application/matlab",
+"application/octet-stream",
+"NIFTI"
+],
+"name":
+"CRCNS.org tes-1",
+"sameas":
+"10.6080/K0XW4GQ1",
+"shortdescription":
+"Recordings of electrical potentials in the in vivo human brain induced by transcranial electrical stimulation",
+"tag":
+[
+"Neuroscience",
+"transcranial electrical stimulation (tES)",
+"electrocorticography (ECoG)",
+"human",
+"magnetic resonance image (MRI)"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"c9dd1ab4-ab96-11e6-85b3-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"74cf289bc52fff4062db94751f6b5801f9436c1b"
+}
+}

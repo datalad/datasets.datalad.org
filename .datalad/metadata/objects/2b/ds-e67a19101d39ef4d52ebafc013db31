@@ -1,0 +1,55 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Watson, BO",
+"Levenstein, D",
+"Greene, JP",
+"Gelinas, JN",
+"Buzsáki, G"
+],
+"description":
+"Data was recorded using silicon probe electrodes in the frontal cortices of male Long Evans rats between 4-7 months of age.  The design was to have no specific behavior, task or stimulus, rather the animal was left alone in it’s home cage (which it lives in at all times).  Data includes both local field potentials (LFP) and spikes.  11 total animals, 27 recording sessions, 1360 total units recorded, 1121 units considered stable, 995 putative excitatory units and 126 putative inhibitory units.  Only recordings including a “WAKE-SLEEP” episode wherein at least 7 minutes of wake are followed by 20 minutes of sleep.  On average 2 such WAKE-SLEEP episodes per recording session.",
+"formats":
+[
+"application/matlab",
+"application/octet-stream"
+],
+"name":
+"CRCNS.org fcx-1",
+"sameas":
+"10.6080/K02N506Q",
+"shortdescription":
+"Multi-unit spiking activity recorded from rat frontal cortex (brain regions mPFC, OFC, ACC, and M2) during wake-sleep episode wherein at least 7 minutes of wake are followed by 20 minutes of sleep.",
+"tag":
+[
+"Neuroscience",
+"Electrophysiology",
+"frontal cortex",
+"rat",
+"Single unit recordings"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"771a3e4c-7ae5-11e6-b936-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"0e65c1515485b854cdf76f3363aa18cde476a79a"
+}
+}

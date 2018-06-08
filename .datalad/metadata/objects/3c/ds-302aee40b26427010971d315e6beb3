@@ -1,0 +1,43 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datalad_core":
+{
+"@id":
+"4a7a4422-7d37-11e7-b9e2-002590f97d84",
+"ispartof":
+{
+"@id":
+"3bb104b2-7d37-11e7-84a4-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"75c025c0d59e0d536968096233676ffbfebc87dc"
+},
+"frictionless_datapackage":
+{
+"author":
+"Janice Chen, Yuan Chang Leong, Christopher J. Honey, Chung H. Yong, Kenneth A. Norman, and Uri Hasson",
+"conformsto":
+"http://specs.frictionlessdata.io/data-packages",
+"description":
+"This dataset is described in the paper: 'Shared memories reveal shared structure in neural activity across individuals' Janice Chen, Yuan Chang Leong, Christopher J. Honey, Chung H. Yong, Kenneth A. Norman, and Uri Hasson.  Nature Neuroscience 20, no. 1 (January 2017): 115-25. doi:10.1038/nn.4450  All data are preprocessed and transformed to MNI space as described in the paper ",
+"homepage":
+"http://dataspace.princeton.edu/jspui/handle/88435/dsp01nz8062179",
+"name":
+"sherlock-preprocessed",
+"shortdescription":
+"Preprocessed data for 'Shared memories reveal shared structure in neural activity across individuals'",
+"tag":
+[
+"NeuroImaging",
+"MRI",
+"fMRI",
+"matlab"
+]
+}
+}

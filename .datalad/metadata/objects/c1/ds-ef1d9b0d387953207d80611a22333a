@@ -1,0 +1,54 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Peron, Simon",
+"Freeman, Jeremy",
+"Iyer, Vijay",
+"Guo, Caiying",
+"Svoboda, Karel"
+],
+"description":
+"The dataset comprises calcium imaging data from vibrissal S1 in mice performing a pole localization task.   Volumetric calcium imaging in mice expressing GCaMP6s and nuclear red fluorescent proteins was used to sample activity in 75 % of superficial barrel cortex neurons across the relevant cortical columns, approximately 12,000 neurons per animal, during performance of a single whisker object localization task.  The raw data consists of images of neuronal calcium activity and whisker movements.  The processed data consists of fluorescence time series from multiple individual cells and simultaneously recorded behavioral variables, including whisker dynamics.",
+"formats":
+[
+"MATLAB",
+"tiff"
+],
+"name":
+"CRCNS.org ssc-2",
+"sameas":
+"10.6080/K0TB14TN",
+"shortdescription":
+"Volumetric calcium imaging data recorded during performance of a single whisker object localization task, sampling activity in the majority of the relevant superficial barrel cortex neurons (75 %, 12,000 neurons per mouse).",
+"tag":
+[
+"Neuroscience",
+"Calcium imaging",
+"Somatosensory Cortex",
+"Mouse"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"91ed10e0-7ae6-11e6-a6c8-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"feb30047e585780e411c5cbcbccce34dfc7888e6"
+}
+}

@@ -1,0 +1,54 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Mizuseki, K.",
+"Sirota, A.",
+"Pastalkova, E.",
+"Diba, K.",
+"Buzsáki, G."
+],
+"description":
+"The data set contains recordings made from multiple hippocampal areas in Long-Evans rats, including: Cornu Ammonis: CA1 and CA3; dentate gyrus (DG), and entorhinal cortex: EC2, EC3, EC5. The data was obtained during 442 recording sessions and includes responses of 7,737 neurons in eleven animals while they performed one of fourteen behaviors.  Total time for all experiments is 204.5 hours.",
+"formats":
+[
+"application/neuroscope",
+"application/octet-stream"
+],
+"name":
+"CRCNS.org hc-3",
+"sameas":
+"10.6080/K09G5JRZ",
+"shortdescription":
+"Multiple single unit recordings from different rat hippocampal and entorhinal regions while the animals were performing multiple behavioral tasks.",
+"tag":
+[
+"Neuroscience",
+"Electrophysiology",
+"Hippocampus (CA1)",
+"Rat"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"8127a716-7ae6-11e6-a6c8-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"df023eaae15fec75212c50ace551f07f867d8ae6"
+}
+}

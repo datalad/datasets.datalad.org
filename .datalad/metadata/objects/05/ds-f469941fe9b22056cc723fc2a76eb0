@@ -1,0 +1,52 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Zhang, Yi-Feng",
+"Asari, Hiroki",
+"Meister, Markus"
+],
+"description":
+"Neuronal responses of retinal ganglion cells to various visual stimuli were recorded in the isolated retina from lab mice (Mus Musculus) using a 61-electrode array. Recordings from 16 retina preparations are included.  From 3 to 43 cells were simultaneously recorded in each perparation.",
+"formats":
+[
+"application/matlab"
+],
+"name":
+"CRCNS.org ret-1",
+"sameas":
+"10.6080/K0RF5RZT",
+"shortdescription":
+"Multi-electrode recordings from retinal ganglion cells",
+"tag":
+[
+"Neuroscience",
+"Electrophysiology",
+"retina",
+"mice (Mus Musculus)",
+"Single unit recordings"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"90b052f0-7ae6-11e6-a6c8-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"6ee5e824c3fe0c112c15a1a7825f8e8e2857359b"
+}
+}

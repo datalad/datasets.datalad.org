@@ -1,0 +1,53 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Pastalkova, E.",
+"Mizuseki, K.",
+"Wang, Y..",
+"Buzsáki, G."
+],
+"description":
+"The data set contains recordings made using a silicon probe from three areas from a single rat that was performing different behavioral tasks.  The three regions recorded from are left and right hippocampal CA1 and right entorhinal cortex. The tasks are a left/right alternate selection task, wheel running, and platform exploration.   The data was recorded on 125 channels. Included in the data set are: Weveforms of putative spikes extracted from original raw broadband data; LFP (local field potential); results of spike sorting; and information about the animal behavior during the experiment.",
+"formats":
+[
+"application/matlab",
+"application/octet-stream"
+],
+"name":
+"CRCNS.org hc-5",
+"sameas":
+"10.6080/K0KS6PHF",
+"shortdescription":
+"Simultaneous extracellular recordings from left and right hippocampal areas CA1 and right entorhinal cortex from a rat performing a  left / right alternation task and other behaviors.",
+"tag":
+[
+"Neuroscience",
+"Electrophysiology",
+"Hippocampus (CA1)",
+"Rat"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"83df9ea0-7ae6-11e6-a6c8-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"b020c7ed6548e0d093cab4b288c847d9e5063644"
+}
+}

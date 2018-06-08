@@ -1,0 +1,51 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Ruben Coen-Cagli",
+"Peter Dayan",
+"Odelia Schwartz"
+],
+"description":
+"This package contains some MatLab tools for building Mixture of Gaussian Scale Mixture (MGSM) models, and perform inference and learning.  MGSM models, and their application to the statistics of natural images and contextual phenomena in the visual cortex,  are describe in the associated paper: Coen-Cagli, Dayan, Schwartz. \"Cortical Surround Interactions and Perceptual Salience via Natural Scene Statistics\".  PLoS Comp Biol 2012. DOI: 10.1371/journal.pcbi.1002405",
+"formats":
+[
+"application/MATLAB"
+],
+"name":
+"CRCNS.org mgsm-1",
+"sameas":
+"10.6080/K0JM27JZ",
+"shortdescription":
+"MatLab tools for building Mixture of Gaussian Scale Mixture (MGSM) models, and perform inference and learning.",
+"tag":
+[
+"Neuroscience",
+"Mixture of Gaussian Scale Mixture",
+"Software",
+"Matlab"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"cb50ba22-ab96-11e6-85b3-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"19f6b48c551a02be4b87f23eb0ae1c4184450a29"
+}
+}

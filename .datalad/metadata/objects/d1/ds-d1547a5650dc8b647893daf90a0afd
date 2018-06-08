@@ -1,0 +1,51 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"David, Stephen V.",
+"Vinje, William E.",
+"Gallant, Jack L."
+],
+"description":
+"This data consists of single electrode recordings from V1 in awake behaving macaque monkeys who fixated at a central point on the screen, while stimuli were presented to the cell's receptive field. The data has been used by the Gallant lab to determine stimulus-response mapping functions.",
+"formats":
+[
+"application/matlab"
+],
+"name":
+"CRCNS.org pvc-4",
+"sameas":
+"10.6080/K0CC0XMD",
+"shortdescription":
+"Single electrode recordings from primary visual cortex",
+"tag":
+[
+"Neuroscience",
+"Electrophysiology",
+"Primary Visual Cortex (V1)",
+"Monkey (macaque)"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"8edd84ca-7ae6-11e6-a6c8-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"8b675aa2c0ac6e551ce814d7fe6398e89aecaa08"
+}
+}

@@ -1,0 +1,55 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Lescroart, Mark",
+"Kay, Kendrick",
+"Naselaris, Thomas",
+"Prenger, Ryan",
+"Oliver, Michael",
+"Gallant, Jack"
+],
+"description":
+"This data set contains BOLD fMRI responses in human subjects viewing natural images.  Analysis of this data showed that it was possible to determine which of many images a human subject was looking at from the observed fMRI responses. These results received wide-spread media coverage because they demonstrated a kind of \"mind reading\".",
+"formats":
+[
+"application/matlab",
+"NIFTY"
+],
+"name":
+"CRCNS.org vim-1",
+"sameas":
+"10.6080/K0QN64NG",
+"shortdescription":
+"fMRI of human visual areas in response to natural images",
+"tag":
+[
+"Neuroscience",
+"Electrophysiology",
+"Human",
+"fMRI"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"93ed7c22-7ae6-11e6-a6c8-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"3b14428e8634c82e36791b184d42a998cf6adce5"
+}
+}

@@ -1,0 +1,58 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Gerstner, Wulfram",
+"Naud, Richard",
+"Carandini, Matteo",
+"Sincich, Lawrence C.",
+"Horton, Jonathan C.",
+"Adams, Daniel L.",
+"Economides, John R."
+],
+"description":
+"This data was used for the 2009 quantitative single-neuron modeling competition developed by researchers at EPFL. There are four challenges).  Data for the first three challenges are from Wistar rat cortical neurons.  Data for the last challenge is from rhesus monkey LGN and retinal ganglion cells.",
+"formats":
+[
+"text/plain"
+],
+"name":
+"CRCNS.org ch-epfl-2009",
+"sameas":
+"10.6080/K0PN93H3",
+"shortdescription":
+"Quantitative Single-Neuron Modeling Competition for year 2009, developed by researchers at EPFL. Data from Wistar rat cortical neurons and rhesus monkey lateral geniculate nucleus and retinal ganglion cells.",
+"tag":
+[
+"Neuroscience",
+"Electrophysiology",
+"Cortical neurons",
+"Rat (Wistar)",
+"rhesus monkey",
+"lateral geniculate nucleus",
+"retinal ganglion cells"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"6065deb0-7a7f-11e6-921b-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"94a11f03075452e7c8e112b6c31400950609cc07"
+}
+}

@@ -1,0 +1,51 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Angela M. Bruno",
+"William N. Frost"
+],
+"description":
+"The data set was collected from fast-voltage sensitive dye recordings of the pedal ganglion of Aplysia californica during fictive escape locomotion. The neural activity is described by spike times of isolated, single neurons. There are 30 recordings from 10 different isolated brain preparations, and each recording is 125 sec long.  These data are the basis for the following paper, which contains a detailed description of the methods and results: Bruno AM, Frost WN, and Humphries MD. A spiral attractor network drives rhythmic locomotion. bioRxix. doi: 10.1101/104562, 2017.",
+"formats":
+[
+"application/matlab",
+"binary"
+],
+"name":
+"CRCNS.org apl-1",
+"sameas":
+"10.6080/K0SN074B",
+"shortdescription":
+"Voltage sensitive dye recording of multiple bouts of escape locomotion in the pedal ganglion of Aplysia californica",
+"tag":
+[
+"Neuroscience",
+"Electrophysiology",
+"Pedal Ganglion",
+"Aplysia californica"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"e03d7d2e-7e51-11e7-93f8-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"40884f8f9a1d7421625d003adbec98611057b5da"
+}
+}
