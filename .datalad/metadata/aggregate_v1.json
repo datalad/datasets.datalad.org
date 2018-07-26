@@ -4369,11 +4369,11 @@ null
 "crcns/alm-3":
 {
 "content_info":
-"objects/0d/cn-be4323bf1719910b55e1538eb7dc32.xz",
+"objects/f8/cn-f6629fba11f0eaa59a3882110b2a6a.xz",
 "datalad_version":
-"0.10.0.rc5.dev18",
+"0.10.2.dev22",
 "dataset_info":
-"objects/0d/ds-be4323bf1719910b55e1538eb7dc32",
+"objects/f8/ds-f6629fba11f0eaa59a3882110b2a6a",
 "extractors":
 [
 "datalad_core",
@@ -4383,7 +4383,7 @@ null
 "id":
 "c65261ba-ab96-11e6-85b3-002590f97d84",
 "refcommit":
-"40bcc6b573d2aa66ee63ac76f9b1c31f58cf618d"
+"2e2b4f901e27e9e51f2320e0c60dceb20e3e23a0"
 },
 "crcns/am-1":
 {
