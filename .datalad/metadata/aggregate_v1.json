@@ -4464,11 +4464,11 @@ null
 "crcns/bf-1":
 {
 "content_info":
-"objects/96/cn-4c34e54c217610e201807c82c7079f.xz",
+"objects/58/cn-ffc09d35a6b41b1d61b2ee413cf487.xz",
 "datalad_version":
-"0.10.0.rc5.dev18",
+"0.10.2.dev22",
 "dataset_info":
-"objects/96/ds-4c34e54c217610e201807c82c7079f",
+"objects/58/ds-ffc09d35a6b41b1d61b2ee413cf487",
 "extractors":
 [
 "datalad_core",
@@ -4477,7 +4477,7 @@ null
 "id":
 "e293fe50-007d-11e8-900d-002590f97d84",
 "refcommit":
-null
+"3e28b9aa09b4fb9722c64123e399f72d2289123d"
 },
 "crcns/bst-1":
 {
