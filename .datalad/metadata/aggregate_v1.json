@@ -5252,11 +5252,11 @@ null
 "crcns/pfc-5":
 {
 "content_info":
-"objects/15/cn-05e6e2856a00e6b963bedc5b9a4912.xz",
+"objects/a3/cn-7b2e50c0a7364260e5e57d993e2c0e.xz",
 "datalad_version":
-"0.10.0.rc5.dev18",
+"0.10.2.dev22",
 "dataset_info":
-"objects/15/ds-05e6e2856a00e6b963bedc5b9a4912",
+"objects/a3/ds-7b2e50c0a7364260e5e57d993e2c0e",
 "extractors":
 [
 "datalad_core",
@@ -5266,7 +5266,7 @@ null
 "id":
 "d2f54c0a-7e51-11e7-93f8-002590f97d84",
 "refcommit":
-"3c63086c5aed6e21a848175725df64f4f5f997a5"
+"1c40057a6ab83518274c920bc42b84cbc55f2725"
 },
 "crcns/ppc-1":
 {
