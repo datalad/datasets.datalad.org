@@ -5006,11 +5006,11 @@ null
 "crcns/ieeg-1":
 {
 "content_info":
-"objects/d4/cn-52b71813c310d0df739b1801d2401e.xz",
+"objects/c6/cn-ae3f5a82b33fcf76ecc69cae59838a.xz",
 "datalad_version":
-"0.10.0.rc5.dev18",
+"0.10.2.dev22",
 "dataset_info":
-"objects/d4/ds-52b71813c310d0df739b1801d2401e",
+"objects/c6/ds-ae3f5a82b33fcf76ecc69cae59838a",
 "extractors":
 [
 "datalad_core",
@@ -5020,7 +5020,7 @@ null
 "id":
 "aa33c8e8-94d9-11e7-b5c9-002590f97d84",
 "refcommit":
-"9c6d3fb9920da752ab897690063e493928d71fad"
+"a97093b1f4cc1c3ac6bfc5093f32a4d559ccd472"
 },
 "crcns/infe-1":
 {

@@ -1,0 +1,57 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Fedele T.",
+"Burnos S.",
+"Boran E.",
+"Krayenbühl N.",
+"Hilfiker P.",
+"Grunwald T.",
+"Sarnthein J."
+],
+"description":
+"This data set contains samples of long-term invasive recordings (iEEG) from 20 patients who subsequently underwent epilepsy surgery.  Recordings were made using subdural strip and grid electrodes as well as depth electrodes.  From each night recording, up to six sample intervals, each containing five minutes of interictal slow-wave sleep were selected for inclusion in the data set.  In the sample intervals we detected high frequency oscillations (HFO) and the start and ending times of these events are included in the data set.  The HFO events were detected using a previously validated, automated algorithm (Burnos et al., 2016) in the ripple (80-250 Hz) and the fast ripple (FR, 250-500 Hz) frequency band.  Contacts with the highest rate of ripples co-occurring with FR over several five-minute time intervals designated the HFO area. The motivation for collecting these data is that high frequency oscillations (HFOs) are recognized as biomarkers for epileptogenic brain tissue. A remaining challenge for epilepsy surgery is the prospective classification of tissue sampled by individual electrode contacts.   For the 20 patients from which this data was collected, it was shown that resection of the prospectively defined HFO area proved to be highly specific and reproducible in 13/13 patients with seizure freedom, while it may have improved the outcome in 4/7 patients with recurrent seizures. The dataset and the results of the analysis are described in detail in (Fedele et al., 2017).",
+"formats":
+[
+"application/matlab"
+],
+"name":
+"CRCNS.org ieeg-1",
+"sameas":
+"10.6080/K06Q1VD5",
+"shortdescription":
+"High frequency oscillations detected in the intracranial EEG of epilepsy patients during interictal sleep, patients’ electrode location and outcome of epilepsy surgery",
+"tag":
+[
+"Neuroscience",
+"intracranial EEG (iEEG)",
+"electrocorticography (ECoG)",
+"human",
+"epilepsy",
+"magnetic resonance image (MRI)"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"aa33c8e8-94d9-11e7-b5c9-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"a97093b1f4cc1c3ac6bfc5093f32a4d559ccd472"
+}
+}
