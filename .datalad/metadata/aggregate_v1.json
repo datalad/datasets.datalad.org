@@ -5742,11 +5742,11 @@ null
 "crcns/tes-1":
 {
 "content_info":
-"objects/58/cn-95428b6b4fedb06a60979b415d9f1e.xz",
+"objects/8f/cn-30a68c8ee336f1d99e0d3f7ebe28cb.xz",
 "datalad_version":
-"0.10.0.rc5.dev18",
+"0.10.2.dev22",
 "dataset_info":
-"objects/58/ds-95428b6b4fedb06a60979b415d9f1e",
+"objects/8f/ds-30a68c8ee336f1d99e0d3f7ebe28cb",
 "extractors":
 [
 "datalad_core",
@@ -5756,7 +5756,7 @@ null
 "id":
 "c9dd1ab4-ab96-11e6-85b3-002590f97d84",
 "refcommit":
-"74cf289bc52fff4062db94751f6b5801f9436c1b"
+"3bf8c2558de5097436b443ad952b354e68317330"
 },
 "crcns/th-1":
 {
