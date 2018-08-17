@@ -4558,11 +4558,11 @@ null
 "crcns/cb-1":
 {
 "content_info":
-"objects/eb/cn-6f136fd23967380fc182540dcb3b97.xz",
+"objects/21/cn-63577680dee6126963e2e3191806bb.xz",
 "datalad_version":
-"0.10.0.rc5.dev18",
+"0.10.2.dev118",
 "dataset_info":
-"objects/eb/ds-6f136fd23967380fc182540dcb3b97",
+"objects/21/ds-63577680dee6126963e2e3191806bb",
 "extractors":
 [
 "datalad_core",
@@ -4571,7 +4571,7 @@ null
 "id":
 "e7961348-007d-11e8-900d-002590f97d84",
 "refcommit":
-null
+"88438a04787cfe87ccd6791c5485c0f71cfab3e0"
 },
 "crcns/ch-epfl-2009":
 {
