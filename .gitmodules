@@ -46,3 +46,6 @@
 [submodule "abide"]
 	path = abide
 	url = ./abide
+[submodule "allen-brain-observatory"]
+	path = allen-brain-observatory
+	url = ./allen-brain-observatory
