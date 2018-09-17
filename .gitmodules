@@ -49,3 +49,6 @@
 [submodule "allen-brain-observatory"]
 	path = allen-brain-observatory
 	url = ./allen-brain-observatory
+[submodule "physionet"]
+	path = physionet
+	url = ./physionet
