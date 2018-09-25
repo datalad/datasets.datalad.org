@@ -5932,11 +5932,11 @@ null
 "dbic/QA":
 {
 "content_info":
-"objects/2a/cn-40d972a13830d031e83988821e8fc4.xz",
+"objects/06/cn-2c3eade47bd2d9052658c6a9d10a57.xz",
 "datalad_version":
-"0.10.0.rc5.dev18",
+"0.10.3.1.dev14",
 "dataset_info":
-"objects/2a/ds-40d972a13830d031e83988821e8fc4",
+"objects/06/ds-2c3eade47bd2d9052658c6a9d10a57",
 "extractors":
 [
 "datalad_core",
@@ -5947,7 +5947,7 @@ null
 "id":
 "c794e6e8-194a-11e7-99f0-ac162d79559c",
 "refcommit":
-"ccf742eee5bd2639156626d1c18a5dce98cd2a05"
+"b60a8d87994c59e0d0874aa7ac4605f9e8030f72"
 },
 "devel":
 {
