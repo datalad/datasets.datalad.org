@@ -45,5 +45,17 @@
 },
 "refcommit":
 "7fa369ebdecc49ce047c8ea3f559dc2d16fe1c36"
+},
+"datalad_unique_content_properties":
+{
+"annex":
+{
+"key":
+[
+"MD5E-s1102075424--c2e171251f8e53a9d296687b9e2f22c8.h5",
+"MD5E-s1452573136--b9f2d1972694ea1d1a0dd42dcc00cb5a.h5",
+"MD5E-s290006--8ccea87fe1ba4d3789df4f27f59b6b60.pdf"
+]
+}
 }
 }
