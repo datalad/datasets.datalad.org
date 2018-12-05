@@ -52,3 +52,6 @@
 [submodule "physionet"]
 	path = physionet
 	url = ./physionet
+[submodule "openneuro"]
+	path = openneuro
+	url = ./openneuro
