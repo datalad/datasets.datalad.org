@@ -1,0 +1,151 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"bids":
+{
+"@context":
+{
+"age(years)":
+{
+"@id":
+"pato:0000011",
+"description":
+"age of a sample (organism) at the time of data acquisition in years",
+"unit":
+"uo:0000036",
+"unit_label":
+"year"
+},
+"bids":
+{
+"@id":
+"http://bids.neuroimaging.io/bids_spec1.0.0rc1.pdf#",
+"description":
+"ad-hoc vocabulary for the Brain Imaging Data Structure (BIDS) standard",
+"type":
+"http://purl.org/dc/dcam/VocabularyEncodingScheme"
+}
+},
+"Acknowledgements":
+"Tiejun Zhao",
+"BIDSVersion":
+"1.0.0rc1",
+"HowToAcknowledge":
+[
+"We  are  grateful  to  Tiejun  Zhao  from  Siemens  Healthcare  for  his  valuable  help  in  the  implementation of the online reconstruction algorithm of the sequence for the Siemens platform.",
+"This data was obtained from the OpenfMRI database. Its accession number is ds000235."
+],
+"author":
+[
+"Marta Vidorreta",
+"Ze Wang",
+"Yulin V. Chang",
+"Maria A. Fernandez-Seara",
+"John A. Detre"
+],
+"conformsto":
+"http://bids.neuroimaging.io/bids_spec1.0.0rc1.pdf",
+"description":
+"Description of the ASL sequence\nA sequence with pseudo-continuous labeling, background suppression and 3D RARE Stack-Of-Spirals readout with optional through-plane acceleration was implemented for this study. At the beginning of the sequence, gradients were rapidly played with alternating polarity to correct for their delay in the spiral trajectories, followed by two preparation TRs, to allow the signal to reach the steady state. A non-accelerated readout was played during the preparation TRs, in order to obtain a fully sampled k-space dataset, used for calibration of the parallel imaging reconstruction kernel, needed to reconstruct the skipped kz partitions in the accelerated images.\n\nDescription of study\nSingle-shot and two-shot versions of the accelerated sequence were acquired during rest.\nFor each participant, first a high-resolution anatomical T1-weighted image was acquired with a magnetization prepared rapid gradient echo (MPRAGE) sequence.\nSubjects were instructed to remain still and awake, while resting perfusion data were acquired using either 1-shot or 2-shot 1D-accelerated readout. 64 and 32 label-control images were acquired, respectively, during a total scan time of 5 min. Labeling and PLD times where 1.8 and 1.8 s. Two M0 images with long TR and no magnetization preparation were acquired per run for CBF quantification purposes.\n\n\n### Comments added by Openfmri Curators ###\n===========================================\n\nGeneral Comments\n----------------\n\n\nDefacing\n--------\nPydeface was used on all anatomical images to ensure deindentification of subjects. The code\ncan be found at https://github.com/poldracklab/pydeface\n\nQuality Control\n---------------\nMriqc was run on the dataset. Results are located in derivatives/mriqc. Learn more about it here: https://mriqc.readthedocs.io/en/latest/\n\nWhere to discuss the dataset\n----------------------------\n1) www.openfmri.org/dataset/ds000235/ See the comments section at the bottom of the dataset\npage.\n2) www.neurostars.org Please tag any discussion topics with the tags openfmri and ds000235.\n3) Send an email to submissions@openfmri.org. Please include the accession number in\nyour email.\n\nKnown Issues\n------------\nN/A\n\nBids-validator Output\n---------------------",
+"fundedby":
+"NIH grants no. P41EB015893 and MH080729, and NSFC grant no. 81471644, and Hangzhou Innovation Seed Fund",
+"license":
+"PD",
+"name":
+"Whole-brain background-suppressed pCASL MRI with 1D-accelerated 3D RARE Stack-Of-Spirals Readout- Dataset 2"
+},
+"datalad_core":
+{
+"@id":
+"ac6649fa-8963-11e8-b1ac-0242ac120012",
+"ispartof":
+{
+"@id":
+"2ecbb6ba-f811-11e8-b1ed-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"dd193ee841339b659b5b4140b2a631e47d00f9fa"
+},
+"datalad_unique_content_properties":
+{
+"annex":
+{
+"key":
+[
+"MD5E-s11471587--c4cbe09f8ea87e1e6d1e502c9fb9345d.nii.gz",
+"MD5E-s11611067--e4b45348f9b1db4338ee455593750a96.nii.gz",
+"MD5E-s11840016--d28a52908b22a191ba30b84f2d5f142e.nii.gz",
+"MD5E-s11877128--d8faa7b09f3d56297d19a3942eec4dad.nii.gz",
+"MD5E-s12127795--83f2685ac70d2c41551d4c6722c8317e.nii.gz",
+"MD5E-s12328056--8264e1acc3cbe881317c3bac57ecddcd.nii.gz",
+"MD5E-s12416127--5cb33c290b64e7d5bda3ea4c370d4a3f.nii.gz",
+"MD5E-s12603277--3d4d19e75eb0205ad9dd7a4682998554.nii.gz",
+"MD5E-s16932271--7b404a68b696493b3cda9daa8696ceb1.html",
+"MD5E-s17494027--45d8c28fd516bfc42fd21d63e56f2626.html",
+"MD5E-s18109293--8d050f7f5cfa607eca429a9a06e55c3e.html",
+"MD5E-s18167446--81c6a700f00b76ac5dee1451e4f06c16.html",
+"MD5E-s236038--8f3a5c1c1a05cab40c5c92dfbc9c481b.html",
+"MD5E-s6257--3cb9bbe6b4a18f426eade1bb4079e77b.csv",
+"MD5E-s6368759--5bf7c149c8805b89b040c61b0e59986a.nii.gz",
+"MD5E-s6461440--4e2b53e54818dbd57c455158ca460e4e.nii.gz",
+"MD5E-s6558798--1adfac0da59b0719254dc459b7a5a1d9.nii.gz",
+"MD5E-s6690420--d022f9c5ad9e56e1e738fd046e73bce7.nii.gz"
+]
+},
+"bids":
+{
+"type":
+[
+"",
+"participants"
+]
+}
+},
+"nifti1":
+{
+"@context":
+{
+"nifti1":
+{
+"@id":
+"https://nifti.nimh.nih.gov/nifti-1/documentation/nifti1fields#",
+"description":
+"Ad-hoc vocabulary for NIfTI1 header fields",
+"type":
+"http://purl.org/dc/dcam/VocabularyEncodingScheme"
+},
+"spatial_resolution(mm)":
+{
+"@id":
+"idqa:0000162",
+"description":
+"spatial resolution in millimeter",
+"unit":
+"uo:0000016",
+"unit_label":
+"millimeter"
+},
+"temporal_spacing(s)":
+{
+"@id":
+"idqa:0000213",
+"description":
+"temporal sample distance in 4D (in seconds)",
+"unit":
+"uo:0000010",
+"unit_label":
+"second"
+}
+}
+},
+"xmp":
+{
+"@context":
+{}
+}
+}

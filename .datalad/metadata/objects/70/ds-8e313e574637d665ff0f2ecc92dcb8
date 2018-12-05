@@ -1,0 +1,166 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"bids":
+{
+"@context":
+{
+"age(years)":
+{
+"@id":
+"pato:0000011",
+"description":
+"age of a sample (organism) at the time of data acquisition in years",
+"unit":
+"uo:0000036",
+"unit_label":
+"year"
+},
+"bids":
+{
+"@id":
+"http://bids.neuroimaging.io/bids_spec1.0.2.pdf#",
+"description":
+"ad-hoc vocabulary for the Brain Imaging Data Structure (BIDS) standard",
+"type":
+"http://purl.org/dc/dcam/VocabularyEncodingScheme"
+}
+},
+"BIDSVersion":
+"1.0.2",
+"HowToAcknowledge":
+"If you reference this dataset in your publications, please acknowledge its authors and cite MNE. Also, please include the following message: 'This data was obtained from the OpenfMRI database. Its accession number is ds000248'",
+"author":
+[
+"Alexandre Gramfort",
+"Matti S Hämäläinen"
+],
+"citation":
+[
+"A. Gramfort, M. Luessi, E. Larson, D. Engemann, D. Strohmeier, C. Brodbeck, L. Parkkonen, M. Hämäläinen, MNE software for processing MEG and EEG data, NeuroImage, Volume 86, 1 February 2014, Pages 446-460, ISSN 1053-8119",
+"Gramfort, M. Luessi, E. Larson, D. Engemann, D. Strohmeier, C. Brodbeck, R. Goj, M. Jas, T. Brooks, L. Parkkonen, M. Hämäläinen, MEG and EEG data analysis with MNE-Python, Frontiers in Neuroscience,   Volume 7, 2013, ISSN 1662-453X"
+],
+"conformsto":
+"http://bids.neuroimaging.io/bids_spec1.0.2.pdf",
+"fundedby":
+[
+"NIH 5R01EB009048",
+"NIH 1R01EB009048",
+"NIH R01EB006385",
+"NIH 1R01HD40712",
+"NIH 1R01NS44319",
+"NIH 2R01NS37462",
+"NIH P41EB015896",
+"ANR-11-IDEX-0003-02",
+"ERC-YStG-263584",
+"ERC-YStG-676943",
+"ANR-14-NEUC-0002-01"
+],
+"license":
+"CC0",
+"name":
+"ds000248"
+},
+"datalad_core":
+{
+"@id":
+"49db2d9c-8928-11e8-a336-0242ac12000d",
+"ispartof":
+{
+"@id":
+"2ecbb6ba-f811-11e8-b1ed-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"f0edc1f3f74328e51641331ee9fa3a45043beee8"
+},
+"datalad_unique_content_properties":
+{
+"annex":
+{
+"key":
+[
+"MD5E-s0--d41d8cd98f00b204e9800998ecf8427e.fif",
+"MD5E-s10395964--bfb45051be2bbbb6525c2357a3dc4938.nii.gz",
+"MD5E-s10555001--f8bc87e8841634b3d2f9ac0ba85d0a83.nii.gz",
+"MD5E-s128461306--cac35041f4d563f3519362c7c3837ebb.fif",
+"MD5E-s3703081--61be131cc8b4f92058f497bb5945c413.nii.gz",
+"MD5E-s39077--d6bb2edf9ffefbc45703848871acaf69.dat",
+"MD5E-s41689137--708244c0860c1f64a6f2c1176bd64a4f.fif",
+"MD5E-s636--97d12fde7d0021a7cfbe17e63012fc97.ave"
+]
+},
+"bids":
+{
+"run":
+[
+"1"
+],
+"scans":
+[
+"/mnt/btrfs/datasets/datalad/crawl/openneuro/ds000248/sub-01/sub-01_scans.tsv"
+],
+"subject":
+[
+"01"
+],
+"task":
+[
+"audiovisual"
+],
+"type":
+[
+"",
+"channels",
+"events",
+"scans"
+]
+}
+},
+"nifti1":
+{
+"@context":
+{
+"nifti1":
+{
+"@id":
+"https://nifti.nimh.nih.gov/nifti-1/documentation/nifti1fields#",
+"description":
+"Ad-hoc vocabulary for NIfTI1 header fields",
+"type":
+"http://purl.org/dc/dcam/VocabularyEncodingScheme"
+},
+"spatial_resolution(mm)":
+{
+"@id":
+"idqa:0000162",
+"description":
+"spatial resolution in millimeter",
+"unit":
+"uo:0000016",
+"unit_label":
+"millimeter"
+},
+"temporal_spacing(s)":
+{
+"@id":
+"idqa:0000213",
+"description":
+"temporal sample distance in 4D (in seconds)",
+"unit":
+"uo:0000010",
+"unit_label":
+"second"
+}
+}
+},
+"xmp":
+{
+"@context":
+{}
+}
+}
