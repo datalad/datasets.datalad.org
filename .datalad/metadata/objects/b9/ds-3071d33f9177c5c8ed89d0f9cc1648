@@ -51,6 +51,12 @@
 "bids_test6-PD+T2w",
 "type":
 "dataset"
+},
+{
+"name":
+"bids_test7-proc",
+"type":
+"dataset"
 }
 ],
 "ispartof":
