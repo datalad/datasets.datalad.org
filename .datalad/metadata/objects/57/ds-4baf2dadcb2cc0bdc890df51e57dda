@@ -1,0 +1,75 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Zandvakili, Amin",
+"Kohn, Adam"
+],
+"description":
+"These data consist of simultaneous extracellular recordings of neuronal populations in visual areas V1 and V2 of sufentanil-anesthetized macaca fascicularis. V1 recordings were performed using a Utah array; V2 recordings were performed using a set of tetrodes. Animals were shown sets of oriented gratings (1.28s), with each presentation followed by a blank screen (1.5s). This data set includes 5 recording sessions, in 3 animals. The data for each recording session includes the spike times, and information about the stimuli presented and receptive field location of each unit. Each data set includes an average of 112.2 V1 units and 29.4 V2 units. Units consist of both well-isolated single units and multiunit activity. The recorded V1/V2 populations had overlapping spatial receptive fields. Also included in the data set is a short MATLAB script for some basic data visualization. These data were previously published in the following: Coordinated Neuronal Activity Enhances Corticocortical Communication Amin Zandvakili & Adam Kohn Neuron, 87, 827–839 (09 August 2015) http://doi.org/10.1016/j.neuron.2015.07.026 Cortical areas interact through a communication subspace J Semedo, A Zandvakili, CK Machens, BM Yu & A Kohn Neuron, 2019 http://doi.org/10.1016/j.neuron.2019.01.026",
+"formats":
+[
+"MATLAB"
+],
+"name":
+"CRCNS.org v1v2-1",
+"sameas":
+"10.6080/K0B27SHN",
+"shortdescription":
+"Paired V1-V2 neuronal spiking responses in anesthetized macaque monkey",
+"tag":
+[
+"Neuroscience",
+"Electrophysiology",
+"Primary Visual Cortex (V1)",
+"Area V2",
+"Macaque"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"5680d5e8-3abd-11e9-bf1d-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"1cf5b8b91909349d6cc4a9910c21e77ff934b871"
+},
+"datalad_unique_content_properties":
+{
+"annex":
+{
+"key":
+[
+"MD5E-s108--04bec1a03f1e77a6d4b8b627ebbaceb7.m",
+"MD5E-s1402--a7dfe6f24c1bf3cf0915f7ce73c3ef42.m",
+"MD5E-s15505921--5e9c89f2261a9af17faa4dd69d175258.mat",
+"MD5E-s24415--84de899a70ef2f09c17dd41aa96e75c1.docx",
+"MD5E-s2810--25d89a3a7a6874d2f8b73efb7440ccbf.m",
+"MD5E-s29213463--319e221e6dfffaf13e74a2a3c6024add.mat",
+"MD5E-s32823--48917aea682f869c7aee45f170516c7d.pdf",
+"MD5E-s34004346--611fbbcbfa77b115722aa1e216deb43d.mat",
+"MD5E-s34774439--9ee3bfea67d565dfbfa6037397c3ac2f.mat",
+"MD5E-s38843972--b687cc971850ceb1fd8aaad709a35427.mat",
+"MD5E-s395--8da5b850aed0649497c8bb0ce3b4af90.mat",
+"MD5E-s61--9e031d15080a82d90bb5edc54fad202e.m",
+"MD5E-s649--3ad0e0634d2057a78659dbca33f01fdd.m",
+"MD5E-s80646--72e436e8e0c006efbbe5eab4737c3c69.pdf",
+"MD5E-s90--fec5ecd3cfe09704be33a061e1023adc.m"
+]
+}
+}
+}
