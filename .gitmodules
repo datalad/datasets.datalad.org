@@ -55,3 +55,6 @@
 [submodule "openneuro"]
 	path = openneuro
 	url = ./openneuro
+[submodule "cifar"]
+	path = cifar
+	url = ./cifar
