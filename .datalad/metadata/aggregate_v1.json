@@ -12085,11 +12085,11 @@ null
 "openneuro/ds001461":
 {
 "content_info":
-"objects/d3/cn-e15e049382d6e62dca2fc82dbfc112.xz",
+"objects/c6/cn-24d0737b632e26158aa70616b8b630.xz",
 "datalad_version":
-"0.11.1.dev4",
+"0.11.3.dev78",
 "dataset_info":
-"objects/d3/ds-e15e049382d6e62dca2fc82dbfc112",
+"objects/c6/ds-24d0737b632e26158aa70616b8b630",
 "extractors":
 [
 "datalad_core",
@@ -12101,7 +12101,7 @@ null
 "id":
 "6bbc2dc2-987f-11e8-9fb1-0242ac120008",
 "refcommit":
-"b50863c5f0b961ace5fc3aada754a42c88b2e5d7"
+"6c399c32d7e5fba8b8e5dc938b0b3b89ac00fd24"
 },
 "openneuro/ds001486":
 {
