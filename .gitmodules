@@ -58,3 +58,7 @@
 [submodule "cifar"]
 	path = cifar
 	url = ./cifar
+[submodule "simon"]
+	path = simon
+	url = ./simon
+	datalad-id = 8acac168-682d-11e9-a33d-002590f97d84
