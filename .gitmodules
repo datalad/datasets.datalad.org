@@ -62,3 +62,6 @@
 	path = simon
 	url = ./simon
 	datalad-id = 8acac168-682d-11e9-a33d-002590f97d84
+[submodule "templateflow"]
+	path = templateflow
+	url = https://github.com/templateflow/templateflow
