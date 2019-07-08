@@ -65,3 +65,6 @@
 [submodule "templateflow"]
 	path = templateflow
 	url = https://github.com/templateflow/templateflow
+[submodule "repronim"]
+	path = repronim
+	url = ./repronim
