@@ -68,3 +68,7 @@
 [submodule "repronim"]
 	path = repronim
 	url = ./repronim
+[submodule "datalad"]
+	path = datalad
+	url = ./datalad
+	datalad-id = eb75f620-b951-11e9-a91d-002590f97d84
