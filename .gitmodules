@@ -77,3 +77,7 @@
 	url = https://github.com/datalad-datasets/human-connectome-project-openaccess
 	branch = master
 	datalad-id = 2e2a8a70-3eaa-11ea-a9a5-b4969157768c
+[submodule "conp-dataset"]
+	path = conp-dataset
+	url = https://github.com/CONP-PCNO/conp-dataset
+	datalad-id = 28434598-5496-11e8-8449-f0d5bf508098
