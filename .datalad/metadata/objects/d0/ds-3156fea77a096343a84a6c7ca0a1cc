@@ -1,0 +1,83 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Berens, P",
+"Theis, L.",
+"Froudarakis, E.",
+"Reimer, J.",
+"Rosón, M. R.",
+"Baden, T.",
+"Euler T.",
+"Tolias, A.S.",
+"Bethge, M."
+],
+"description":
+"This dataset provides data from N=50 neurons measured simultaneously using two-photon calcium imaging and electrophysiology in the mouse retina and visual cortex using different recording techniques, scanning rates and indicators. Importantly, all data has been acquired under typical population recording conditions in anesthetized and awake animals.  This dataset has been assembled for benchmarking spike inference algorithms described in: Theis, L., Berens, P., Froudarakis, E., Reimer, J., Rosón, M. R., Baden, T., Euler T., Tolias, A.S. and Bethge, M. (2016). Benchmarking spike rate inference in population calcium imaging. Neuron, 90(3), 471-482. doi: http://dx.doi.org/10.1016/j.neuron.2016.04.014",
+"formats":
+[
+"application/matlab",
+"application/python"
+],
+"name":
+"CRCNS.org cai-3",
+"sameas":
+"10.6080/K05D8PS8",
+"shortdescription":
+"Simultaneous two-photon imaging and electrophysiological recordings from neurons in the mouse retina and primary visual cortex using OGB and GCamp6",
+"tag":
+[
+"Neuroscience",
+"Electrophysiology",
+"retina",
+"visual cortex",
+"mice (Mus Musculus)",
+"two-photon imaging"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"ca988f7e-ab96-11e6-85b3-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"ab82aeb8307a152d102ef3372fd826058dd4ce23"
+},
+"datalad_unique_content_properties":
+{
+"annex":
+{
+"key":
+[
+"MD5E-s104369--17c619d40225ae7a212fa1b6318d5d42.pdf",
+"MD5E-s112266--11a6e648ff5a062d72cd83dc6a3189c2",
+"MD5E-s1594789--e8ecc36eef276dd343b392e3ed4043b1.pck",
+"MD5E-s1597200--4a3b852f542d7b74c0ec61ec8b19a97d.mat",
+"MD5E-s1972453--4c765583736673cbe7413c86bc928f5c.pck",
+"MD5E-s1973584--112b1305d4adbe0ed185e472e56b89a4.mat",
+"MD5E-s28189--e9571cbd51267224b856f99a3028b2f9.docx",
+"MD5E-s6422386--e18b8bb7b835d038847e83c5257702d5.pck",
+"MD5E-s6425248--193786da1240a57722624400cfc3c979.mat",
+"MD5E-s647--85b9bc323ded0ba0a745a33ce0c2ed8f.m",
+"MD5E-s7547643--3d717dbf02df7977ebbdd5f5803a58c9.pck",
+"MD5E-s7549792--4dc64c4d48c3eae721a7d51d97baec94.mat",
+"MD5E-s8857423--fcbce74b15e82370b150910c92280473.pck",
+"MD5E-s8861120--1d746a8ea85d3b12db04f7b966fc9edd.mat"
+]
+}
+}
+}

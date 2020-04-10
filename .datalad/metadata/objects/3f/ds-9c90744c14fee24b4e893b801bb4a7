@@ -1,0 +1,66 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Giulia Quattrocolo",
+"Gianmaria Maccaferri"
+],
+"description":
+"This data set includes the raw data files from some experimental O-LM cells featured in Quattrocolo and Maccaferri (2013) that were later used to constrain the model cells of the model CA1 neural network published in Bezaire et al. (2016a).¬ Results from the experiments are described in: Giulia Quattrocolo and Gianmaria Maccaferri. Novel GABAergic circuits mediating excitation/inhibition of Cajal-Retzius cells in the developing hippocampus. The Journal of Neuroscience, 33(13):5486–5498, 2013. doi: 10.1523/JNEUROSCI.5680-12.2013",
+"formats":
+[
+"application/Matlab",
+"ATF; AxoClamp text file"
+],
+"name":
+"CRCNS.org hc-9",
+"sameas":
+"10.6080/K0HQ3WTH",
+"shortdescription":
+"Firing pattern of O-LM cells in mouse hippocampal CA1",
+"tag":
+[
+"Neuroscience",
+"Electrophysiology",
+"Hippocampus",
+"CA1 Hippocampus",
+"mice"
+],
+"version":
+"0.8"
+},
+"datalad_core":
+{
+"@id":
+"930e2b22-1fa9-11e7-956e-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"47b6788e6ab615842d304ad4f4e755bc58ae5e23"
+},
+"datalad_unique_content_properties":
+{
+"annex":
+{
+"key":
+[
+"MD5E-s33269--32366f0262dc21cb97cb1f1efaade1a7.docx",
+"MD5E-s7385994--a4601337699cf96ea8aa3b0413a15aa4.atf",
+"MD5E-s7388498--c4097c125efe088d6666fad6371d7947.atf",
+"MD5E-s7388537--3a1a661c64058505f0d221c3ba309b6b.atf",
+"MD5E-s84430--7b36e1831089cad1aa854b0e1bf9b011.pdf"
+]
+}
+}
+}

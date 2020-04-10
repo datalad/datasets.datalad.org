@@ -1,0 +1,234 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"bids":
+{
+"@context":
+{
+"age(years)":
+{
+"@id":
+"pato:0000011",
+"description":
+"age of a sample (organism) at the time of data acquisition in years",
+"unit":
+"uo:0000036",
+"unit_label":
+"year"
+},
+"bids":
+{
+"@id":
+"http://bids.neuroimaging.io/bids_spec1.0.2.pdf#",
+"description":
+"ad-hoc vocabulary for the Brain Imaging Data Structure (BIDS) standard",
+"type":
+"http://purl.org/dc/dcam/VocabularyEncodingScheme"
+}
+},
+"BIDSVersion":
+"1.0.2",
+"HowToAcknowledge":
+"Cite reference and include the following message: 'This data was obtained from the OpenfMRI database. Its accession number is ds000245'",
+"author":
+[
+"Noritaka Yoneyama",
+"Hirohisa Watanabe",
+"Kazuya Kawabata",
+"Epifanio Bagarinao",
+"Kazuhiro Hara",
+"Takashi Tsuboi",
+"Yasuhiro Tanaka",
+"Reiko Ohdake",
+"Kazunori Imai",
+"Rei Ogura",
+"Yasutaka Kato",
+"Michihito Masuda",
+"Tatsuya Hattori",
+"Mizuki Ito",
+"Satoshi Maesawa",
+"Daisuke Mori",
+"Masahisa Katsuno",
+"Gen Sobue"
+],
+"citation":
+[
+"https://openfmri.org/dataset/ds000245"
+],
+"conformsto":
+"http://bids.neuroimaging.io/bids_spec1.0.2.pdf",
+"description":
+"### Comments added by Openfmri Curators ###\n===========================================\n\nGeneral Comments\n----------------\n\n\nDefacing\n--------\nAll anatomical images were defaced by the submitter using mri_deface (freesurfer),\nwith the exception of sub-CTL12_T1w_pydeface.nii.gz, sub-ODN01_T1w_pydeface.nii.gz,\nsub-ODP10_T1w_pydeface.nii.gz and sub-ODP12_T1w_pydeface.nii.gz. We defaced these \nfour images using pydeface. The code can be found at https://github.com/poldracklab/pydeface\n\nQuality Control\n---------------\nMriqc was run on the dataset. Results are located in derivatives/mriqc. Learn more about it \nhere: https://mriqc.readthedocs.io/en/stable/\n\nWhere to discuss the dataset\n----------------------------\n1) www.openfmri.org/dataset/ds000245/ See the comments section at the bottom of the dataset\npage.\n2) www.neurostars.org Please tag any discussion topics with the tags openfmri and ds000245.\n3) Send an email to submissions@openfmri.org. Please include the accession number in\nyour email.\n\nKnown Issues\n------------\nN/A",
+"fundedby":
+"This research was supported in part by the following: a Grant-in-Aid from the Research Committee of Central Nervous System Degenerative Diseases by the Ministry of Health, Labour, and Welfare, Integrated Research on Neuropsychiatric Disorders project, carried out by SRBPS; a Grant-in-Aid for Scientific Research on Innovative Areas (Brain Protein Aging and Dementia Control 26117002) from the MEXT of Japan; Integrated Research on Neuropsychiatric Disorders carried out under the Strategic Research Program for Brain Sciences, Scientific Research on Innovative Areas (Comprehensive Brain Science Network); and Integrated Research on Depression, Dementia, and Development Disorders by the Strategic Research Program for Brain Sciences from the Japan Agency for Medical Research and Development (AMED).",
+"license":
+"CC0",
+"name":
+"ds000245_R1.0.0"
+},
+"datalad_core":
+{
+"@id":
+"c0868e0c-89ce-11e8-a85f-0242ac120022",
+"ispartof":
+{
+"@id":
+"2ecbb6ba-f811-11e8-b1ed-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"0148c19ac9b854b978536c4f6fe7caa65196b24a"
+},
+"datalad_unique_content_properties":
+{
+"annex":
+{
+"key":
+[
+"MD5E-s10425702--62827833ee3d3859cb7b1e0d68bb2a2b.nii.gz",
+"MD5E-s10455638--ed037db00238328f0c912be8c68822b6.nii.gz",
+"MD5E-s10579759--1208f9e81b1f228e939f346e6c67bd38.nii.gz",
+"MD5E-s10631277--52af8178d3d4d0223aa0f3958a4d8795.nii.gz",
+"MD5E-s10732026--102b2ea3d2a773b71061d535977f15ce.nii.gz",
+"MD5E-s10751607--58b09bc54d76297be5661afd5c7309db.nii.gz",
+"MD5E-s10760134--6612bc1ca10a779c92d8681a2f15bd5f.nii.gz",
+"MD5E-s10807547--40acc802a6d66d69d0a1e8953b586c70.nii.gz",
+"MD5E-s10862956--ca0cf502be314856435097c4bfe92103.nii.gz",
+"MD5E-s10914884--d1f65fc71c8bee00b9d84735ed00d9f1.nii.gz",
+"MD5E-s10990388--f559b878e6fcb875e9fe738d3d7c0d84.nii.gz",
+"MD5E-s11099174--6dd4c8ae3caebfbbf1a623327f5561de.nii.gz",
+"MD5E-s11141677--94f87145a8e9be755edcd638d2e5e186.nii.gz",
+"MD5E-s11180963--7f8c81d9907d1d5fcd5b625ee73d46c9.nii.gz",
+"MD5E-s11196227--0eaac964fc9451aa2723cf6c768c570c.nii.gz",
+"MD5E-s11244066--2e1cfc2043093ab5627449063cf944e5.nii.gz",
+"MD5E-s11252856--b3fa7e0af72a2d502501cd33c102cd05.nii.gz",
+"MD5E-s11254058--5ba2a73f445dbd850560f5f304dc1968.nii.gz",
+"MD5E-s11257902--0c85be0f2ea71f63f25d62e8e64b0478.nii.gz",
+"MD5E-s11285640--39d14cb4bdc0a9c8b4cdb7a09d638ed2.nii.gz",
+"MD5E-s11286646--8f9b49c30df4f15d5c2bbf3d1a58b83d.nii.gz",
+"MD5E-s11311923--c69ecaee294f6675f88ddb4c7302a98f.nii.gz",
+"MD5E-s11312502--4ec11d2e9b38baabaf3d36f93168cd8f.nii.gz",
+"MD5E-s11333817--c7bda6717d2c862cf0e4be855ad7ad02.nii.gz",
+"MD5E-s11349806--3c2d53745cb52634a1897a47b912b1fa.nii.gz",
+"MD5E-s11414284--0bac2b83ab916234dc9b36e5c2bbde0e.nii.gz",
+"MD5E-s11491685--c62144acd8476f37fb8fcae5e1367e36.nii.gz",
+"MD5E-s11565678--fe4f2f249e663e8f733d58aaa4eff82c.nii.gz",
+"MD5E-s11600319--981fa8aac1558ff0745600a7c62f62fa.nii.gz",
+"MD5E-s11754572--9e97039531787051841da614d4bfb00c.nii.gz",
+"MD5E-s11758192--266a9379778e6ca000e4b70b26ce91ee.nii.gz",
+"MD5E-s11802991--bc308cfa5f77a635f8dc4f4959e21d09.nii.gz",
+"MD5E-s11811240--736a1c0f2df26bce4040767ecfed059d.nii.gz",
+"MD5E-s11851905--8e2b445def085b899a5b832c49173f3e.nii.gz",
+"MD5E-s11888592--cf75cf352a6303c112de0a03319082d0.nii.gz",
+"MD5E-s11978974--070b1fc904832e7f33521b913ab56b33.nii.gz",
+"MD5E-s11995080--7cad37d67477d9448859c97667b939bf.nii.gz",
+"MD5E-s12032666--5e0f4d964764fa8de0ce0981e3735dd5.nii.gz",
+"MD5E-s12053510--3174591383e2b4a6424e7371b65c35bc.nii.gz",
+"MD5E-s12119369--00d91c3e43cd7a37de0edf74cf93aef3.nii.gz",
+"MD5E-s12407479--733ac5dd7cb59762b9f97b831e13611a.nii.gz",
+"MD5E-s12578224--3c215b84e1a2f6c06a63263a183a9a15.nii.gz",
+"MD5E-s34234030--6567f50b2ac8bf8fd8861f7064312401.nii.gz",
+"MD5E-s34447004--0a9e10711ccb592d0cb33f2a1c12b7bb.nii.gz",
+"MD5E-s34716264--fcb981c4dc3760a5c5c86f9b51c537ed.nii.gz",
+"MD5E-s34854923--33af508483ec5b4ccfdf6ad1c8aa6734.nii.gz",
+"MD5E-s34891370--5ea91100bed9ed6e9b5ed6a64ef4b6db.nii.gz",
+"MD5E-s35083118--bdea310737cbce73c2d506f21cfdf564.nii.gz",
+"MD5E-s35094213--f945ab9808c6c717a657300401263725.nii.gz",
+"MD5E-s35264742--613dc6e18b21d1f4fafa0534f9d4cc9c.nii.gz",
+"MD5E-s35295685--e50cd518e8e21a0f199d1cae91ff1066.nii.gz",
+"MD5E-s35335713--2d92eed4ebf647b735a0729a65bb417a.nii.gz",
+"MD5E-s35375711--0dd166b5df5658f3e5fef30d32411f78.nii.gz",
+"MD5E-s35849123--2ed5bdd32cfe98d2daed6f1a0170c10b.nii.gz",
+"MD5E-s35850652--dbb2d0cb228842ec10d73eb797e5dd8f.nii.gz",
+"MD5E-s35893795--f4eb368dcadf6e8855adf34e6df0a5cc.nii.gz",
+"MD5E-s35972913--99253bdef540dcb5d1b53015c4914f1b.nii.gz",
+"MD5E-s36001969--b44b328d489a6c7dcc99b82de5c936ba.nii.gz",
+"MD5E-s36191261--59fc2bf332dc2d05384ff80043f37180.nii.gz",
+"MD5E-s36252472--84112cca2a301ac138e14a0007d0efda.nii.gz",
+"MD5E-s36378302--08df26e62abd4247bd54a7f83281f45f.nii.gz",
+"MD5E-s36422065--071bc0c7c671b2c7243da08e1ff59e13.nii.gz",
+"MD5E-s36651250--0e2d663ca37993fae47f3a5b097e63fd.nii.gz",
+"MD5E-s36694391--19e4edf7225e6ab17dbdd25811c586e0.nii.gz",
+"MD5E-s36798756--3839799bcfdf26604b4ba72a5dd9296f.nii.gz",
+"MD5E-s36918003--dac31375f89d8d4d59d2e124fa4ebebe.nii.gz",
+"MD5E-s37137059--67b8dacb5b81bab632dbce2fc0a23887.nii.gz",
+"MD5E-s37199262--c1c1a7ddb6b3404497b495c4eceba464.nii.gz",
+"MD5E-s37293468--3bd9e4a9fe66d8e694d1387f9dfc10f8.nii.gz",
+"MD5E-s37526677--f44124258dd3ea1d2e407cf2e0d3c4e5.nii.gz",
+"MD5E-s37537405--1d46b35d118c38dc0ec9549f1fb65b65.nii.gz",
+"MD5E-s37570119--29cb62879a327e2c5ac5d9826c5a9cb3.nii.gz",
+"MD5E-s37811573--2886bee10f1eb73328ab32edea62f43a.nii.gz",
+"MD5E-s37816182--cb0924e30058a016ea9aba4758eaf3da.nii.gz",
+"MD5E-s37862444--57577bf10e1aaae970ac7b85e2c0283e.nii.gz",
+"MD5E-s37949673--eb9f648968dc39b78a9cdb66f60921dd.nii.gz",
+"MD5E-s38151561--0255114d3fd65cdd08d3069ded55fd9c.nii.gz",
+"MD5E-s38427827--d514cd9f0d0870d9db67672029ce736f.nii.gz",
+"MD5E-s38477214--7313a7c4db4b62f7070badbce8959676.nii.gz",
+"MD5E-s38564275--ee1487ebbc685f8608b68c137a822dbb.nii.gz",
+"MD5E-s38579372--dac8b4f5d1d3e06244587f9fba979af9.nii.gz",
+"MD5E-s38678107--0bd566366998ea7ddcc4fc7265b45416.nii.gz",
+"MD5E-s39125335--a25fcbf1bcb0d2f70397b80cfd01ddf8.nii.gz",
+"MD5E-s39562577--14bb2ddda25c896474eb3d983449cfec.nii.gz",
+"MD5E-s39615753--3f96e568794848d7099ee69fb39827d0.nii.gz",
+"MD5E-s40084536--0b4c587af69dd4046646272f4690c862.nii.gz",
+"MD5E-s40085162--4f38ce887f9d46416202efb2f8b2ec21.nii.gz",
+"MD5E-s9091934--1a8a69704581b0c0872de617d7c8a209.nii.gz",
+"MD5E-s9545295--042e36589d7b6c3ca28f8e4258b4f898.nii.gz",
+"MD5E-s9724864--cb26c8d45acd52ff67981d787da91cf3.nii.gz"
+]
+},
+"bids":
+{
+"type":
+[
+"participants"
+]
+}
+},
+"nifti1":
+{
+"@context":
+{
+"nifti1":
+{
+"@id":
+"https://nifti.nimh.nih.gov/nifti-1/documentation/nifti1fields#",
+"description":
+"Ad-hoc vocabulary for NIfTI1 header fields",
+"type":
+"http://purl.org/dc/dcam/VocabularyEncodingScheme"
+},
+"spatial_resolution(mm)":
+{
+"@id":
+"idqa:0000162",
+"description":
+"spatial resolution in millimeter",
+"unit":
+"uo:0000016",
+"unit_label":
+"millimeter"
+},
+"temporal_spacing(s)":
+{
+"@id":
+"idqa:0000213",
+"description":
+"temporal sample distance in 4D (in seconds)",
+"unit":
+"uo:0000010",
+"unit_label":
+"second"
+}
+}
+},
+"xmp":
+{
+"@context":
+{}
+}
+}

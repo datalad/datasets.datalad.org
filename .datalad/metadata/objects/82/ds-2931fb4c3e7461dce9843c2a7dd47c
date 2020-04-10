@@ -1,0 +1,67 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Leah M. McGuire",
+"Gregory Telian",
+"Keven Laboy-Juárez",
+"Toshio Miyashita",
+"Daniel J. Lee",
+"Katherine A. Smith",
+"Daniel E. Feldman"
+],
+"description":
+"The data set was collected from extracellular spike recordings in whisker primary somatosensory cortex (S1) of rats performing a whisker based discrimination task. Neural activity is described by the spike times of isolated single and multiunit clusters obtained from spike sorting from moveable tetrode arrays. The whisker stimuli consisted of rapid whisker impulse sequences.  Each sequence (120-150 ms total duration) contained 3 brief impulses (16-26 ms each) with either Fast (F), Medium (M) or Slow (S) rise-fall velocity.  Sequences had FFF, FMS, SMF or SSS order.  Thus, sequences varied in whisker deflection speed at short (5-20 ms) and long (150 ms) time scales.  On each trial, one stimulus was delivered, and rats discriminated stimuli in a 2-alternative forced choice task.  Hence, this data set serves as a resource to explore the time scales at which cortical neurons encode whisker stimuli and how their spiking activity correlates to sensory perception. The structure contains trial information and complete neurophysiology data from 5 rats, over a total of 80 recording sessions.  Neural recordings are from layer 2/3 to 6 of S1, and include both fast-spiking and regular spiking single units (identified separately).  These data are the basis for the following paper, which contains a detailed description of the methods and results:  Short time-scale sensory coding in S1 during discrimination of whisker vibrotactile sequences.   Leah M. McGuire, Gregory Telian, Keven Laboy-Juárez, Toshio Miyashita, Daniel J. Lee, Katherine A. Smith, and Daniel E. Feldman.  PLoS Biology, 2016.",
+"formats":
+[
+"Matlab"
+],
+"name":
+"CRCNS.org ssc-4",
+"sameas":
+"10.6080/K06D5QXN",
+"shortdescription":
+"Extracellular recordings in rat barrel cortex during a whisker based discrimination task of tactile stimuli that  varied in whisker deflection speed at short and fast time scales.",
+"tag":
+[
+"Neuroscience",
+"Somatosensory Cortex",
+"barrel cortex",
+"Rat"
+],
+"version":
+"0.7"
+},
+"datalad_core":
+{
+"@id":
+"c705bde6-ab96-11e6-85b3-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"d4359efedf7ef5def53c7cf045d7b33c6c17e31e"
+},
+"datalad_unique_content_properties":
+{
+"annex":
+{
+"key":
+[
+"MD5E-s103232143--a929b803ca0feab5270e807f571d13eb.mat",
+"MD5E-s132968--71ab6b260e031c252a2af1db85c5b620.pdf",
+"MD5E-s34475--5302f4f1dd7055fc72484b6ea7dab402.docx"
+]
+}
+}
+}

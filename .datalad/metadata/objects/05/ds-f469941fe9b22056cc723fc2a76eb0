@@ -1,0 +1,82 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Zhang, Yi-Feng",
+"Asari, Hiroki",
+"Meister, Markus"
+],
+"description":
+"Neuronal responses of retinal ganglion cells to various visual stimuli were recorded in the isolated retina from lab mice (Mus Musculus) using a 61-electrode array. Recordings from 16 retina preparations are included.  From 3 to 43 cells were simultaneously recorded in each perparation.",
+"formats":
+[
+"application/matlab"
+],
+"name":
+"CRCNS.org ret-1",
+"sameas":
+"10.6080/K0RF5RZT",
+"shortdescription":
+"Multi-electrode recordings from retinal ganglion cells",
+"tag":
+[
+"Neuroscience",
+"Electrophysiology",
+"retina",
+"mice (Mus Musculus)",
+"Single unit recordings"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"90b052f0-7ae6-11e6-a6c8-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"6ee5e824c3fe0c112c15a1a7825f8e8e2857359b"
+},
+"datalad_unique_content_properties":
+{
+"annex":
+{
+"key":
+[
+"MD5E-s105456--1b66fe25386b4d1cc14e66b6f719a985.docx",
+"MD5E-s112553--dafb17bfa0d4e431aedfcc0af37c8224.mat",
+"MD5E-s1303684--2e2c6230cf41899644a2d5202b67af20.mat",
+"MD5E-s1478450--7a9c98fe0f7d3a812a2547950a88a821.mat",
+"MD5E-s1515345--c3a4786cd8dcb5588a41f878ad798e86.mat",
+"MD5E-s1619650--76d5b49e2401de9344879fea6a52e94f.mat",
+"MD5E-s1735--51726394807c6e1a924e561e2ecb4976.m",
+"MD5E-s1854783--973779484a2758073c03ccdd26b8d80f.mat",
+"MD5E-s1950808--3470f1e7a6075aa04a2a86b875ec8fd0.mat",
+"MD5E-s217459--1f5a3b61bf1866756f5863ded64cc4bd.mat",
+"MD5E-s2376244--0b34def1b7916be34186dd5d9a627ac6.mat",
+"MD5E-s2729--a3335733941720177ff4e1f638cabce2.m",
+"MD5E-s37500000--feb08c8fd4e6746638b0f15354419aad.bin",
+"MD5E-s392296--a7fcae64bbc602fcf42282a89b1096b8.mat",
+"MD5E-s425996--c23b162b2e1b9f86cc25a0086275dd97.mat",
+"MD5E-s4462406--7d0a0bd21006e9d89f03f858b48576ad.mat",
+"MD5E-s4834679--9951d2a7d6c5c89a6795618f07027c1a.mat",
+"MD5E-s4919162--1210e4628623487b50af3c67cc4e7aae.mat",
+"MD5E-s617052--d194f2e59714181de87c5efdd70e77aa.mat",
+"MD5E-s6263599--b245c8e0952880e300477004b69b3ccf.mat",
+"MD5E-s87274--eca35a17912488ad1ddf1e5231005aa5.pdf"
+]
+}
+}
+}

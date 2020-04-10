@@ -1,0 +1,72 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Kohn, Adam",
+"Coen-Cagli, Ruben"
+],
+"description":
+"This data consist of multi-electrode recordings from V1 in anesthetized macaque monkeys, while natural images and gratings were flashed on the screen. Recordings were performed using the “Utah” electrode array.  Natural images were presented at two sizes, 3-6.7 degrees and windowed to 1 degree, to quantify surround modulation.",
+"formats":
+[
+"MATLAB"
+],
+"name":
+"CRCNS.org pvc-8",
+"sameas":
+"10.6080/K0SB43P8",
+"shortdescription":
+"Multi-electrode recordings of anesthetized macaque V1 responses to static natural images and gratings",
+"tag":
+[
+"Neuroscience",
+"Electrophysiology",
+"Primary Visual Cortex (V1)",
+"Macaque"
+],
+"version":
+"1.0"
+},
+"datalad_core":
+{
+"@id":
+"9014dfdc-7ae6-11e6-a6c8-002590f97d84",
+"ispartof":
+{
+"@id":
+"76a53362-7ae6-11e6-a6c8-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"015c4a2da73e8972c1382c8f2337d734e7e3d363"
+},
+"datalad_unique_content_properties":
+{
+"annex":
+{
+"key":
+[
+"MD5E-s22505--d3c2bb33f68cb7295241dc9a62732000.docx",
+"MD5E-s24426299--e632c5e92f650240036b1d1920548a5a.mat",
+"MD5E-s25054085--da2639f93a1ac778e8ff6e0747e67853.mat",
+"MD5E-s27053856--2b31ed913332f5a2607b41ec1d00d887.mat",
+"MD5E-s27495754--908148cac60e634e331cd5de6caeed6f.mat",
+"MD5E-s30563266--1f259117eea6ecce1362cbcbc88f6f3c.mat",
+"MD5E-s32575368--5e550dae6c31749701bb16e1acc5d97f.mat",
+"MD5E-s35583670--2a6469f275a07caf3c48c95bd11fb6eb.mat",
+"MD5E-s37090433--3af25f9d950d9445d9b6534b05b8b49f.mat",
+"MD5E-s38271622--6720448e0c5ff1b1cd62095b1cd847f7.mat",
+"MD5E-s3949--2fb434111493821807fcda5e23918f05.m",
+"MD5E-s40734348--afae73b9c4e5b76aedee7ae1dfbead9b.mat",
+"MD5E-s62083--434cfec6c0a4a958d23f14719d963410.pdf"
+]
+}
+}
+}
