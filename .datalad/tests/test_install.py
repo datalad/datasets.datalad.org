@@ -22,9 +22,6 @@ from datalad.tests.utils import (
 )
 from .consts import DATASETS_TOPURL
 
-import logging
-lgr = logging.getLogger('datalad.tests')
-
 
 @with_tempfile
 def test_install_top(tdir):
@@ -46,7 +43,7 @@ def test_install_top(tdir):
 @with_tempfile
 def test_install_random_deep(tdir):
     seed = os.environ.get('DATALAD_SEED', str(random.randint(0, 10000)))
-    lgr.info("Random seed: %r", seed)
+    print("Random seed: %r" % seed)
     random.seed(seed)
     # installs top one
     ds = install(path=tdir, source=DATASETS_TOPURL)
@@ -60,4 +57,4 @@ def test_install_random_deep(tdir):
         pds = ds
         ds = random.choice(subdss)
         pds.install(ds.path)
-    lgr.info("Stopped at depth %s at %s", depth, ds)
+    print("Stopped at depth %s at %s" % (depth, ds))
