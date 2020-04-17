@@ -34,9 +34,9 @@ def test_install_top(tdir):
         recursion_limit=1,
     )
     subdss = ds.subdatasets(fulfilled=True, result_xfm='datasets')
-	if DATASETS_FULL_INSTALL:
-		assert_greater(len(subdss), 25)  # we have a good number on top
-		assert_equal(ds.subdatasets(fulfilled=False), [])   # and none is left behind
+    if DATASETS_FULL_INSTALL:
+        assert_greater(len(subdss), 25)  # we have a good number on top
+        assert_equal(ds.subdatasets(fulfilled=False), [])   # and none is left behind
 
     detached = [s.path for s in subdss if not s.repo.get_active_branch()]
     assert_equal(detached, [])
