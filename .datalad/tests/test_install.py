@@ -30,7 +30,7 @@ def test_install_top(tdir):
     ds = install(
         path=tdir,
         source=DATASETS_TOPURL,
-        recursive=True,
+        recursive=DATASETS_FULL_INSTALL,
         recursion_limit=1,
     )
     subdss = ds.subdatasets(fulfilled=True, result_xfm='datasets')
