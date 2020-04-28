@@ -1,0 +1,96 @@
+#!/bin/bash
+
+PS1=+
+
+set -eu
+
+# Check externals
+hash datalad
+hash sem
+hash chronic
+
+# A rudimentary update script which would take care about auto-updating on cron
+# some selected set of the datasets.  This would help to outline use cases we
+# would like to have addressed.
+
+# Use our "centralized" environment.
+source /home/yoh/proj/datalad/datalad-crawl-env/venvs/dev3/bin/activate
+
+cd "/mnt/btrfs/datasets/datalad/crawl"
+
+# TODO: might want to just end up using singularity environment which to
+# include here!
+njobs=12
+
+run1() {
+    #echo "Running $@ under $PWD"
+    chronic "$@"
+}
+export -f run1
+
+runj() {
+    #echo "Submitting $@ under $PWD"
+    #sem -j$njobs "sleep 2; echo Done running $@"
+    sem -j$njobs "$@"
+    #echo "Done submitting $2"
+}
+
+doall() {
+    func="$1"
+    shift
+    # TODO: parallelize this part
+    for d in "$@"; do
+       runj "$func" "$d";
+    done
+    sem --wait
+    # And then save each at a time but without parallel since we would be
+    # conflicting
+    #for d in "$@"; do
+    if [ "$#" -lt 5 ]; then
+        msg="$@"
+    else
+        msg="$# paths"
+    fi
+    run1 datalad save -d . -m "Updates from looking at $msg" "$@"
+    #done
+}
+export -f doall
+
+datalad_update_ff_r() (
+    echo "Fast forward $1 recursively"
+    run1 datalad update -d "$1" --recursive --follow parentds --merge ff-only
+)
+export -f datalad_update_ff_r
+
+datalad_crawl() (
+    echo "Crawl $1"
+    cd "$1"
+    run1 datalad crawl
+)
+export -f datalad_crawl
+
+datalad_crawl_doall_update() (
+    msg="Recrawl and update $1"
+    echo "$msg"
+    (
+    cd "$1"
+    run1 datalad crawl
+    # Here using git module name which could differ from path
+    subds=( $(datalad -f '{gitmodule_name}' subdatasets -r -R 1) )
+    doall datalad_update_ff_r ${subds[*]}
+    )
+    datalad save -d '.' -m "$msg"
+)
+export -f datalad_crawl_doall_update
+
+#
+# Straightforward updates from other git repos
+#
+#doall 
+datalad_update_ff_r \
+    conp-dataset
+    # might want only tags  templateflow \
+
+# Here we crawl top but then update children in parallel
+datalad_crawl_doall_update \
+    openneuro
