@@ -57,8 +57,10 @@ doall() {
 export -f doall
 
 datalad_update_ff_r() (
-    echo "Fast forward $1 recursively"
+    msg="Fast forward $1 recursively"
+    echo "$msg"
     run1 datalad update -d "$1" --recursive --follow parentds --merge ff-only
+    datalad save -d '.' -m "$msg" "$1"
 )
 export -f datalad_update_ff_r
 
@@ -79,7 +81,7 @@ datalad_crawl_doall_update() (
     subds=( $(datalad -f '{gitmodule_name}' subdatasets -r -R 1) )
     doall datalad_update_ff_r ${subds[*]}
     )
-    datalad save -d '.' -m "$msg"
+    datalad save -d '.' -m "$msg" "$1"
 )
 export -f datalad_crawl_doall_update
 
@@ -94,3 +96,11 @@ datalad_update_ff_r \
 # Here we crawl top but then update children in parallel
 datalad_crawl_doall_update \
     openneuro
+
+echo "Summary of diff to be published"
+
+datalad diff -d . --from datalad-public/master --to HEAD -r 
+
+# Publish since we got so far!
+datalad publish --since= --to=datalad-public --missing=inherit -r
+
