@@ -1,14 +1,12 @@
 #!/bin/bash
 
 export PS1='$> '
-export PS4="> "
+#export PS4="> "
+# Let's also log the time etc
+export PS4='\n> # $(date +%T.%N)\n> '
+
 
 set -eu
-
-# Check externals
-hash datalad
-hash sem
-hash chronic
 
 # A rudimentary update script which would take care about auto-updating on cron
 # some selected set of the datasets.  This would help to outline use cases we
@@ -17,13 +15,18 @@ hash chronic
 # Use our "centralized" environment.
 source /home/yoh/proj/datalad/datalad-crawl-env/venvs/dev3/bin/activate
 
+# Check externals
+hash datalad
+hash sem
+hash chronic
+
+
 cd "/mnt/btrfs/datasets/datalad/crawl"
 
 # TODO: might want to just end up using singularity environment which to
 # include here!
 njobs=12
 
-set -x
 
 run1() {
     #echo "Running $@ under $PWD"
@@ -61,14 +64,14 @@ export -f doall
 
 datalad_update_ff_r() (
     msg="Fast forward $1 recursively"
-    echo "$msg"
+    #-x echo "$msg"
     run1 datalad update -d "$1" --recursive --follow parentds --merge ff-only
     datalad save -d '.' -m "$msg" "$1"
 )
 export -f datalad_update_ff_r
 
 datalad_crawl() (
-    echo "Crawl $1"
+    #-x echo "Crawl $1"
     cd "$1"
     run1 datalad crawl
 )
@@ -76,7 +79,8 @@ export -f datalad_crawl
 
 datalad_crawl_doall_update() (
     msg="Recrawl and update $1"
-    echo "$msg"
+    #-x echo "$msg"
+    set +x  # could be too many
     (
     cd "$1"
     run1 datalad crawl
@@ -84,9 +88,14 @@ datalad_crawl_doall_update() (
     subds=( $(datalad -f '{gitmodule_name}' subdatasets -r -R 1) )
     doall datalad_update_ff_r ${subds[*]}
     )
+    set -x
     datalad save -d '.' -m "$msg" "$1"
 )
 export -f datalad_crawl_doall_update
+
+set -x
+
+datalad wtf -S datalad -S dependencies -S extensions
 
 #
 # Straightforward updates from other git repos
@@ -100,10 +109,9 @@ datalad_update_ff_r \
 datalad_crawl_doall_update \
     openneuro
 
-echo "Summary of diff to be published"
-
 datalad diff -d . --from datalad-public/master --to HEAD -r 
 
 # Publish since we got so far!
 datalad publish --since= --to=datalad-public --missing=inherit -r
 
+echo "done"
