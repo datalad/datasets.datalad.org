@@ -95,8 +95,6 @@ export -f datalad_crawl_doall_update
 
 set -x
 
-datalad wtf -S datalad -S dependencies -S extensions
-
 #
 # Straightforward updates from other git repos
 #
@@ -115,3 +113,6 @@ datalad diff -d . --from datalad-public/master --to HEAD -r
 datalad publish --since= --to=datalad-public --missing=inherit -r
 
 echo "done"
+
+datalad wtf -S datalad -S dependencies -S extensions
+
