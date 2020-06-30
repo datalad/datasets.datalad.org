@@ -85,3 +85,7 @@
 	path = con
 	url = ./con
 	datalad-id = 3322ae8e-990b-11ea-9ac1-002590f97d84
+[submodule "ohbm"]
+	path = ohbm
+	url = ./ohbm
+	datalad-id = 7a49e644-bb23-11ea-b37e-002590f97d84
