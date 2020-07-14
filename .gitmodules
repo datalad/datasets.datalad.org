@@ -89,3 +89,7 @@
 	path = ohbm
 	url = ./ohbm
 	datalad-id = 7a49e644-bb23-11ea-b37e-002590f97d84
+[submodule "naturalistic-data"]
+	path = naturalistic-data
+	url = ./naturalistic-data
+	datalad-id = 860e55aa-c5eb-11ea-91b5-002590f97d84
