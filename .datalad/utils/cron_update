@@ -67,6 +67,16 @@ datalad_update_ff_r() (
     #-x echo "$msg"
     run1 datalad update -d "$1" --recursive --follow parentds --merge ff-only
     datalad save -d '.' -m "$msg" "$1"
+    if [ "$#" -ge 2 ]; then
+        case "$2" in
+        --annex-get-auto)
+            # due to https://github.com/datalad/datalad/issues/4010
+            run1 git -C "$1" annex get --auto;;
+        *)
+            echo "Unknown option $2" >&2;
+            exit 1;
+        esac
+    fi
 )
 export -f datalad_update_ff_r
 
@@ -102,6 +112,8 @@ set -x
 datalad_update_ff_r \
     conp-dataset
     # might want only tags  templateflow \
+
+datalad_update_ff_r psychoinformatics-de/hirni-toolbox --annex-get-auto
 
 # Here we crawl top but then update children in parallel
 datalad_crawl_doall_update \
