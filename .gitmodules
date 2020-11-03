@@ -81,9 +81,9 @@
 	path = conp-dataset
 	url = https://github.com/CONP-PCNO/conp-dataset
 	datalad-id = 28434598-5496-11e8-8449-f0d5bf508098
-[submodule "con"]
-	path = con
-	url = ./con
+[submodule "centerforopenneuroscience"]
+	path = centerforopenneuroscience
+	url = ./centerforopenneuroscience
 	datalad-id = 3322ae8e-990b-11ea-9ac1-002590f97d84
 [submodule "ohbm"]
 	path = ohbm
