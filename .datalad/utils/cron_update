@@ -118,8 +118,8 @@ datalad_update_ff_r \
 
 
 # Here we crawl top but then update children in parallel
-datalad_crawl_doall_update \
-    openneuro
+#datalad_crawl_doall_update \
+#    openneuro
 
 datalad diff -d . --from datalad-public/master --to HEAD -r 
 
