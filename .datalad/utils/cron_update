@@ -109,17 +109,32 @@ set -x
 # Straightforward updates from other git repos
 #
 
-datalad_update_ff_r psychoinformatics-de/hirni-toolbox --annex-get-auto
+if [ $# -ge 1 ]; then
+   dss=( $* )
+ else
+   # ad-hoc way to just go through all "registered"
+   dss=( $( seq 1 10 ) )
+ fi
 
-#doall 
-datalad_update_ff_r \
-    conp-dataset
-    # might want only tags  templateflow \
+for ds in ${dss[@]}; do
+   case "$ds" in
+     1| psychoinformatics-de/hirni-toolbox)
+       datalad_update_ff_r psychoinformatics-de/hirni-toolbox --annex-get-auto;;
 
-
-# Here we crawl top but then update children in parallel
-#datalad_crawl_doall_update \
-#    openneuro
+     2| conp-dataset) #doall 
+       datalad_update_ff_r \
+           conp-dataset
+           # might want only tags  templateflow \
+       ;;
+     3| openneuro)
+       # Here we crawl top but then update children in parallel
+       datalad_crawl_doall_update \
+           openneuro;;
+     4) break;;
+     *) echo "unknown dataset $ds"; exit 1;;
+  esac
+  ((ds+=1))  
+done
 
 datalad diff -d . --from datalad-public/master --to HEAD -r 
 
