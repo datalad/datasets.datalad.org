@@ -133,7 +133,6 @@ for ds in ${dss[@]}; do
      4) break;;
      *) echo "unknown dataset $ds"; exit 1;;
   esac
-  ((ds+=1))  
 done
 
 datalad diff -d . --from datalad-public/master --to HEAD -r 
