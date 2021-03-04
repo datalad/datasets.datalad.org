@@ -34,7 +34,9 @@ njobs=12
 
 run1() {
     #echo "Running $@ under $PWD"
-    chronic "$@"
+    # no chronic for now due to https://github.com/datalad/datalad/issues/5465
+    #chronic "$@"
+    "$@"
 }
 export -f run1
 
