@@ -101,3 +101,4 @@
 	path = dandisets
 	url = https://github.com/dandi/dandisets
 	datalad-id = 79aeddc4-7870-4351-b778-11f63c201edc
+	datalad-url = https://github.com/dandi/dandisets
