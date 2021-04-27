@@ -105,3 +105,4 @@
 	path = shub
 	url = http://datasets.datalad.org/shub/.git
 	datalad-id = ef409c52-40a3-41bf-8e83-72fdefdf01e2
+	datalad-url = ///shub
