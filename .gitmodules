@@ -106,3 +106,7 @@
 	url = http://datasets.datalad.org/shub/.git
 	datalad-id = ef409c52-40a3-41bf-8e83-72fdefdf01e2
 	datalad-url = ///shub
+[submodule "studyforrest"]
+	path = studyforrest
+	url = https://github.com/psychoinformatics-de/studyforrest-data
+	datalad-id = deabeb9b-7a37-4062-a1e0-8fcef7909609
