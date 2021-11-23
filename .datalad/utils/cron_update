@@ -15,6 +15,8 @@ set -eu
 # Use our "centralized" environment.
 source /home/yoh/proj/datalad/datalad-crawl-env/venvs/dev3/bin/activate
 
+datalad wtf --flavor short
+
 # override possibly present local configuration for parallel
 # datalad operation if python is too old
 python --version | awk '{print $2;}' | grep -q '^3\.[891]' || export DATALAD_RUNTIME_MAX__JOBS=1
@@ -150,8 +152,12 @@ done
 
 datalad diff -d . --from datalad-public/master --to HEAD -r 
 
-# Publish since we got so far!
-datalad publish --since= --to=datalad-public --missing=inherit -r
+# Publish since we got so far! last version to have publish 0.14.8
+# datalad publish --since= --to=datalad-public --missing=inherit -r
+
+# datalad >= 0.15.0 should be smth like
+datalad create-sibling -s datalad-public -r --since=^ --inherit
+datalad push --since=^ --data auto -r --to=datalad-public -J5
 
 echo "done"
 
