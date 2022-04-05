@@ -13,7 +13,7 @@ set -eu
 # would like to have addressed.
 
 # Use our "centralized" environment.
-source /home/yoh/proj/datalad/datalad-crawl-env/venvs/dev3/bin/activate
+source /home/yoh/proj/datalad/datalad-crawl-env/bin/activate
 
 datalad wtf --flavor short
 
