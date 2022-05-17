@@ -129,7 +129,10 @@ for ds in ${dss[@]}; do
      1| dandisets)
        # Here we crawl top but then update children in parallel
        datalad_update_ff_r dandi/dandisets;;
-     
+
+     5| datalad/datalad-course | datalad-course)
+       datalad_update_ff_r datalad/datalad-course;;
+
      102| openneuro)
        # Here we crawl top but then update children in parallel
        datalad_crawl_doall_update \
