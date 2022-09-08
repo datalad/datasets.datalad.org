@@ -1,134 +1,118 @@
-[submodule "openfmri"]
-	path = openfmri
-	url = https://datasets.datalad.org/openfmri/.git
-[submodule "neurovault"]
-	path = neurovault
-	url = https://datasets.datalad.org/neurovault/.git
+[submodule "abide"]
+	path = abide
+	url = https://datasets.datalad.org/abide/.git
+[submodule "abide2"]
+	path = abide2
+	url = https://datasets.datalad.org/abide2/.git
+[submodule "adhd200"]
+	path = adhd200
+	url = https://datasets.datalad.org/adhd200/.git
+[submodule "allen-brain-observatory"]
+	path = allen-brain-observatory
+	url = https://datasets.datalad.org/allen-brain-observatory/.git
+[submodule "centerforopenneuroscience"]
+	path = centerforopenneuroscience
+	url = https://datasets.datalad.org/centerforopenneuroscience/.git
+	datalad-id = 3322ae8e-990b-11ea-9ac1-002590f97d84
+[submodule "cifar"]
+	path = cifar
+	url = https://datasets.datalad.org/cifar/.git
+[submodule "conp-dataset"]
+	path = conp-dataset
+	url = https://github.com/CONP-PCNO/conp-dataset
+	datalad-id = 28434598-5496-11e8-8449-f0d5bf508098
+[submodule "corr"]
+	path = corr
+	url = https://datasets.datalad.org/corr/.git
 [submodule "crcns"]
 	path = crcns
 	url = https://datasets.datalad.org/crcns/.git
+[submodule "dandi"]
+	path = dandi
+	url = https://datasets.datalad.org/dandi/.git
+	datalad-id = 767154cb-1cef-4ee3-a4d3-ed5c0e949613
+[submodule "datalad"]
+	path = datalad
+	url = https://datasets.datalad.org/datalad/.git
+	datalad-id = eb75f620-b951-11e9-a91d-002590f97d84
+[submodule "dbic"]
+	path = dbic
+	url = https://datasets.datalad.org/dbic/.git
+[submodule "devel"]
+	path = devel
+	url = https://datasets.datalad.org/devel/.git
 [submodule "dicoms"]
 	path = dicoms
 	url = https://datasets.datalad.org/dicoms/.git
-[submodule "labs"]
-	path = labs
-	url = https://datasets.datalad.org/labs/.git
+[submodule "hbnssi"]
+	path = hbnssi
+	url = https://datasets.datalad.org/hbnssi/.git
+[submodule "hcp-openaccess"]
+	path = hcp-openaccess
+	url = https://github.com/datalad-datasets/human-connectome-project-openaccess
+	branch = master
+	datalad-id = 2e2a8a70-3eaa-11ea-a9a5-b4969157768c
 [submodule "indi"]
 	path = indi
 	url = https://datasets.datalad.org/indi/.git
 [submodule "kaggle"]
 	path = kaggle
 	url = https://datasets.datalad.org/kaggle/.git
-[submodule "nidm"]
-	path = nidm
-	url = https://datasets.datalad.org/nidm/.git
-[submodule "workshops"]
-	path = workshops
-	url = https://datasets.datalad.org/workshops/.git
-[submodule "dbic"]
-	path = dbic
-	url = https://datasets.datalad.org/dbic/.git
-[submodule "hbnssi"]
-	path = hbnssi
-	url = https://datasets.datalad.org/hbnssi/.git
-[submodule "corr"]
-	path = corr
-	url = https://datasets.datalad.org/corr/.git
-[submodule "devel"]
-	path = devel
-	url = https://datasets.datalad.org/devel/.git
-[submodule "adhd200"]
-	path = adhd200
-	url = https://datasets.datalad.org/adhd200/.git
-[submodule "abide2"]
-	path = abide2
-	url = https://datasets.datalad.org/abide2/.git
-[submodule "abide"]
-	path = abide
-	url = https://datasets.datalad.org/abide/.git
-[submodule "allen-brain-observatory"]
-	path = allen-brain-observatory
-	url = https://datasets.datalad.org/allen-brain-observatory/.git
-[submodule "physionet"]
-	path = physionet
-	url = https://datasets.datalad.org/physionet/.git
-[submodule "openneuro"]
-	path = openneuro
-	url = https://datasets.datalad.org/openneuro/.git
-[submodule "cifar"]
-	path = cifar
-	url = https://datasets.datalad.org/cifar/.git
-[submodule "simon"]
-	path = simon
-	url = https://datasets.datalad.org/simon/.git
-	datalad-id = 8acac168-682d-11e9-a33d-002590f97d84
-[submodule "templateflow"]
-	path = templateflow
-	url = https://github.com/templateflow/templateflow
-[submodule "repronim"]
-	path = repronim
-	url = https://datasets.datalad.org/repronim/.git
-[submodule "datalad"]
-	path = datalad
-	url = https://datasets.datalad.org/datalad/.git
-	datalad-id = eb75f620-b951-11e9-a91d-002590f97d84
-[submodule "hcp-openaccess"]
-	path = hcp-openaccess
-	url = https://github.com/datalad-datasets/human-connectome-project-openaccess
-	branch = master
-	datalad-id = 2e2a8a70-3eaa-11ea-a9a5-b4969157768c
-[submodule "conp-dataset"]
-	path = conp-dataset
-	url = https://github.com/CONP-PCNO/conp-dataset
-	datalad-id = 28434598-5496-11e8-8449-f0d5bf508098
-[submodule "centerforopenneuroscience"]
-	path = centerforopenneuroscience
-	url = https://datasets.datalad.org/centerforopenneuroscience/.git
-	datalad-id = 3322ae8e-990b-11ea-9ac1-002590f97d84
-[submodule "ohbm"]
-	path = ohbm
-	url = https://datasets.datalad.org/ohbm/.git
-	datalad-id = 7a49e644-bb23-11ea-b37e-002590f97d84
+[submodule "labs"]
+	path = labs
+	url = https://datasets.datalad.org/labs/.git
 [submodule "naturalistic-data"]
 	path = naturalistic-data
 	url = https://datasets.datalad.org/naturalistic-data/.git
 	datalad-id = 860e55aa-c5eb-11ea-91b5-002590f97d84
-[submodule "psychoinformatics-de"]
-	path = psychoinformatics-de
-	url = https://datasets.datalad.org/psychoinformatics-de/.git
-	datalad-id = a6dac302-c61f-11ea-9622-002590f97d84
-[submodule "dandi"]
-	path = dandi
-	url = https://datasets.datalad.org/dandi/.git
-	datalad-id = 767154cb-1cef-4ee3-a4d3-ed5c0e949613
-[submodule "shub"]
-	path = shub
-	url = http://datasets.datalad.org/shub/.git
-	datalad-id = ef409c52-40a3-41bf-8e83-72fdefdf01e2
-	datalad-url = ///shub
-[submodule "studyforrest"]
-	path = studyforrest
-	url = https://github.com/psychoinformatics-de/studyforrest-data
-	datalad-id = deabeb9b-7a37-4062-a1e0-8fcef7909609
-	datalad-url = https://github.com/psychoinformatics-de/studyforrest-data
-[submodule "psychoinformatics-de"]
-	path = psychoinformatics-de
-	url = ./psychoinformatics-de
-	datalad-id = a6dac302-c61f-11ea-9622-002590f97d84
-[submodule "dandi"]
-	path = dandi
-	url = ./dandi
-	datalad-id = 767154cb-1cef-4ee3-a4d3-ed5c0e949613
-[submodule "dandi"]
-	path = dandi
-	url = ./dandi
-	datalad-id = 767154cb-1cef-4ee3-a4d3-ed5c0e949613
-[submodule "datalad"]
-	path = datalad
-	url = ./datalad
-	datalad-id = eb75f620-b951-11e9-a91d-002590f97d84
+[submodule "neurovault"]
+	path = neurovault
+	url = https://datasets.datalad.org/neurovault/.git
+[submodule "nidm"]
+	path = nidm
+	url = https://datasets.datalad.org/nidm/.git
+[submodule "ohbm"]
+	path = ohbm
+	url = https://datasets.datalad.org/ohbm/.git
+	datalad-id = 7a49e644-bb23-11ea-b37e-002590f97d84
+[submodule "openfmri"]
+	path = openfmri
+	url = https://datasets.datalad.org/openfmri/.git
+[submodule "openneuro"]
+	path = openneuro
+	url = https://datasets.datalad.org/openneuro/.git
 [submodule "openneuro-derivatives"]
 	path = openneuro-derivatives
 	url = https://github.com/OpenNeuroDerivatives/OpenNeuroDerivatives.git
 	datalad-id = 841c712d-b3ae-42db-97f0-b820dd223620
 	datalad-url = https://github.com/OpenNeuroDerivatives/OpenNeuroDerivatives.git
+[submodule "physionet"]
+	path = physionet
+	url = https://datasets.datalad.org/physionet/.git
+[submodule "psychoinformatics-de"]
+	path = psychoinformatics-de
+	url = https://datasets.datalad.org/psychoinformatics-de/.git
+	datalad-id = a6dac302-c61f-11ea-9622-002590f97d84
+[submodule "repronim"]
+	path = repronim
+	url = https://datasets.datalad.org/repronim/.git
+[submodule "shub"]
+	path = shub
+	url = http://datasets.datalad.org/shub/.git
+	datalad-id = ef409c52-40a3-41bf-8e83-72fdefdf01e2
+	datalad-url = ///shub
+[submodule "simon"]
+	path = simon
+	url = https://datasets.datalad.org/simon/.git
+	datalad-id = 8acac168-682d-11e9-a33d-002590f97d84
+[submodule "studyforrest"]
+	path = studyforrest
+	url = https://github.com/psychoinformatics-de/studyforrest-data
+	datalad-id = deabeb9b-7a37-4062-a1e0-8fcef7909609
+	datalad-url = https://github.com/psychoinformatics-de/studyforrest-data
+[submodule "templateflow"]
+	path = templateflow
+	url = https://github.com/templateflow/templateflow
+[submodule "workshops"]
+	path = workshops
+	url = https://datasets.datalad.org/workshops/.git
