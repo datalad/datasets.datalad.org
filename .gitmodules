@@ -127,3 +127,8 @@
 	path = datalad
 	url = ./datalad
 	datalad-id = eb75f620-b951-11e9-a91d-002590f97d84
+[submodule "openneuro-derivatives"]
+	path = openneuro-derivatives
+	url = https://github.com/OpenNeuroDerivatives/OpenNeuroDerivatives.git
+	datalad-id = 841c712d-b3ae-42db-97f0-b820dd223620
+	datalad-url = https://github.com/OpenNeuroDerivatives/OpenNeuroDerivatives.git
