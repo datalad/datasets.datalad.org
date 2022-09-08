@@ -123,3 +123,7 @@
 	path = dandi
 	url = ./dandi
 	datalad-id = 767154cb-1cef-4ee3-a4d3-ed5c0e949613
+[submodule "datalad"]
+	path = datalad
+	url = ./datalad
+	datalad-id = eb75f620-b951-11e9-a91d-002590f97d84
