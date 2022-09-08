@@ -115,3 +115,7 @@
 	path = psychoinformatics-de
 	url = ./psychoinformatics-de
 	datalad-id = a6dac302-c61f-11ea-9622-002590f97d84
+[submodule "dandi"]
+	path = dandi
+	url = ./dandi
+	datalad-id = 767154cb-1cef-4ee3-a4d3-ed5c0e949613
