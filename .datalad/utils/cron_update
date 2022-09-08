@@ -88,6 +88,12 @@ datalad_update_ff_r() (
 )
 export -f datalad_update_ff_r
 
+pull_ff_only() (
+    run1 git -C "$1" pull --ff-only
+    datalad save -d "." -m "Fast forward $1" "$1"
+)
+export -f pull_ff_only
+
 datalad_crawl() (
     #-x echo "Crawl $1"
     cd "$1"
@@ -129,17 +135,20 @@ for ds in ${dss[@]}; do
      1| dandisets)
        # Here we crawl top but then update children in parallel
        datalad_update_ff_r dandi/dandisets;;
+     
+     3| psychoinformatics-de/hirni-toolbox)
+       datalad_update_ff_r psychoinformatics-de/hirni-toolbox --annex-get-auto;;
 
      5| datalad/datalad-course | datalad-course)
        datalad_update_ff_r datalad/datalad-course;;
+     
+     6| templateflow)
+       pull_ff_only templateflow;;
 
      102| openneuro)
        # Here we crawl top but then update children in parallel
        datalad_crawl_doall_update \
            openneuro;;
-
-     103| psychoinformatics-de/hirni-toolbox)
-       datalad_update_ff_r psychoinformatics-de/hirni-toolbox --annex-get-auto;;
 
      104| conp-dataset) #doall
        datalad_update_ff_r \
@@ -159,7 +168,9 @@ datalad diff -d . --from datalad-public/master --to HEAD -r
 # datalad publish --since= --to=datalad-public --missing=inherit -r
 
 # datalad >= 0.15.0 should be smth like
-datalad create-sibling -s datalad-public -r --since=^ --inherit
+# TODO: but here we might decide to not do that for some subdatasets!
+#  how to make it possible to provision that?!
+datalad create-sibling -s datalad-public -r --since=^ --inherit --existing=skip
 datalad push --since=^ --data auto -r --to=datalad-public -J5
 
 echo "done"
