@@ -120,7 +120,3 @@
 	path = datalad
 	url = ./datalad
 	datalad-id = eb75f620-b951-11e9-a91d-002590f97d84
-[submodule "centerforopenneuroscience"]
-	path = centerforopenneuroscience
-	url = ./centerforopenneuroscience
-	datalad-id = 3322ae8e-990b-11ea-9ac1-002590f97d84
