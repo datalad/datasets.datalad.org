@@ -116,7 +116,3 @@
 [submodule "workshops"]
 	path = workshops
 	url = https://datasets.datalad.org/workshops/.git
-[submodule "datalad"]
-	path = datalad
-	url = ./datalad
-	datalad-id = eb75f620-b951-11e9-a91d-002590f97d84
