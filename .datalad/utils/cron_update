@@ -5,6 +5,10 @@ export PS1='$> '
 # Let's also log the time etc
 export PS4='\n> # $(date +%T.%N)\n> '
 
+# So that git doesn't prompt for password -- we have no ability to see.  We
+# just fail and will need to deal with those (e.g. move aside if no longer
+# available or address some other way)
+export GIT_ASKPASS=/bin/echo 
 
 set -eu
 
@@ -72,19 +76,30 @@ export -f doall
 
 datalad_update_ff_r() (
     msg="Fast forward $1 recursively"
-    #-x echo "$msg"
-    run1 datalad update -d "$1" --recursive --follow parentds --merge ff-only
-    datalad save -d '.' -m "$msg" "$1"
+    annex_get_auto=
+    recurse_opts="-r"
     if [ "$#" -ge 2 ]; then
         case "$2" in
+        -R1)
+            recurse_opts+=" -R 1";;
         --annex-get-auto)
             # due to https://github.com/datalad/datalad/issues/4010
-            run1 git -C "$1" annex get --auto;;
+            annex_get_auto=1;;
         *)
             echo "Unknown option $2" >&2;
             exit 1;
         esac
     fi
+    #-x echo "$msg"
+    # ?TODO -s origin
+    # ?TODO -R1((e.g. for dandisets to not go into zarrs)
+    run1 datalad update -d "$1" $recurse_opts --follow parentds --merge ff-only
+    # get all possibly new subdatasets, update would not do that
+    run1 datalad get $recurse_opts -d . -J5 -n
+    if [ -n "$annex_get_auto" ]; then
+        run1 git -C "$1" annex get --auto $recurse_opts
+    fi
+    datalad save -d '.' -m "$msg" "$1"
 )
 export -f datalad_update_ff_r
 
@@ -134,7 +149,7 @@ for ds in ${dss[@]}; do
    case "$ds" in
      1| dandisets)
        # Here we crawl top but then update children in parallel
-       datalad_update_ff_r dandi/dandisets;;
+       datalad_update_ff_r dandi/dandisets -R1;;
      
      3| psychoinformatics-de/hirni-toolbox)
        datalad_update_ff_r psychoinformatics-de/hirni-toolbox --annex-get-auto;;
