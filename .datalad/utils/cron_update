@@ -166,9 +166,7 @@ for ds in ${dss[@]}; do
            openneuro;;
      
      103| openneuro-derivatives)
-       # Here we crawl top but then update children in parallel
-       datalad_crawl_doall_update \
-           openneuro-derivatives;;
+       datalad_update_ff_r openneuro-derivatives -R1;;
 
      104| conp-dataset) #doall
        datalad_update_ff_r \
