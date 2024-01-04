@@ -81,6 +81,7 @@
 [submodule "openneuro"]
 	path = openneuro
 	url = https://datasets.datalad.org/openneuro/.git
+	datalad-id = 2ecbb6ba-f811-11e8-b1ed-002590f97d84
 [submodule "openneuro-derivatives"]
 	path = openneuro-derivatives
 	url = https://github.com/OpenNeuroDerivatives/OpenNeuroDerivatives.git
@@ -116,7 +117,3 @@
 [submodule "workshops"]
 	path = workshops
 	url = https://datasets.datalad.org/workshops/.git
-[submodule "openneuro"]
-	path = openneuro
-	url = ./openneuro
-	datalad-id = 2ecbb6ba-f811-11e8-b1ed-002590f97d84
