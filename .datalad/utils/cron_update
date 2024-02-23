@@ -95,7 +95,7 @@ datalad_update_ff_r() (
     # ?TODO -R1((e.g. for dandisets to not go into zarrs)
     run1 datalad update -d "$1" $recurse_opts --follow parentds --merge ff-only
     # get all possibly new subdatasets, update would not do that
-    run1 datalad get $recurse_opts -d . -J5 -n
+    run1 datalad get $recurse_opts -d "$1" -J5 -n
     if [ -n "$annex_get_auto" ]; then
         run1 git -C "$1" annex get --auto $recurse_opts
     fi
