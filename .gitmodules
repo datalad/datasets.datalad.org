@@ -117,3 +117,7 @@
 [submodule "workshops"]
 	path = workshops
 	url = https://datasets.datalad.org/workshops/.git
+[submodule "neuralensemble"]
+	path = neuralensemble
+	url = ./neuralensemble
+	datalad-id = 54ef79b6-422d-4261-ae23-a8dcd9fd8d31
