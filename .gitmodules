@@ -121,3 +121,8 @@
 	path = neuralensemble
 	url = ./neuralensemble
 	datalad-id = 54ef79b6-422d-4261-ae23-a8dcd9fd8d31
+[submodule "dgenomes"]
+	path = dgenomes
+	url = https://github.com/apraga/dgenomes
+	datalad-id = e61c685b-54f3-4a0c-885a-b17ad5c6ee36
+	datalad-url = https://github.com/apraga/dgenomes
