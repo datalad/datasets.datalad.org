@@ -142,7 +142,7 @@ if [ $# -ge 1 ]; then
    dss=( $* )
  else
    # ad-hoc way to just go through all "registered"
-   dss=( $( seq 1 10 ) )
+   dss=( $( seq 1 6 ) )
  fi
 
 for ds in ${dss[@]}; do
@@ -150,6 +150,9 @@ for ds in ${dss[@]}; do
      1| dandisets)
        # Here we crawl top but then update children in parallel
        datalad_update_ff_r dandi/dandisets -R1;;
+
+     2| dgenomes)
+       datalad_update_ff_r dgenomes;;
      
      3| psychoinformatics-de/hirni-toolbox)
        datalad_update_ff_r psychoinformatics-de/hirni-toolbox --annex-get-auto;;
@@ -175,7 +178,6 @@ for ds in ${dss[@]}; do
        ;;
 
 
-     2) break;;
      *) echo "unknown dataset $ds"; exit 1;;
   esac
 done
