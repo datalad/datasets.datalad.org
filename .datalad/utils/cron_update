@@ -164,7 +164,7 @@ for ds in ${dss[@]}; do
        pull_ff_only templateflow;;
      
      7| dbic/QA)
-       datalad_update_ff_r dbic/QA -R1;;
+       datalad_update_ff_r dbic/QA --annex-get-auto;;
 
      102| openneuro)
        # Here we crawl top but then update children in parallel
