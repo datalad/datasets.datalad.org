@@ -142,7 +142,7 @@ if [ $# -ge 1 ]; then
    dss=( $* )
  else
    # ad-hoc way to just go through all "registered"
-   dss=( $( seq 1 6 ) )
+   dss=( $( seq 1 7 ) )
  fi
 
 for ds in ${dss[@]}; do
@@ -162,6 +162,9 @@ for ds in ${dss[@]}; do
      
      6| templateflow)
        pull_ff_only templateflow;;
+     
+     7| dbic/QA)
+       datalad_update_ff_r dbic/QA -R1;;
 
      102| openneuro)
        # Here we crawl top but then update children in parallel
